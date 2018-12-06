@@ -1,0 +1,695 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|1e6d9ec682613bb1df074f302b4570cc(*)General Camp Information(*)7ab118a6540881945675d33dc9a5d8ab(*)1496700216(*)7ab118a6540881945675d33dc9a5d8ab(*)1496707820(*)<p><strong>Internet Login:</strong> <br />Use the following username and password for access to the LATech OpenAir wireless network. <br />Username: cdcamp <br />Password: tech1894</p>
+<p><strong>RA on duty June 5 - 9:</strong> <br />Greg<br />734-730-8892</p>
+<p><strong>Housing Office:</strong> <br />318-257-4917 <br />Open 7:30AM - 5:00PM</p>
+<p><strong>Tech Police:</strong> <br />318-257-4018</p>|!|2253bba0fa5e988414fb2f6f7222506d(*)Tuesday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1496701417(*)7ab118a6540881945675d33dc9a5d8ab(*)1496765500(*)<p>8:00 - 9:00 Breakfast (Student Center)</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)</p>
+<blockquote>Group 1: Bogard Hall 302<br /> Group 2: Bogard Hall 303<br /> Group 3: Bogard Hall 314<br /> Group 4: Bogard Hall 325<br /> Group 5: Bogard Hall 326<br /> Group 6: Bogard Hall 327</blockquote>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 305</p>
+<blockquote>Topic: BOE-Bot Activity (Basics)</blockquote>
+<p>11:00 - 11:15 Break</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 305&nbsp;</p>
+<blockquote>Theme: Cyber Knowledge <br /> * Read Berry piece prior to session</blockquote>
+<p>12:00 - 1:00 Lunch (Student Center)</p>
+<p>1:00 - 1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:30 Hands-On-Lab (Full Group) - Bogard Hall 305</p>
+<blockquote>Topic: Cryptography I</blockquote>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner (Student Center 2nd Floor)</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison Auditorium</p>
+<p>9:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|1f847e4a42d9b047614bf18b9a9cbd7f(*)Crypto Treasure Hunt(*)7ab118a6540881945675d33dc9a5d8ab(*)1496701671(*)(*)(*)<p>Welcome Cyber Discovery Teams!</p>
+<p>Thank you for participating in our recruitment challenge. There is limited time to complete the challenge&commasepar; so get started!</p>
+<p>Keep working on cracking the combination on the recruitment portal and any clues and puzzles that you find. So that you can be compensated (via points) for your efforts&commasepar; make sure to access the Cyber Discovery portal so that you can submit any passwords or passphrases that you discover.</p>
+<p>We will use this blog to post regular updates and to provide communication as we uncover new findings. So&commasepar; keep checking periodically for further developments.</p>
+<p>-Max</p>|!|8d2d98668cb244810d23c0473ddee8e2(*)Getting Started with the BOE-Bot(*)7ab118a6540881945675d33dc9a5d8ab(*)1496760372(*)(*)(*)<p>Here are a few resources to get you started with the first BOE-Bot activity.</p>
+<p>If you want to install the PBasic editor used with the BOE-Bot&commasepar; you can get the latest version&nbsp;<a href="http://www.parallax.com/downloads/basic-stamp-editor-software">here.</a></p>
+<p>This first activity focuses on learning how to get the BOE-Bot moving. The following links are to parts of the previous version of our Living With the Lab curriculum (which is taken by all freshman engineering students at Louisiana Tech). These links will give you some pointers on programming the BOE-Bot to move. While you are looking around&commasepar; you might want to look at our current curriculum at&nbsp;<a href="http://www.livingwiththelab.com/">www.LivingWithTheLab.com.</a>&nbsp;Here are the links:&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/6_student_programming.pdf">subroutines</a>&commasepar;&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/7_navigation_program.bs2">using EEPROM to store your program</a>&nbsp;(advanced topic).</p>
+<p>Here are a few files from this activity that you can reference in case you missed anything from today:&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Debug_Variable_Size.bs2">DEBUG Variable Sizes</a>&commasepar;&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Turn_Servos.bs2">Turning and Centering Servos</a>&commasepar; and&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Subroutines_for_Servos.bs2">Subroutines</a>.&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Cyber_Discovery_1_BOE-Bot.pdf">Here is a PDF</a>&nbsp;of examples of the various encoding schemes shown in the talk.</p>|!|231896b30e14e0ada6066c19530f62a9(*)BOE-Bot Challenge 1 - Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1496765760(*)7ab118a6540881945675d33dc9a5d8ab(*)1496765985(*)<p>&nbsp;The following table shows the order the teams will compete in the first BOE-Bot Challenge (<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Maze.jpeg">The Maze</a>) on Wednesday morning. All&nbsp;teams completed the "around the object" task&commasepar; which allowed them to choose their position in the queue.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Queue Position</strong></td>
+<td style="text-align: left;"><strong>School</strong>&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: left;">Little Rock Central</td>
+</tr>
+<tr>
+<td style="text-align: center;">2&nbsp;</td>
+<td style="text-align: left;">Glenbrook</td>
+</tr>
+<tr>
+<td style="text-align: center;">3&nbsp;</td>
+<td style="text-align: left;">Wossman&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">4&nbsp;</td>
+<td style="text-align: left;">Ruston&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">5&nbsp;</td>
+<td style="text-align: left;">El Dorado</td>
+</tr>
+</tbody>
+</table>|!|911333d2ca1ba49424299a66c3d959a4(*)Crypto Treasure Hunt(*)7ab118a6540881945675d33dc9a5d8ab(*)1496766029(*)(*)(*)<p>Teams&commasepar;</p>
+<p>We want to make sure that you are compensated for finding passwords and passphrases. Make sure to access the Cyber Discovery portal as soon as you think you've found a password/passphrase&commasepar; and enter it in. Remember that all passwords/passphrases must be in uppercase and without spaces. You are also limited to submitting ten consecutive incorrect passwords&commasepar; after which time you are locked out of the system for ten minutes. From then on&commasepar; your lockout time doubles for every 5 consecutive incorrect passwords that you submit. So PLEASE DO NOT TRY TO GUESS OR BRUTE FORCE PASSWORDS. This complicates things for our agents.</p>
+<p>Good luck!</p>
+<p>--Max</p>|!|5862da2f7d8c7f712b50465c4d706e6b(*)Storyline Presentation Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1496797357(*)7ab118a6540881945675d33dc9a5d8ab(*)1496800452(*)<p>Using a random number generator&commasepar; the Story-Line queue was determined as follows:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Time</strong></td>
+<td><strong>School</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>8:00</td>
+<td>Little Rock Central</td>
+</tr>
+<tr>
+<td>8:15</td>
+<td>Wossman</td>
+</tr>
+<tr>
+<td>8:30</td>
+<td>Glenbrook</td>
+</tr>
+<tr>
+<td>8:45</td>
+<td>El Dorado</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>Ruston</td>
+</tr>
+</tbody>
+</table>
+<p>Presentations will be held in GTM 105. Teachers&commasepar; parents&commasepar; and other guests can watch their students present their storylines. However to keep the presentation process fair&commasepar; opposing teams are NOT allowed to view each others' presentations.&nbsp;</p>
+<p>If you are using some sort of computer file for your presentations&commasepar; please bring your file to GTM 105 (the Auditorium) at <strong>8:00AM</strong>&nbsp;to upload on the computer being used for presentations. You will<strong>&nbsp;NOT</strong>&nbsp;be using your own computers for presentations. Allowable movie file types are: any quicktime supported file and .wmv (windows media player files).</p>
+<p>Remember each team will have ten minutes (5-10 minute presentation with a few minutes for questions) for the presentation of their storyline.</p>|!|c6c1d7411d8c154caa701379f58f822b(*)Wednesday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1496797416(*)7ab118a6540881945675d33dc9a5d8ab(*)1496864064(*)<p><strong>8:00 - 9:00</strong> Breakfast</p>
+<p><strong>9:00 - 9:30</strong> Movie Discussion (Mixed Small Groups)<br /> Group 1: Bogard Hall 302<br /> Group 2: Bogard Hall 303<br /> Group 3: Bogard Hall 314<br /> Group 4: Bogard Hall 325<br /> Group 5: Bogard Hall 326<br /> Group 6: Bogard Hall 327</p>
+<p><strong>9:30 - 10:00</strong> Boe-Bot Challenge 1 (Maze) - Bogard Hall 305</p>
+<p><strong>10:00 - 11:00</strong> Hands-On-Lab (Full Group) - Bogard Hall 305<br /> Topic: BOE-Bot Keyboard Input</p>
+<p><strong>11:00 - 11:15</strong> Break</p>
+<p><strong>11:15 - 12:00</strong> Cyber Policy and Ethics (Full Group) - Bogard Hall 305 <br />Theme: Critically Evaluating Technology</p>
+<p><strong>12:00 - 1:30</strong> Lunch &amp; Team Time&nbsp;</p>
+<p><strong>1:30 - 3:30</strong> Hands-On-Lab (Full Group) - Bogard Hall 305 <br />Topic: Storyline Development<br /> Topic: Cyber Fort<br />Topic: Cryptography II</p>
+<p><strong>3:30 - 5:30</strong> Team Time (School Groups) - A Place of Your Choosing <br />Breakout Topic: Sketch Up Introduction</p>
+<p><strong>5:30 - 6:30</strong> Dinner</p>
+<p><strong>6:30 - 8:30</strong> Movie Time (Full Group) - George T Madison Auditorium</p>
+<p><strong>9:00 - 11:00</strong> Team Time (School Groups) - University Apartments</p>
+<p><strong>11:00</strong> Lights out</p>|!|a069cce2d79986b3c702dd3366d47f69(*)Crypto Treasure Hunt(*)7ab118a6540881945675d33dc9a5d8ab(*)1496846206(*)(*)(*)<p>Teams&commasepar;</p>
+<p>It's HIGHLY likely that some of you may need <a href="camps/81041e26a1e63933cdeaf7036df8ae7f/blog_uploads/bulldog2.jpg">this image</a>!</p>
+<p>--Max</p>|!|e4d363a7b40b5186b2ce67f224e006da(*)BOE-Bot Challenge 1 Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1496848916(*)7ab118a6540881945675d33dc9a5d8ab(*)1496863788(*)<p>Below are the results of BOE-Bot Challenge 1:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">100&nbsp;</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">90&nbsp;</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">80</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">70&nbsp;</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">60&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|f120a9e183c0b7f742cb89b352ca2998(*)BOE-Bot Challenge 2 - Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1496850817(*)7ab118a6540881945675d33dc9a5d8ab(*)1496863802(*)<p>The following table shows the order the teams will compete in the second BOE-Bot Challenge&nbsp;on Thursday morning. Both courses will be running simultaneously; therefore&commasepar; we have two queues set (12-Marble Course &amp; 5-Marble Course).&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course A (12 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Wossman</td>
+</tr>
+<tr>
+<td style="text-align: center;">2&nbsp;</td>
+<td>Little Rock Central</td>
+</tr>
+<tr>
+<td style="text-align: center;">3&nbsp;</td>
+<td>EL Dorado</td>
+</tr>
+<tr>
+<td style="text-align: center;">4&nbsp;</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td style="text-align: center;">5&nbsp;</td>
+<td>Glenbrook&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course B (5 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td style="text-align: center;">2&nbsp;</td>
+<td>Glenbrook</td>
+</tr>
+<tr>
+<td style="text-align: center;">3&nbsp;</td>
+<td>Wossman&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">4&nbsp;</td>
+<td>Little Rock Central</td>
+</tr>
+<tr>
+<td style="text-align: center;">5&nbsp;</td>
+<td>El Dorado</td>
+</tr>
+</tbody>
+</table>|!|f8dfab2f9a38e4d9d50a941291a07342(*)Writing Assignment 1 Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1496863601(*)7ab118a6540881945675d33dc9a5d8ab(*)1496863620(*)<p>Click the link on El Dorado to view the top essay from writing assignment 1.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td style="text-align: center;"><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/WhyYouShouldBuyaComputer.docx">El Dorado</a></td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">90</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">80&nbsp;</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">70&nbsp;</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">60</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|4971ffb85cb84e842193ad300b3eef73(*)Thursday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1496867925(*)(*)(*)<p><strong>8:00 - 9:00</strong> Breakfast</p>
+<p><strong>9:00 - 9:30</strong> Movie Discussion (Mixed Small Groups)<br /> Group 1: Bogard Hall 302<br /> Group 2: Bogard Hall 303<br /> Group 3: Bogard Hall 314<br /> Group 4: Bogard Hall 325<br /> Group 5: Bogard Hall 326<br />Group 6: Bogard Hall 327</p>
+<p><strong>9:30 - 11:00</strong> Hands-On-Lab (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br />Topic: Boe-Bot Activity (explore challenges)</p>
+<p><strong>11:00 - 11:15</strong> Break</p>
+<p><strong>11:15 - 12:00</strong> Cyber Policy and Ethics (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br />Theme: Thinking Historically about Drone Warfare</p>
+<p><strong>12:00 - 1:30</strong> Lunch &amp; Team Time</p>
+<p><strong>1:30 - 3:30</strong> Hands-On-Lab (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br />Topic: Cryptography III</p>
+<p><strong>3:30 - 5:00</strong> Team Time (School Groups) - A Place of Your Choosing</p>
+<p><strong>5:00 - 6:00</strong> Dinner</p>
+<p><strong>6:00 - 8:00</strong> Movie Time (Full Group) - GTM 105</p>
+<p><strong>8:00 - 9:30</strong> Auction - GTM 105</p>
+<p><strong>9:30 - 11:00</strong> Team Time (School Groups) - University Apartments</p>
+<p><strong>11:00</strong> Lights out</p>|!|829def44c043d8b46336deed6d2603e0(*)Auction Items(*)7ab118a6540881945675d33dc9a5d8ab(*)1496872422(*)7ab118a6540881945675d33dc9a5d8ab(*)1496872486(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Picture</strong></td>
+<td><strong>Description</strong>&nbsp;</td>
+<td style="text-align: center;"><strong># Avail.</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Jaw&nbsp;</p>
+</td>
+<td><img title="Hungry Hippo" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/1-jaw_snip.jpg" alt="Hungry Hippo" width="250" height="170" />&nbsp;</td>
+<td>
+<p>The jaws provide the ability to corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability of holding in the marbles after they are corralled. The jaws have added servos that lift the front bar up and down to hold in the marbles. This functionality is analogous to the children&rsquo;s game of hungry hungry hippos where the hippos&rsquo; jaws open and close to collect and hold in marbles.</p>
+</td>
+<td style="text-align: center;">3</td>
+</tr>
+<tr>
+<td>
+<p>Manila Folder &amp; Tape</p>
+</td>
+<td><img title="Manila Folder and Tape" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/3-manilaFolderTape.jpg" alt="Manila Folder and Tape" width="250" height="191" />&nbsp;</td>
+<td>
+<p>Those that purchase the manila folder and &amp; tape option can tap into their creativity to use these extremely durable materials to construct added attachments for their BOE-Bots.</p>
+</td>
+<td style="text-align: center;">1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Storyline Media Enrichment</p>
+</td>
+<td><img title="Camera" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/4-Camera.jpg" alt="Camera" width="250" height="250" /></td>
+<td>
+<p>The creative storyline challenge provides teams the opportunity to use their creativity to represent themes of the camp through various media (live action&commasepar; PowerPoint&commasepar; etc). Video capability is one such media teams could use. However&commasepar; only two teams will have permission to use video by purchasing that right in the auction. If permission to use video is purchased&commasepar; you will be given a digital camera that you can use for your video production.</p>
+</td>
+<td style="text-align: center;">1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>30 Second Head Start</p>
+</td>
+<td><img title="30 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/5-30Seconds.jpg" alt="30 Seconds" width="250" height="107" /></td>
+<td>
+<p>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 30 second head start for any one round.</p>
+</td>
+<td style="text-align: center;">1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>45 Second Head Start</p>
+</td>
+<td><img title="45 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/6-45Seconds.jpg" alt="45 Seconds" width="250" height="112" /></td>
+<td>
+<p>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 45 second head start for round four.</p>
+</td>
+<td style="text-align: center;">1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Side Flippers</p>
+</td>
+<td><img title="Side Flippers" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/8-SideFlipper.png" alt="Side Flippers" width="250" height="122" /></td>
+<td>
+<p>Triangular ramp that in one direction allows you to flip opponents while providing stability and in other direction allows you to scoop marbles.</p>
+</td>
+<td style="text-align: center;">1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>High Speed Servo Upgrade</p>
+</td>
+<td><img title="High-Speed Servos" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/9-HighSpeedServo.png" alt="High-Speed Servos" width="250" height="172" /></td>
+<td>
+<p>This allows for 2 to 2.5 times the speed of standard servo driven bots.</p>
+</td>
+<td style="text-align: center;">2&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Mystery</p>
+</td>
+<td><img title="Mystery" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/mystery.jpg" alt="Mystery" width="250" height="168" /></td>
+<td>Mystery Item</td>
+<td style="text-align: center;">1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Bulldozer</p>
+</td>
+<td><img title="Bulldozer" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/10-Bulldozer_snip.jpg" alt="Bulldozer" width="250" height="169" />&nbsp;</td>
+<td>
+<p>The bulldozer attachment provides the ability to corral and transport marbles. Teams will receive a bulldozer if they do not have a jaw.</p>
+</td>
+<td style="text-align: center;">Default&nbsp;<br /><br /></td>
+</tr>
+</tbody>
+</table>|!|f3933dd5996b97a2538db72c21d8c942(*)Current Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1496885700(*)7ab118a6540881945675d33dc9a5d8ab(*)1496969568(*)<p>The following table outlines the current points distribution as of this evening.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>355</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>317</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td>201</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td>196</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td>165</td>
+</tr>
+</tbody>
+</table>|!|3b53403ecf0917badb333b94fe708842(*)Wireless Sample Code(*)7ab118a6540881945675d33dc9a5d8ab(*)1496930227(*)7ab118a6540881945675d33dc9a5d8ab(*)1496936658(*)<p>Here are two files that can be used as a starting point for wireless communication. One bot should be programmed with the reciever code. This bot will be able to roam around on its own (not tethered to the USB). The 2nd bot should be programmed with the transmitter code and will stay connected to the computer via USB.</p>
+<p>NOTE: You will need to set your channel in both of the programs. Each team is assigned a channel that is three characters &nbsp;(a dollar sign&commasepar; a &nbsp;number&commasepar; and a letter or a number).</p>
+<p><a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/Reciever.txt">Receiver</a></p>
+<p><a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/Transmitter.txt">Transmitter</a></p>|!|40c2023ab9ebad3059ed6fcdd345b934(*)Final BOE-Bot Challenge(*)7ab118a6540881945675d33dc9a5d8ab(*)1496934757(*)7ab118a6540881945675d33dc9a5d8ab(*)1496946111(*)<p>Here are a few things to note about the final BOE-Bot challenge. You may want to keep these things in mind as you progress throughout the week.</p>
+<ul>
+<li>All teams have one fort</li>
+<li>There are designated fort locations</li>
+<li>Forts move location each round</li>
+<li>There are 6 rounds of competition&commasepar; each round lasts 5 minutes&commasepar; there are 5 minutes between rounds.</li>
+<li>Any disabled fort or bot will be left in place until the round ends.</li>
+<li>No people are allowed on arena</li>
+<li>Forts may not be taped to arena</li>
+<li>Two people from each team will be permitted at the edge of the arena</li>
+<li>Teams may change their two representatives between rounds (but changing representatives is not required)</li>
+</ul>
+<p>Additionally&commasepar; below is a picture of the arena used for the Louisiana Tech Cyber Discovery Camp. &nbsp;Objects and layout are subject to change.</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="Final Arena" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/assignments_uploads/Arena1.jpg" alt="Final Arena" width="432" height="288" /></p>|!|1fe3cb2f744e42c2756dcd979f7a52e2(*)BOE-Bot Challenge 2 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1496937037(*)7ab118a6540881945675d33dc9a5d8ab(*)1496937663(*)<p>Below are the results of the BOE-Bot Challenge 2:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style="text-align: center;"><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">100&nbsp;</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">90&nbsp;</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">80</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">70&nbsp;</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">60&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|22938aee9d225695b7a412e0f90fd9c4(*)Writing Assignment 2 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1496955515(*)7ab118a6540881945675d33dc9a5d8ab(*)1496958423(*)<p>Click the link on Little Rock Central and El Dorado to view the top essays from writing assignment 2.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/IsGoogleMakingUsSmarter-01aa5a1420fc4ba03b09ba78515f1e97.docx">Little Rock Central</a>/<a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/GoogleIsMakingUsSmarter.docx">El Dorado</a></td>
+<td style="text-align: center;">95</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">&nbsp;80&nbsp;</td>
+</tr>
+<tr>
+<td>Wossman/Ruston</td>
+<td style="text-align: center;">&nbsp;65&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|0bdbc9b97c7f29bf2edf82a64eefbf10(*)Friday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1496969451(*)7ab118a6540881945675d33dc9a5d8ab(*)1497017525(*)<p><strong>8:00 - 9:00</strong> Breakfast</p>
+<p><strong>9:00 - 9:30</strong> Movie Discussion (Mixed Small Groups)<br /> Group 1: Bogard Hall 302<br /> Group 2: Bogard Hall 303<br /> Group 3: Bogard Hall 314<br /> Group 4: Bogard Hall 325<br /> Group 5: Bogard Hall 326<br /> Group 6: Bogard Hall 327</p>
+<p><strong>9:30 - 11:00</strong> Hands-On-Lab (Full Group)&nbsp;&nbsp;<br />Topic: BOE-Bot Activity (open-ended preparation for final challenge)&nbsp;</p>
+<p><strong>11:15 - 12:00</strong> Cyber Policy and Ethics (Full Group)&nbsp;&nbsp;<br />Theme: RoboCop&commasepar; A.I.&commasepar; and...Poetry?</p>
+<p><strong>12:00 - 1:30</strong> Lunch and Team Time</p>
+<p><strong>1:30 - 2:30</strong> BOE-Bot Soccer World Cup - field in Bogard Hall 304</p>
+<p><strong>2:30 - 11:00</strong> Team Time (School Groups)&nbsp;<br />&nbsp; Open-ended preparation for Saturday challenges &nbsp;&nbsp;<br />&nbsp; 2:30 - 5:00 Cyber Fort Assembly - Bogard Hall 305&nbsp;<br />&nbsp; 3:30 - 6:30 Arena open in the Lambright Intramural Center's Red Gym<br />&nbsp; 5:30 - 6:30 Dinner</p>
+<p><strong>11:00</strong> Lights out</p>|!|af0e02cec88af10c7d481ec98d641ecf(*)Current Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1496969613(*)7ab118a6540881945675d33dc9a5d8ab(*)1496971847(*)<p>The following table outlines the current points distribution as of this evening prior to the auction.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">821</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">607</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">583</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">434</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">352</td>
+</tr>
+</tbody>
+</table>|!|06fccc36bf3f1a560ae8341eadd65bd0(*)Jaw Servo Basics(*)7ab118a6540881945675d33dc9a5d8ab(*)1496971819(*)(*)(*)<p>If you bought jaws from the auction you will need this extra bit of information to help with your jaw program. The jaws use a standard servo&commasepar; where the servos you have been using are continuous.</p>
+<p>A standard servo operates in a similar manner to a Continuous Servo with one major difference. When sent a pulse&commasepar; a standard servo will move to an absolute position where a continuous servo moves to a relative position. The range of pulse widths that are valid for a standard servo is 375 to 1125. Each pulse in this range corresponds to a position between 0 and 180 degrees. You can use the standard PULSOUT command to send pulses to the servo. It is often necessary to send multiple pulses of the same width in order for the servo to reach the desired position. A sample code snippet is shown below.</p>
+<p><span>Pulses VAR Byte<br />Keystroke VAR Word</span></p>
+<p><span>IF Keystroke = "q" THEN<br />&nbsp; GOSUB up<br />ELSEIF Keystroke ="z" THEN<br />&nbsp; GOSUB down<br />ENDIF<br />END</span></p>
+<p><span>up:<br />FOR Pulses = 1 to 5<br />&nbsp; PULSOUT 14&commasepar; 375 'It is probably necessary to experiment with the exact pulse width<br /></span><span>NEXT<br /></span><span>RETURN</span></p>
+<p><span>down:<br />FOR Pulses = 1 to 5<br />&nbsp; PULSOUT 14&commasepar; 1125 'It is probably necessary to experiment with the exact pulse width<br />NEXT<br />RETURN</span></p>|!|d76b92761da31718ee4b8004bb10549b(*)Crypto Treasure Hunt(*)7ab118a6540881945675d33dc9a5d8ab(*)1496974127(*)(*)(*)<p>Although the grand prize has been awarded&commasepar; please continue to submit passwords/passphrases that you think are valid after solving clues. You can still earn points towards your final total. Password submissions will be open until Saturday morning at 7AM.</p>
+<p>--Max</p>|!|b3ba68beea5e8f47faa236787ee05ea5(*)Writing Assignment 3 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1497032963(*)7ab118a6540881945675d33dc9a5d8ab(*)1497033160(*)<p>Below are the results from Writing Assignment 3. Click on Glenbrook to see the top essay.</p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style="text-align: center;"><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/Scamming%20a%20Star.docx">Glenbrook</a></td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">90</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">80</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">70</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">60</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|7089b10e96642d91ec882e5c51651f78(*)BOE-Bot Challenge 3 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1497036186(*)(*)(*)<p>Below are the results fromt the BOE-Bot Challenge 3 (Soccer).</p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">90</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">80</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">70</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">60</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>|!|9dd010296ca6710c4d4de77cd1d097d5(*)Current Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1497038521(*)7ab118a6540881945675d33dc9a5d8ab(*)1497038555(*)<p>Below is the current points ditributionn as of 3:00PM today.</p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">464</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">273</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">661</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">326</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">177</td>
+</tr>
+</tbody>
+</table>|!|891d1b2915d7657d5c0e06c27f84d6de(*)Saturday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1497040259(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497043197(*)<p><strong>7:45</strong>&nbsp;All teams that are using some sort of media file for their storyline presentations must report to GTM 105 with their files ready on their USB drives (movie files should be of type .wmv or QuickTime).</p>
+<p><strong>8:00 - 9:15</strong>&nbsp;Story-Line Presentations - <em>George T Madison Auditorium</em>&nbsp;&nbsp;<br />Each team will present a 10 minute maximum storyline. Please arrive at least 10 minutes prior to your start time.</p>
+<p><strong>8:00 - 9:00</strong> Breakfast&nbsp;- <em>Second Floor Student Center</em></p>
+<p><strong>10:00 - 11:30</strong>&nbsp;Final Cyber Challenge - <em>Lambright Intramural Center (Blue Gym - east side)</em></p>
+<p><strong>11:30 - 12:30</strong>&nbsp;Lunch and Presentations -&nbsp;<em>Lambright Intramural Center (Blue Gym - east side)</em></p>
+<p><strong>12:30 - 1:00</strong>&nbsp;Teacher debriefing <em>(TBD)</em> &amp; Supply Return - <em>Women's Center (where Check-In Occured)</em></p>
+<p><strong>1:30 - 3:00</strong> Check-out - <em>Women's Center*</em></p>
+<p>*All teams must clean their rooms and return supplies at the Women's Center. Studnets should work towards getting this accomplished while the teachers are at the debriefing. Once all supplies are returned and the teams&rsquo; teachers are with the students&commasepar; the teams can check out of the apartments with housing at the Women&rsquo;s Center.</p>|!|e8206e4552a7acd3620ebbda06a102bc(*)Supply Return Procedure(*)7ab118a6540881945675d33dc9a5d8ab(*)1497040377(*)(*)(*)<p>Following lunch&commasepar; teachers will attend a teacher debriefing session. During the debriefing&commasepar; students can collect all their supplies given to them throughout the week and<strong><em>&nbsp;return the supplies at the Women's Center (where Check-In occurred)</em></strong>. Please collect all supplies and return them all together (see supply sheet). &nbsp;See parts return&nbsp;<a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/CD1_parts_return.pdf">list</a>&nbsp;as well.</p>
+<p>After the teacher debriefing&commasepar; teams can check out together with their teachers (<strong><em>must check out as a team</em></strong>) in the Women's Center (same as check in). Prior to checking out&commasepar; please be sure to return the room to the state at which you arrived (or better).</p>|!|926898193f42ead6e153f54a782ef591(*)Writing Assignment 4 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1497114457(*)7ab118a6540881945675d33dc9a5d8ab(*)1497114465(*)<p>Below are the results of Writing Assignment 4.</p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>Ruston/Glenbrook</td>
+<td style="text-align: center;">85</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">70</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">60</td>
+</tr>
+</tbody>
+</table>|!|6370d535d571f419ea0b5e0a7dd72db1(*)Cyber Fort - Resutls(*)7ab118a6540881945675d33dc9a5d8ab(*)1497114565(*)(*)(*)<p>Below are the results of the Cyber Fort Competition.</p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">90</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">80</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">70</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">60</td>
+</tr>
+</tbody>
+</table>|!|9d0bef2b7b330c73b7ed37f16f99c790(*)Creative Storyline - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1497114677(*)(*)(*)<p>Below are the results of the Creative Storyline.</p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">400</td>
+</tr>
+<tr>
+<td style="text-align: left;">El Dorado</td>
+<td style="text-align: center;">360</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">320</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">280</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">240</td>
+</tr>
+</tbody>
+</table>|!|afd499aa0659b175f6ab0bad0e04a237(*)Final BOE-Bot Challenge - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1497114772(*)(*)(*)<p>Below are the results of the final BOE-Bot Challenge.</p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">550</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">530</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">465</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">460</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">395</td>
+</tr>
+</tbody>
+</table>|!|4aced631a10318d5cc69d93ce0bd8ce6(*)Final Scores!(*)7ab118a6540881945675d33dc9a5d8ab(*)1497114884(*)(*)(*)<p>Below are the final scores of Cyber Discovery Camp.</p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style="text-align: center;"><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td style="text-align: center;">1572</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">1379</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">1371</td>
+</tr>
+<tr>
+<td>Glenbrook</td>
+<td style="text-align: center;">1238</td>
+</tr>
+<tr>
+<td>Wossman</td>
+<td style="text-align: center;">1157</td>
+</tr>
+</tbody>
+</table>|!|

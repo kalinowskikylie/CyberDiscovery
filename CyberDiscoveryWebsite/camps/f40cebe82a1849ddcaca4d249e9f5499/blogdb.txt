@@ -1,0 +1,1806 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|d172dbe63ecc354f8ba7d70ef354534d(*)Stay Safe Out There!(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1431197344(*)c08c41e786c33f4f13352d052764d8a0(*)1434315065(*)<!--Blog Post 01: Welcome-->
+<p>UCA Campus Police: In case of <strong><em>emergency</em></strong>&commasepar; please always dial 911. In case of <em>urgency</em>&commasepar; call campus police at 501.450.3111. Please add the UCA Campus Police to your contacts before you need them!</p>|!|4b554ce8477385ddf0b8a90d9efd5108(*)Monday's Itinerary(*)c08c41e786c33f4f13352d052764d8a0(*)1434317027(*)(*)(*)<!--Blog Post 01B: Monday&commasepar; June 15 Itinerary-->
+<table style="width: 100%; background-color: #ffffff;" border="1">
+<tbody>
+<tr align="CENTER">
+<td style="background-color: #faa634; width: 22%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;"><strong>When</strong></span></td>
+<td style="background-color: #0291d1; width: 60%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">What</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Where</span></td>
+</tr>
+<tr>
+<td align="LEFT">3:30PM</td>
+<td rowspan="2" align="CENTER">Team Check-In</td>
+<td rowspan="2" align="CENTER">Torreyson Apartments</td>
+</tr>
+<tr>
+<td align="RIGHT">5:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">5:00PM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Dinner: Eat Dessert First!</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">6:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">6:30PM</td>
+<td rowspan="2" align="CENTER">Movie: <a title="IMDB: Wall&sdot;E" href="http://www.imdb.com/title/tt0910970/?ref_=nv_sr_4" target="_blank">WALL&sdot;E</a></td>
+<td rowspan="2" align="CENTER">LSC 100</td>
+</tr>
+<tr>
+<td align="RIGHT">8:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">8:30PM</td>
+<td rowspan="2" align="CENTER">Team Time</td>
+<td rowspan="2" align="CENTER">open</td>
+</tr>
+<tr>
+<td align="RIGHT">11:00PM</td>
+</tr>
+<tr>
+<td style="background-color: #000000;" align="CENTER"><span style="color: #ccff99;">11:00PM</span></td>
+<td style="background-color: #000000;" colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #ccff99;">L I G H T S &nbsp;&nbsp;O U T !</span></td>
+</tr>
+</tbody>
+</table>|!|9939ce07b34561bf847ed3d1e3c14f28(*)Movie Discussion Groups(*)c08c41e786c33f4f13352d052764d8a0(*)1434413729(*)(*)(*)<!--Blog Post 01C: Movie Discussion Groups and Room Assignments-->
+<p>Each evening&commasepar; we will be screening a film which has special relevance to the themes we are exploring this week. Each evening after the movie&commasepar; discussion questions will be posted on the Activities feed&commasepar; and you will meet with your assigned group the next morning to discuss.</p>
+<p>You have been assigned to a discussion group as shown below. Please plan to meet with your group each morning (starting tomorrow!) in the room noted.</p>
+<table style="width: 100%; background-color: #ffffff;" border="1" cellpadding="10">
+<tbody>
+<tr align="CENTER">
+<td style="background-color: #faa634; width: 18%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;"><strong>Group</strong></span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Members</span></td>
+<td style="background-color: #faa634; width: 18%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Location</span></td>
+</tr>
+<tr>
+<td align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: x-large;">Alpha</span></td>
+<td align="LEFT">Daniel Baker&commasepar; Kallie Fry&commasepar; Luis Miner<br />Cody Nycum&commasepar; Karrington Profit&commasepar; Deachane Scott<br />Jessica Taylor&commasepar; Braden Westby</td>
+<td align="CENTER">MCST 101</td>
+</tr>
+<tr>
+<td align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: x-large;">Bravo</span></td>
+<td align="left">Hunter Blackwood&commasepar; Breyona Butler&commasepar; Lydya DeShazier&commasepar;<br />Sean Falls&commasepar; Omari Graves&commasepar; Kaitlyn Hartwick&commasepar;<br />Megan Hiles&commasepar; Trey Hoopchuk</td>
+<td align="CENTER">MCST 110</td>
+</tr>
+<tr>
+<td align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: x-large;">Charlie</span></td>
+<td align="left">Justus Bobo&commasepar; Charla Colen&commasepar; Joylyn Craig&commasepar;<br />Alexia Green&commasepar; Kyle Hudson&commasepar; Danny Shaw&commasepar;<br />Emily Tuohey&commasepar; Andrew Verkler</td>
+<td align="CENTER">MCST 211</td>
+</tr>
+<tr>
+<td align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: x-large;">Delta</span></td>
+<td align="left">Mesa Barger&commasepar; Kyle Bounds&commasepar; Jesse Holifield&commasepar;<br />Nathan Hudson&commasepar; Brandon Means&commasepar; Jansyn Parker&commasepar;<br />Camille Rhodes&commasepar; Maria Seymore</td>
+<td align="CENTER">MCST 219</td>
+</tr>
+<tr>
+<td align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: x-large;">Echo</span></td>
+<td align="left">Samantha Biltgen&commasepar; Kaitlyn Johnson&commasepar; Michael Luster&commasepar;<br />John Mark Mathis&commasepar; Cara Monk&commasepar; Sarah Shepard&commasepar;<br />Emilio Soto&commasepar; Kendrick Williams</td>
+<td align="CENTER">MCST 330</td>
+</tr>
+<tr>
+<td align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: x-large;">Foxtrot</span></td>
+<td align="left">Matthew Braggs&commasepar; Colton Cowart&commasepar; Jaclyn Hamby&commasepar;<br />Jonathan Huggins&commasepar; Briana Johnson&commasepar; Sabrina Jones&commasepar;<br />Justin Lee&commasepar; Caleb Tapley</td>
+<td align="CENTER">MCST 331</td>
+</tr>
+</tbody>
+</table>|!|4e82983e03e8cb28bfa7967983031f85(*)Tuesday Itinerary(*)c08c41e786c33f4f13352d052764d8a0(*)1434413950(*)(*)(*)<!--Blog Post 02: Tuesday&commasepar; June 16 Itinerary-->
+<table style="width: 100%; background-color: #ffffff;" border="1">
+<tbody>
+<tr align="CENTER">
+<td style="background-color: #faa634; width: 22%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;"><strong>When</strong></span></td>
+<td style="background-color: #0291d1; width: 60%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">What</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Where</span></td>
+</tr>
+<tr>
+<td align="LEFT">7:30AM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Breakfast: The Most Important Meal of the Day!</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">8:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">8:45AM</td>
+<td colspan="2" align="CENTER"><strong>DUE:</strong> <a title="Survey 01" href="http://tinyurl.com/CD2015pretest" target="_blank">Survey 01</a></td>
+</tr>
+<tr>
+<td align="LEFT">8:45AM</td>
+<td colspan="2" align="CENTER">Movie Discussion: <a title="IMDB: Wall&sdot;E" href="http://www.imdb.com/title/tt0910970/?ref_=nv_sr_4" target="_blank">WALL&sdot;E</a></td>
+</tr>
+<tr>
+<td rowspan="6" align="right" valign="bottom">9:15AM</td>
+<td align="CENTER">Alpha Group</td>
+<td align="CENTER">MCST 101</td>
+</tr>
+<tr>
+<td align="CENTER">Bravo Group</td>
+<td align="CENTER">MCST 110</td>
+</tr>
+<tr>
+<td align="CENTER">Charlie Group</td>
+<td align="CENTER">MCST 211</td>
+</tr>
+<tr>
+<td align="CENTER">Delta Group</td>
+<td align="CENTER">MCST 219</td>
+</tr>
+<tr>
+<td align="CENTER">Echo Group</td>
+<td align="CENTER">MCST 330</td>
+</tr>
+<tr>
+<td align="CENTER">Foxtrot Group</td>
+<td align="CENTER">MCST 331</td>
+</tr>
+<tr>
+<td align="left">9:15AM</td>
+<td rowspan="2" align="CENTER">Active Lab: BOE-Bot Basics</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">10:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">10:30-10:40AM</td>
+<td colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #faa634;">Take a Break!</span></td>
+</tr>
+<tr>
+<td align="LEFT">10:40AM</td>
+<td rowspan="2" align="CENTER">Discussion: Cyber Policy and Ethics</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">11:30AM</td>
+</tr>
+<tr>
+<td align="LEFT">11:30AM</td>
+<td rowspan="2" align="CENTER">Digital Film Basics</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">12:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">12:30AM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Lunch: Not Quite Breakfast&commasepar; But Still Pretty Important</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">1:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">1:45PM</td>
+<td rowspan="2" align="CENTER">Active Lab: Cryptography I</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">3:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">3:30PM</td>
+<td rowspan="2" align="CENTER">Team Time</td>
+<td rowspan="2" align="CENTER">open</td>
+</tr>
+<tr>
+<td align="RIGHT">5:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">5:00PM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Dinner: Nature's Way of Preventing Overnight Starvation</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">6:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">6:30PM</td>
+<td rowspan="2" align="CENTER">Movie: <a title="IMDB: I&commasepar; Robot" href="http://www.imdb.com/title/tt0343818/?ref_=nv_sr_1" target="_blank">I&commasepar; Robot</a></td>
+<td rowspan="2" align="CENTER">LSC 100</td>
+</tr>
+<tr>
+<td align="RIGHT">8:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">8:30PM</td>
+<td rowspan="2" align="CENTER">Team Time</td>
+<td rowspan="2" align="CENTER">open</td>
+</tr>
+<tr>
+<td align="RIGHT">11:00PM</td>
+</tr>
+<tr>
+<td style="background-color: #000000;" align="CENTER"><span style="color: #ccff99;">11:00PM</span></td>
+<td style="background-color: #000000;" colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #ccff99;">L I G H T S &nbsp;&nbsp;O U T !</span></td>
+</tr>
+</tbody>
+</table>|!|4e8a957ba696dfc4a7af4faa3056bd76(*)Survey 01(*)c08c41e786c33f4f13352d052764d8a0(*)1434414045(*)(*)(*)<!--Blog Post 03: Survey 01-->
+<p>Throughout the week we will be providing you with a few (ok&commasepar; three) short surveys. Every student and every teacher should fill out each survey when it is posted. The links to the surveys will be posted on the blog as soon as they become available. The CyberDiscovery Team will try to remind you when new surveys are posted&commasepar; but we're old. We forget stuff. You should check the blog periodically for new surveys.</p>
+<p>Why do we need to do these surveys? Your participation in the surveys is a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools&commasepar; as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.</p>
+<p>Please click the following link for the first survey: <a title="Survey 01" href="http://tinyurl.com/CD2015pretest">Survey 01</a>. You should complete this survey no later than tomorrow morning (Tuesday&commasepar; 06/16/15) at 8:45AM. Thank you!</p>|!|205f65489550158bf8a868c453223490(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1434415954(*)(*)(*)<p>We have received a new message from Max!</p>
+<p>Welcome Cyber Discovery Teams!</p>
+<p>Thank you for agreeing to help out with this particular case. We have limited time to solve it.</p>
+<p>Keep working on cracking those boxes and the puzzles and clues within. So that you can be compensated (via points) for your efforts&commasepar; make sure to access the Cyber Discovery portal so that you can submit any passwords or passphrases that you discover.</p>
+<p>We will use this blog to post regular updates and to provide communication as we uncover new findings. So&commasepar; keep checking periodically for further developments.</p>
+<p>-Max</p>|!|03de816b69f6ffc5fd7af852cc8d15e4(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1434416003(*)(*)(*)<p>We have received a new message from Max!</p>
+<p>Teams&commasepar;</p>
+<p>We want to make sure that you are compensated for finding passwords and passphrases. Make sure to access the Cyber Discovery Crypto Treasure Hunt portal as soon as you think you've found a password/passphrase&commasepar; and enter it in. Remember that all passwords/passphrases must be in uppercase and without spaces. You are also limited to submitting ten consecutive incorrect passwords&commasepar; after which time you are locked out of the system for ten minutes. From then on&commasepar; your lockout time doubles for every 5 consecutive incorrect passwords that you submit. So PLEASE DO NOT TRY TO GUESS OR BRUTE FORCE PASSWORDS. This complicates things for our agents.</p>
+<p>Good luck!</p>
+<p>--Max</p>|!|1e3d905cba520f1aa9f6e83401c1e001(*)BOE-Bot Basics(*)c08c41e786c33f4f13352d052764d8a0(*)1434470663(*)c08c41e786c33f4f13352d052764d8a0(*)1434470766(*)<!--Blog Post 04: BOE-Bot Basics-->
+<p>The CyberDiscovery Team will provide you with all the tools and hardware you need to program&commasepar; modify&commasepar; and operate the BOE-Bots&commasepar; and that includes a laptop. However&commasepar; if you would like to use your own laptop you'll need to <a title="Basic Stamp" href="http://www.parallax.com/downloads/basic-stamp-editor-software">download the software</a> that will let you program and operate your Bot.</p>
+<p>You're probably a pro at downloading and installing&commasepar; and the directions are just that: direct. But if you run into trouble&commasepar; we can help you troubleshoot. Worst case scenario: you end up using the laptops we provide.</p>
+<p>If you're using a MacBook: yay for you! Also&commasepar; you need to follow a <a title="BS2 Mac" href="https://www.parallax.com/downloads/macbs2-software" target="_blank">separate set of instructions</a> for installing. But you already knew that&commasepar; didn't you? Careful! You really will need to install the <a title="VCP Driver" href="http://www.ftdichip.com/Drivers/VCP.htm" target="_blank">VCP driver</a>. Your editor window and debug terminal won't look identical to the Windows version...which you already suspected...but they <em>will</em> function the same way. And&commasepar; you're using a Mac. Win!</p>
+<p>Our first goal is to get the Bot moving: forward/reverse&commasepar; left/right. If you missed any details&commasepar; or just want to have look at some code snippets (it's not cheating!)&commasepar; here you go:</p>
+<ul>
+<li><a title="Assigning Variables" href="https://www.dropbox.com/s/nig2qkkg5x5s63w/varSizes.bs2?dl=0">Assigning Variables</a></li>
+<li><a title="Turning &amp; Centering" href="https://www.dropbox.com/s/y7btssh36u8ztj7/turnServos.bs2?dl=0">Turning/Centering the Servos</a></li>
+<li><a title="Subroutines" href="https://www.dropbox.com/s/mxh3556d16jm5r5/subroutines.bs2?dl=0">Writing Subroutines</a></li>
+</ul>|!|e588e27f8a691c7dc3de38a9d66e58d9(*)Closed Course Bonus(*)c08c41e786c33f4f13352d052764d8a0(*)1434470991(*)c08c41e786c33f4f13352d052764d8a0(*)1434490588(*)<!--Blog Post 05: Closed Course Bonus-->
+<p>There is a simple closed-loop course set up in MCST 103. Your mission&commasepar; should you choose to accept it&commasepar; is to program your BOE-Bot to navigate the course. The rules are simple: you will start at the designated spot&commasepar; travel around the established landmark&commasepar; and return the Bot to its original starting point.</p>
+<p>You can travel in whichever direction you choose&commasepar; and how you map your path is up to you. There are no time constraints. The only measure of success will be if your Bot begins and ends at the same point (after circling the landmark&commasepar; of course).</p>
+<p>The course will only be open for practice during Lunch and Team Time. When you are ready&commasepar; you may ask any of the CyberDiscovery Team members to verify your success. If/when you complete this optional challenge&commasepar; your team will be awarded 20 points. There is no bonus for being first&commasepar; and no penalty for being last (unless&commasepar; of course&commasepar; you don't do it at all&commasepar; in which case you simply get no points).</p>
+<p>While there's no bonus for finishing first&commasepar; once you complete this challenge you will be permitted to choose your slot in the queue for the Maze Challenge. So&commasepar; if you finish this first&commasepar; you can decide whether you want to go first or last (or wherever in the middle) on the maze. If you finish this last&commasepar; you will be stuck with whatever position in the queue is still open. If you have not signed onto the queue by 5:00PM&commasepar; you will be placed on the queue in whatever open spot remains.</p>
+<p>Please do not skip any of the scheduled sessions or activities to practice with your Bot. While you may find that MCST 103 remains open during the afternoon&commasepar; official course completions will only be monitored/recorded/accepted for credit during Lunch (12:30-1:30) and Team Time (3:30-5:00).</p>|!|dd1714e35620bd907050b71030247f66(*)Wednesday Itinerary(*)c08c41e786c33f4f13352d052764d8a0(*)1434490806(*)c08c41e786c33f4f13352d052764d8a0(*)1434490863(*)<!--Blog Post 06: Wednesday&commasepar; June 17 Itinerary-->
+<table style="width: 100%;" border="1">
+<tbody>
+<tr align="CENTER">
+<td style="background-color: #faa634; width: 22%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;"><strong>When</strong></span></td>
+<td style="background-color: #0291d1; width: 60%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">What</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Where</span></td>
+</tr>
+<tr>
+<td align="LEFT">7:30AM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Breakfast: Because It's Been 10 Hours Since Coffee</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">8:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">8:45AM</td>
+<td colspan="2" align="CENTER"><strong>DUE:</strong> Writing Assignment 01</td>
+</tr>
+<tr>
+<td align="LEFT">8:45AM</td>
+<td colspan="2" align="CENTER">Movie Discussion: <a title="IMDB: I&commasepar; Robot" href="http://www.imdb.com/title/tt0343818/?ref_=nv_sr_1" target="_blank">I&commasepar; Robot</a></td>
+</tr>
+<tr>
+<td rowspan="6" align="right" valign="bottom">9:15AM</td>
+<td align="CENTER">Alpha Group</td>
+<td align="CENTER">MCST 104</td>
+</tr>
+<tr>
+<td align="CENTER">Bravo Group</td>
+<td align="CENTER">MCST 110</td>
+</tr>
+<tr>
+<td align="CENTER">Charlie Group</td>
+<td align="CENTER">MCST 211</td>
+</tr>
+<tr>
+<td align="CENTER">Delta Group</td>
+<td align="CENTER">MCST 219</td>
+</tr>
+<tr>
+<td align="CENTER">Echo Group</td>
+<td align="CENTER">MCST 330</td>
+</tr>
+<tr>
+<td align="CENTER">Foxtrot Group</td>
+<td align="CENTER">MCST 331</td>
+</tr>
+<tr>
+<td align="left">9:15AM</td>
+<td rowspan="2" align="CENTER">Active Lab: BOE-Bot Maze Challenge / Keyboard Navigation</td>
+<td rowspan="2" align="CENTER">MCST 103&commasepar; 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">10:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">10:30-10:40AM</td>
+<td colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #faa634;">Take a Break!</span></td>
+</tr>
+<tr>
+<td align="LEFT">10:40AM</td>
+<td rowspan="2" align="CENTER">Discussion: Cyber Policy and Ethics</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">11:30AM</td>
+</tr>
+<tr>
+<td align="LEFT">11:30AM</td>
+<td rowspan="2" align="CENTER">Cyber Fort</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">12:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">12:30PM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Lunch: Time to Switch From Coffee to Mt Dew</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">1:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">1:45PM</td>
+<td rowspan="2" align="CENTER">Active Lab: Cryptography II</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">3:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">3:30PM</td>
+<td rowspan="2" align="CENTER">Team Time: Putting greens open for practice</td>
+<td rowspan="2" align="CENTER">MCST 103</td>
+</tr>
+<tr>
+<td align="RIGHT">5:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">5:00PM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Dinner: Chocolate Cake + Coffee = Who Needs Sleep?</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">6:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">6:30PM</td>
+<td rowspan="2" align="CENTER">Movie: <a title="IMDB: The Imitation Game" href="http://www.imdb.com/title/tt2084970/?ref_=nv_sr_1" target="_blank">The Imitation Game</a></td>
+<td rowspan="2" align="CENTER">LSC 100</td>
+</tr>
+<tr>
+<td align="RIGHT">8:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">8:30PM</td>
+<td rowspan="2" align="CENTER">Team Time</td>
+<td rowspan="2" align="CENTER">open</td>
+</tr>
+<tr>
+<td align="RIGHT">11:00PM</td>
+</tr>
+<tr>
+<td style="background-color: #000000;" align="CENTER"><span style="color: #ccff99;">11:00PM</span></td>
+<td style="background-color: #000000;" colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #ccff99;">L I G H T S &nbsp;&nbsp;O U T !</span></td>
+</tr>
+</tbody>
+</table>|!|19704bf794c0784328f8073c3fc3c439(*)Final Maze Queue(*)c08c41e786c33f4f13352d052764d8a0(*)1434501129(*)(*)(*)<!--Blog Post 06C: Maze Queue-->
+<p>The queue for the Maze Challenge has been finalized. The teams will compete in the following order:</p>
+<table style="width: 50%;" border="1" cellpadding="5" align="center">
+<tbody>
+<tr align="center">
+<td style="background-color: #faa634;" width="25%"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Starting Position</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">1</span></td>
+<td><span style="font-size: large;">LR Central Tigers</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">2</span></td>
+<td><span style="font-size: large;">Vilonia Eagles</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">3</span></td>
+<td><span style="font-size: large;">Pottsville Apaches</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">4</span></td>
+<td><span style="font-size: large;">Calico Rock Pirates</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">5</span></td>
+<td><span style="font-size: large;">Pine Bluff Zebras</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">6</span></td>
+<td><span style="font-size: large;">Parkview Patriots</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">7</span></td>
+<td><span style="font-size: large;">Caddo Hills Indians</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">8</span></td>
+<td><span style="font-size: large;">Greenbrier Panthers</span></td>
+</tr>
+</tbody>
+</table>|!|e1c5dceafe14169df3c6587875536e89(*)Digital Film Presentation(*)c08c41e786c33f4f13352d052764d8a0(*)1434501474(*)(*)(*)<!--Blog Post 06D: Digital Film Presentation-->
+<p>In case you want to review this morning's Introduction to Digital Film&commasepar; <a title="Intro to Digital Film" href="https://www.dropbox.com/s/i5lw4degjba8l5j/Digital%20Film%20101.pdf?dl=0" target="_blank">a PDF of Dr. Gunter's presentation can be downloaded here</a>.</p>|!|b41e33ec29d2916fc9850acfaa879be0(*)Survey Time!(*)c08c41e786c33f4f13352d052764d8a0(*)1434561335(*)(*)(*)<!--Blog Post 06: Survey 02-->
+<p>Time for another survey!</p>
+<p>Please click the following link for the second survey: <a title="Survey 02" href="http://tinyurl.com/CD2015midtest">Survey 02</a>. You should complete this survey no later than tomorrow morning (Thursday&commasepar; 06/18/15) at 8:45AM. Thank you!</p>|!|79d8c5f5ffc25f60e64dcbcf626d4834(*)Cyber Fort Construction(*)c08c41e786c33f4f13352d052764d8a0(*)1434562576(*)c08c41e786c33f4f13352d052764d8a0(*)1434586542(*)<!-- Blog Post 06E: The Cyber Fort -->
+<p>You will be given a box filled with art supplies.<br /> You will also be given two large sheets of chipboard.<br /> Coincidence? I don't think so.</p>
+<p>As tempting as it may be&commasepar; resist the urge to use those art supplies to decorate your bot. Instead&commasepar; channel that creativity into designing a Cyber Fort to store and protect your marbles during the BOE-Bot Final Battle for Cyber Supremacy.</p>
+<p>There are just a few rules for fort construction:</p>
+<ol>
+<li><strong>Size:</strong> Your fort must fit entirely on the designated Battle Station tiles. The battle arena will have regularly spaced battle stations&commasepar; denoted by gray tiles. Each Battle Station is exactly 24 inches wide by 12 inches deep.</li>
+<li><strong>Height:</strong> There is no strict rule&commasepar; but bear in mind that your bots are not climbers.</li>
+<li><strong>Orientation:</strong> Your fort must fit within the confines of the Battle Station. You may not&commasepar; for example&commasepar; construct a fort measuring 24x12&commasepar; then turn it sideways so that it protrudes beyond the 12 inch depth.</li>
+<li><strong>Bells and Whistles:</strong> No bells. No whistles. No kazoos. <em>Especially</em> not kazoos.</li>
+<li><strong>Embellishment:</strong> You may use the supplies provided to decorate your fort. You will not be permitted to use items as decor which are not in your fort kit.</li>
+<li><strong>Pick &amp; Pull:</strong> You will have the option to add more items to your kit on Thursday night. During (but separate from) the auction&commasepar; there will be a Pick &amp; Pull table. Teams will be allowed to select from the items provided. You will not be allowed to embellish your fort with anything other than what has been provided. Be creative within the parameters we have established!</li>
+<li><strong>Slice &amp; Dice:</strong> The cutters are razor sharp. Literally. Because they are razors. Please exercise care in making your cuts. Also&commasepar; please always use the cutting mats provided to prevent damage to any other surfaces.</li>
+</ol>
+<p>You are designing for points&commasepar; so keep that in mind. The most important aspect is function: does your fort permit you to deposit marbles easily? (Good.) Can another team steal them from you just as easily? (Not good.) After you have solved the design problems&commasepar; work on making pretty. You will also be evaluated on aesthetics&commasepar; so don't completely ignore this aspect--be creative! (And if you can tie your fort design and appearance back to your storyline&commasepar; this will also impress the judges.)</p>
+<p>During the Final Battle&commasepar; a panel of judges will rank your forts. The team with the top ranked fort will earn 100 points&commasepar; second = 90 points&commasepar; etc.</p>|!|a68a210d2f24877b58906ec6c755d0cd(*)Maze Challenge Results(*)c08c41e786c33f4f13352d052764d8a0(*)1434563039(*)c08c41e786c33f4f13352d052764d8a0(*)1434563057(*)<!--Blog Post 07: Maze Results-->
+<p>The results are in! After the maze run&commasepar; the following points were awarded:</p>
+<table style="width: 75%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Standing</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td>5</td>
+<td>60</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td>2</td>
+<td>90</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td>4</td>
+<td>70</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td>1</td>
+<td>100</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td>8</td>
+<td>30</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td>7</td>
+<td>40</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td>3</td>
+<td>80</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td>6</td>
+<td>50</td>
+</tr>
+</tbody>
+</table>|!|bb217a8e1e2f6f6cdc09cc31fbdeb2c9(*)Keyboard Navigation Code(*)c08c41e786c33f4f13352d052764d8a0(*)1434564072(*)(*)(*)<p>As promised&commasepar; <a title="Keyboard Nav Code" href="https://www.dropbox.com/s/sc5pbd4ytnkq254/keyboardNav.bs2?dl=0" target="_blank">here is some sample code</a> for the keyboard navigation.</p>
+<p>You should add to and/or modify your existing code to include operation of the servo connected to the putter. Note which pin the putter servo is connected to&commasepar; and you can use the same PULSOUT command we have been using to operate the wheel servos!</p>|!|984c83546072dbe6bed965b34ec7a881(*)Team Standings!(*)c08c41e786c33f4f13352d052764d8a0(*)1434565059(*)(*)(*)<!--Blog Post 08: Team Standings-->
+<p>As of right this instant&commasepar; points have been awarded for the Closed Course Challenge (20 points)&commasepar; the Maze Run (100 points maximum)&commasepar; and the first 10 Treasure Hunt Clues (250 total max points). Current team point totals and standings are as follows:</p>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Place</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td width="36%"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td width="32%">151</td>
+<td width="32%">4</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td>230</td>
+<td>3</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td>271</td>
+<td>2</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td>120</td>
+<td>7</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td>139</td>
+<td>5</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td>89</td>
+<td>8</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td>348</td>
+<td>1</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td>123</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>|!|5652df125f70cb1d4eb74fa70b28a9f7(*)Kkkeybbboard Rrrepeat(*)c08c41e786c33f4f13352d052764d8a0(*)1434567099(*)(*)(*)<!-- Blog Post 08B: Keyboard Repeat Rate -->
+<p>If you are driving along&commasepar; tapping in commands&commasepar; going forward&commasepar; spinning in circles&commasepar; whatever&commasepar; and it's so exciting that you are holding the "w" key down for a solid minute. Don't be surprised if your buffer fills and the program stops responding.</p>
+<p>Remember that the servos can only respond so fast. If you are holding down the "w" key continuously&commasepar; for every 10 "w"s that you type&commasepar; your bot might only be able to execute three of them. Set the keyboard to respond at about the same rate as the bot can execute&commasepar; and this will help (a lot).</p>
+<p>To set the repeat rate for your keyboard: Click Window+r to open the dialog box. Type "control keyboard"&commasepar; then hit enter. (Do not type the quotes...I know&commasepar; duh&commasepar; right?). This shows the keyboard option window. Set the repeat rate to about the middle (between fast and slow).</p>|!|67d320aff547a39fdfe6f8dd564569ee(*)Final Golf Queue(*)c08c41e786c33f4f13352d052764d8a0(*)1434574481(*)(*)(*)<!--Blog Post 10: Golf Challenge Queue-->
+<p>The Golf Challenge will be run in two rounds. Four teams will compete on Course A&commasepar; while the other four teams simultaneously play Course B. Once each teams has completed their respective course&commasepar; the teams will switch to the other course. The teams will compete in the same order in the second round as they did in the first.</p>
+<table style="width: 75%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td colspan="4"><span style="font-family: impact&commasepar; chicago; font-size: xx-large;">Round 01</span></td>
+</tr>
+<tr align="center">
+<td style="background-color: #0291d1;" colspan="2"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Course A:<br />Augusta National<br /><span style="font-size: medium;">(5 minutes&commasepar; 12 marbles)</span></span></td>
+<td style="background-color: #faa634;" colspan="2"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Course B:<br />Barnbougle Dunes<br /><span style="font-size: medium;">(5 minutes&commasepar; 5 marbles)</span></span></td>
+</tr>
+<tr align="center">
+<td style="background-color: #0291d1;" width="15%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Queue</span></td>
+<td style="background-color: #0291d1;" width="35%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;" width="15%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Queue</span></td>
+<td style="background-color: #faa634;" width="35%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Team</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff<br /></span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock<br /></span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills<br /></span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central<br /></span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="width: 75%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td colspan="4"><span style="font-family: impact&commasepar; chicago; font-size: xx-large;">Round 02</span></td>
+</tr>
+<tr align="center">
+<td style="background-color: #0291d1;" colspan="2"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Course A:<br />Augusta National<br /><span style="font-size: medium;">(5 minutes&commasepar; 12 marbles)</span></span></td>
+<td style="background-color: #faa634;" colspan="2"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Course B:<br />Barnbougle Dunes<br /><span style="font-size: medium;">(5 minutes&commasepar; 5 marbles)</span></span></td>
+</tr>
+<tr align="center">
+<td style="background-color: #0291d1;" width="15%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Queue</span></td>
+<td style="background-color: #0291d1;" width="35%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;" width="15%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Queue</span></td>
+<td style="background-color: #faa634;" width="35%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Team</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff<br /></span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills<br /></span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock<br /></span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central<br /></span></td>
+</tr>
+</tbody>
+</table>|!|2a71fde77e33b6b5a0fc6648c5b576bf(*)Thursday Itinerary(*)c08c41e786c33f4f13352d052764d8a0(*)1434575459(*)(*)(*)<!-- Blog Post 09: Thursday&commasepar; June 18 Itinerary -->
+<table style="width: 100%; background-color: #ffffff;" border="1">
+<tbody>
+<tr align="CENTER">
+<td style="background-color: #faa634; width: 22%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;"><strong>When</strong></span></td>
+<td style="background-color: #0291d1; width: 60%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">What</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Where</span></td>
+</tr>
+<tr>
+<td align="LEFT">7:30AM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Breakfast: Because Donuts</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">8:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">8:45AM</td>
+<td colspan="2" align="CENTER"><strong>DUE:</strong> Writing Assignment 02 and <a title="Survey 02" href="http://tinyurl.com/CD2015midtest">Survey 02</a></td>
+</tr>
+<tr>
+<td align="LEFT">8:45AM</td>
+<td colspan="2" align="CENTER">Movie Discussion: <a href="http://www.imdb.com/title/tt2084970/?ref_=nv_sr_1" target="_blank">The Imitation Game</a></td>
+</tr>
+<tr>
+<td rowspan="6" align="right" valign="bottom">9:15AM</td>
+<td align="CENTER">Alpha Group</td>
+<td align="CENTER">MCST 104</td>
+</tr>
+<tr>
+<td align="CENTER">Bravo Group</td>
+<td align="CENTER">MCST 110</td>
+</tr>
+<tr>
+<td align="CENTER">Charlie Group</td>
+<td align="CENTER">MCST 211</td>
+</tr>
+<tr>
+<td align="CENTER">Delta Group</td>
+<td align="CENTER">MCST 219</td>
+</tr>
+<tr>
+<td align="CENTER">Echo Group</td>
+<td align="CENTER">MCST 330</td>
+</tr>
+<tr>
+<td align="CENTER">Foxtrot Group</td>
+<td align="CENTER">MCST 331</td>
+</tr>
+<tr>
+<td align="left">9:15AM</td>
+<td rowspan="2" align="CENTER">Active Lab: BOE-Bot Golf Challenge /<br />Wireless Navigation</td>
+<td rowspan="2" align="CENTER">MCST 103<br />MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">10:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">10:30-10:40AM</td>
+<td colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #faa634;">Take a Break!</span></td>
+</tr>
+<tr>
+<td align="LEFT">10:40AM</td>
+<td rowspan="2" align="CENTER">Discussion: Cyber Policy and Ethics</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">11:30AM</td>
+</tr>
+<tr>
+<td align="LEFT">11:30AM</td>
+<td rowspan="2" align="CENTER">Active Lab: Cryptography III</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">12:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">12:30PM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Lunch: Because Donuts Don't Last All Day</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">1:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">1:30PM</td>
+<td rowspan="2" align="CENTER">Digital Film Consultations</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">3:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">3:30PM</td>
+<td rowspan="2" align="CENTER">Team Time: Soccer field open for practice in MCST 103</td>
+<td rowspan="2" align="CENTER">open</td>
+</tr>
+<tr>
+<td align="RIGHT">5:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">5:00PM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Dinner: Because It's 14 Hours Until We Get More Donuts</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">6:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">6:30PM</td>
+<td rowspan="2" align="CENTER">Movie: <a href="http://www.imdb.com/title/tt0086567/?ref_=fn_al_tt_1" target="_blank">WarGames</a></td>
+<td rowspan="2" align="CENTER">LSC 100</td>
+</tr>
+<tr>
+<td align="RIGHT">8:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">8:30PM</td>
+<td rowspan="2" align="CENTER">Auction!</td>
+<td rowspan="2" align="CENTER">LSC 100</td>
+</tr>
+<tr>
+<td align="RIGHT">11:00PM</td>
+</tr>
+<tr>
+<td style="background-color: #000000;" align="CENTER"><span style="color: #ccff99;">11:00PM</span></td>
+<td style="background-color: #000000;" colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #ccff99;">L I G H T S &nbsp;&nbsp;O U T !</span></td>
+</tr>
+</tbody>
+</table>|!|88cd615f8270947ef7dbb48963578ee6(*)Auction Items(*)c08c41e786c33f4f13352d052764d8a0(*)1434585885(*)(*)(*)<!--Blog Post 11: Auction Items-->
+<p>The following items will available at Thursday night's Apr&egrave;s-Movie Auction Extravaganza! You may bid on as many (or as few) items as you like&commasepar; and spend as many (or as few) points as you like. Once you have spent those points&commasepar; they are deducted from your total.</p>
+<p align="center"><strong><em>All auction sales are final! No returns or exchanges!</em></strong></p>
+<p>You may only use the item as provided (i.e.&commasepar; if you purchase the manila folder and tape&commasepar; you may not add/use a second folder (or paper or leftover chipboard from your fort&commasepar; etc.)). If you become involved in any apr&egrave;s-auction economic transactions (trades or sales)&commasepar; you will be expected to conduct business in a professional manner. Dirty deals? Karma&commasepar; baby. <em>Karma</em>.</p>
+<table style="width: 100%;" border="1" cellpadding="10" align="center">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;" width="45%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Item</span></td>
+<td style="background-color: #0291d1;" width="45%"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Description</span></td>
+<td style="background-color: #0291d1;" width="10%;"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Number Available</span></td>
+</tr>
+<tr align="center">
+<td style="background-color: #faa634;" colspan="3"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Hippo Jaw</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><img style="vertical-align: middle;" title="Hippo Jaw" src="camps/f40cebe82a1849ddcaca4d249e9f5499/blog_uploads/hippoJaw.png" alt="Hippo Jaw" width="300" height="204" /></td>
+<td align="left">Remember <em>Hungry Hungry Hippos</em>? The hippo jaw works pretty much the same way. It provides the ability to corral and transport marbles securely. The jaw has a servo that raises and lowers the front liftgate to scoop and hold the marbles in. Keep those marbles safely corralled until you can deposit them in your CyberFort!</td>
+<td>5</td>
+</tr>
+<tr align="center">
+<td style="background-color: #faa634;" colspan="3"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Manila Folder &amp; Masking Tape</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><img style="vertical-align: middle;" title="Manila Folder &amp; Tape" src="camps/f40cebe82a1849ddcaca4d249e9f5499/blog_uploads/manilaTape.png" alt="Manila Folder &amp; Tape" width="300" height="229" /></td>
+<td align="left">Get creative! You can construct all sorts of useful attachments and/or devious devices with this remarkably sturdy (yet surprisingly flexible) folder and tape combination.<br />Limit = imagination!</td>
+<td>2</td>
+</tr>
+<tr align="center">
+<td style="background-color: #faa634;" colspan="3"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">30-Second Head Start</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><img style="vertical-align: middle;" title="30 Sec Head Start" src="camps/f40cebe82a1849ddcaca4d249e9f5499/blog_uploads/headStart30.png" alt="30 Sec Head Start" width="300" height="129" /></td>
+<td align="left"><em>In a world where collecting the most marbles wins...when six 6-minute rounds is all the clock you've got...it's up to one team to buy time and use it at a critical moment.</em><br />This purchase allows you 30 seconds on the arena&commasepar; unopposed&commasepar; at the beginning of the round you choose. Gather as many marbles as you can without anyone else getting in your way!</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td style="background-color: #faa634;" colspan="3"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">45-Second Head Start</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><img style="vertical-align: middle;" title="45 Sec Head Start" src="camps/f40cebe82a1849ddcaca4d249e9f5499/blog_uploads/headStart45.png" alt="45 Sec Head Start" width="300" height="134" /></td>
+<td align="left"><em>In a world where one team has a 30-sec advantage...when six 6-minute rounds is <strong>still</strong> all the clock you've got...it's up to <strong>another</strong> team to buy even <strong>more</strong> time and use it at <strong>one specific</strong> moment.</em><br />This purchase allows you 45 seconds on the arena&commasepar; unopposed&commasepar; at the beginning of Round 03. You may not use it during any other round of the competition.</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td style="background-color: #faa634;" colspan="3"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Side Flippers</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><img style="vertical-align: middle;" title="Side Flippers" src="camps/f40cebe82a1849ddcaca4d249e9f5499/blog_uploads/sideFlipper.png" alt="Side Flippers" width="300" height="147" /></td>
+<td align="left">Offense and defense combined in one convenient attachment! A pair of open wedges bolts to the sides of your Bot&commasepar; one mounted behind each wheel. Forward: the wedge is a scoop for collecting marbles. Reverse: it's a flipper for leaving your opponents upside down and crying.</td>
+<td>2</td>
+</tr>
+<tr align="center">
+<td style="background-color: #faa634;" colspan="3"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Roadside Assistance</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><img style="vertical-align: middle;" title="Roadside Assistance" src="camps/f40cebe82a1849ddcaca4d249e9f5499/blog_uploads/sideFlipper.png" alt="Roadside Assistance" width="300" height="147" /></td>
+<td align="left">Suppose for a moment that another team has just left you upside down and crying with their awesome Side Flippers. I'll bet you're wishing you'd bought a pair of <em>those</em> right about now. Well&commasepar; chin up&commasepar; Buttercup: <em>Roadside Assistance is here!</em> If (for any reason) your Bot becomes disabled&commasepar; you can call on Roadside Assistance to return your Bot to your fort (right-side up and dry-eyed)&commasepar; where you can then continue to collect marbles. Or pursue vengeance...your call.</td>
+<td>3</td>
+</tr>
+<tr align="center">
+<td style="background-color: #faa634;" colspan="3"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Bulldozer</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><img style="vertical-align: middle;" title="Bulldozer" src="camps/f40cebe82a1849ddcaca4d249e9f5499/blog_uploads/bulldozer.png" alt="Bulldozer" width="300" height="203" /></td>
+<td align="left">So you didn't get a Hippo Jaw...what you <em>will</em> get is a bulldozer. <em>Free! Deluxe mounting hardware included!</em> You'll recognize it as the Hippo Jaw&commasepar; with an infinitely more attractive purple paint job...but without the jaw. It does not have the servo and liftgate&commasepar; but it will still help you gather and deposit your marbles.</td>
+<td>default</td>
+</tr>
+</tbody>
+</table>|!|acec08348121778e10985b1b5eabdef4(*)Will You Be Ready?(*)c08c41e786c33f4f13352d052764d8a0(*)1434588565(*)c08c41e786c33f4f13352d052764d8a0(*)1434588650(*)<!--Blog Post 17: BOE-Bot Battle Video-->
+<p>The BOE-Bot Battle for Cyber Supremacy takes place Saturday morning at 10:00AM. <strong><em>Will you be ready?</em></strong></p>
+<p align="center"><iframe src="https://www.youtube.com/embed/l_QEiuL3Jbw" frameborder="1" width="560" height="315"></iframe></p>|!|3130c664879344d6c34cc6b17c73b61c(*)Essay 01 Rankings(*)c08c41e786c33f4f13352d052764d8a0(*)1434595129(*)c08c41e786c33f4f13352d052764d8a0(*)1434632271(*)<!--Blog Post 12: Writing Assignment 01 Results-->
+<p>The first writing assignment has been evaluated&commasepar; and the team scores are shown below. <a href="https://www.dropbox.com/s/0jsqom8nwyroxqn/rank01Essay01.pdf?dl=0" target="_blank">Click here to view the top-ranked essay</a>.</p>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Rank</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td>3</td>
+<td>80</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td>7</td>
+<td>40</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td>5</td>
+<td>60</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td>2</td>
+<td>90</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td>6</td>
+<td>50</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td>8</td>
+<td>30</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td>1</td>
+<td>100</td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td>4</td>
+<td>70</td>
+</tr>
+</tbody>
+</table>|!|f4dce472464ab968521bd480d6f36cac(*)Digital Film Consultations(*)c08c41e786c33f4f13352d052764d8a0(*)1434633661(*)c08c41e786c33f4f13352d052764d8a0(*)1434642531(*)<!-- Blog Post 12B: Digital Film Consultation Queue -->
+<p>You are scheduled to meet with Dr. Gunter to discuss your progress with your digital film. You have been assigned a meeting time on the table below. Please arrive promptly for your consultation&commasepar; and please be prepared:</p>
+<ul>
+<li><strong>Script:</strong> If you have written an outline or a script&commasepar; please have it with you&commasepar; either on paper or computer. Please don't wait until you're sitting down to remember that you left it on the computer that's back in the apartment!</li>
+<li><strong>Camera:</strong> Please bring your hardware with you. If you are shooting video using multiple cameras (your GoPro&commasepar; your phones)&commasepar; you may need professional advice (i.e.&commasepar; Dr. Gunter) about how to cope with these multiple sources.</li>
+<li><strong>Personnel:</strong> Make sure that the team members who are most responsible for this task are the ones you send to the meeting! If your Robot Guy (or Girl) isn't writing the script or filming&commasepar; then they probably won't have as useful a conversation with Dr. Gunter as your Script Guy (or Girl) and/or your Camera Guy (or Girl).</li>
+<li><strong>Questions:</strong> There are so many things going on simultaneously this week that it's easy to forget some of the details. If you have questions&commasepar; <em>write them down before you forget!</em> Old people do it all the time because <em>it works</em>. If you arrive already knowing what you need to ask&commasepar; you will use your limited meeting time most effectively.</li>
+</ul>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Meeting Time</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1:30 &minus; 1:45</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1:45 &minus; 2:00</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2:00 &minus; 2:15</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2:15 &minus; 2:30</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2:30 &minus; 2:45</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2:45 &minus; 3:00</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3:00 &minus; 3:15</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3:15 &minus; 3:30</span></td>
+</tr>
+</tbody>
+</table>
+<p>While your Film Team is meeting with Dr. Gunter&commasepar; please send your Bot Team to MCST 103&commasepar; and bring your bot box (with all the bot stuff!). We will be detaching the putters&commasepar; and giving you wireless capability.</p>|!|9e3f1a34d36ec45f95fd60ac46a47605(*)Golf Challenge Results!(*)c08c41e786c33f4f13352d052764d8a0(*)1434643112(*)(*)(*)<!--Blog Post 13: Golf Challenge Results-->
+<p>The Golf Challenge scores have been tabulated&commasepar; and the team scores are as follows:</p>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #faa634;" width="40%"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #0291d1;" width="30%"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Total<br />Score</span></td>
+<td style="background-color: #faa634;" width="30%"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points Awarded</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">18</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">90</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">15</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">70</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">17</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">80</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">5</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">40</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">7</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">50</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">5</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">40</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">20</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">100</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">9</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">60</span></td>
+</tr>
+</tbody>
+</table>|!|b8e11c69ec9ad77c10f4998afb9f081d(*)Latest Team Standings!(*)c08c41e786c33f4f13352d052764d8a0(*)1434644065(*)(*)(*)<!-- Blog Post 13B: Updated team Standings -->
+<p>Current team point totals and standings are as follows:</p>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Rank</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td width="36%"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td width="32%"><span style="font-family: impact&commasepar;chicago; font-size: medium;">418</span></td>
+<td width="32%"><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">406</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">488</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">307</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">7</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">377</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">5</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">218</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">8</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">598</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">376</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">6</span></td>
+</tr>
+</tbody>
+</table>|!|360eed06e2f3a546185f32a58d45d4b8(*)Wireless Code(*)c08c41e786c33f4f13352d052764d8a0(*)1434646960(*)c08c41e786c33f4f13352d052764d8a0(*)1434653304(*)<!--Blog Post 15: Wireless Code-->
+<p>Let's get unplugged! To control a BOE-Bot wirelessly&commasepar; we need a way for the computer to transmit instructions to the Bot. One Bot (let's call it HomeBot) should be programmed with the transmitter code and will stay connected to the computer via USB. HomeBot will accept keyboard commands from your laptop&commasepar; and send them via radio frequency to the untethered Bot (call it RoamBot). RoamBot should be programmed with the receiver code&commasepar; which will accept wireless signals from HomeBot and allow it to execute those keyboard commands. It's still a bit clunky&commasepar; but it's still <em>way</em> better than having to remain tethered to the laptop!</p>
+<p>Please use the bot with your team banner and purple Go-Pro mount as RoamBot&commasepar; for the obvious reason that you don't want a Go-Pro mounted to the transmitter HomeBot that isn't going anywhere. Also&commasepar; you want to be displaying your banners when you are on the soccer field and final battle arena!</p>
+<p><strong>Important:</strong> You must set your channel in both of the programs. Each team is assigned a unique channel that is three characters long ( a dollar sign&commasepar; a number&commasepar; and a letter or a number). That way&commasepar; each team is using a unique frequency for Bot communication. And you really <em>don't</em> want to share frequencies for this. Unless you <em>do</em> want an opposing team to be able to hijack your RoamBot...</p>
+<p>More code snippets! These are actually more than just snips; you can (and should) use them as the base&commasepar; then add your own code (you've got a ton of subroutines ready to just cut and paste).</p>
+<ul>
+<li><a href="https://www.dropbox.com/s/gqag134aoikzd51/transmitter.txt?dl=0">transmitter.bs2</a></li>
+<li><a href="https://www.dropbox.com/s/idqrjo8t1iprl4y/receiver.txt?dl=0">receiver.bs2</a></li>
+</ul>|!|1da803341498653cb5cbf87bc7df0e43(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1434663443(*)d259eb37bc4b04d541b63122d52e40e9(*)1434663554(*)<p>We've received a new message from Max!</p>
+<p>Teams&commasepar;</p>
+<p>A USB stick has been found by one of the Cyber Discovery teams. Note that it appears that only A SINGLE USB STICK was hidden by our prime suspect!&nbsp; Our agents are currently trying to decipher it and will provide you with anything we find on this blog. Stay tuned!</p>
+<p>Please continue to submit passwords/passphrases that you think are valid after solving clues. Password submission will be open until Saturday morning at 7am. It is to your advantage to submit as many correct passwords as you can by tonight&commasepar; Thursday&commasepar; so that you have as many points as you can for the auction.</p>
+<p>--Max</p>|!|e3efdfdc87f5535c2eed92177aeda86a(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1434663827(*)d259eb37bc4b04d541b63122d52e40e9(*)1434663860(*)<p>We have received yet another message from Max!</p>
+<p>Cyber Discovery Teams&commasepar;</p>
+<p>DHS agents have uncovered several files from the wireless server that was discovered earlier. They are linked here:</p>
+<p><a href="http://138.47.102.208:8080/files/first.pdf">first.pdf</a><br /><a href="http://138.47.102.208:8080/files/second.pdf">second.pdf</a></p>
+<p>--Max</p>|!|43ce37eba7ff443d7b1e829c4f51bfa5(*)Essay 02 Rankings(*)c08c41e786c33f4f13352d052764d8a0(*)1434665714(*)(*)(*)<!--Blog Post 14: Writing Assignment 02 Results-->
+<p>The second writing assignment has been evaluated&commasepar; and the team scores are shown below. Click the link to view the top-ranked essay. Two teams tied for first place&commasepar; and were awarded (100+90)/2 = 95 points each.</p>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Rank</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">80</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">6</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">50</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">70</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">95</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">95</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">8</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">30</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">5</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">60</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">7</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">40</span></td>
+</tr>
+</tbody>
+</table>|!|eff45da0eab7575026948e5a4157d91d(*)Auction Lot Assignments(*)c08c41e786c33f4f13352d052764d8a0(*)1434666565(*)c08c41e786c33f4f13352d052764d8a0(*)1434671869(*)<!--<p>Blog Post 16: Auction Order of Items</p>-->
+<p>The auction items will be presented tonight in the following order:</p>
+<table style="width: 75%; background-color: #ffffff;" border="1" align="center">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Lot Number</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Auction Item</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+<td><span style="font-size: medium;">Hippo Jaw</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+<td><span style="font-size: medium;">Manila Folder &amp; Masking Tape</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+<td><span style="font-size: medium;">Hippo Jaw</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+<td><span style="font-size: medium;">Side Flippers</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">5</span></td>
+<td><span style="font-size: medium;">Roadside Assistance</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">6</span></td>
+<td><span style="font-size: medium;">30-Second Head Start: <strong>Blind Bid!</strong></span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">7</span></td>
+<td><span style="font-size: medium;">Hippo Jaw</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">8</span></td>
+<td><span style="font-size: medium;">Manila Folder &amp; Masking Tape</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">9</span></td>
+<td><span style="font-size: medium;">Hippo Jaw</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">10</span></td>
+<td><span style="font-size: medium;">45-Second Head Start</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">11</span></td>
+<td><span style="font-size: medium;">Side Flippers: <strong>Blind Bid!</strong></span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">12</span></td>
+<td><span style="font-size: medium;">Roadside Assistance</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">13</span></td>
+<td><span style="font-size: medium;">Hippo Jaw: <strong>Reverse Bid!</strong></span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">14</span></td>
+<td><span style="font-size: medium;">Roadside Assistance</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">15</span></td>
+<td><span style="font-size: medium;"><strong>Mystery Case!</strong><br /><em>Will it be a dream? Or a dud?</em></span></td>
+</tr>
+</tbody>
+</table>|!|5c300481ed147a2dc24f2dad1281f319(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1434667186(*)(*)(*)<p>We have received a final message from Max:</p>
+<p>Cyber Discovery Teams&commasepar;</p>
+<p>DHS agents have recovered the USB stick with what appears to be further instructions from The Balance and State Secrets. Its contents can be obtained from the following links:</p>
+<p><a href="http://138.47.102.208:8080/files/README.pdf">README.pdf</a><br /><a href="http://138.47.102.208:8080/files/documents.7z">documents.7z</a></p>
+<p>--Max</p>|!|66a946b26b45b95d5e424b54c095f4ae(*)Last Update Before Auction!(*)c08c41e786c33f4f13352d052764d8a0(*)1434671756(*)(*)(*)<!-- Blog Post 16B: Updated team Standings -->
+<p>Current team point totals and standings are as follows:</p>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Rank</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td width="36%"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td width="32%"><span style="font-family: impact&commasepar;chicago; font-size: medium;">566</span></td>
+<td width="32%"><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">623</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">593</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">402</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">7</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">511</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">5</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">248</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">8</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">683</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">471</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">6</span></td>
+</tr>
+</tbody>
+</table>
+<p>You may spend any or all (or none) of these points at tonight's auction&commasepar; but when you buy an auction item&commasepar; those points are deducted from your total.</p>|!|77b0b900c0be38da5cb829589b94f2a7(*)Pick & Pull(*)c08c41e786c33f4f13352d052764d8a0(*)1434675203(*)c08c41e786c33f4f13352d052764d8a0(*)1434675243(*)<!-- Blog Post 16C: Pick & Pull -->
+<p>During the auction&commasepar; please send one of your team members to the LSC lobby&commasepar; where there will be a Pick &amp; Pull table set up with additional supplies for decorating your fort.</p>
+<p>You will be allowed to choose one item from the table&commasepar; in order of the Golf Challenge results. There are sufficient items for multiple rounds&commasepar; so select strategically and make sure you choose the necessary before the luxury items!</p>
+<p>Several items are bound with purple tape. Do not unbundle these items&commasepar; they are a set. Other items are labeled "Choose 3 sheets of cardstock&commasepar;" or just "3". Items with these labels include your choice of three sheets of cardstock (from either pad&commasepar; your choice of color).</p>
+<p>The queue will be as follows:</p>
+<ol>
+<li>Pottsville Apaches</li>
+<li>Caddo Hills Indians</li>
+<li>Greenbrier Panthers</li>
+<li>Calico Rock Pirates</li>
+<li>Vilonia Eagles</li>
+<li>Parkview Patriots</li>
+<li>Pine Bluff Zebras</li>
+<li>LR Central Tigers</li>
+</ol>
+<p>Once the last team has made their selection&commasepar; you will begin again at the top of the queue. Continue until you have selected all the items you want&commasepar; or the table is empty&commasepar; whichever comes last.</p>|!|c08282ba5851146917634ed17091e968(*)Friday Itinerary(*)c08c41e786c33f4f13352d052764d8a0(*)1434715790(*)c08c41e786c33f4f13352d052764d8a0(*)1434717696(*)<!--Blog Post 20: Friday&commasepar; June 19 Itinerary -->
+<table style="width: 100%; background-color: #ffffff;" border="1">
+<tbody>
+<tr align="CENTER">
+<td style="background-color: #faa634; width: 22%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;"><strong>When</strong></span></td>
+<td style="background-color: #0291d1; width: 60%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">What</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Where</span></td>
+</tr>
+<tr>
+<td align="LEFT">7:30AM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Breakfast: Bacon and Two Scrambled Eggs&commasepar;<br />Orange Juice and Coffee</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">8:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">8:45AM</td>
+<td colspan="2" align="CENTER"><strong>DUE:</strong> Writing Assignment 03</td>
+</tr>
+<tr>
+<td align="LEFT">8:45AM</td>
+<td colspan="2" align="CENTER">Movie Discussion: <a href="http://www.imdb.com/title/tt0086567/?ref_=fn_al_tt_1" target="_blank">WarGames</a></td>
+</tr>
+<tr>
+<td rowspan="6" align="right" valign="bottom">9:15AM</td>
+<td align="CENTER">Alpha Group</td>
+<td align="CENTER">MCST 104</td>
+</tr>
+<tr>
+<td align="CENTER">Bravo Group</td>
+<td align="CENTER">MCST 110</td>
+</tr>
+<tr>
+<td align="CENTER">Charlie Group</td>
+<td align="CENTER">MCST 211</td>
+</tr>
+<tr>
+<td align="CENTER">Delta Group</td>
+<td align="CENTER">MCST 219</td>
+</tr>
+<tr>
+<td align="CENTER">Echo Group</td>
+<td align="CENTER">MCST 330</td>
+</tr>
+<tr>
+<td align="CENTER">Foxtrot Group</td>
+<td align="CENTER">MCST 331</td>
+</tr>
+<tr>
+<td align="left">9:15AM</td>
+<td rowspan="2" align="CENTER">Active Lab: Bot Modifications</td>
+<td rowspan="2" align="CENTER">MCST 103&commasepar; 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">10:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">10:30-10:40AM</td>
+<td colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #faa634;">Take a Break!</span></td>
+</tr>
+<tr>
+<td align="LEFT">10:40AM</td>
+<td rowspan="2" align="CENTER">Discussion: Cyber Policy and Ethics</td>
+<td rowspan="2" align="CENTER">MCST 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">11:30AM</td>
+</tr>
+<tr>
+<td align="LEFT">11:30AM</td>
+<td rowspan="2" align="CENTER">Team Time</td>
+<td rowspan="2" align="CENTER">open</td>
+</tr>
+<tr>
+<td align="RIGHT">12:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">12:30PM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Lunch: Bacon&commasepar; Lettuce&commasepar; &amp; Tomato on Whole Wheat&commasepar;<br />Extra Chips&commasepar; Hold the Pickle</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">1:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">1:30PM</td>
+<td rowspan="2" align="CENTER">CyberCup Soccer Challenge</td>
+<td rowspan="2" align="CENTER">MCST 103</td>
+</tr>
+<tr>
+<td align="RIGHT">3:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">3:00PM</td>
+<td rowspan="2" align="CENTER">Active Lab: Final Bot Mods</td>
+<td rowspan="2" align="CENTER">MCST 103&commasepar; 112/113</td>
+</tr>
+<tr>
+<td align="RIGHT">3:30PM</td>
+</tr>
+<tr>
+<td align="LEFT">3:30PM</td>
+<td rowspan="2" align="CENTER">Team Time: Final Challenge Prep</td>
+<td rowspan="2" align="CENTER">open</td>
+</tr>
+<tr>
+<td align="RIGHT">5:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">5:00PM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Dinner: Bacon-Wrapped Filet&commasepar; Bacon-Wrapped Asparagus&commasepar; and a Loaded Baked Potato Topped with Bacon Bits</span></td>
+<td rowspan="2" align="CENTER">Cafeteria</td>
+</tr>
+<tr>
+<td align="RIGHT">6:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">6:30PM</td>
+<td rowspan="2" align="CENTER">Team Time: Final Challenge Prep</td>
+<td rowspan="2" align="CENTER">open</td>
+</tr>
+<tr>
+<td align="RIGHT">11:00PM</td>
+</tr>
+<tr>
+<td style="background-color: #000000;" align="CENTER"><span style="color: #ccff99;">11:00PM</span></td>
+<td style="background-color: #000000;" colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #ccff99;">L I G H T S &nbsp;&nbsp;O U T !</span></td>
+</tr>
+</tbody>
+</table>|!|5ef6e102a13ba977c0bd396417620b73(*)Cyber Cup Team Assignments(*)c08c41e786c33f4f13352d052764d8a0(*)1434716661(*)c08c41e786c33f4f13352d052764d8a0(*)1434717917(*)<!-- Blog Post 17C: Soccer Teams -->
+<p>Your team assignments for this afternoon's Cyber Cup Soccer Challenge are as follows. Team pairings were done randomly&commasepar; and you must play with the team you have been assigned.</p>
+<table style="width: 100%; background-color: #ffffff;" border="1">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;" colspan="3"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Round 1</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">Team Wall&sdot;E</span></td>
+<td><span style="font-size: large;">Caddo Hills</span></td>
+<td><span style="font-size: large;">Parkview</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">Team Tik-Tok</span></td>
+<td><span style="font-size: large;">Calico Rock</span></td>
+<td><span style="font-size: large;">Pine Bluff</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">Team Hall-9000</span></td>
+<td><span style="font-size: large;">Greenbrier</span></td>
+<td><span style="font-size: large;">Pottsville</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">Team R2-D2</span></td>
+<td><span style="font-size: large;">LR Central</span></td>
+<td><span style="font-size: large;">Vilonia</span></td>
+</tr>
+<tr align="center">
+<td style="background-color: #faa634;" colspan="3"><span style="font-family: impact&commasepar; chicago; font-size: x-large; color: #ffffff;">Round 2</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">Team Bender</span></td>
+<td><span style="font-size: large;">Caddo Hills</span></td>
+<td><span style="font-size: large;">Calico Rock</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">Team Marvin</span></td>
+<td><span style="font-size: large;">Greenbrier</span></td>
+<td><span style="font-size: large;">LR Central</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">Team Data</span></td>
+<td><span style="font-size: large;">Parkview</span></td>
+<td><span style="font-size: large;">Pine Bluff</span></td>
+</tr>
+<tr align="center">
+<td><span style="font-family: impact&commasepar; chicago; font-size: large;">Team Tom Servo</span></td>
+<td><span style="font-size: large;">Pottsville</span></td>
+<td><span style="font-size: large;">Vilonia</span></td>
+</tr>
+</tbody>
+</table>|!|34e6d84252398b3a906295e26b746d5b(*)Hippo Code!(*)c08c41e786c33f4f13352d052764d8a0(*)1434720044(*)(*)(*)<!-- Blog Post 21: Hippo Code -->
+<p>If you bought a hippo jaw from the auction&commasepar; wise choice! Also&commasepar; you will need to program your jaw just a bit differently than the putter. It raises and lowers like the putter&commasepar; but the jaws use a standard servo&commasepar; where the putters (and the wheels as well) use continuous servos.</p>
+<p>A standard servo operates in a similar manner to a continuous servo with one major difference. When sent a pulse&commasepar; a standard servo will move to an absolute position. A continuous servo moves to a relative position. This means that the continuous servo rotates an entire 360&deg; (which is what you need for your wheels)&commasepar; but the standard only has a 180&deg; rotation (which is actually perfect for just up-and-down motion).</p>
+<p>The range of pulse widths that are valid for a standard servo is 375 to 1125. Each pulse in this range corresponds to a position between 0 and 180 degrees. You can use the standard PULSOUT command to send pulses to the servo&commasepar; and it is often necessary to send multiple pulses of the same width in order for the servo to reach the desired position. <a title="Hippo Code" href="https://www.dropbox.com/s/u94co6z4pzsqg6l/hippoJaw.bs2?dl=0" target="_blank">A sample code snippet cen be downloaded here</a>.</p>|!|50cee0ddc7568414da405dc128669f03(*)Final Survey!(*)c08c41e786c33f4f13352d052764d8a0(*)1434720928(*)(*)(*)<!--<p>Blog Post 18: Survey 03</p>-->
+<p><a href="http://tinyurl.com/CD2015posttest">Survey time!</a></p>
+<p>Please take a few minutes to complete <a href="http://tinyurl.com/CD2015posttest">Survey 03</a>. We know you're busy&commasepar; and things are getting pretty hectic&commasepar; but it won't take a minute. Remember&commasepar; every student should complete their own survey&commasepar; as well as every teacher. We wouldn't ask if we didn't need the feedback.</p>
+<p>Please make sure to complete and submit your survey no later than tomorrow (Saturday) morning by 8:45AM. Thank you!</p>|!|459fa3ec3673755e2ef1f7098904e0e5(*)After-Auction Standings(*)c08c41e786c33f4f13352d052764d8a0(*)1434724293(*)(*)(*)<!--<p>Blog Post 19: Updated Team Standings</p>-->
+<p>After last night's auction&commasepar; team point totals and standings are looking like this:</p>
+<table style="width: 75%;" border="1" align="center">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Place</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td width="36%"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td width="32%"><span style="font-family: impact&commasepar;chicago; font-size: medium;">436</span></td>
+<td width="32%"><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">388</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">403</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">190</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">6</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">336</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">5</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">40</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">8</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">473</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">176</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">7</span></td>
+</tr>
+</tbody>
+</table>|!|71e27e9df7730ed3b6642ffeb19bf9a9(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1434725959(*)d259eb37bc4b04d541b63122d52e40e9(*)1434728470(*)<p>We have received a new message from Max:</p>
+<p>Cyber Discovery Teams&commasepar;</p>
+<p>DHS agents have identified several important names from the encrypted member list found on the recovered USB stick. We really need to know who these people are&commasepar; and if they are indeed faculty at the university. The names are listed below:</p>
+<p>Zohan Dvir<br />Daryl Rhea<br />Biff Wellington<br />Hazel Knutt<br />Claire Reed<br />Laura Norder<br />Pepe Roni<br />Shonda Lear</p>
+<p>Good luck and thanks for all of your help this week!</p>
+<p>--Max</p>
+<p><span style="color: #ff0000;">UPDATE!</span></p>
+<p><span style="color: #ff0000;">Congratulations and thanks to Greenbrier for finding all 8 aliases first!</span></p>
+<p><span style="color: #ff0000;">Congratulations and thanks to Pottsville for finding all 8 aliases second!</span></p>
+<p><span style="color: #ff0000;"><span>Congratulations and thanks to Calico Rock for finding all 8 aliases third!</span></span></p>|!|b4ec8383aaa77170ef52749d0797b42e(*)Cyber Cup Soccer Scores(*)c08c41e786c33f4f13352d052764d8a0(*)1434748391(*)(*)(*)<!-- Blog Post 22: Soccer Challenge Results -->
+<p>The Cyber Cup Soccer Challenge scores have been tabulated&commasepar; and the team scores are as follows:</p>
+<table style="width: 100%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #faa634;" width="30%"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #0291d1;" width="25%"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Total<br />Score</span></td>
+<td style="background-color: #faa634;" width="20%"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Rank</span></td>
+<td style="background-color: #0291d1;" width="25%"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points Awarded</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">2 wins (&minus;7)</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">4</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">70</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">2 wins (+5)</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">3</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">80</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">3 wins (+21)</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">2</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">90</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">1 win (&minus;17)</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">8</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">30</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">2 wins (&minus;20)</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">6</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">50</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">2 wins (&minus;8)</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">5</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">60</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">3 wins (+32)</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">1</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">100</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">1 win (&minus;4)</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">7</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">40</span></td>
+</tr>
+</tbody>
+</table>|!|bcdd9567b63fff088b654e0c008fcfbb(*)Latest Team Standings(*)c08c41e786c33f4f13352d052764d8a0(*)1434748935(*)c08c41e786c33f4f13352d052764d8a0(*)1434766716(*)<!--Blog Post 23: Team Standings-->
+<p>Current team point totals and standings are as follows. Points include both the Cyber Cup Soccer Challenge and Essay 03 results.</p>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Rank</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td width="36%"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td width="32%"><span style="font-family: impact&commasepar; chicago; font-size: medium;">581</span></td>
+<td width="32%"><span style="font-family: impact&commasepar; chicago; font-size: medium;">2</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">508</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">4</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">523</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">3</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">275</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">6</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">461</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">5</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">190</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">8</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">673</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">1</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">271</span></td>
+<td><span style="font-family: impact&commasepar; chicago; font-size: medium;">7</span></td>
+</tr>
+</tbody>
+</table>|!|49d49b82650e47c3b4ede013186a05e7(*)Saturday Itinerary(*)c08c41e786c33f4f13352d052764d8a0(*)1434749168(*)(*)(*)<!-- Blog Post 24: Saturday&commasepar; June 20 Itinerary -->
+<table style="width: 100%; background-color: #ffffff;" border="1">
+<tbody>
+<tr align="CENTER">
+<td style="background-color: #faa634; width: 22%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;"><strong>When</strong></span></td>
+<td style="background-color: #0291d1; width: 60%;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">What</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Where</span></td>
+</tr>
+<tr>
+<td align="LEFT">6:30AM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #faa634;">Continental Breakfast</span></td>
+<td rowspan="2" align="CENTER">LSC Lobby</td>
+</tr>
+<tr>
+<td align="RIGHT">9:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">7:00AM</td>
+<td colspan="2" align="CENTER"><strong>DUE:</strong> Storyline Submissions</td>
+</tr>
+<tr>
+<td align="CENTER">7:45AM</td>
+<td colspan="2" align="CENTER"><strong>DUE:</strong> Essay 04</td>
+</tr>
+<tr>
+<td align="LEFT">7:00AM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Storyline Presentations</span></td>
+<td rowspan="2" align="CENTER">LSC 100</td>
+</tr>
+<tr>
+<td align="RIGHT">9:30AM</td>
+</tr>
+<tr>
+<td align="CENTER">9:30AM-10:00AM</td>
+<td colspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #faa634;">Get Over to the SC Ballroom and Get Ready to Rumble!</span></td>
+</tr>
+<tr>
+<td align="left">10:00AM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">BOE-Bots: The Battle for Cyber Supremacy</span></td>
+<td rowspan="2" align="CENTER">SC Ballroom</td>
+</tr>
+<tr>
+<td align="RIGHT">11:30AM</td>
+</tr>
+<tr>
+<td align="LEFT">11:30AM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #faa634;">Equipment Check-In: Bot Boxes&commasepar; Camera Bags&commasepar; Laptops</span></td>
+<td rowspan="2" align="CENTER">SC Ballroom</td>
+</tr>
+<tr>
+<td align="RIGHT">12:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">12:00PM</td>
+<td rowspan="2" align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #0291d1;">Luncheon and Awards Presentation</span></td>
+<td rowspan="2" align="CENTER">SC Ballroom</td>
+</tr>
+<tr>
+<td align="RIGHT">1:00PM</td>
+</tr>
+<tr>
+<td align="LEFT">1:00PM</td>
+<td rowspan="2" align="CENTER">Teacher De-Briefing<br /> (Teams should be preparing to check out)</td>
+<td rowspan="2" align="CENTER">SC Ballroom</td>
+</tr>
+<tr>
+<td align="RIGHT">1:30PM</td>
+</tr>
+<tr>
+<td align="CENTER">1:30PM</td>
+<td align="CENTER"><span style="font-family: impact&commasepar; chicago; font-size: medium; color: #faa634;">Team Check Out: Return Fort Kits&commasepar; Other Miscellaneous</span></td>
+<td align="CENTER">Torreyson Apartments</td>
+</tr>
+</tbody>
+</table>|!|3f0b0db1a92fe18da9e2b94df4c4258b(*)Storyline Film Queue(*)c08c41e786c33f4f13352d052764d8a0(*)1434749398(*)(*)(*)<!-- Blog Post 25: Storyline Queue -->
+<p>The Storyline Queue is shown below. Queue placement is random. Please be ready at the time shown to present your short film. In fact&commasepar; please be a bit early; if the previous group finishes early&commasepar; you want to make sure you have ample time to get your group set up and ready to present!</p>
+<p>Film screening will be in LSC 100&commasepar; followed by a brief question and answer session.</p>
+<table style="width: 50%; background-color: #ffffff;" border="1" align="center">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Time</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-family: impact&commasepar; chicago; font-size: large;">7:00 &minus; 7:15</span></td>
+<td style="text-align: center;"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: large;">Greenbrier</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-family: impact&commasepar; chicago; font-size: large;">7:20 &minus; 7:35</span></td>
+<td style="text-align: center;"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: large;">Pottsville</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-family: impact&commasepar; chicago; font-size: large;">7:40 &minus; 7:55</span></td>
+<td style="text-align: center;"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: large;">Calico Rock</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-family: impact&commasepar; chicago; font-size: large;">8:00 &minus; 8:15</span></td>
+<td style="text-align: center;"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: large;">Vilonia</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-family: impact&commasepar; chicago; font-size: large;">8:20 &minus; 8:35</span></td>
+<td style="text-align: center;"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: large;">LR Central</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-family: impact&commasepar; chicago; font-size: large;">8:40 &minus; 8:55</span></td>
+<td style="text-align: center;"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: large;">Caddo Hills</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-family: impact&commasepar; chicago; font-size: large;">9:00 &minus; 9:15</span></td>
+<td style="text-align: center;"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: large;">Pine Bluff</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="font-family: impact&commasepar; chicago; font-size: large;">9:20 &minus; 9:35</span></td>
+<td style="text-align: center;"><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: large;">Parkview</span></td>
+</tr>
+</tbody>
+</table>|!|2de64b9493b1e3d56d43baf4fad6a63e(*)Storyline Rubric(*)c08c41e786c33f4f13352d052764d8a0(*)1434766470(*)(*)(*)<p>Sorry for the late addition&commasepar; but <a href="https://www.dropbox.com/s/5o1gw7gru3y8lh5/storylineRubric.pdf?dl=0" target="_blank">the storyline rubric can be viewed here</a>.</p>|!|65bf720dc40ab70855b569e5a137f37b(*)Check Out Procedures(*)c08c41e786c33f4f13352d052764d8a0(*)1434768324(*)(*)(*)<!-- Blog Post 26: Check-Out Procedures -->
+<p><span style="font-family: impact&commasepar; chicago; font-size: large; color: #faa634;">Equipment Check-In</span></p>
+<p>The Repair Station will also serve as the check-in table once the Battle for Cyber Supremacy concludes. Before the Luncheon and Awards Ceremony&commasepar; please gather your equipment and return it to the Repair Station.</p>
+<ul>
+<li><strong>Bot Boxes:</strong> Please return the lockboxes after the final battle. Make sure that your lockbox contains all of the BOE-bot related equipment that you were issued (don't leave stuff back in the apartment!).</li>
+<li><strong>Camera Bags:</strong> Please also return the camera bags after the final battle. Double-check to make sure that all of the camera equipment is re-packed into the bag (again&commasepar; don't leave stuff in the apartment!).</li>
+<li><strong>Laptops:</strong> Please return the laptops and cables/chargers/flash drives when you return the Bot Boxes and Camera Bags.</li>
+<li><strong>Fort Kits:</strong> Please be sure to return the fort kits! Your boxes&commasepar; the rails&commasepar; the cutters&commasepar; the mats. We don't expect you to return the consumable items&commasepar; but you can leave anything that's leftover in the boxes&commasepar; and we will take care of it.</li>
+</ul>
+<p><span style="font-family: impact&commasepar; chicago; font-size: large; color: #0291d1;">Apartment Check Out</span></p>
+<p>Please make sure (check and double check) that you have packed up all your personal items before you check out of the apartments. When you leave&commasepar; please be sure to remove any trash prior to check-out!</p>
+<p>UCA Housing staff will be in Torreyson Apartment #14 (the same place you checked in) to take your apartment key at check-out starting at 1:30PM on Saturday&commasepar; June 20th.</p>
+<p>If you discover any random bits and/or pieces in your apartment while you are packing up&commasepar; please be sure to turn those in with your keys.</p>|!|39469b2f7cab6375ed2cc0db22dc5902(*)Essay 03 Results(*)c08c41e786c33f4f13352d052764d8a0(*)1434768741(*)c08c41e786c33f4f13352d052764d8a0(*)1434810815(*)<!--Blog Post 14: Writing Assignment 02 Results-->
+<p>The third writing assignment has been evaluated&commasepar; and the team scores are shown below. <a title="Essay 03" href="https://www.dropbox.com/s/ql9bgvutbhvdgzk/essay03.pdf?dl=0" target="_blank">Click the link to view the top-ranked essay</a>. Two teams tied for third place&commasepar; and were awarded (80+70)/2 = 75 points each. Two other teams tied for fifth place&commasepar; and were awarded (60+50)/2 = 55 points apiece.</p>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Rank</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">75</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">7</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">40</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">8</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">30</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">5</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">55</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">75</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">90</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">100</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">5</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">55</span></td>
+</tr>
+</tbody>
+</table>|!|1ff00aa9974e76f5e6559cc7778a567f(*)Essay 04 Rankings(*)c08c41e786c33f4f13352d052764d8a0(*)1434811102(*)c08c41e786c33f4f13352d052764d8a0(*)1434811136(*)<!--Blog Post 14: Writing Assignment 02 Results-->
+<p>The fourth writing assignment has been evaluated&commasepar; and the team scores are shown below. <a title="Essay 03" href="https://www.dropbox.com/s/w2d80kujym9xqnx/essay04.pdf?dl=0" target="_blank">Click the link to view the top-ranked essay</a>. Two teams tied for fourth place&commasepar; and were awarded (70+60)/2 = 65 points each.</p>
+<table style="width: 50%;" border="1" align="CENTER">
+<tbody>
+<tr align="center">
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Team</span></td>
+<td style="background-color: #faa634;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Rank</span></td>
+<td style="background-color: #0291d1;"><span style="font-family: impact&commasepar; chicago; font-size: xx-large; color: #ffffff;">Points</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Caddo Hills</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">65</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Calico Rock</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">3</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">80</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Greenbrier</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">6</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">50</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">LR Central</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">7</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">40</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Parkview</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">8</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">30</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pine Bluff</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">4</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">65</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Pottsville</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">1</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">100</span></td>
+</tr>
+<tr style="background-color: #ffffff;" align="center">
+<td><span style="font-family: 'arial black'&commasepar; 'avant garde'; font-size: medium;">Vilonia</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">2</span></td>
+<td><span style="font-family: impact&commasepar;chicago; font-size: medium;">90</span></td>
+</tr>
+</tbody>
+</table>|!|

@@ -1,0 +1,20 @@
+' {$STAMP BS2}
+' {$PBASIC 2.5}
+
+counter VAR Byte
+length VAR Byte
+
+length = 50 ' change length to change how far forward you want to go
+GOSUB forward
+END
+
+forward:
+FOR counter = 1 TO length
+  PULSOUT 12, 650
+  PULSOUT 13, 850
+  PAUSE 20
+NEXT
+RETURN
+
+
+

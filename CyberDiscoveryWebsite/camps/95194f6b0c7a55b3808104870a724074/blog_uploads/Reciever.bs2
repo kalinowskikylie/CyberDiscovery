@@ -1,0 +1,55 @@
+' {$STAMP BS2}
+' {$PBASIC 2.5}
+' ***************************
+' receiver.bs2
+' Example to receive decimal value
+'   from a transmitter and move the
+'   Boe Bot forward or backward.
+' ***************************
+RX          PIN 0                     ' Receive Pin
+TX          PIN 2                     ' Transmit Pin
+X           VAR Byte
+counter     VAR Byte
+
+' Set Channel Code Below
+CHANNEL     CON $0C                   'code $0C
+BAUD        CON 84
+
+GOSUB EstablishConnection
+
+DO
+  SERIN RX, BAUD, [DEC X]                ' Receive data
+  DEBUG X
+
+' Start editing here
+  IF X="W" THEN
+    GOSUB GoForward
+  ELSEIF X="S" THEN
+    GOSUB GoBackward
+  ENDIF
+  PAUSE 20
+LOOP
+END
+
+GoForward:
+  PULSOUT 12, 650
+  PULSOUT 13, 850
+  RETURN
+
+GoBackward:
+  PULSOUT 12, 850
+  PULSOUT 13, 650
+  RETURN
+' End editing here
+
+' Establish a connection with a transmitting XBee
+EstablishConnection:
+  HIGH TX                                ' Idle transmit pin
+  DEBUG CLS, "Configuring XBee..."
+  PAUSE 2000
+  SEROUT TX, BAUD, ["+++"]
+  PAUSE 2000
+  SEROUT TX, BAUD, ["ATCH ", HEX CHANNEL, CR]
+  PAUSE 2000
+  DEBUG "Configuration Complete!", CR
+  RETURN

@@ -1,0 +1,1191 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|bab0bbeb90cd020819d834b28e6b8c0e(*)Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1371485680(*)e1437c944cc00821c6d79c4f1393453c(*)1371497952(*)<h2>WiFi:</h2>
+<p>Username: <strong>cybercamp</strong></p>
+<p>Password<strong>: guest</strong></p>
+<h2>Camp&nbsp; Location:</h2>
+<p>Most camp activities will occur on the 5<sup>th</sup> floor of the University of Baltimore Student Center located at the corner of Maryland Ave. and West Mt. Royal Avenue (21201). &nbsp;Google Maps link: <a href=\"http://bit.ly/19F6iLX\">http://bit.ly/19F6iLX</a></p>
+<h2>Accommodations:</h2>
+<p>Students will be staying at the Hotel Brexton Baltimore (<a href=\"http://www.brextonhotel.com/\">http://www.brextonhotel.com/</a>). Rooms will be assigned upon check-in on Monday&commasepar; July 17<sup>th</sup> 2013. The hotel phone numbers are 443.478.2100&nbsp; or 877.830.6708.</p>
+<h2>Meals:</h2>
+<p>Breakfast will be provided by the Hotel Brexton. Lunch will be provided by the University of Baltimore at noon each day. Dinner will be arranged by the supervising teachers of each school at their discretion. Each student will be provided with an amount equivalent to $15 per day for dinner that can be redeemed at any of the Jay&rsquo;s Restaurant Group restaurants: Turps&commasepar; Viccino&rsquo;s&commasepar; Jay&rsquo;s Deli&commasepar; and XS. All restaurants are located less than one block away from the Camp.</p>
+<h2>Important Phone Numbers</h2>
+<p>Camp Director Prof. Danielle Fowler (m) 443-722-4648</p>
+<p>University of Baltimore Police: 410-837-5520</p>
+<p>University of Baltimore Office of Technology Services: 410-837-6262</p>
+<p>University of Baltimore main phone number: 410-837-4777</p>
+<p>&nbsp;</p>
+<p><strong>University Baltimore: </strong><a href=\"http://www.ubalt.edu\">www.ubalt.edu</a></p>
+<p><strong>Camp website: cyberdiscovery.ubalt.edu</strong></p>
+<p><strong>Camp blog: cyberdiscovery.latech.edu </strong></p>|!|3820ce11c04551db4b10505c9d60cd80(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1371486091(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371515901(*)<p>7:00-9:00 Breakfast</p>
+<p>&nbsp;<br /> *9:00 Survey 1 is Due&nbsp;</p>
+<p><br />9:00-9:30 Movie Discussion (Mixed Small Groups) - Business Center Atrium</p>
+<p>9:30-11:00 Hands-On-Lab (Full Group) - Bogomolny Room<br /> <br /> Topic: BOE-Bot Activity (Basics)&nbsp;<br /> <br /> 11:00-11:15 Break&nbsp;<br /> <br /> 11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogomolny Room<br /> Theme: Cyber Knowledge<br /> * Read the Wendell Berry piece prior to session</p>
+<p><br /> 12:00-1:00 Lunch - Bogomolny Atrium<br /> <br /> 1:00-1:45 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing<br /> <br /> 1:45-3:30 Hands-On-Lab (Full Group) -&nbsp;Bogomolny Room<br /> Topic: Cryptography I<br />&nbsp;<br />3:30-5:30 Team Time (School Groups) - A Place of Your Choosing<br /> <br />5:30-6:30 Dinner&nbsp;- A Place of Your Choosing<br /> <br /> 6:30-8:30 Movie Time (Full Group) -&nbsp;Student Center Theatre (5th floor)<br /> <br /> 9:00-11:00 Team Time (School Groups) - Breakout Locations / Hotel Brexton</p>
+<p><br /> 11:00 Lights out</p>|!|7a5144503664cdce197ed3dead71e161(*)Survey 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1371487002(*)(*)(*)<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys</p>
+<p>Why do we need to do the surveys? Your participation in the surveys&nbsp;is a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.&nbsp;<br /> Please click the following link for the first survey:&nbsp;</p>
+<p><a title=\"Survey 1\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_cu0fC5DrrSuEFda\" target=\"_blank\">Survey 1</a></p>
+<p><br /> <br /> *All students and teachers should complete the survey by&nbsp;<strong>9:00 Tuesday</strong>&nbsp;morning</p>|!|11f091dee158e51417120be0aa066f4d(*)Getting Started with the BOE-Bot(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371562829(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1371563741(*)<p>Here are a few resources to get you started with the first BOE-Bot activity.</p>
+<p>If you want to install the PBasic editor used with the BOE-Bot&commasepar; you can get the latest version&nbsp;<a href=\"http://www.parallax.com/tabid/441/Default.aspx\" target=\"_blank\">here.</a></p>
+<p>This first activity focuses on learning how to get the BOE-Bot moving. The following links are to parts of the previous version of our Living With the Lab curriculum (which is taken by all freshman engineering students at Louisiana Tech). These links will give you some pointers on programming the BOE-Bot to move. While you are looking around&commasepar; you might want to look at our current curriculum at&nbsp;<a href=\"http://www.livingwiththelab.com./\" target=\"_blank\">www.LivingWithTheLab.com.</a>&nbsp;Here are the links:&nbsp;<a href=\"http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/6_student_programming.pdf\" target=\"_blank\">subroutines</a>&commasepar;&nbsp;<a href=\"http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/7_navigation_program.bs2\" target=\"_blank\">using EEPROM to store your program</a>&nbsp;(advanced topic).</p>
+<p>&nbsp;</p>
+<p>Here are a few files from this activity that you can reference in case you missed anything from today:&nbsp;<a href=\"https://www.dropbox.com/s/p10e89n3e40kdnn/debug%20variable%20size.bs2\" target=\"_blank\">DEBUG Variable Sizes</a>&commasepar;&nbsp;<a href=\"https://www.dropbox.com/s/xr5ynztk59luz8e/Turn%20Servos.bs2\" target=\"_blank\">Turning and Centering Servos</a>&commasepar; and&nbsp;<a href=\"https://www.dropbox.com/s/kigzx2yjo5in6dk/subroutines%20for%20servos.bs2\" target=\"_blank\">Subroutines</a>.&nbsp;<a href=\"https://www.dropbox.com/s/83oubv5r0gik3ev/Cyber%20Discovery%201.0%20BOE-Bot%201.pdf\" target=\"_blank\">Here is a PDF</a>&nbsp;of examples of teh various encoding schemes shown in the talk.&nbsp;<a href=\"https://www.dropbox.com/s/grq9drhrtb7pbdn/BOE-Bot%20with%20Servos.pptx\" target=\"_blank\">Here is the PowerPoint</a>&nbsp;that we went over during the first activity.</p>
+<p>&nbsp;</p>
+<p>The slides from todays presentation can be found at:&nbsp;<a href=\"http://bit.ly/15fLnIp\">http://bit.ly/15fLnIp</a></p>|!|acf1b1dfba747162e73684fa535d0627(*)BOE-Bot Challenge 1 - Queue(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371581102(*)(*)(*)<p>The following table shows the queue position (using a random number generator) that teams will compete in the first BOE-Bot Challenge (<a title=\"Maze Dimensions\" href=\"camps/a0dcb6c0318587d9d51a687ff873ca56/blog_uploads/boe-bot%20maze%205_31_11.jpg\" target=\"_blank\">The Maze</a>) on Wednesday morning.</p>
+<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p align=\"center\"><strong>Queue &nbsp; Position</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>School</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">1</p>
+</td>
+<td>
+<p align=\"center\">Western</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">2</p>
+</td>
+<td>
+<p align=\"center\">Gilman</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">3</p>
+</td>
+<td>
+<p align=\"center\">Poly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">4</p>
+</td>
+<td>
+<p align=\"center\">Catonsville</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">5</p>
+</td>
+<td>
+<p align=\"center\">Glenelg</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|317572e22b5d403ed37636d19cc2636f(*)Crypto Treasure Hunt Contact(*)6977de5a004f6df4402fd570fa574a38(*)1371581399(*)(*)(*)<p>Campers&commasepar;</p>
+<p>Just as a reminder please remember to email GMHunt.aaccaa@gmail.com any time that you discover a clue or important piece of information during the treasure hunt. This will help the AACCAA\'s secretary keep track of how much progress we\'ve made in tracking down these criminals.</p>|!|da18c715615519fce577e50c17ee1fca(*)Wednesday Itinerary(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371593471(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371668021(*)<p>7:00-9:00 Breakfast<br /><br />9:00-9:30 Movie Discussion (Mixed Small Groups) &ndash; Business Center Atrium</p>
+<p>9:30-11:00 Hands-On-Lab (Full Group) - Bogomolny Room</p>
+<ul>
+<li>Topic: BOE-Bot&nbsp;Competition (maze) &amp; lesson (Keyboard Input)</li>
+</ul>
+<p><br />11:00-11:15 Break<br /><br />11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogomolny Room</p>
+<ul>
+<li>Theme: Networked Society</li>
+</ul>
+<p><br />12:00-1:00 Lunch (Bogomolny Room)<br /><br />1:00-1:30 Team Time<br /><br />1:30-1:40 Break<br /><br />1:45-3:30 &nbsp;&nbsp; Cryptography II - Bogomolny Room</p>
+<p>3:30-4:00 &nbsp;&nbsp; Sketch Up Introduction - Bogomolny Room</p>
+<p>4:00-4:30&nbsp;&nbsp;&nbsp; Performing Arts - Wright Theater (adjacent to Bogomolny Room)</p>
+<p>4:30-5:30 Team Time (School Groups) - A Place of Your Choosing<br /><br />5:30-6:30 Dinner<br /><br />6:30-8:30 Movie Time (Full Group) &ndash; Student Center Theatre 5<sup>th</sup>&nbsp;Floor<br /><br />9:00-11:00 Team Time (School Groups) &ndash; Breakout Locations/Hotel Brexton<br /><br />11:00 Lights out</p>|!|8f224f06739aeb65ab70228ccb14602f(*)BOE-Bot Challenge 1 Results(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371657009(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371657104(*)<p>Below are the results of the first BOE-Bot Challenge. Congratulations to all the teams; you all did a GREAT job!</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p style=\"text-align: left;\"><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">
+<p><strong>Gilman</strong></p>
+</td>
+<td>
+<p align=\"right\">100</p>
+</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">
+<p><strong>Glenelg</strong></p>
+</td>
+<td>
+<p align=\"right\">90</p>
+</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">
+<p><strong>Catonsville</strong></p>
+</td>
+<td>
+<p align=\"right\">80</p>
+</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">
+<p><strong>Western</strong></p>
+</td>
+<td>
+<p align=\"right\">70</p>
+</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">
+<p><strong>Poly</strong></p>
+</td>
+<td>
+<p align=\"right\">60</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|cdc63a1955eb979b69617f6715c9c46b(*)Ice Cream Truck Challenge(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371657612(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371667959(*)<p>Below are the results for the Ice Cream Truck problem. Congratulations to all the teams!</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">60</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|6aba177b6d8398f3e38a7e4ee6baa6df(*)Day 1 & 2 Video(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371659898(*)(*)(*)<p>Check out the&nbsp;<a title=\"Day 1 &amp; 2 Video\" href=\"http://www.youtube.com/watch?v=6ShiktxVK1M\" target=\"_blank\">Video</a>&nbsp;for Day 1 &amp; 2!!!</p>
+<p>&nbsp;</p>
+<p>Like our&nbsp;<a title=\"NICERC facebook page\" href=\"http://www.facebook.com/cic.nicerc\" target=\"_blank\">facebook page</a>&nbsp;to see pictures of the camp throughout the week!</p>
+<p>&nbsp;</p>
+<p>Also&commasepar; follow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://twitter.com/#!/CIC_NICERC\" target=\"_blank\">twitter</a>&nbsp;to see updates (@CIC_NICERC)!</p>|!|316e7a846caf8be1d719e8bf8e9c82fa(*)BOE-Bot Challenge 2 - Queue(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371662818(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371662867(*)<p>Below is the queue for the second BOE-Bot Challenge (Golf Competition).</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p align=\"center\"><strong>Queue Position</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>School</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\"><strong>1</strong><strong></strong></p>
+</td>
+<td style=\"text-align: left;\">
+<p>Poly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\"><strong>2</strong><strong></strong></p>
+</td>
+<td style=\"text-align: left;\">
+<p>Western</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\"><strong>3</strong><strong></strong></p>
+</td>
+<td style=\"text-align: left;\">
+<p>Catonsville</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\"><strong>4</strong><strong></strong></p>
+</td>
+<td style=\"text-align: left;\">
+<p>Glenelg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\"><strong>5</strong><strong></strong></p>
+</td>
+<td style=\"text-align: left;\">
+<p>Gilman</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|b06633f18d5dc04cb9dff5e00ef48b2d(*)Writing Activity 1 - Results(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371682864(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"center\">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"center\">90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"center\">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"center\">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"center\">60</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>&nbsp;</strong></p>|!|a92ce235261d57f84e50918d829b9b66(*)Current Points Distribution(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371682915(*)(*)(*)<p>The following table outlines the current points distribution after day 3 of the camp (as of 6:30PM). This list includes BOE-Bot Challenge 1&commasepar; Writing Assignment 1 as well as the latest scoring information Mr. Hunt (with the crypto-treasure hunt) has provided. This may not reflect all the treasure hunt information Mr. Hunt has received to date. He is still processing emails.</p>
+<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">323</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">294</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">263</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">255</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">245</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|a8533c7a806125efd4a0a5f102672f74(*)Thursday Itinerary(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371684866(*)(*)(*)<p>7:00-9:00 Breakfast<br /><br />9:00-9:30 Movie Discussion (Mixed Small Groups) &ndash; Business Center Atrium</p>
+<p>9:00-9:25 Team Time (Putting green will be available in Bogomolny Room)</p>
+<p>9:30-11:00 Hands-On-Lab (Full Group) - Bogomolny Room</p>
+<p>&bull; Topic: Boe-Bot Competition (Golf) and Activity 3 (wireless communication)<br /><br />11:00-11:15 Break<br /><br />11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogomolny Room<br />&bull; Theme: Privacy and Security<br /><br />12:00-1:00 Lunch &ndash; Bogomolny Room<br /><br />1:00-1:25 Team Time<br /><br />1:30-4:00 Cryptography III &amp; Sketch Up Sessions - Bogomolny Room</p>
+<p>4:00-4:30&nbsp;Performing Arts - Wright Theater (adjacent to Bogomolny Room)</p>
+<p>4:30-5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30-6:30 Dinner<br /><br />6:30-9:30 <strong>Movie Time</strong> (Full Group) &amp; <strong>Auction</strong> &ndash; Student Center 5<sup>th</sup>&nbsp;Floor Wright Theater (adjacent to Bogomolny Room)<br /><br />9:30-11:00 Team Time (School Groups) &ndash; Breakout Locations/Hotel Brexton</p>
+<p>11:00 Lights out</p>|!|7f168905f679b389dedaed78dec28657(*)Survey 2(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371684969(*)(*)(*)<p>It\'s that time again...surveys!! Teachers and students&commasepar; both&commasepar; please fill out&nbsp;<a title=\"Survey 2\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_cBEYqZ2FhI6FOAs\" target=\"_blank\">survey 2</a>&nbsp;by 9:00 AM Thursday morning!&nbsp;</p>|!|8179c46178ba4561e1ca3118777c7ab9(*)Wireless Sample Code(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371736372(*)(*)(*)<p>Here are 2 files that are used as the starting point for wireless communication. One bot should be programmed with the receiver code. This bot will be able to roam around on its own (not tethered to the USB). The 2nd bot should be programmed with the transmitter code and will stay connected to the computer via USB.</p>
+<p>There are only a few lines where editing should be done on both of these programs. The areas of editing are indicated by comments in the code.</p>
+<p><a title=\"Reciever\" href=\"camps/011a83e2144f78ec06c080b2ae7d00cb/assignments_uploads/Reciever.bs2\" target=\"_blank\">Receiver</a></p>
+<p><a title=\"Transmitter\" href=\"camps/011a83e2144f78ec06c080b2ae7d00cb/assignments_uploads/Transmitter.bs2\" target=\"_blank\">Transmitter</a>&nbsp;</p>|!|0316cffcf85e6b01cb3073e09681ed54(*)Day 3 Video(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371737135(*)(*)(*)<p>Check out the&nbsp;<a href=\"http://www.youtube.com/watch?v=T6eSiHm7RxI&amp;feature=youtu.be\" target=\"_blank\"><span style=\"text-decoration: underline;\">Video</span></a>&nbsp;for Day 3!!!</p>
+<p>&nbsp;</p>
+<p>Like our&nbsp;<a title=\"NICERC facebook page\" href=\"http://www.facebook.com/cic.nicerc\" target=\"_blank\">facebook page</a>&nbsp;to see pictures of the camp throughout the week!</p>
+<p>&nbsp;</p>
+<p>Also&commasepar; folllow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://twitter.com/#!/CIC_NICERC\" target=\"_blank\">twitter</a>&nbsp;to see updates(@CIC_NICERC)!</p>|!|0673554d55fc90da94d25762250f0f58(*)BOE-Bot Golf Competition - Results(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371746003(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">60</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|c3af14ebaecda62c3a4541a08960fea9(*)Updated Treasure Hunt Information(*)6977de5a004f6df4402fd570fa574a38(*)1371749272(*)(*)(*)<p>Secretary Hunt just passed along several clues that have been confirmed to his agents. Rivest\'s niece\'s name is veronica which she modified using L337 swapping to make the password for her temporary email accounts. We also know that information holding a scytale cipher has been hidden all over campus. The clues to the locations appear to be in an email Rivest sent titled: Next Goal. We also have determined that the cipher must be wrapped around an existing item on campus in order to be read properly&commasepar; we think a clue to what was left behind by Rivest in her deleted items folder on your USB drives.&nbsp;</p>
+<p>We have also determined that Rivest may have used a special zip software to encode the zip file on the USB drive. If you cannot open the drive in Windows or OSX try using a program like 7-Zip (there are both OSX and Windows versions)&nbsp;<a href=\"http://www.7-zip.org/download.html\">http://www.7-zip.org/download.html</a></p>
+<p>Please keep up the good work and remember to email GMHunt.aaccaa@gmail.com each time you find a clue or answer in order to be scored for your work!</p>
+<p>Bridget</p>|!|81102ad5bbc59f3881b567257da13775(*)Supplemental Reading(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371754027(*)(*)(*)<p>If you enjoyed reading the handout from the crypto session&commasepar; you can download a free complete copy of <em>Homeland</em> by Cory Doctorow by clicking <a title=\"Homeland\" href=\"http://craphound.com/homeland/download/\" target=\"_blank\">here</a>.</p>|!|be1517bc80bc8c373a4e2a2e7fcd762d(*)Auction Items(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371760509(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371762621(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p align=\"center\"><strong>Item</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>Picture</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>Description</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong># &nbsp; Avail.</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Jaw</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<img style=\"vertical-align: middle;\" src=\"camps/504e1c714ee01553e7b8c4233b239841/blog_uploads/Jaw.jpg\" alt=\"Jaw\" width=\"285\" height=\"194\" />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;</p>
+</td>
+<td>
+<p>The jaws provide the ability to &nbsp; corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability &nbsp; of holding in the marbles after they are corralled. The jaws have added &nbsp; servos that lift the front bar up and down to hold in the marbles. This functionality &nbsp; is analogous to the children&rsquo;s game of hungry hungry hippos where the hippos&rsquo; &nbsp; jaws open and close to collect and hold in marbles.</p>
+</td>
+<td>
+<p align=\"center\">4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Tank &nbsp; Treads</p>
+</td>
+<td>
+<p>&nbsp; &nbsp;&nbsp; &nbsp;<img style=\"vertical-align: middle;\" src=\"camps/504e1c714ee01553e7b8c4233b239841/blog_uploads/TTreads.jpg\" alt=\"Tank Treads\" width=\"285\" height=\"191\" /></p>
+</td>
+<td>
+<p>Tank treads add a level of &nbsp; robustness and maneuverability to the BOE-Bots. Tank treads gives the BOE-Bot &nbsp; the ability to traverse varying terrain.&nbsp;</p>
+</td>
+<td>
+<p align=\"center\">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Manilla &nbsp; Folder &amp; Tape</p>
+</td>
+<td>
+<p>&nbsp; &nbsp;&nbsp; &nbsp;<img style=\"vertical-align: middle;\" src=\"camps/504e1c714ee01553e7b8c4233b239841/blog_uploads/ManFolTape.jpg\" alt=\"Manila Folder &amp; Tape\" width=\"265\" height=\"202\" /></p>
+</td>
+<td>
+<p>Those that purchase the manila &nbsp; folder and &amp; tape option can tap into their creativity to use these &nbsp; extremely durable materials to construct added attachments for their BOE-Bots.&nbsp;</p>
+</td>
+<td>
+<p align=\"center\">2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Permission &nbsp; to use Video in the Creative Storyline Challenge&nbsp;</p>
+</td>
+<td>
+<p>&nbsp; &nbsp;&nbsp; &nbsp;<img style=\"vertical-align: middle;\" src=\"camps/504e1c714ee01553e7b8c4233b239841/blog_uploads/KodCam.jpg\" alt=\"Camera\" width=\"220\" height=\"220\" /></p>
+</td>
+<td>
+<p>The creative storyline challenge &nbsp; provides teams the opportunity to use their creativity to represent the week &nbsp; of camp through various media (live action&commasepar; PowerPoint&commasepar; etc). Video &nbsp; capability is on such media teams could use. However&commasepar; only one team will have &nbsp; the permission to use video by purchasing that right in the auction. If &nbsp; permission to use video is purchased&commasepar; you will be given a Kodak camcorder &nbsp; that you can use for your video production.</p>
+</td>
+<td>
+<p align=\"center\">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">20 &nbsp; Second Head Start&nbsp;</p>
+</td>
+<td>
+<p>&nbsp; &nbsp;&nbsp; &nbsp;<img style=\"vertical-align: middle;\" src=\"camps/504e1c714ee01553e7b8c4233b239841/blog_uploads/StopClock_20secs.jpg\" alt=\"20 secs Stop Clock\" width=\"285\" height=\"120\" /></p>
+</td>
+<td>
+<p>The final BOE-Bot challenge is a &nbsp; six round competition where teams are competing to gather the most marbles in &nbsp; 5 minute rounds. Every second is crucial in collecting marbles. This auction &nbsp; item gives the team who purchases a 20 second head start on one round (which will &nbsp; be determined by the judges).</p>
+</td>
+<td>
+<p align=\"center\">6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Bulldozer</p>
+</td>
+<td>
+<p>&nbsp;&nbsp; &nbsp;<img style=\"vertical-align: middle;\" src=\"camps/504e1c714ee01553e7b8c4233b239841/blog_uploads/BDozer.jpg\" alt=\"Bulldozer\" width=\"285\" height=\"193\" /></p>
+</td>
+<td>
+<p>The bulldozer attachment provides &nbsp; the ability to corral and transport marbles.</p>
+</td>
+<td>
+<p align=\"center\">Default*</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>*given to teams that do not purchase jaws</p>|!|617305e355ec146f0949045032304d9d(*)Order of Auction Items(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371761063(*)(*)(*)<p>Below is the order that the items will be auctioned:</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>Order</strong></p>
+</td>
+<td>
+<p><strong>Item</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">1</p>
+</td>
+<td>
+<p>20 Second Head Start</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">2</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">3</p>
+</td>
+<td>
+<p>Manila Folder &amp; Tape</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">4</p>
+</td>
+<td>
+<p>20 Second Head Start</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">5</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">6</p>
+</td>
+<td>
+<p>Manila Folder &amp; Tape</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">7</p>
+</td>
+<td>
+<p>20 Second Head Start</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">8</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">9</p>
+</td>
+<td>
+<p>20 Second Head Start</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">10</p>
+</td>
+<td>
+<p>Tank</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">11</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">12</p>
+</td>
+<td>
+<p>20 Second Head Start</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">13</p>
+</td>
+<td>
+<p>Permission to Video</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">14</p>
+</td>
+<td>
+<p>20 Second Head Start</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>|!|4294ec02e1431d77e782806fa043a3e2(*)Writing Activity 2 - Results(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371761643(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">70</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|7d9d0de1370eba9485de7d03cd76a36b(*)Friday Itinerary(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371771186(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371771210(*)<p>7:00-9:00 Breakfast <br /><br />9:00-9:30 Movie Discussion (Mixed Small Groups) - Business Center Atrium</p>
+<p>9:30-11:00 Various &ndash; BOE-Bot preparation (Soccer Field Available &ndash; Bogomolny Room)</p>
+<p>11:00 -12:00 Ethics Bowl (Full Group)&nbsp;- Bogomolny Room<br />&bull; Theme: Drones<br /><br />12:00-1:30 Lunch</p>
+<p>1:30 - 3:30 BOE-Bot Soccer World Cup - field in Bogomolny Room<br /><br />After 6:00 PM &ndash; Arena available for viewing at Law School&nbsp;<br /><br /></p>|!|9f58372c979a987422e678bcfcd59cd6(*)Day 4 Video(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371825341(*)(*)(*)<p>Check out the&nbsp;<a title=\"Day 4 Video\" href=\"http://www.youtube.com/watch?v=lLBHEwJxzGs&amp;feature=youtu.be\" target=\"_blank\">Video</a>&nbsp;for Day 4!!!</p>
+<p>&nbsp;</p>
+<p>Like our&nbsp;<a title=\"NICERC facebook page\" href=\"http://www.facebook.com/cic.nicerc\" target=\"_blank\">facebook page</a>&nbsp;to see pictures of the camp throughout the week!</p>
+<p>&nbsp;</p>
+<p>Also&commasepar; folllow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://twitter.com/#!/CIC_NICERC\" target=\"_blank\">twitter</a>&nbsp;to see updates(@CIC_NICERC)!</p>|!|699c1b9fa90708165d82d14f196453a5(*)Story-Line Presentation - Queue(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371835189(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371835374(*)<p>Using a random number generator&commasepar; the Story-Line queue was determined as follows:</p>
+<ul>
+<li>9:00 - Glenelg</li>
+<li>9:10 - Catonsville</li>
+<li>9:20 - Gilman</li>
+<li>9:30 - Break</li>
+<li>9:40 - Poly</li>
+<li>9:50 - Western</li>
+</ul>
+<p>Presentations will be held in the 5th Floor Student Center Wright Theater.</p>
+<p>***If you are using some sort of computer file for your presentations&commasepar; please bring your file to the 5th Floor Student Center Theatre at&nbsp;<strong><span style=\"text-decoration: underline;\">8:30AM</span></strong>&nbsp;to upload on the computer being used for presentations. You will<strong>&nbsp;NOT</strong>&nbsp;be using your own computers for presentations.&nbsp;</p>
+<p>***Remember each team will have ten minutes (6-7 minute presentation with 3-4 minutes for questions) for the presentation of their storyline.</p>
+<p>&nbsp;</p>|!|6239fda71f0c9018656ac5b9e425b2d1(*)Treasure Hunt - New Rivest Messages(*)6977de5a004f6df4402fd570fa574a38(*)1371835654(*)(*)(*)<p>Our agents interceptted two new messages we think we sent out by Rivest last night:</p>
+<p><span>Things are getting hairy. I\'m not sure about anyone else but I\'ve been getting flooded with messages. We\'re still ahead of the feds I believe but they\'re catching up to us. I\'ve organized a few new drop &nbsp;locations for your last set of account. Rizzo has already gone out to set everything up. You new clues can be found at...</span></p>
+<div>
+<p>1) the building of hushed whispers under a bell that broke for liberty.</p>
+<p>1) the building made from many crushed into one up the stairs and behind a bulletin board for criminal justice.</p>
+<div>2) the building of&nbsp;hushed whispers&nbsp;beneath the table in the second tale.</div>
+<div>
+<p>2) the building made from many crushed into one under the freedom president\'s display case</p>
+<div>3) the building of&nbsp;hushed whispers&nbsp;inside a cabinet for holding the 1976 issue of business week</div>
+<div>
+<p>3) In the wide open hidden inside re-purposed pipes that now hold many students\' transportation</p>
+<p><span style=\"color: #222222; font-family: Univers&commasepar; sans-serif;\">4) the building of hushed whispers under a memorial table</span></p>
+<p><span style=\"color: #222222; font-family: Univers&commasepar; sans-serif;\">4) in the building where commerce is the goal behind a statue featuring&nbsp;Aristotle\'s&nbsp;language</span></p>
+<p><span style=\"color: #222222; font-family: Univers&commasepar; sans-serif;\">5) the building of hushed whispers under a seat in Clark Kent\'s favorite changing area. </span></p>
+<p><span style=\"color: #222222; font-family: Univers&commasepar; sans-serif;\">5) in the building you ar most familar with up two sets of stairs and behind a paper banner.</span></p>
+<p>-JCR</p>
+<p>---------------------</p>
+<p>&nbsp;</p>
+<p>Dearest Friend&commasepar;&nbsp;</p>
+<p>Bank adult designing highchair Galveston Code Trojan exodus. &nbsp;Your aunt will thank you!&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=\"camps/504e1c714ee01553e7b8c4233b239841/blog_uploads/sub.png\" alt=\"\" width=\"457\" height=\"62\" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We have also heard that there has been some social media activity related to Rivest\'s accounts that may be important for your progress. Our time is running out to catch this criminal we think the final communique will occur soon.</p>
+</div>
+</div>
+</div>|!|d2cc57f580ddd45754ed395492394f8f(*)Writing Activity 3 - Results(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371836293(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">60</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|efcab47d9dc41c8500c4c08dc0e65d78(*)Treasure Hunt - Updated Finds(*)6977de5a004f6df4402fd570fa574a38(*)1371841887(*)(*)(*)<p>Please remember to email GM Hunt anytime you find a clue and provide him with updates on your progress. Even if you aren\'t the first team to report back your work can help confirm other teams\' findings and earn your team points.&nbsp;</p>
+<p>Now some clues that our agents have reported back to us:</p>
+<p>1. For the scytale cipher we think the password is something about old French poets during the middle ages.</p>
+<p>2. For the vignere cipher our agents think you may have <em>heard</em> something recently that could help.</p>
+<p>3. Eubie is spelling out regular words but you may need to estimate what he\'s saying due to the conditions like wind&commasepar; angle&commasepar; and movement altering the poses slightly.</p>
+<p>If you haven\'t checked in recently with GMHunt.aaccaa@gmail.com please make sure to do so and let him know what puzzles and information your team has found.</p>|!|4ac80329cf2b6d78d4db4297205e50ac(*)BOE-Bot Challenge 3 - Results(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371842327(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">60</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|20169f6392eb740f2e03ab1a7dc262a4(*)Saturday Itinerary(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371844411(*)(*)(*)<p>&nbsp;***<strong><em>Family and School officials are welcome to attend the Storyline Presentations and the Arena Competition (final BOE-Bot challenge)</em></strong>***</p>
+<p>7:30 - 8:30 Check out of Brexton*</p>
+<p>8:30 &ndash; All teams that are using some sort of media file for their storyline presentations must report to 5th Floor Student Center Atrium with their files ready on their USB drives (movie files should be of type .wmv or quicktime supported).</p>
+<p><br />9:00 - 10:00 -- Story-Line Presentations - 5th Floor Student Center Theatre<br />Each team will present a 6-7 minute storyline given 3-4 minutes for questions. Please arrive at least 10 minutes prior to your start time.</p>
+<ul>
+<li>9:00 - Glenelg</li>
+<li>9:10 - Catonsville</li>
+<li>9:20 - Gilman</li>
+<li>9:30 - Break</li>
+<li>9:40 - Poly</li>
+<li>9:50 - Western</li>
+</ul>
+<p>9:00 &ndash; Writing Activity 4 and Final Survey Due</p>
+<p>10:30-12:00 &ndash; Arena Competition &ndash; Law School Atrium<br /><br />12:00-1:30 Lunch and Awards Presentations &ndash; Business School Atrium<br /><br />1:30-2:00 Supply Return** &amp; Student leave with Parent/Guardian - Business Center<br /><br />2:00-2:30 Teacher Debriefing - Business Center</p>
+<p>&nbsp;</p>
+<p>*All teams must check out of Brexton Saturday morning between 7:30AM - 8:30AM.</p>
+<p>**Teams must return all items (at one time) at a designated location in the Business Center. After the competition&commasepar; teams will have an allocated space in the Business Center to hold all supplies during lunch. Following lunch&commasepar; teams will check in their supplies. Following the procedure&commasepar; we will have a short (20-30min) teacher debriefing session in the Business Center for ALL teachers to attend.&nbsp;</p>|!|b756832556b6e884bbb106c7e14f52cc(*)FINAL SURVEY!!!!(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371849191(*)(*)(*)<p><span style=\"color: black; line-height: 115%; font-family: \'Arial\'&commasepar;\'sans-serif\'; font-size: 13.5pt; mso-fareast-font-family: \'Times New Roman\'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Hey everyone!!! It\'s time for the&nbsp;</span><span style=\"line-height: 115%; font-family: \'Calibri\'&commasepar;\'sans-serif\'; font-size: 11pt; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: \'Times New Roman\'; mso-bidi-theme-font: minor-bidi;\"><a title=\"Final Survey\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_eP4PKMFWb0Vnmcs\" target=\"_blank\"><span style=\"color: #0193cf; line-height: 115%; font-family: \'Arial\'&commasepar;\'sans-serif\'; font-size: 13.5pt; mso-fareast-font-family: \'Times New Roman\';\">final survey</span></a></span><span style=\"color: black; line-height: 115%; font-family: \'Arial\'&commasepar;\'sans-serif\'; font-size: 13.5pt; mso-fareast-font-family: \'Times New Roman\'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">!!! Teachers and students please complete the final survey by 9:00 AM Saturday morning.</span></p>|!|08a7cee1d1d76acfef72b8b855cd7b87(*)Fort Location Information(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371849523(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371849703(*)<p>Black pieces of tape are placed at&nbsp;six key locations on the arena floor. These pieces of tape identify the various fort locations. &nbsp;Forts can be placed in the general area near&nbsp;the black tape. &nbsp;However&commasepar; at the start of the round the fort must be touching the tape.</p>|!|bbe2a02b4c52a1e4df960a7255dbfa6c(*)Treasure Hunt - Last Update(*)6977de5a004f6df4402fd570fa574a38(*)1371870224(*)(*)(*)<p>Rivest is demanding that she receive all three bank accounts and pins (1 from the cardan grille&commasepar; 1 from the vignere&commasepar; 1 from the PGP wordlist) be sent to her encrypted with her public PGP key which she has hidden in a digital document you already have access to. Once she has that information she will reveal the location of the final set of documents which must be turned in Saturday morning to a staff member to win the 200 points.</p>|!|187eeacd660a978082cb78a3b8f18a9b(*)Writing Activity 4 - Results(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371910507(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">60</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>&nbsp;</strong></p>|!|17f4c16dcce8400ce612b67e541f8e2c(*)Creative Story Line Activity - Results(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371910730(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">400</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">360</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">320</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">280</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">240</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|7e92079940249b0b6a907512fdf7f042(*)Cyber-fort Activity - Results(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371915354(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">60</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|7a3ae93abc12eb098c1e59f5f1f5c0a9(*)Final BOEBot Arena Competition(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371917181(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">550</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">530</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">480</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">440</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">430</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|776a6fa9a02f2cc1ca23dc3d15bd46bc(*)Overall Points Distribution(*)c0a65dab56e8e0a964dbb6130ad5b766(*)1371934429(*)(*)(*)<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p><strong>School</strong></p>
+</td>
+<td>
+<p align=\"right\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glenelg</p>
+</td>
+<td>
+<p align=\"right\">1590</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gilman</p>
+</td>
+<td>
+<p align=\"right\">1514</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catonsville</p>
+</td>
+<td>
+<p align=\"right\">1403</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Western</p>
+</td>
+<td>
+<p align=\"right\">1360</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poly</p>
+</td>
+<td>
+<p align=\"right\">1324</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|

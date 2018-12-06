@@ -1,0 +1,433 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|cb3e63588fb1141728bb2396b34e67bf(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1529367443(*)d259eb37bc4b04d541b63122d52e40e9(*)1529369421(*)<p><strong>Internet Login:</strong>&nbsp;</p>
+<p>Use the following username and password for access to the LATech OpenAir wireless network.&nbsp;<br />Username:<strong>&nbsp;cdcamp&nbsp;</strong><br />Password:&nbsp;<strong>tech1894</strong></p>
+<p><strong>RA on duty tonight:</strong>&nbsp;<br />Rhett Firmin<br /><a href="tel:318-257-4917">225-402-1043</a>&nbsp;5:00 until midnight</p>
+<p><strong>Housing Office:</strong>&nbsp;<br /><a href="tel:318-257-4917">318-257-4917</a>&nbsp;<br />Open 7:30AM - 5:00PM</p>
+<p><strong>Tech Police:</strong>&nbsp;<br /><a href="tel:318-257-4018">318-257-4018</a></p>|!|a1617aa4015320888b91693aa676e577(*)T-Shirt Colors(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1529367461(*)d259eb37bc4b04d541b63122d52e40e9(*)1529369491(*)<p>We would like all teams to wear the GRAY t-shirts on Saturday; so please reserve the GRAY t-shirt to be worn on Saturday.&nbsp;</p>
+<p>For the Tuesday-Friday&commasepar; each team should choose a shirt color to wear as a team each day.</p>|!|361bd5c466afd823003481135404e76d(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1529367554(*)d259eb37bc4b04d541b63122d52e40e9(*)1529538445(*)<p>7:00 - 8:30 Breakfast<br /><br />8:30 - 11:00 Scenario Analysis - Bogard Hall 305<br /><br /><strong><em>*11:00 - Submit Question(s)</em></strong></p>
+<p>11:00 - 11:15 Break<br /><br />11:15 - 12:00 Training Seminar - Bogard Hall 305<br /><br />12:00 - 1:00 Lunch<br /><br />1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing<br /><br /><strong><em>*1:20 - Submit Documents for Briefing - In-person to Bogard Hall 304</em></strong><br /><br />1:30 - 3:00 Briefings - Bogard Hall 304</p>
+<table style="border-color: #000000; border-width: 1px; border-style: solid;" border="1" align="center">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>BRIEFING ORDER</strong></td>
+</tr>
+<tr>
+<td>St Joseph's</td>
+</tr>
+<tr>
+<td>Parkway</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>Dunham</td>
+</tr>
+<tr>
+<td style="text-align: left;">West Monroe</td>
+</tr>
+</tbody>
+</table>
+<p>3:00 - 4:30 Training Seminar: Web Security - Bogard Hall 305<br /><br />4:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner<br /><br />6:30 - 8:30 Movie Time (Full Group) - George T Madison 105 Auditorium<br /><br />8:30 - 11:00 Team Time (School Groups) - University Apartments<br /><br />11:00 Lights out</p>|!|03af7439a5bdf73d93f6e9e0bf699a27(*)Briefing 1 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1529443983(*)(*)(*)<p>Here are the results from the first briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>90</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>60</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>50</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|21b4b8a8b21fb8b6234d3e23dbe268b9(*)Wednesday Itinerary(*)d259eb37bc4b04d541b63122d52e40e9(*)1529452490(*)d259eb37bc4b04d541b63122d52e40e9(*)1529538426(*)<p>7:00 - 8:30 Breakfast</p>
+<p><strong>*8:30 Essay 1 Due</strong></p>
+<p>8:30 - 11:00 Scenario Analysis - Bogard Hall 305</p>
+<p><strong><em>*11:00 - Submit Question(s)</em></strong></p>
+<div>11:00 - 11:15 Break</div>
+<div>&nbsp;</div>
+<div>11:15 - 12:00 Training Seminar - Bogard Hall 305</div>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:00 Training Seminar: Web Security 2 - Bogard Hall 305</p>
+<p>3:00 - 4:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p><em><strong>*3:50 - Submit Documentation for Briefing - In-person to Bogard Hall 304</strong></em></p>
+<p>4:00 - 5:00 Briefings - Bogard Hall 304 / Bogard Hall 305</p>
+<table border="1" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="3"><strong>BRIEFING ORDER</strong><strong></strong></td>
+</tr>
+<tr>
+<td><strong>Bogard 304</strong></td>
+<td>&nbsp; &nbsp;&nbsp;</td>
+<td><strong>Bogard 305</strong></td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>&nbsp;</td>
+<td>St. Joseph's</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>&nbsp;</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>&nbsp;</td>
+<td>El Dorado</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>5:00 - 6:00 Dinner</p>
+<p>6:00 - 8:00 Movie Time (Full Group) - George T Madison 105 Auditorium</p>
+<p>8:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|b8ceb0ea6d6e94f3145e2ad76ba1aac0(*)Essay 1 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1529532284(*)d259eb37bc4b04d541b63122d52e40e9(*)1529683112(*)<p>Click the link for St. Joseph's to view the top essay from assignment 1.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/18ecc148254a27fa460964c321fa098f/submissions/The%20Ethos%20Logos%20and%20pathos%20of%20All%20About%20That%20Bass-0583c8f60d508ebcfbdf4c45a9b820a2.docx">St. Joseph's</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>80</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>70</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>60</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|b64735572cfcaa359241bbc97d42d3d3(*)Briefing 2 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1529532417(*)d259eb37bc4b04d541b63122d52e40e9(*)1529532815(*)<p>Here are the results from the second briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>143</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>143</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>113</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>113</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>83</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>83</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>60</td>
+</tr>
+</tbody>
+</table>|!|f7825e01309b85031af358da15ee780f(*)Thursday Itinerary(*)d259eb37bc4b04d541b63122d52e40e9(*)1529538102(*)d259eb37bc4b04d541b63122d52e40e9(*)1529588635(*)<p>7:00 - 8:30 Breakfast</p>
+<p><strong>*8:30 Essay 2 Due</strong></p>
+<p>8:30 - 11:00 Scenario Analysis - Bogard Hall 305</p>
+<p><em><strong>*11:00 - Submit Question #1</strong></em></p>
+<p>11:00 - 11:15 Break</p>
+<p>11:15 - 12:00 Training Seminar - Bogard Hall 305</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p><em><strong>*1:30 - Submit Question #2</strong></em></p>
+<p>1:30 - 3:00 Training Seminar: Web Security 3 - Bogard Hall 305</p>
+<p>3:00 - 3:15 Break</p>
+<p>3:15 - 5:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:00 - 6:00 Dinner</p>
+<p><em><strong>*6:15 Submit Documentation for Briefing - In-person to George T Madison Hall 105</strong></em></p>
+<p>6:30 - 8:00 Briefings (Full Group) - GTMH 105</p>
+<table border="1" align="center">
+<tbody>
+<tr>
+<td><strong>BRIEFING ORDER</strong></td>
+</tr>
+<tr>
+<td>Dunham</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+</tr>
+<tr>
+<td>Parkway</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+</tr>
+</tbody>
+</table>
+<p>8:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|6a5398d85c179b545a701bd1a88445cc(*)Essay 2 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1529611201(*)(*)(*)<p>Click the links for El Dorado and Ruston to view the top essays from assignment 2.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/18ecc148254a27fa460964c321fa098f/submissions/Essay%202-a75b34e5b52dd16e8f06fb70d6660a99.pdf">El Dorado</a></td>
+<td>95</td>
+</tr>
+<tr>
+<td><a href="camps/18ecc148254a27fa460964c321fa098f/submissions/Don't%20Judge%20Me%20by%20my%20title-5ce98534941f8eec053981582c253ca5.docx">Ruston</a></td>
+<td>95</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>75</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>75</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>45</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>45</td>
+</tr>
+</tbody>
+</table>|!|42579ba437cc8eee85ba98d6c26dd619(*)Friday Itinerary(*)d259eb37bc4b04d541b63122d52e40e9(*)1529618754(*)d259eb37bc4b04d541b63122d52e40e9(*)1529681630(*)<p>7:00 - 8:30 Breakfast</p>
+<p><strong>*8:30 Essay 3 Due</strong></p>
+<p>8:30 - 11:00 Scenario Analysis - Bogard Hall 305</p>
+<p><em><strong>*11:00 - Submit Question #1</strong></em></p>
+<p>11:00 - 11:15 Break</p>
+<p>11:15 - 12:00 Training Seminar - Bogard Hall 305</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 5:00 Scenario Analysis - Bogard Hall 305</p>
+<p><em><strong>*4:00 - Submit Question #2</strong></em></p>
+<p>5:00 - 7:00 Dinner</p>
+<p>7:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p><span style="color: #ff0000;"><strong>*9:00 Essay 4 Due</strong></span></p>
+<p>11:00 Lights out</p>
+<p><em><strong>*Watch the blog for document dump updates!!</strong></em></p>|!|b6f7b1eb9dc0fd1e810cff0991f6f4d9(*)Briefing 3 Results(*)aec5ef67a62ceb6df672c06b7511206f(*)1529634956(*)(*)(*)<p>Here are the results from the third briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>180</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>160</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>140</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>120</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>100</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>80</td>
+</tr>
+</tbody>
+</table>|!|52ade8d512032c534c5928d7392671f7(*)Essay 3 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1529683088(*)(*)(*)<p>Click the link for West Monroe to view the top essay from assignment 3.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/18ecc148254a27fa460964c321fa098f/submissions/PridelessPrejudice-0f0dca226ffeb183e44a45f0435a52ab.docx">West Monroe</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>90</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>55</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>55</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|c31b205ee8b42e906b5fc690579976eb(*)Saturday Itinerary(*)d259eb37bc4b04d541b63122d52e40e9(*)1529692896(*)d259eb37bc4b04d541b63122d52e40e9(*)1529692929(*)<p>7:30 - 9:00 Breakfast (University Hall Foyer)</p>
+<p dir="ltr"><em><strong>*8:45 Submit Documentation for Briefing - In-person to Bogard Hall 209 (Copy Room)</strong></em></p>
+<div>9:10 - 9:30 Public Introduction to Briefings (University Hall 134)</div>
+<p dir="ltr">9:30 - 11:00 Team Briefings (University Hall 134)</p>
+<table border="1" align="center">
+<tbody>
+<tr>
+<td><strong>BRIEFING ORDER</strong></td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>Dunham</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+</tr>
+<tr>
+<td>Parkway</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+</tr>
+</tbody>
+</table>
+<p dir="ltr">11:30 - 12:15 Luncheon and Awards (Upstairs&commasepar; Student Center)</p>
+<p dir="ltr">12:15 - 12:45 Teacher / Faculty Debrief (Upstairs&commasepar; Student Center Lounge)</p>
+<p><span id="docs-internal-guid-b884640d-8418-fff6-3a3e-61bd41ec3346">1:00 - 2:30 Check-Out&nbsp;&amp; Supply Return (Wyly Tower)</span></p>|!|dc283450435ab5aef60ac3666fe266e2(*)Briefings #8&commasepar; #9&commasepar; and #10(*)d259eb37bc4b04d541b63122d52e40e9(*)1529701959(*)d259eb37bc4b04d541b63122d52e40e9(*)1529702172(*)<p>Teams&commasepar;</p>
+<p>ZIP files of the documents in briefings #8&commasepar; #9&commasepar; and #10 will be available at various times this evening and tomorrow morning.</p>
+<p><a href="https://www.cyberdiscovery.rocks/B8.zip">Briefing #8 ZIP</a>&nbsp;will be available and enabled at 8 pm this evening (Friday).</p>
+<p><a href="https://www.cyberdiscovery.rocks/B9.zip">Briefing #9 ZIP</a> will be available and enabled at 7 am tomorrow (Saturday).</p>
+<p><a href="https://www.cyberdiscovery.rocks/B10.zip">Briefing #10 ZIP</a> will be available and enabled at 8 am tomorrow (Saturday).</p>|!|fbfdcc2a628c8724e39d906c88e9fc28(*)Essay 4 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1529759943(*)(*)(*)<p>Click the links for Dunham and El Dorado to view the top essays from assignment 4.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/18ecc148254a27fa460964c321fa098f/submissions/Essay4Peace-2085429dd74dd82ef4ef7e06f804a7fc.pdf">Dunham</a></td>
+<td>95</td>
+</tr>
+<tr>
+<td><a href="camps/18ecc148254a27fa460964c321fa098f/submissions/Essay%204-c3c58ea5ea6cb33c0e129ec7e7ec8fe5.pdf">El Dorado</a></td>
+<td>95</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>75</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>75</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>50</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|

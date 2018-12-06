@@ -1,0 +1,16 @@
+' {$STAMP BS2}
+' {$PBASIC 2.5}
+
+counter VAR Byte
+test VAR Word
+dog VAR Bit
+car VAR Nib
+
+DEBUG "A byte has ", DEC 2*2*2*2*2*2*2*2, " combinations", CR
+DEBUG "A word has ", DEC 2*2*2*2*2*2*2*2*2*2*2*2*2*2*2*2-1, " combinations", CR
+DEBUG "A bit has ", DEC 2, " combinations", CR
+DEBUG "A nib has ", DEC 2*2*2*2, " combinations", CR
+
+
+
+

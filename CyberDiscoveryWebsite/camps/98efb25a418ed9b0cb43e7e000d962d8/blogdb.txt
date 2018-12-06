@@ -1,0 +1,821 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|289a77421528629b5115c207f327ede4(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435005068(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435022195(*)<p><a href="camps/98efb25a418ed9b0cb43e7e000d962d8/blog_uploads/CampusLocationsMap.pdf">Campus Map</a></p>
+<p><strong>Hall Director:</strong>&nbsp;<br />posted inside of the apartments</p>
+<p><strong>Department of Public Safety:</strong>&nbsp;</p>
+<p>734-487-1222</p>|!|dcf69d746b10294df68b389e8242d0dd(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435005125(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435018281(*)<p>8:00 - 9:00 Breakfast</p>
+<p>*9:00 Survey 1 Due</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;<br />Group 1:&nbsp;McKenny 342 A<br />Group 2:&nbsp;McKenny 342 B<br />Group 3:&nbsp;McKenny 348 A<br />Group 4:&nbsp;McKenny 348 B<br />Group 5: McKenny 330 A&nbsp;&nbsp;<br />Group 6:&nbsp;McKenny 330 B &nbsp;</p>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group) - McKenny Ball Room (MB) &nbsp;<br />Topic: BOE-Bot Activity (Basics)&nbsp;</p>
+<p>11:00 - 11:15 Break&nbsp;</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group) -&nbsp;McKenny Ball Room (MB) &nbsp;<br />Theme: Cyber Knowledge&nbsp;<br />* Read Berry piece prior to session</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 1:45 Break</p>
+<p>1:45 - 3:30 Hands-On-Lab (Full Group) -&nbsp;McKenny Ball Room (MB) &nbsp;<br />Topic: Cryptography I</p>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - Pray-Harold 204</p>
+<p>9:00 - 11:00 Team Time (School Groups) - The Village</p>
+<p>11:00 Lights out</p>|!|0d0460a5196c85e181df31a409b86c44(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1435005401(*)(*)(*)<p>Welcome Cyber Discovery Teams!</p>
+<p>Thank you for agreeing to help out with this particular case. We have limited time to solve it.</p>
+<p>Keep working on cracking those boxes and the puzzles and clues within. So that you can be compensated (via points) for your efforts&commasepar; make sure to access the Cyber Discovery portal so that you can submit any passwords or passphrases that you discover.</p>
+<p>We will use this blog to post regular updates and to provide communication as we uncover new findings. So&commasepar; keep checking periodically for further developments.</p>
+<p>-Max</p>|!|b75455e00daf7d56d470729b32b0a40b(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1435005417(*)(*)(*)<p>Teams&commasepar;</p>
+<p>We want to make sure that you are compensated for finding passwords and passphrases. Make sure to access the Cyber Discovery Crypto Treasure Hunt portal as soon as you think you've found a password/passphrase&commasepar; and enter it in. Remember that all passwords/passphrases must be in uppercase and without spaces. You are also limited to submitting ten consecutive incorrect passwords&commasepar; after which time you are locked out of the system for ten minutes. From then on&commasepar; your lockout time doubles for every 5 consecutive incorrect passwords that you submit. So PLEASE DO NOT TRY TO GUESS OR BRUTE FORCE PASSWORDS. This complicates things for our agents.</p>
+<p>Good luck!</p>
+<p>--Max</p>|!|360ee5c33799b575729dd9e46d693d49(*)Survey 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435016934(*)(*)(*)<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys).&nbsp;</p>
+<p>Why do we need to do the surveys? Your participation in the surveys are a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.</p>
+<p>Please click the following link for the first survey:</p>
+<p><a href="http://tinyurl.com/CD2015pretest">Survey 1</a></p>
+<p>All students and teachers should complete the survey by 9:00AM Tuesday morning.</p>|!|c5bb49c37a7b492e620c5169b8031486(*)Getting Started with the Boe-Bot(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435065320(*)(*)(*)<p>Here are a few resources to get you started with the first BOE-Bot activity.</p>
+<p>If you want to install the PBasic editor used with the BOE-Bot&commasepar; you can get the latest version&nbsp;<a href="http://www.parallax.com/downloads/basic-stamp-editor-software">here.</a></p>
+<p>This first activity focuses on learning how to get the BOE-Bot moving. The following links are to parts of the previous version of our Living With the Lab curriculum (which is taken by all freshman engineering students at Louisiana Tech). These links will give you some pointers on programming the BOE-Bot to move. While you are looking around&commasepar; you might want to look at our current curriculum at&nbsp;<a href="http://www.livingwiththelab.com/">www.LivingWithTheLab.com.</a>&nbsp;Here are the links:&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/6_student_programming.pdf">subroutines</a>&commasepar;&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/7_navigation_program.bs2">using EEPROM to store your program</a>&nbsp;(advanced topic).</p>
+<p>Here are a few files from this activity that you can reference in case you missed anything from today:&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Debug_Variable_Size.bs2">DEBUG Variable Sizes</a>&commasepar;&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Turn_Servos.bs2">Turning and Centering Servos</a>&commasepar; and&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Subroutines_for_Servos.bs2">Subroutines</a>.&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Cyber_Discovery_1_BOE-Bot.pdf">Here is a PDF</a>&nbsp;of examples of the various encoding schemes shown in the talk.</p>|!|30b4ae03b81c2fa8bb66d344473cc284(*)Wednesday (*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435090998(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435151225(*)<p>8:00 - 8:45 Breakfast</p>
+<p>*9:00 Essay 1 Due</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;<br />Group 1:&nbsp;McKenny 342 A<br />Group 2:&nbsp;McKenny 342 B<br />Group 3:&nbsp;McKenny 348 A<br />Group 4:&nbsp;McKenny 348 B<br />Group 5: McKenny 330 A&nbsp;&nbsp;<br />Group 6:&nbsp;McKenny 330 B &nbsp;</p>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group) - McKenny Ball Room (MB) &nbsp;<br />Topic: Maze<br />Topic: Keyboard Input</p>
+<p>11:00 - 11:15 Break&nbsp;</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group) -&nbsp;McKenny Ball Room (MB) &nbsp;<br />Theme: Cyber Knowledge&nbsp;</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (Case Study Discussion) - A Place of Your Choosing</p>
+<p>1:30 - 1:45 Break</p>
+<p>1:45 - 3:30 Hands-On-Lab (Full Group) -&nbsp;McKenny Ball Room (MB) &nbsp;<br />Topic: Storyline Development <br /> Topic: Cryptography II</p>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - Pray-Harold 204</p>
+<p>9:00 - 11:00 Team Time (School Groups) - The Village</p>
+<p>11:00 Lights out</p>|!|8289baea2448577f9d253a555e5e7fa7(*)Boe-Bot Challenge 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435160021(*)(*)(*)<p>Below are the results of the Boe-Bot Challenge 1:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Thornapple-Kellogg&nbsp;</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>Clarkston&nbsp;</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>Pentwater</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Pinconning</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Standish-Sterling&nbsp;</td>
+<td>55&nbsp;</td>
+</tr>
+<tr>
+<td>Thurston&nbsp;</td>
+<td>35&nbsp;</td>
+</tr>
+<tr>
+<td>Athens</td>
+<td>35&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|d345108fd8fa3e75a066d1b1847a2810(*)Boe-Bot Challenge 2 Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435171388(*)(*)(*)<p>The following table shows the order the teams will compete in the second BOE-Bot Challenge&nbsp;on Thursday morning. Both courses will be running simultaneously; therefore&commasepar; we have two queues set (12-Marble Course &amp; 5-Marble Course). Notice the 12-Marble queue becomes the second half of the 5-Marble queue and vice versa.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course A (12 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>1</td>
+<td><span>Pentwater</span></td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td><span>Clarkston&nbsp;</span></td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td><span>Central</span></td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td><span>Thornapple-Kellogg&nbsp;</span></td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td><span>Athens</span></td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td><span>Thurston&nbsp;</span></td>
+</tr>
+<tr>
+<td>7&nbsp;</td>
+<td><span>Standish-Sterling</span></td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td><span>Pinconning</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course B (5 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td><span>Athens</span></td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td><span>Thurston&nbsp;</span></td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td><span>Standish-Sterling</span></td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>Pinconning</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td><span>Pentwater</span></td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td><span>Clarkston&nbsp;</span></td>
+</tr>
+<tr>
+<td>7&nbsp;</td>
+<td><span>Central</span></td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td><span>Thornapple-Kellogg&nbsp;</span></td>
+</tr>
+</tbody>
+</table>|!|a4d97c5285af6c73dca010f1749c0bb0(*)Thursday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435172884(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435248762(*)<p>8:00 - 8:45 Breakfast</p>
+<p>*9:00 Essay 2 Due</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;<br />Group 1:&nbsp;McKenny 342 A<br />Group 2:&nbsp;McKenny 342 B<br />Group 3:&nbsp;McKenny 348 A<br />Group 4:&nbsp;McKenny 348 B<br />Group 5: McKenny 330 A&nbsp;&nbsp;<br />Group 6:&nbsp;McKenny 330 B &nbsp;</p>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group) - McKenny Ball Room (MB) &nbsp;<br />Topic: Golf<br />Topic: Wireless Control</p>
+<p>11:00 - 11:15 Break&nbsp;</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group) -&nbsp;McKenny Ball Room (MB) &nbsp;<br />Theme: Soft Power&nbsp;</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (Case Study Discussion) - A Place of Your Choosing</p>
+<p>1:30 - 1:45 Break</p>
+<p>1:45 - 3:30 Hands-On-Lab (Full Group) -&nbsp;McKenny Ball Room (MB) &nbsp;<br />Topic: Manipulations and Exploitations I</p>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - Pray-Harold 204</p>
+<p>8:30 - 9:30 Auction - Pray-Harold 204</p>
+<p>9:30 - 11:00 Team Time (School Groups) - The Village</p>
+<p>11:00 Lights out</p>|!|45b1e1ff727d08804745ec0cbc6771a9(*)Writing Assignment 1 Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435190440(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435190548(*)<p>Below are the results of Writing Assignment 1:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="camps/98efb25a418ed9b0cb43e7e000d962d8/blog_uploads/Berry%20team%20essay.docx">Standish-Sterling</a>&nbsp;</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Athens</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>Thornapple-Kellogg&nbsp;</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>Pinconning</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Clarkston</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>55&nbsp;</td>
+</tr>
+<tr>
+<td>Pentwater</td>
+<td>35&nbsp;</td>
+</tr>
+<tr>
+<td>Thurston</td>
+<td>35&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|f49a247b332aed6b615b79a26fce608e(*)Auction Items(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435190781(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435190859(*)<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Picture</strong></td>
+<td><strong>Description</strong>&nbsp;</td>
+<td><strong># Avail.</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Jaw&nbsp;</p>
+</td>
+<td><img title="Hungry Hippo" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/1-jaw_snip.jpg" alt="Hungry Hippo" width="250" height="170" />&nbsp;</td>
+<td>
+<p>The jaws provide the ability to corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability of holding in the marbles after they are corralled. The jaws have added servos that lift the front bar up and down to hold in the marbles. This functionality is analogous to the children&rsquo;s game of hungry hungry hippos where the hippos&rsquo; jaws open and close to collect and hold in marbles.</p>
+</td>
+<td>5</td>
+</tr>
+<tr>
+<td>
+<p>Manila Folder &amp; Tape</p>
+</td>
+<td><img title="Manila Folder and Tape" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/3-manilaFolderTape.jpg" alt="Manila Folder and Tape" width="250" height="191" />&nbsp;</td>
+<td>
+<p>Those that purchase the manila folder and &amp; tape option can tap into their creativity to use these extremely durable materials to construct added attachments for their BOE-Bots.</p>
+</td>
+<td>2&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Storyline Media Enrichment</p>
+</td>
+<td><img title="Camera" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/4-Camera.jpg" alt="Camera" width="250" height="250" /></td>
+<td>
+<p>The creative storyline challenge provides teams the opportunity to use their creativity to represent themes of the camp through various media (live action&commasepar; PowerPoint&commasepar; etc). Video capability is one such media teams could use. However&commasepar; only two teams will have permission to use video by purchasing that right in the auction. If permission to use video is purchased&commasepar; you will be given a digital camera that you can use for your video production.</p>
+</td>
+<td>2&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>30 Second Head Start</p>
+</td>
+<td><img title="30 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/5-30Seconds.jpg" alt="30 Seconds" width="250" height="107" /></td>
+<td>
+<p>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 30 second head start for any one round.</p>
+</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>45 Second Head Start</p>
+</td>
+<td><img title="45 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/6-45Seconds.jpg" alt="45 Seconds" width="250" height="112" /></td>
+<td>
+<p>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 45 second head start for round four.</p>
+</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Roadside Assistance</p>
+</td>
+<td><img title="Side Flippers" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/8-SideFlipper.png" alt="Side Flippers" width="250" height="122" /></td>
+<td>
+<p>Suppose for a moment that another team has just left you upside down and crying with their awesome Side Flippers. I'll bet you're wishing you'd bought a pair of <em>those</em> right about now. Well&commasepar; chin up&commasepar; Buttercup: <em>Roadside Assistance is here!</em> If (for any reason) your Bot becomes disabled&commasepar; you can call on Roadside Assistance to return your Bot to your fort (right-side up and dry-eyed)&commasepar; where you can then continue to collect marbles. Or pursue vengeance...your call.</p>
+</td>
+<td>1</td>
+</tr>
+<tr>
+<td>
+<p>Side Flippers</p>
+</td>
+<td><img title="Side Flippers" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/8-SideFlipper.png" alt="Side Flippers" width="250" height="122" /></td>
+<td>
+<p>Triangular ramp that in one direction allows you to flip opponents while providing stability and in other direction allows you to scoop marbles.</p>
+</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>High Speed Servo Upgrade</p>
+</td>
+<td><img title="High-Speed Servos" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/9-HighSpeedServo.png" alt="High-Speed Servos" width="250" height="172" /></td>
+<td>
+<p>This allows for 2 to 2.5 times the speed of standard servo driven bots.</p>
+</td>
+<td>3&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Mystery</p>
+</td>
+<td><img title="Mystery" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/mystery.jpg" alt="Mystery" width="250" height="168" /></td>
+<td>Mystery Item</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Bulldozer</p>
+</td>
+<td><img title="Bulldozer" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/10-Bulldozer_snip.jpg" alt="Bulldozer" width="250" height="169" />&nbsp;</td>
+<td>
+<p>The bulldozer attachment provides the ability to corral and transport marbles. Teams will receive a bulldozer if they do not have a jaw.</p>
+</td>
+<td>Default&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|3f327b44515e7d00797c2e891c559c89(*)Survey 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435192642(*)(*)(*)<p>It's that time again...surveys!! Teachers and students&commasepar; both&commasepar; please fill out&nbsp;<a href="http://tinyurl.com/CD2015midtest">survey 2</a>&nbsp;by 9:00 AM tomorrow (Thursday) morning!</p>|!|5a4aea537d02a53e1c298db2928f88e5(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435192825(*)d259eb37bc4b04d541b63122d52e40e9(*)1435243519(*)<p>The following table outlines the current points distribution after day 3 of the camp. This list includes BOE-bot Challenge 1&commasepar; Writing Assignment 1 as well as the latest scoring information Max (with the crypto-treasure hunt) has provided.</p>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Clarkston</td>
+<td>417</td>
+</tr>
+<tr>
+<td>Troy Athens</td>
+<td>386&nbsp;</td>
+</tr>
+<tr>
+<td>Thornapple-Kellogg&nbsp;</td>
+<td>366&nbsp;</td>
+</tr>
+<tr>
+<td>Standish-Sterling</td>
+<td>287&nbsp;</td>
+</tr>
+<tr>
+<td>Pinconning</td>
+<td>280</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>235</td>
+</tr>
+<tr>
+<td>Thurston</td>
+<td>227&nbsp;</td>
+</tr>
+<tr>
+<td>Pentwater</td>
+<td>187</td>
+</tr>
+</tbody>
+</table>
+<p>All the teams are doing a great job...and remember there are still plenty of points up for grabs with the crypto-treasure hunt and the remainder of the week's activities!!!</p>|!|1f111ad4e013b554b633e6d7658caeb8(*)Sample Wireless Code(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435235680(*)(*)(*)<p>Here are 2 files that can be used as a starting point for wireless communication. One bot should be programmed with the receiver code. This bot will be able to roam around on its own (not tethered to the USB). The 2nd bot should be programmed with the transmitter code and will stay connected to the computer via USB.</p>
+<p>NOTE: You will need to set your channel in both of the programs. Each team is assigned a channel that is three characters &nbsp;( a dollar sign&commasepar; a &nbsp;number&commasepar; and a letter or a number)</p>
+<p><a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Reciever.bs2">Reciever</a></p>
+<p><a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Transmitter.bs2">Transmitter</a></p>|!|aeec24d935f9aa507586e44b4ad5bb78(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1435244063(*)(*)(*)<p>We have just received a message from Max:</p>
+<p>Cyber Discovery Teams&commasepar; it has come to our attention that some sort of important event will occur this afternoon. &nbsp;We are not sure of the exact time&commasepar; but we think that it will be a few hours (or so) before dinner time. &nbsp;Our agents have discovered that one of the items in the locked container specifies an email address and an associated password. &nbsp;Logging in to those may prove beneficial. &nbsp;There are evidently emails received at those addresses from our prime suspect&commasepar; Dan Druff. &nbsp;Several of the emails have attachments. &nbsp;Evidently&commasepar; some of the passphrases that are obtained by solving some of the clues/puzzles in the locked containers can be used to unlock those attachments. &nbsp;Our agents urge you to focus on these attachments.</p>
+<p>In addition&commasepar; our agents have indicated that the following items in the locked containers that were discovered earlier this week should be ones you focus on (at least for now):</p>
+<ol>
+<li>The document with the symbols (like wingdings) can be partially decoded by using an alignment discovered in a file on the USB stick. &nbsp;From there&commasepar; brute force can be used.</li>
+<li>The document that contains only hexadecimal numbers is apparently not encoded in ASCII (perhaps using another encoding system).</li>
+</ol>
+<p>Good luck!</p>
+<p>--Max</p>|!|834dfdd89cbc10252f8601b9c9a0cc9f(*)Boe-Bot Challenge 2 Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435246244(*)(*)(*)<p>Below are the results of the Golf Challenge:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Pentwater</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Thornapple-Kellogg&nbsp;</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>Athens</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>Pinconning</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Clarkston</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Thurston</td>
+<td>50&nbsp;</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>40&nbsp;</td>
+</tr>
+<tr>
+<td>Standish-Sterling&nbsp;</td>
+<td>30&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|503c92a3748f568936f9475177157599(*)Auction Order(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435253788(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435254284(*)<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Auction Order</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jaw</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>Manila Folder and Tape&nbsp;</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>30s Head Start -&nbsp;<strong>Blind Bid</strong></td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>Jaw</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>High-Speed Servo Upgrade</td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td>Jaw</td>
+</tr>
+<tr>
+<td>7&nbsp;</td>
+<td>45s Head Start&nbsp;</td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td>High-Speed Servo Upgrade</td>
+</tr>
+<tr>
+<td>9&nbsp;</td>
+<td>Jaw&nbsp;</td>
+</tr>
+<tr>
+<td>10&nbsp;</td>
+<td>Storyline Media Enrichment</td>
+</tr>
+<tr>
+<td>11&nbsp;</td>
+<td>Manila Folder and Tape&nbsp;</td>
+</tr>
+<tr>
+<td>12&nbsp;</td>
+<td>Side Flippers</td>
+</tr>
+<tr>
+<td>13&nbsp;</td>
+<td>Roadside Assistance</td>
+</tr>
+<tr>
+<td>14&nbsp;</td>
+<td>Jaw -&nbsp;<strong>Reverse Bid</strong></td>
+</tr>
+<tr>
+<td>15&nbsp;</td>
+<td>High-Speed Servo Upgrade</td>
+</tr>
+<tr>
+<td>16&nbsp;</td>
+<td>Mystery Item</td>
+</tr>
+</tbody>
+</table>|!|87c2b4f156d806d4380c139045e43b58(*)Boe-Bot Challenge 3 Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435254569(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435323366(*)<p>The teams for the Boe-Bot Challenge 3 (Soccer) are:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Teams</strong></td>
+<td><strong>Schools</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>A</td>
+<td>&nbsp;Standish-Sterling / Pinconning&nbsp;</td>
+</tr>
+<tr>
+<td>B&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>C&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>D&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>The order that each team will compete is:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Game</strong></td>
+<td><strong>Match-Up</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>1</td>
+<td>A vs. B</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>C vs. D&nbsp;</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>A vs. D&nbsp;</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>B vs. C&nbsp;</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>A vs. C&nbsp;</td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td>B vs. D&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|662460a594e62dc91d0afc00df035825(*)Camp Photos(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435254750(*)(*)(*)<p>Take a look at some of the photos from earlier today.</p>
+<p>&nbsp;</p>
+<p><a href="http://photos.emich.edu/p243275950">http://photos.emich.edu/p243275950</a><br /> password: cyber</p>|!|4f3cbd29535b675fa39ad3ee6aca5cc4(*)Writing Assignment 2 Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435262156(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435262222(*)<p>Click the link to view the top essay from writing assignment 2.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/98efb25a418ed9b0cb43e7e000d962d8/blog_uploads/nsa.docx">Athens</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Thornapple-Kellogg&nbsp;</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Standish-Sterling</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Clarkston</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Pinconning</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Pentwater</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Thurston</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|51c1127792aa98d1c072da2f218615ce(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1435272189(*)d259eb37bc4b04d541b63122d52e40e9(*)1435272489(*)<p>We have received an urgent message from Max:</p>
+<p>Teams&commasepar;</p>
+<p>A USB stick has been found by one of the Cyber Discovery teams near some circles. Note that it appears that only <span style="color: #ff0000;">A SINGLE USB STICK</span> was hidden by our prime suspect! Our agents are currently trying to decipher it and will provide you with anything we find on this blog. Stay tuned!</p>
+<p>Please continue to submit passwords/passphrases that you think are valid after solving clues. Password submission will be open until Saturday morning at 7am. It is to your advantage to submit as many correct passwords as you can by tonight&commasepar; Thursday&commasepar; so that you have as many points as you can for the auction.</p>
+<p>--Max</p>|!|59db78d764c73e5689abd18c8448e20c(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1435272380(*)(*)(*)<p>Cyber Discovery Teams&commasepar;</p>
+<p>DHS agents have uncovered several files from the wireless server that was discovered earlier. They are linked here:</p>
+<p><a href="http://cyberdiscovery.emich.edu/files/first.pdf">first.pdf</a><br /><a href="http://cyberdiscovery.emich.edu/files/second.pdf">second.pdf</a></p>
+<p>--Max</p>|!|37a15d644c52d9d624264ad848a0443d(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1435279292(*)d259eb37bc4b04d541b63122d52e40e9(*)1435279334(*)<p>We have received another important message from Max!</p>
+<p>Cyber Discovery Teams&commasepar;</p>
+<p>DHS agents have recovered the USB stick with what appears to be further instructions from The Balance and State Secrets. &nbsp;Its contents can be obtained from the following links:</p>
+<p><a href="http://cyberdiscovery.emich.edu/files/README.pdf">README.pdf<br /></a><a href="http://cyberdiscovery.emich.edu/files/documents.7z">documents.7z</a></p>
+<p>--Max</p>|!|3b7a9b5cde70d5ff72f9fa597f173c93(*)Friday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435322071(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435322345(*)<p>8:00 - 8:45 Breakfast</p>
+<p>*9:00 Essay 3 Due</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;<br />Group 1:&nbsp;McKenny 342 A<br />Group 2:&nbsp;McKenny 342 B<br />Group 3:&nbsp;McKenny 348 A<br />Group 4:&nbsp;McKenny 348 B<br />Group 5: McKenny 330 A&nbsp;&nbsp;<br />Group 6:&nbsp;McKenny 330 B &nbsp;</p>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group) - McKenny Ball Room (MB) &nbsp;<br />Topic: Open-Ended Preparation for Final Challenge</p>
+<p>11:00 - 12:00 Cyber Policy and Ethics (Full Group) -&nbsp;McKenny Ball Room (MB) &nbsp;&nbsp;</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (Case Study Discussion) - A Place of Your Choosing</p>
+<p>1:30 - 2:30 Boe-Bot Soccer World Cup (Full Group) -&nbsp;McKenny Ball Room (MB) &nbsp;</p>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>Topic: Cyber Fort Assembly (MB)</p>
+<p>Topic: Arena open in the first floor Student Center (Student Center Ballroom)&nbsp;</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 11:00 Team Time (School Groups) - The Village</p>
+<p>11:00 Lights out</p>|!|bf581f617117e449b000c7878a7d8898(*)Standard Servo Basics - Using the Jaws(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435322389(*)(*)(*)<p>If you bought jaws from the auction you will need this extra bit of information to help with your jaw program. The jaws use a standard servo&commasepar; where the servos you have been using are continuous.</p>
+<p>A standard servo operates in a similar manner to a Continuous Servo with one major difference. When sent a pulse&commasepar; a standard servo will move to an absolute position where a continuous servo moves to a relative position. The range of pulse widths that are valid for a standard servo is 375 to 1125. Each pulse in this range corresponds to a position between 0 and 180 degrees. You can use the standard PULSOUT command to send pulses to the servo. It is often necessary to send multiple pulses of the same width in order for the servo to reach the desired position. A sample code snippet is shown below.</p>
+<p>Pulses VAR Byte</p>
+<p>Keystroke VAR Word</p>
+<p>IF Keystroke = "q" THEN</p>
+<p>&nbsp; GOSUB up</p>
+<p>ELSEIF Keystroke ="z" THEN</p>
+<p>&nbsp; GOSUB down</p>
+<p>ENDIF</p>
+<p>END</p>
+<p>up:</p>
+<p>FOR Pulses = 1 to 5</p>
+<p>&nbsp; PULSOUT 14&commasepar; 375 'It is probably necessary to experiment with the exact pulse width NEXT RETURN</p>
+<p>down:</p>
+<p>FOR Pulses = 1 to 5</p>
+<p>&nbsp; PULSOUT 14&commasepar; 1125 'It is probably necessary to experiment with the exact pulse width NEXT RETURN</p>|!|b7d3f3a43429029ac11321e3bf4b17ac(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435322540(*)(*)(*)<p>As of 8:30AM&commasepar; on 06/26/2015 the current points distribution for all teams is as follows:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Thornapple-Kellogg&nbsp;</td>
+<td>289</td>
+</tr>
+<tr>
+<td>Pinconning&nbsp;</td>
+<td>195</td>
+</tr>
+<tr>
+<td>Athens</td>
+<td>176&nbsp;</td>
+</tr>
+<tr>
+<td>Thurston</td>
+<td>157&nbsp;</td>
+</tr>
+<tr>
+<td>Standish-Sterling</td>
+<td>120&nbsp;</td>
+</tr>
+<tr>
+<td>Clarkston</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>58&nbsp;</td>
+</tr>
+<tr>
+<td>Pentwater</td>
+<td>38</td>
+</tr>
+</tbody>
+</table>|!|87b08762878ddf4f62a67561ddb146f0(*)Treasure Hunt Winners(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435324451(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435324475(*)<p>Congrats to Thornapple-Kellogg for winning the Cyber Treasure Hunt</p>
+<p><img src="camps/98efb25a418ed9b0cb43e7e000d962d8/blog_uploads/TreasureHunt.jpg" alt="" width="533" height="300" /></p>|!|ce0702e66c2578a2270cc41781adbeba(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1435327429(*)(*)(*)<p>A new message from Max (yet again):</p>
+<p>Cyber Discovery Teams&commasepar;</p>
+<p>DHS agents have identified several important names from the encrypted member list found on the recovered USB stick. We really need to know who these people are&commasepar; and if they are indeed faculty at the university. The names are listed below:</p>
+<p>Zohan Dvir<br />Daryl Rhea<br />Biff Wellington<br />Hazel Knutt<br />Claire Reed<br />Laura Norder<br />Pepe Roni<br />Shonda Lear</p>
+<p>Good luck and thanks for all of your help this week!</p>
+<p>--Max</p>|!|35a0ed90256d47038ce69092b961305f(*)Boe-Bot Challenge 3 Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435344473(*)(*)(*)<p>Soccer Results:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Thornapple-Kellogg&nbsp;</td>
+<td>95</td>
+</tr>
+<tr>
+<td>Athens</td>
+<td>95</td>
+</tr>
+<tr>
+<td>Pentwater</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Clarkston</td>
+<td>75&nbsp;</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>55&nbsp;</td>
+</tr>
+<tr>
+<td>Thursten</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Standish-Sterling</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Pinconning</td>
+<td>35</td>
+</tr>
+</tbody>
+</table>|!|3b914f15ed7b3090d70ad01d056bd959(*)Final Survey(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435344519(*)(*)(*)<p>It's time for the <a href="http://tinyurl.com/CD2015posttest">final survey</a>!! Teachers and students please complete the final survey by Saturday morning!!</p>|!|fbb74d5c70518e11530619c5d36eb1e0(*)Writing Assignment 3 Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435345968(*)(*)(*)<p>Writing Assignment 3 Results:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Athens&nbsp;</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Thurston</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Standish-Sterling&nbsp;</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Pinconning</td>
+<td>60&nbsp;</td>
+</tr>
+<tr>
+<td>Thornapple-Kellogg&nbsp;</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Clarkston</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Pentwater</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>|!|4ff34973a1582a99c1d642424b77b092(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435346172(*)(*)(*)<p>Current Points Distribution as of 3:15PM Friday:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Thornapple-Kellogg&nbsp;</td>
+<td>434</td>
+</tr>
+<tr>
+<td>Athens</td>
+<td>371</td>
+</tr>
+<tr>
+<td>Pinconning</td>
+<td>302</td>
+</tr>
+<tr>
+<td>Thurston</td>
+<td>302</td>
+</tr>
+<tr>
+<td>Standish-Sterling</td>
+<td>259&nbsp;</td>
+</tr>
+<tr>
+<td>Clarkston&nbsp;</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>193</td>
+</tr>
+<tr>
+<td>Pentwater</td>
+<td>143</td>
+</tr>
+</tbody>
+</table>|!|0dd4dad75708d2373565dbb62fde0863(*)Saturday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1435346537(*)(*)(*)<p>7:00 &ndash; All teams that are using some sort of media file for their storyline presentations must report to Student Center Room 108 with their files ready on their USB drives (movie files should be of type .mov or QuickTime).</p>
+<p>7:00 - 8:30 Breakfast&nbsp;- First Floor Student Center</p>
+<p>7:30 - 9:45 -- Story-Line Presentations - Student Center Room 108&nbsp;<br />Each team will present a 6-7 minute storyline. Please arrive at least 10 minutes prior to your start time.</p>
+<p>&nbsp; &nbsp;7:30 - Thurston</p>
+<p>&nbsp; &nbsp;7:45 - Standish-Sterling</p>
+<p>&nbsp; &nbsp;8:00 - Clarkston</p>
+<p>&nbsp; &nbsp;8:15 - Thornapple-Kellog</p>
+<p>&nbsp; &nbsp;8:30 - Break</p>
+<p>&nbsp; &nbsp;8:45 - Central</p>
+<p>&nbsp; &nbsp;9:00 - Athens</p>
+<p>&nbsp; &nbsp;9:15 - Pinconning</p>
+<p>&nbsp; &nbsp;9:30 - Pentwater</p>
+<p>10:00 - 11:30 -- Final Cyber Challenge - Student Center Ballroom (2nd Floor)</p>
+<p>11:30 -- Lunch and Presentations &ndash;&nbsp;Student Center Ballroom (2nd Floor)</p>
+<p>12:30 - 1:00 &ndash; Teacher debriefing &amp; Supply Return - TBD</p>
+<p>1:30 - 3:00 Check-out - The Village</p>
+<p>*All teams must return supplies at the stage in the ballroom&commasepar; then proceed to clean their rooms while the teachers are at the debriefing. Once all supplies are returned and the teams&rsquo; teachers are with the students&commasepar; the teams can check out of the apartments with housing at The Village.</p>|!|

@@ -1,0 +1,821 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|2183c17d7b8f95884ad5cf4cdebdd6c0(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437438807(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437441611(*)<p>Internet Login:</p>
+<p>Use the following username and password for access to the LATech OpenAir wireless network.</p>
+<p>&nbsp;</p>
+<p>Username: cdcamp</p>
+<p>Password: tech1894</p>
+<p>&nbsp;</p>
+<p>Hall Director:</p>
+<p>Shelby</p>
+<p>318-218-4195</p>
+<p>&nbsp;</p>
+<p>Housing Office:</p>
+<p>318-257-4917</p>
+<p>Open 7:30AM - 5:00PM</p>
+<p>&nbsp;</p>
+<p>Tech Police:</p>
+<p>318-257-4018</p>|!|7916dfe9211b245c2650ba918b8f529a(*)Survey 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437438864(*)(*)(*)<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys).</p>
+<p>Why do we need to do the surveys? Your participation in the surveys are a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.</p>
+<p>Please click the following link for the first survey:</p>
+<p><a href="http://tinyurl.com/CD2015pretest%20">Survey 1</a></p>
+<p>All students and teachers should complete the survey by 9:00AM Tuesday morning.</p>|!|790fce318939b9068c54a6341e3e7505(*)T-shirt Colors(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437438900(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437441680(*)<p>We would like all teams to wear the GREY t-shirts on Saturday; so please reserve the GREY t-Shirt to be worn on Saturday.</p>
+<p>&nbsp;</p>
+<p>For the Tuesday-Friday&commasepar; each team should choose a shirt color (Black&commasepar; White&commasepar; Red&commasepar; Royal Blue) to wear as a team each day.</p>|!|6f6493db81650054451acc9b60ca304f(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437438920(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437443388(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:30 Survey 1 Due&nbsp;</p>
+<p>8:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Scenario</li>
+</ul>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Theme: Liberal Arts</li>
+</ul>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>*1:20 - Submit Documentation for Briefing - In-person to Bogard Hall 304</p>
+<p>1:30 - 3:00 Briefings - Bogard Hall 304 / Bogard Hall 305</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
+<td><strong>Bogard Hall 304 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td><strong>Bogard Hall 305</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>NOMMA</td>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>St Joseph's</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>El Dorado</td>
+<td>Parkway</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Catholic</td>
+<td>Ascension</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Dunham</td>
+<td>Airline</td>
+</tr>
+</tbody>
+</table>
+<p>3:00 - 4:30 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Computer Science</li>
+</ul>
+<p>4:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison 105 Auditorium</p>
+<p>8:30 - 9:00 Investigative Challenge 1 (Full Group) - George T Madison 105 Auditorium</p>
+<p>9:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|e8895310d58cc3cd4c0cd7c15763245f(*)Briefing Rankings(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437515337(*)(*)(*)<p>Here are the results from the first briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+<td><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong></td>
+<td><strong><strong>School &nbsp;&nbsp;</strong></strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>100</td>
+<td>&nbsp;</td>
+<td>Parkway</td>
+<td>100</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado</td>
+<td>&nbsp;85</td>
+<td>&nbsp;</td>
+<td>Airline</td>
+<td>85</td>
+</tr>
+<tr>
+<td>&nbsp;St. Joseph's&nbsp;</td>
+<td>&nbsp;70</td>
+<td>&nbsp;</td>
+<td>Ascension&nbsp;</td>
+<td>70</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA</td>
+<td>&nbsp;55</td>
+<td>&nbsp;</td>
+<td>West Feliciana&nbsp;</td>
+<td>55</td>
+</tr>
+<tr>
+<td>&nbsp;Dunham &nbsp;&nbsp;</td>
+<td>&nbsp;40</td>
+<td>&nbsp;</td>
+<td>Ruston</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|016fca4d728fc2a0a90a728e200090ef(*)Wednesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437516158(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437517190(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:30 Essay 1 Due&nbsp;</p>
+<p>8:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Scenario</li>
+</ul>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Theme: Liberal Arts</li>
+</ul>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Computer Science</li>
+</ul>
+<p>3:00 - 4:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>*3:50 - Submit Documentation for Briefing - In-person to Bogard Hall 304</p>
+<p>4:00 - 5:30 Briefings - Bogard Hall 304</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
+<td><strong>Bogard Hall 304 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td><strong>Bogard Hall 305</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>El Dorado</td>
+<td>Airline</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>West Feliciana</td>
+<td>St. Joseph's</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Ascension</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Parkway</td>
+<td>Catholic</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>NOMMA</td>
+<td>Dunham</td>
+</tr>
+</tbody>
+</table>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison 105 Auditorium</p>
+<p>8:30 - 9:15 Investigative Challenge (Full Group) - George T Madison 105 Auditorium</p>
+<p>9:15 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|97cdc961690ac30600ff539494d282eb(*)Investigative Session 1(*)d259eb37bc4b04d541b63122d52e40e9(*)1437527503(*)(*)(*)<p>The slides for Investigative Session 1 can be found <a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/slides.odp">here</a>.</p>|!|00e5d62cd1162dab9d44412a8f81c457(*)Essay 1 - Results(*)97da353824d211142a3dcfe98de47291(*)1437595513(*)(*)(*)<p><span>Click the links for Dunham and St. Joseph&rsquo;s to view the top essays from assignment 1.</span></p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/Dunham.pdf">Dunham</a></td>
+<td>95</td>
+</tr>
+<tr>
+<td><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/StJosephs.pdf">St. Joseph's</a></td>
+<td>95</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>80</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>60</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>30</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<p><span><br /></span></p>|!|b79f9a856c912344eb2aa9587577ad78(*)Briefing 2 Rankings(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437603243(*)(*)(*)<p>Here are the results from the second briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+<td><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong></td>
+<td><strong>School &nbsp;&nbsp;</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Parkway</td>
+<td>100</td>
+<td>&nbsp;</td>
+<td>&nbsp;Dunham</td>
+<td>100</td>
+</tr>
+<tr>
+<td>&nbsp;Ascension</td>
+<td>&nbsp;85</td>
+<td>&nbsp;</td>
+<td>&nbsp;Catholic</td>
+<td>85</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado&nbsp;</td>
+<td>&nbsp;70</td>
+<td>&nbsp;</td>
+<td>&nbsp;St. Joseph's&nbsp;</td>
+<td>70</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA</td>
+<td>&nbsp;55</td>
+<td>&nbsp;</td>
+<td>&nbsp;Ruston&nbsp;</td>
+<td>55</td>
+</tr>
+<tr>
+<td>&nbsp;West Feliciana &nbsp;</td>
+<td>&nbsp;40</td>
+<td>&nbsp;</td>
+<td>&nbsp;Airline</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|324af565d656a91073d83ec605aadea2(*)Investigative Session 2(*)97da353824d211142a3dcfe98de47291(*)1437603624(*)(*)(*)<p>The slides for Investigative Session 2 can be found&nbsp;<a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/Hard%20Drive%20Analysis.pdf">here</a>.</p>|!|593f8f10bc8c1c498871f43cc86a197f(*)Challenge 1 - Results(*)97da353824d211142a3dcfe98de47291(*)1437604378(*)(*)(*)<p>Below are the results for Investigative Challenge 1:</p>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>90</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>80</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>60</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>20</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|669a88606653a3861227650374910b8d(*)Thursday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437614626(*)aec5ef67a62ceb6df672c06b7511206f(*)1437661756(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:15 Essay 2 Due&nbsp;</p>
+<p>8:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Scenario</li>
+</ul>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Theme: Liberal Arts</li>
+</ul>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:30 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Computer Science</li>
+</ul>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>*6:45 Briefing Materials Due in <strong>Bogard Hall 304</strong></p>
+<p>7:00 - 8:30 Briefings (Full Group) - University Hall Auditorium</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
+<td><strong>University Hall Auditorium</strong>&nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td><strong>University Hall Classroom &nbsp;&nbsp;</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Parkway</td>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Ascension</td>
+<td>Catholic</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Ruston</td>
+<td>St. Joseph's</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Dunham</td>
+<td>NOMMA</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Airline</td>
+<td>El Dorado</td>
+</tr>
+</tbody>
+</table>
+<p>9:15 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|efbf4d81e4448e6ef2f24ff11fb7c651(*)Kennan Proof of Life(*)c65708364809cd385b24d3c5bcc8b403(*)1437659525(*)(*)(*)<p><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/Proof_of_Life.jpg">Proof of Life Image</a></p>|!|bcd489e045cbc21d876ff4c53bfc7e5b(*)Investigative Session 3(*)d259eb37bc4b04d541b63122d52e40e9(*)1437669198(*)97da353824d211142a3dcfe98de47291(*)1437682412(*)<p>Here are the slides for Investigative Session 3:</p>
+<ul>
+<li>The <a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/update.zip">update</a> done at the beginning of the session (you will <strong>NOT</strong> need to apply it again)</li>
+<li>Part 1: <a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/slides.odp">Wireless Stuff</a></li>
+<li>Part 2: <a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/Steganography.pdf">Steganography Stuff</a></li>
+</ul>|!|d1d60d4a7d645cd71e0247a8da65a8fc(*)Essay 2 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1437681396(*)d259eb37bc4b04d541b63122d52e40e9(*)1437699845(*)<p><span>Click the link for Parkway to view the top essay for Essay 2.</span></p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/Parkway.docx">Parkway</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>90</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>80</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>50</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>20</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<p><span><br /></span></p>|!|a732209164622214e4a71e41222d4ad0(*)Challenge 2 - Results(*)97da353824d211142a3dcfe98de47291(*)1437696295(*)97da353824d211142a3dcfe98de47291(*)1437696759(*)<p>Below are the results for Investigative Challenge 2:</p>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>80</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>50</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>40</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>30</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>|!|0be01e01e0c3792f23b4c7a6d6a27b98(*)Challenge 3 - Results(*)97da353824d211142a3dcfe98de47291(*)1437698278(*)(*)(*)<p>Below are the results for Investigative Challenge 3:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>100</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>80</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>50</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>30</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>|!|aed92f448a10e052ecad486ccd9b00e1(*)Slides(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437701902(*)(*)(*)<p><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/Cyber%20Camp%20Slides.pptx">Here</a> are the slides from the presentation today.</p>|!|36f0e2e1120cb4fad47219b450fc25d4(*)Briefing Rankings(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437702031(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437702108(*)<p>Here are the results from the third briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+<td><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong></td>
+<td><strong>School &nbsp;&nbsp;</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA</td>
+<td>200</td>
+<td>&nbsp;</td>
+<td>&nbsp;Ascension</td>
+<td>200</td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>170</td>
+<td>&nbsp;</td>
+<td>&nbsp;Airline</td>
+<td>170</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado&nbsp;</td>
+<td>140</td>
+<td>&nbsp;</td>
+<td>&nbsp;Dunham</td>
+<td>140</td>
+</tr>
+<tr>
+<td>&nbsp;St. Joseph's</td>
+<td>110</td>
+<td>&nbsp;</td>
+<td>&nbsp;Ruston</td>
+<td>110</td>
+</tr>
+<tr>
+<td>&nbsp;West Feliciana &nbsp;</td>
+<td>80</td>
+<td>&nbsp;</td>
+<td>&nbsp;Parkway</td>
+<td>80</td>
+</tr>
+</tbody>
+</table>|!|9e2fb709c11bae6f3a57348c7d39ad57(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437702723(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437702750(*)<p>Here are the current points distribution for the week.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>982</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>967</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>895</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>843</td>
+</tr>
+<tr>
+<td>St. Joseph's &nbsp;</td>
+<td>840</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>764</td>
+</tr>
+<tr>
+<td>West Feliciana &nbsp;</td>
+<td>661</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>627</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>539</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>471</td>
+</tr>
+</tbody>
+</table>|!|be561b824599df1ef7650601acd36ab0(*)Survey 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437723488(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437723514(*)<p>Teachers and students&commasepar; please complete survey 2 by noon on Friday.&nbsp;</p>
+<p><a href="http://tinyurl.com/CD2015midtest">http://tinyurl.com/CD2015midtest</a></p>|!|77a1e98845bce523d3f1158fe4d743df(*)Friday Schedule(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437723640(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437771174(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:30 Essay 3 Due&nbsp;</p>
+<p>8:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Scenario</li>
+</ul>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Theme: Liberal Arts</li>
+</ul>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 2:30 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Computer Science</li>
+</ul>
+<p>2:30 - 5:30 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Scenario</li>
+</ul>
+<p>5:30 - 6:30 Dinner</p>
+<p>*10:00 Essay 4 Due</p>
+<p>6:30 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|7f4c093176ccdfee3dc69b5c6a759e5b(*)Astrapi Logs(*)382eef607eea8a381515a8383cdac778(*)1437755652(*)382eef607eea8a381515a8383cdac778(*)1437755745(*)<p>We have managed to retrieve the communication log files from the Astrapi system.&nbsp; <a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/astrapi.cap">Here</a> is the raw PCAP file.&nbsp; Our analysts will also be analyzing it but that might take some time.</p>
+<p>-Agent Duncan</p>|!|b9b3edb0918c50b50aeedee860bbae9f(*)Essay 3 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1437764079(*)(*)(*)<p>Click the link for Ascension to view the top essay for Essay 3.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/Ascension.docx">Ascension</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>85</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>50</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>40</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>20</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>|!|06e931bb796fcae886e83d049e262e21(*)Saturday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437767023(*)(*)(*)<p>7:00 - 9:00 Breakfast</p>
+<p>*9:00 Survey 3 Due&nbsp;</p>
+<p>9:00 - 9:30 Public Introduction to Briefings (University Hall 134)</p>
+<p>9:30 - 11:00 Team Briefings - University Hall Auditorium/University Hall Classroom</p>
+<div>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
+<td><strong>University Hall Auditorium</strong>&nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td><strong>University Hall Classroom &nbsp;&nbsp;</strong></td>
+</tr>
+<tr>
+<td>&nbsp;9:30</td>
+<td>Ruston</td>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>&nbsp;9:50</td>
+<td>Parkway</td>
+<td>St. Joseph's</td>
+</tr>
+<tr>
+<td>&nbsp;10:10</td>
+<td>El Dorado</td>
+<td>Dunham</td>
+</tr>
+<tr>
+<td>&nbsp;10:30</td>
+<td>NOMMA</td>
+<td>Airline</td>
+</tr>
+<tr>
+<td>&nbsp;10:50</td>
+<td>Catholic</td>
+<td>Ascension</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>11:30 - 12:15 Luncheon and Awards (Student Center 222)</p>
+<p>12:15 - 12:45 Teacher / Faculty Debrief &amp; Supply Return (TBA)</p>
+<p>1:00 - 2:30 Check-Out (Women's Center)</p>|!|7122c503cc241cd05be8191249cf30e9(*)Forum Capture(*)d259eb37bc4b04d541b63122d52e40e9(*)1437773484(*)(*)(*)<p>We have retreived the <a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/Forum%20capture.docx">following information</a> that may be useful in your investigation.</p>|!|d9eb3df76866dd789aa469776ac0f456(*)Warrant Results(*)382eef607eea8a381515a8383cdac778(*)1437796492(*)d259eb37bc4b04d541b63122d52e40e9(*)1437821015(*)<p>The requests to access private email have been processed&commasepar; and we have been issued search warrants.&nbsp; Once the data are collected&commasepar; you can retrieve them from your team's Corporate Espionage Scenario Scoring Portal page (<strong>refresh the page once your time slot is reached</strong>).&nbsp; Your scheduled pickup time is listed below:</p>
+<table border="2" align="center">
+<tbody>
+<tr align="center" valign="middle">
+<td><strong>Team</strong></td>
+<td><strong>Time</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr align="center" valign="middle">
+<td align="center">Dunham</td>
+<td>6:00</td>
+<td>200</td>
+</tr>
+<tr align="center" valign="middle">
+<td>Ascension</td>
+<td>6:10</td>
+<td>180</td>
+</tr>
+<tr align="center" valign="middle">
+<td>Catholic</td>
+<td>6:20</td>
+<td>160</td>
+</tr>
+<tr align="center" valign="middle">
+<td>Airline</td>
+<td>6:30</td>
+<td>130</td>
+</tr>
+<tr align="center" valign="middle">
+<td>Parkway</td>
+<td>6:30</td>
+<td>130</td>
+</tr>
+<tr align="center" valign="middle">
+<td>El Dorado</td>
+<td>6:50</td>
+<td>100</td>
+</tr>
+<tr align="center" valign="middle">
+<td>West Feliciano</td>
+<td>7:00</td>
+<td>80</td>
+</tr>
+<tr align="center" valign="middle">
+<td>St. Joseph's</td>
+<td>7:10</td>
+<td>50</td>
+</tr>
+<tr align="center" valign="middle">
+<td>NOMMA</td>
+<td>7:10</td>
+<td>50</td>
+</tr>
+<tr align="center" valign="middle">
+<td>Ruston</td>
+<td>7:30</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>In addition&commasepar; note the following important details:</p>
+<ol>
+<li><strong>All </strong>emails will be provided at 8 AM with one final briefing.</li>
+<li>Your briefing protocol reports <strong>MUST</strong> be submitted by <span style="text-decoration: underline;"><strong>8:50AM</strong></span> so that they can be processed.&nbsp; Submit your reports on the blog through the Activities link - as with the Essays.</li>
+<li>The blog also has your briefing schedule and location. (This is just a reminder - it was posted earlier.)</li>
+<li>You will have 10 minutes to present your findings and results&commasepar; which is then followed by about 5 minutes of Questions and Answers from the panel.</li>
+</ol>|!|c5d8fe444c8e9eefa7b6c86e22effad6(*)Final Survey(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437826610(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1437833220(*)<p>All teachers and students need to complete the final survey.&nbsp;</p>
+<p><a href="http://tinyurl.com/CD2015posttest">http://tinyurl.com/CD2015posttest</a></p>|!|5c63db70a8dd1131b13dd2edc71dd389(*)Warrant Emails and an NSA Post-Attack Memo(*)d259eb37bc4b04d541b63122d52e40e9(*)1437828267(*)d259eb37bc4b04d541b63122d52e40e9(*)1437828337(*)<p>Here are the four warrant emails:</p>
+<ul>
+<li><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/warrant%20email%20-%20Donald%20Webre.docx">Donald Webre</a></li>
+<li><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/warrant%20email%20-%20Pete%20Bishop.docx">Pete Bishop</a></li>
+<li><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/warrant%20email%20-%20Raphael%20Sabmud.docx">Raphael Sabmud</a></li>
+<li><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/warrant%20email%20-%20Sandra%20Bullock.docx">Sandra Bullock</a></li>
+</ul>
+<p><a href="camps/099355909102469a59ae9f014f8293fe/blog_uploads/NSA_Memo_PostAttack_Analysis_Final.docx">Here</a> is an NSA Post-Attack Memo</p>|!|

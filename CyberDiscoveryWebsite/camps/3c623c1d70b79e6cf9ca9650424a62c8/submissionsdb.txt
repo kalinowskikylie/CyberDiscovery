@@ -1,0 +1,1 @@
+UNID(*)assignment(*)team(*)time(*)url(*)judge_rankings(*)overall_ranking|!|

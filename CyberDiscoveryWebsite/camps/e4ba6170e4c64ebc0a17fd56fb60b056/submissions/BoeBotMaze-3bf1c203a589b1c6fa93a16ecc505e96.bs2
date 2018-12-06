@@ -1,0 +1,98 @@
+' {$STAMP BS2}
+' {$PBASIC 2.5}
+
+counter VAR Word
+
+FOR counter = 1 TO 72
+GOSUB forward
+NEXT
+
+FOR counter = 1 TO 42
+GOSUB right2
+NEXT
+
+
+FOR counter = 1 TO 100
+GOSUB forward
+NEXT
+
+FOR counter = 1 TO 38
+GOSUB right2
+NEXT
+
+FOR counter = 1 TO 25 'check
+GOSUB forward
+NEXT
+
+FOR counter = 1 TO 42
+GOSUB left2
+NEXT
+
+FOR counter = 1 TO 80
+GOSUB forward
+NEXT
+
+FOR counter = 1 TO 50
+GOSUB right
+NEXT
+
+FOR counter = 1 TO 80
+GOSUB forward
+NEXT
+
+FOR counter = 1 TO 50
+GOSUB left
+NEXT
+
+FOR counter = 1 TO 80
+GOSUB forward
+NEXT
+
+FOR counter = 1 TO 50
+GOSUB left
+NEXT
+
+FOR counter = 1 TO 80
+GOSUB forward
+NEXT
+
+FOR counter = 1 TO 50
+GOSUB right
+NEXT
+FOR counter = 1 TO 80
+GOSUB forward
+NEXT
+
+END
+
+
+forward:
+PULSOUT 12, 650
+PULSOUT 13, 850
+PAUSE 20
+RETURN
+
+left2:
+PULSOUT 12, 650
+PULSOUT 13, 750
+PAUSE 20
+RETURN
+
+right2:
+PULSOUT 12, 750
+PULSOUT 13, 850
+PAUSE 20
+RETURN
+
+right:
+PULSOUT 12, 650
+PULSOUT 13, 850
+PAUSE 20
+RETURN
+
+left:
+PULSOUT 12, 850
+PULSOUT 13, 650
+PAUSE 20
+RETURN
+

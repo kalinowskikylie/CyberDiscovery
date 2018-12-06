@@ -1,0 +1,1 @@
+UNID(*)first_name(*)last_name(*)email(*)password(*)role(*)camp_session|!|1356(*)David(*)Richard(*)richard.davidj@gmail.com(*)srjh4w6uryj(*)webmaster(*)all|!|5346(*)Heath(*)Tims(*)htims@latech.edu(*)srfjy57i6835(*)suadmin(*)all|!|8567(*)Crystal(*)Korbett(*)ckorbett@latech.edu(*)hygiulo67896(*)admin(*)week1&week2&week3|!|

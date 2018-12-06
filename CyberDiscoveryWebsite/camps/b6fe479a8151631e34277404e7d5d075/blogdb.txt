@@ -1,0 +1,490 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|f21dfbcbce311a31c2d99213e457b49b(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497916345(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497922392(*)<p>Internet Login:</p>
+<p>Use the following username and password for access to the LATech OpenAir wireless network.</p>
+<p>Username: cdcamp</p>
+<p>Password: tech1894</p>
+<p><br />Resident Assistant:</p>
+<p>318-423-8601</p>
+<p><br />Housing Office:</p>
+<p>318-257-4917</p>
+<p>Open 7:30AM - 5:00PM</p>
+<p><br />Tech Police:</p>
+<p>318-257-4018</p>|!|f2edceca739b1906617f67ee39dd9852(*)T-Shirt Colors(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497916393(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497922413(*)<p>We would like all teams to wear the RED t-shirts on Saturday; so please reserve the RED t-Shirt to be worn on Saturday.</p>
+<p>&nbsp;</p>
+<p>For the Tuesday-Friday&commasepar; each team should choose a shirt color to wear as a team each day.</p>|!|4b83460617541632780463621c0454e1(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497916504(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497916863(*)<p>7:00 - 8:30 Breakfast<br /><br />8:30 - 9:15 Training Seminar: Situation Analysis - Bogard Hall 304<br /><br />9:15 - 9:25 Break<br /><br />9:25 - 10:10 Training Seminar: Textual Analysis - Bogard Hall 304<br /><br />10:10 - 10:20 Break<br /><br />10:20 - 11:05 Training Seminar: Rhetorical Analysis - Bogard Hall 304<br /><br />11:05 - 11:15 Break<br /><br />11:15 - 12:00 Training Seminar: Legal Analysis - Bogard Hall 304<br /><br />12:00 - 1:00 Lunch<br /><br />1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing<br /><br />*1:20 - Submit Documents for Briefing - In-person to Bogard Hall 304<br /><br />1:30 - 3:00 Briefings - Bogard Hall 304 / Bogard Hall 305&nbsp;</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>&nbsp; &nbsp;&nbsp;</strong></td>
+<td><strong>Bogard Hall 304 &nbsp; &nbsp;</strong></td>
+<td><strong>Bogard Hall 305 &nbsp;</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Parkway</td>
+<td>NOMMA</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Little Rock Central</td>
+<td>Plain Dealing</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Evangel</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>St. Joseph's</td>
+<td>West Monroe</td>
+</tr>
+</tbody>
+</table>
+<p>3:00 - 4:30 Training Seminar: Web Security - Bogard Hall 304<br /><br />4:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner<br /><br />6:30 - 8:30 Movie Time (Full Group) - George T Madison 105 Auditorium<br /><br />8:30 - 9:00 Training Exercise (Full Group) - George T Madison 105 Auditorium<br /><br />9:00 - 11:00 Team Time (School Groups) - University Apartments<br /><br />11:00 Lights out</p>|!|ad38438f9a1325b84f4e2c138a4a7d91(*)DHS Agent Profiles(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497990336(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497990369(*)<p>Below are the profiles of the onsite DHS agents</p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Amanda%20Sanford.pdf" target="_blank">Agent Amanda Sanford</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Drew%20McKevitt.pdf" target="_blank">Agent Drew McKevitt</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Eric%20Borquist.pdf" target="_blank">Agent Eric Borquist</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Ernest%20Rufleth.pdf" target="_blank">Agent Ernest Rufleth</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Michael%20Swanbom.pdf" target="_blank">Agent Michael Swanbom</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Nicole%20de%20Fee.pdf" target="_blank">Agent Nicole de Fee</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Scott%20Levin.pdf" target="_blank">Agent Scott Levin</a>&nbsp;</p>|!|11751ccd6ad4e0176d1091a25b9fb6ed(*)Briefing 1 Rankings(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1497990547(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498247370(*)<p>Here are the results from the first briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Percent&nbsp;</strong></td>
+<td><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong></td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>100</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Ruston &nbsp;</td>
+<td>90</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>West Monroe&nbsp;</td>
+<td>80</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Evangel</td>
+<td>60</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Little Rock Central&nbsp;</td>
+<td>50</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Plain Dealing</td>
+<td>40</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|193583472cf4aee4c868a1158f478d9b(*)Wednesday Itinerary(*)6854842ea7154a93801e5ab7e5e3f6b5(*)1498004535(*)(*)(*)<p>7:00 - 8:30 Breakfast</p>
+<p><strong>*8:30 Essay 1 Due</strong></p>
+<p>8:30 - 11:00 Training Seminar: Situation Analysis - Bogard Hall 305<br /><br />11:10 - 12:00 Training Seminar: Textual Analysis - Bogard Hall 305</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:00 Training Seminar: Web Security 2 - Bogard Hall 305</p>
+<p>3:00 - 4:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p><strong>*3:50 - Submit Documentation for Briefing - In-person to Bogard Hall 305</strong></p>
+<p>4:00 - 5:30 Briefings - Bogard Hall 305</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
+<td><strong>Bogard Hall 305</strong>&nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Evangel</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Plain Dealing</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Parkway</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>West Monroe</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Ruston&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>SJA</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Little Rock Central</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison 105 Auditorium</p>
+<p>8:30 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|ef0a5bb830f65b741eb026df44e8c6dc(*)Google Photo Album(*)aec5ef67a62ceb6df672c06b7511206f(*)1498064555(*)(*)(*)<p>Dr. Swanbom has been taking photos&commasepar; and would like to share them with everyone! Please go to this link to see the pictures:</p>
+<p><a href="https://goo.gl/photos/d5F9K1mCAEtP9Z2FA">https://goo.gl/photos/d5F9K1mCAEtP9Z2FA</a></p>
+<p>This album will be updated continually throughout the week&commasepar; so keep checking back!</p>
+<p>(If you object to any of these photos being shared&commasepar; please let Dr. Swanbom know and he will take them down.)</p>|!|a3cc892d2ba2749acba7a636dc9ad45d(*)Briefing 2 Rankings(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498086225(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498247383(*)<p>Here are the results from the second briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Percent &nbsp;</strong></td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Ruston &nbsp;</td>
+<td>90</td>
+</tr>
+<tr>
+<td>St Joseph's</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Little Rock Central &nbsp;</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Evangel&nbsp;</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Plain Dealing</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|5ffaac5b469ab1e4047d33d0da251760(*)Essay 1 Results(*)6854842ea7154a93801e5ab7e5e3f6b5(*)1498095701(*)6854842ea7154a93801e5ab7e5e3f6b5(*)1498095813(*)<p>Click the link for West Monroe to view the top essays from assignment 1.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/b6fe479a8151631e34277404e7d5d075/submissions/SSSL-4fe7b11d5c322ec41a544c7f121ab840.docx">West Monroe</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>85</td>
+</tr>
+<tr>
+<td>St Joseph's</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Plain Dealing</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Little Rock Central&nbsp;</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Evangel</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>|!|c6332a0e6519a9420e4a7648e0abda2d(*)Thursday Itinerary(*)6854842ea7154a93801e5ab7e5e3f6b5(*)1498096210(*)d259eb37bc4b04d541b63122d52e40e9(*)1498141021(*)<p>7:00 - 8:30 Breakfast</p>
+<p><strong>*8:30 Essay 2 Due</strong></p>
+<p>8:30 - 11:00 Scenario - Bogard Hall 305</p>
+<p>11:00 - 11:10 Break</p>
+<p>11:15 - 12:00 Training Seminar: Information Warfare - Bogard Hall 305</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:00 Training Seminar: Web Security 3 - Bogard Hall 305</p>
+<p>3:00 - 3:15 Break</p>
+<p>3:15 - 3:45 Training Exercise (Full Group) - Bogard Hall 305</p>
+<p>3:45 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner</p>
+<p><strong>*6:45 Briefing Materials Due in George T Madison Hall 105</strong></p>
+<p>7:00 - 8:30 Briefings (Full Group) - GTMH 105</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>BRIEFING ORDER</strong></td>
+</tr>
+<tr>
+<td>Ruston &nbsp; &nbsp; &nbsp; &nbsp;</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+</tr>
+<tr>
+<td>Parkway</td>
+</tr>
+<tr>
+<td>Evangel</td>
+</tr>
+<tr>
+<td>SJA</td>
+</tr>
+<tr>
+<td>Plain Dealing</td>
+</tr>
+</tbody>
+</table>
+<p>8:30 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|227c50804bd30e5054831920360e511e(*)Just a reminder...(*)6854842ea7154a93801e5ab7e5e3f6b5(*)1498096372(*)(*)(*)<p>The final luncheon will be on the main floor of the Student Center (Saturday around 11:00&commasepar; following briefings).</p>
+<p>Friends and family are invited to the briefings and luncheon.</p>|!|f44e4e4edaef9b180a43c239ac7f0873(*)Friday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498183716(*)(*)(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:15 Essay 3 Due</p>
+<p>8:30 - 11:00 Scenario - Bogard Hall 305</p>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Training Seminar: - Bogard Hall 305</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 5:00 Field Operations Support - Bogard Hall 305</p>
+<p>5:00 - 7:00 Dinner and Team Time</p>
+<p>7:00 - <strong>DHS Checkin - GTM 105</strong></p>
+<p>7:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|5b919aba2ad84d9f4180a2595a73cfcc(*)Briefing 3 Rankings(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498183782(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498247109(*)<p>Here are the results from the third briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Percent</strong></td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>95</td>
+</tr>
+<tr>
+<td>Ruston &nbsp;</td>
+<td>95</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>80</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Evangel &nbsp;</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Little Rock Central &nbsp;</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Plain Dealing</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|b2b9453115a031402a47e58fe00c077d(*)Essay 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498184057(*)(*)(*)<p>Click the link for St Joseph's to view the top essays from assignment 2.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/b6fe479a8151631e34277404e7d5d075/blog_uploads/generation%20z%20vs.docx">St Joseph's</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Little Rock Central &nbsp;</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Evangel</td>
+<td>70</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Parkway&nbsp;</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Plain Dealing</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|199bc8b86213c2279cba35be88b08603(*)Essay 3(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498247717(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498247785(*)<p>Click the link for Ruston to view the top essays from assignment 3.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/b6fe479a8151631e34277404e7d5d075/blog_uploads/Stand%20for%20Intelligence.docx">Ruston</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Evangel &nbsp;</td>
+<td>80</td>
+</tr>
+<tr>
+<td>St Joseph's</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Plain Dealing &nbsp;</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Little Rock Central&nbsp;</td>
+<td>40<br /><br /></td>
+</tr>
+</tbody>
+</table>|!|f4519e5e28ea3a943e84ce5cdddab836(*)Saturday Itinerary(*)6854842ea7154a93801e5ab7e5e3f6b5(*)1498254257(*)6854842ea7154a93801e5ab7e5e3f6b5(*)1498255184(*)<p>7:30 - 9:00 Breakfast (University Hall Foyer)</p>
+<p dir="ltr"><strong>*8:45 Briefing Materials Due at Bogard Hall 209 (Copy Room)</strong></p>
+<p dir="ltr">9:10 - 9:30 Public Introduction to Briefings (University Hall 134)</p>
+<p dir="ltr">9:30 - 11:00 Team Briefings (University Hall 134)</p>
+<p dir="ltr"><strong>BRIEFING ORDER:</strong></p>
+<p dir="ltr">St. Joseph's Academy</p>
+<p dir="ltr">Plain Dealing</p>
+<p dir="ltr">West Monroe</p>
+<p dir="ltr">Little Rock Central</p>
+<p dir="ltr">Ruston</p>
+<p dir="ltr">Evangel</p>
+<p dir="ltr">Parkway</p>
+<p dir="ltr">11:30 - 12:15 Luncheon and Awards (Main Floor&commasepar; Student Center)</p>
+<p dir="ltr">12:15 - 12:45 Teacher / Faculty Debrief &amp; Supply Return (Women's Center)</p>
+<p><span id="docs-internal-guid-b884640d-8418-fff6-3a3e-61bd41ec3346">1:00 - 2:30 Check-Out (Women's Center)</span></p>|!|d48c32ab759e7b23f09d25ff9b97cbc8(*)Last Briefing(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498305026(*)(*)(*)<p>Attached is the information that we have recently found.&nbsp;</p>
+<p><a href="camps/b6fe479a8151631e34277404e7d5d075/blog_uploads/01memoNASAtoDHS.pdf">Memo 1</a></p>
+<p><a href="camps/b6fe479a8151631e34277404e7d5d075/blog_uploads/02memoNASAinternal.pdf">Memo 2</a></p>|!|1a840daad16939d9b1a0e240af9ccc29(*)Briefing 4 Rankings(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498320488(*)(*)(*)<p>Here are the results from the final briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Percent</strong></td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>100</td>
+</tr>
+<tr>
+<td>West Monroe&nbsp;</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Evangel &nbsp;</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Little Rock Central &nbsp;</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Plain Dealing</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|eee021b31965d4cc33c1b66c310e1523(*)Essay 4(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498320917(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1498321261(*)<p>Here are the results from the final essay.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Plain Dealing</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Evangel</td>
+<td>60</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Little Rock Central&nbsp;</td>
+<td>40<br /><br /></td>
+</tr>
+</tbody>
+</table>|!|

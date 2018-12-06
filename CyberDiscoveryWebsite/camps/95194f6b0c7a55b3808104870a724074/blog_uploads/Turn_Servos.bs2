@@ -1,0 +1,14 @@
+' {$STAMP BS2}
+' {$PBASIC 2.5}
+
+do
+  PULSOUT 12, 650
+  PULSOUT 13, 850
+  PAUSE 20
+loop
+
+' change 650 and 850 to 750 to center servos
+
+
+
+

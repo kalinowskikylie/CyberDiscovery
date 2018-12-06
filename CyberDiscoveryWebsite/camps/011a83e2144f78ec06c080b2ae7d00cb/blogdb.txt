@@ -1,0 +1,759 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|ae27ff0a80a84597a60140c7486d56f9(*)Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1340054358(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1340055636(*)<p><strong>University of Baltimore Campus Security:</strong></p>
+<p>410-837-5520</p>
+<p><strong><br /></strong></p>
+<p><strong>MICA Campus Security:</strong></p>
+<p>410-225-2245</p>
+<p>&nbsp;</p>
+<p><strong>Meyerhoff (MICA Dorm) Front Desk:</strong></p>
+<p>443-552-1600</p>
+<p>&nbsp;</p>
+<p><strong>Internet Login:</strong></p>
+<p>Username: cybercamp</p>
+<p>Password: guest</p>|!|4abc0b4fe969e023bf1ab22fb91c422d(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1340054400(*)7ab118a6540881945675d33dc9a5d8ab(*)1340059075(*)<div class=\"blogpost\">
+<p><span>7:00-8:00 Breakfast</span></p>
+<p><span>&nbsp;</span><br />*8:30 Survey 1 is Due&nbsp;</p>
+<p><br /><span>8:30-9:00 Movie Discussion (Mixed Small Groups) -&nbsp;</span><span>MICA Dorm Common Area (1st floor)</span></p>
+<p><span>9:30-11:00 Hands-On-Lab (Full Group) - Bogomolny Room</span><br /><br /><span>Topic: BOE-Bot Activity (Basics)&nbsp;</span><br /><br /><span>11:00-11:15 Break&nbsp;</span><br /><br /><span>11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogomolny Room</span><br /><span>Theme: Cyber Knowledge</span><br />* Read the Wendell Berry piece prior to session</p>
+<p><br />12:00-1:00 Lunch - Business Center 143<br /><br />1:00-1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing<br /><br />1:30-1:40 Break<br /><br />1:45-3:30 Hands-On-Lab (Full Group) -&nbsp;Bogomolny Room<br />Topic: Cryptography I<br /><br />3:30-5:30 Team Time (School Groups) - A Place of Your Choosing<br /><br />5:30-6:30 Dinner<br /><br />6:30-8:30 Movie Time (Full Group) -&nbsp;Student Center Theatre (5th floor)<br /><br />9:00-11:00 Team Time (School Groups) - MICA Dorm<br /><br />11:00 Lights out</p>
+</div>|!|d4232a011b6678a3fa3eabb7ece458c5(*)Survey 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1340054453(*)7ab118a6540881945675d33dc9a5d8ab(*)1340066088(*)<div class=\"blogpost\">
+<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys</p>
+<p>Why do we need to do the surveys? Your participation in the surveys&nbsp;is a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.&nbsp;<br />Please click the following link for the first survey:&nbsp;</p>
+<div><a title=\"Survey 1\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_cu0fC5DrrSuEFda\" target=\"_blank\">Survey 1</a></div>
+<p><br /><br /><span>*All students and teachers should complete the survey by <strong>8:30 Tuesday</strong> morning</span></p>
+</div>|!|f9e4452468204bb112792bdda23f5096(*)Getting Started with the BOE-Bot(*)7ab118a6540881945675d33dc9a5d8ab(*)1340116877(*)7ab118a6540881945675d33dc9a5d8ab(*)1340116905(*)<p>Here are a few resources to get you started with the first BOE-Bot activity.</p>
+<p>If you want to install the PBasic editor used with the BOE-Bot&commasepar; you can get the latest version <a href=\"http://www.parallax.com/tabid/441/Default.aspx\" target=\"_blank\">here.</a></p>
+<p>This first activity focuses on learning how to get the BOE-Bot moving. The following links are to parts of the previous version of our Living With the Lab curriculum (which is taken by all freshman engineering students at Louisiana Tech). These links will give you some pointers on programming the BOE-Bot to move. While you are looking around&commasepar; you might want to look at our current curriculum at <a href=\"http://www.livingwiththelab.com./\" target=\"_blank\">www.LivingWithTheLab.com.</a> Here are the links: <a href=\"http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/6_student_programming.pdf\" target=\"_blank\">subroutines</a>&commasepar; <a href=\"http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/7_navigation_program.bs2\" target=\"_blank\">using EEPROM to store your program</a> (advanced topic).</p>
+<p>&nbsp;</p>
+<p>Here are a few files from this activity that you can reference in case you missed anything from today: <a href=\"https://www.dropbox.com/s/p10e89n3e40kdnn/debug%20variable%20size.bs2\" target=\"_blank\">DEBUG Variable Sizes</a>&commasepar; <a href=\"https://www.dropbox.com/s/xr5ynztk59luz8e/Turn%20Servos.bs2\" target=\"_blank\">Turning and Centering Servos</a>&commasepar; and <a href=\"https://www.dropbox.com/s/kigzx2yjo5in6dk/subroutines%20for%20servos.bs2\" target=\"_blank\">Subroutines</a>. <a href=\"https://www.dropbox.com/s/83oubv5r0gik3ev/Cyber%20Discovery%201.0%20BOE-Bot%201.pdf\" target=\"_blank\">Here is a PDF</a> of examples of teh various encoding schemes shown in the talk. <a href=\"https://www.dropbox.com/s/grq9drhrtb7pbdn/BOE-Bot%20with%20Servos.pptx\" target=\"_blank\">Here is the PowerPoint</a> that we went over during the first activity.</p>|!|ae8606d3b58f157b3d5d1c8985785e11(*)BOE-Bot Challenge 1 - Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1340136077(*)(*)(*)<p><span>The following table shows the order the teams will compete in the first BOE-Bot Challenge (<a title=\"Maze Dimensions\" href=\"camps/a0dcb6c0318587d9d51a687ff873ca56/blog_uploads/boe-bot%20maze%205_31_11.jpg\" target=\"_blank\">The Maze</a>) on Wednesday morning. Six teams completed the \"around the object\" task which allowed them to choose their position in the queue. The schools that did not finish the task were assigned a position in the queue ussing a random number generator.</span></p>
+<p><span><br /></span></p>
+<table style=\"border: 2px solid #000000; background-color: #ffffff;\" border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>Queue Position</strong></span></td>
+<td style=\"text-align: center;\">
+<p><span style=\"font-size: medium;\"><strong>School</strong></span></p>
+</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">1</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">Gilman</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">2</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">Poly</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">3</span></td>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">4</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">Catonsville</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">5</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">City College</span></td>
+</tr>
+</tbody>
+</table>
+<p><span><br /></span></p>|!|3393d6840f1ea18fbd18801bfda89572(*)Internet Access at UB(*)7ab118a6540881945675d33dc9a5d8ab(*)1340137305(*)7ab118a6540881945675d33dc9a5d8ab(*)1340137472(*)<p><span style=\"font-size: medium;\">You can use the below username and password throughout the week to accsess internet on the UB campus. If you enter the username and password incorrectly&commasepar; you will ikely have issues and be locked out for a few minutes.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>wifi network:</strong> ubalt-guest</span></p>
+<p style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>username:</strong> cybercamp</span></p>
+<p style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>password:</strong> guest</span></p>
+<p style=\"text-align: center;\">&nbsp;</p>|!|91d0f4841cd4440f489ab01d5110c70b(*)Wednesday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1340146471(*)7ab118a6540881945675d33dc9a5d8ab(*)1340153714(*)<p>7:00-8:00 Breakfast &ndash; MICA Dorm Cafeteria<br /> <br /> 8:30-9:00 Movie Discussion (Mixed Small Groups - Lead by Teachers)</p>
+<ul>
+<li>Group 1: Business Center 131</li>
+<li>Group 2: Business Center 133</li>
+<li>Group 3: Business Center 139</li>
+</ul>
+<p>9:00-9:30 Team Time &ndash; Maze available in Bogomolny Room</p>
+<p>9:30-11:00 Hands-On-Lab (Full Group) - Bogomolny Room</p>
+<ul>
+<li>Topic: BOE-Bot Activity (maze) &amp; Keyboard Input</li>
+</ul>
+<p><br /> 11:00-11:15 Break<br /> <br /> 11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogomolny Room</p>
+<ul>
+<li>Theme: Cyber Liberties</li>
+</ul>
+<p><br /> 12:00-1:00 Lunch (Business Center 143)<br /> <br /> 1:00-1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing<br /> <br /> 1:30-1:40 Break<br /> <br /> 1:45-3:45 Hands-On-Lab (Full Group) - Bogomolny Room</p>
+<ul>
+<li>Topic: Performing Arts</li>
+<li>Topic: Cryptography II</li>
+<li>Topic: Sketch Up Introduction</li>
+</ul>
+<p><br /> 3:45-5:30 Team Time (School Groups) - A Place of Your Choosing<br /> <br /> 5:30-6:30 Dinner<br /> <br /> 6:30-8:30 Movie Time (Full Group) &ndash; Student Center Theatre 5<sup>th</sup> Floor<br /> <br /> 9:00-11:00 Team Time (School Groups) &ndash; MICA Dorm<br /> <br /> 11:00 Lights out</p>|!|ca52af97c48ad8997c913ebb4778358f(*)Day 1 & 2 Video(*)7ab118a6540881945675d33dc9a5d8ab(*)1340148470(*)7ab118a6540881945675d33dc9a5d8ab(*)1340148535(*)<p><span style=\"font-size: medium;\">Check out the <a title=\"Day 1 &amp; 2 Video\" href=\"http://www.nicerc.org/cyber-discovery/\" target=\"_blank\">Video</a> for Day 1 &amp; 2!!!</span></p>
+<p><span style=\"font-size: medium;\"><br /></span></p>
+<p><span style=\"font-size: medium;\">Like our </span><a style=\"font-size: medium;\" title=\"NICERC facebook page\" href=\"http://www.facebook.com/cic.nicerc\" target=\"_blank\">facebook page</a><span style=\"font-size: medium;\"> to see pictures of the camp throughout the week!</span></p>
+<p><span style=\"font-size: medium;\"><br /></span></p>
+<p><span style=\"font-size: medium;\">Also&commasepar; folllow us on </span><a style=\"font-size: medium;\" title=\"NICERC Twitter\" href=\"http://twitter.com/#!/CIC_NICERC\" target=\"_blank\">twitter</a><span style=\"font-size: medium;\"> to see updates(@CIC_NICERC)!</span></p>|!|d51ae106f80f29b4a1077d5d1ccaec53(*)BOE-Bot Challenge 1 Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340203834(*)7ab118a6540881945675d33dc9a5d8ab(*)1340203847(*)<p>Below are the results of the first BOE-Bot Challenge. Congratulations to all the teams; you all did a GREAT job!</p>
+<table border=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">GIlman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">40</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">20</span></td>
+</tr>
+</tbody>
+</table>
+<p style=\"text-align: right;\">&nbsp;</p>|!|ca41758f5c89c4ecb5d57657a171ca40(*)BOE-Bot Challenge 2 - Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1340204034(*)7ab118a6540881945675d33dc9a5d8ab(*)1340204065(*)<p>Below is the queue for the second BOE-Bot Challenge (Golf Competition).</p>
+<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>Queue Position</strong></span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">1</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">Digital Harbor</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">2</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">Catonsville</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">3</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">Poly</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">4</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">Gilman</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">5</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">City</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|4a1a89df4cda02f135d9e38296c3eaec(*)Auction Items(*)7ab118a6540881945675d33dc9a5d8ab(*)1340232870(*)7ab118a6540881945675d33dc9a5d8ab(*)1340293928(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\"><strong>Item</strong></span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\"><strong>Picture</strong></span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\"><strong>Description</strong></span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\"><strong># Avail.</strong></span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">Jaw</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\"><img title=\"Bulldozer\" src=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/jaw_snip.JPG\" alt=\"Bulldozer\" width=\"170\" height=\"116\" />&nbsp;</span></td>
+<td>
+<p style=\"text-align: left;\"><span style=\"font-size: small;\">The jaws provide the ability to corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability of holding in the marbles after they are corralled. The jaws have added servos that lift the front bar up and down to hold in the marbles. This functionality is analogous to the children&rsquo;s game of hungry hungry hippos where the hippos&rsquo; jaws open and close to collect and hold in marbles.</span></p>
+</td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">3</span></td>
+</tr>
+<tr>
+<td>
+<p style=\"text-align: center;\"><span style=\"font-size: small;\">Tank Treads</span></p>
+</td>
+<td>&nbsp;<img title=\"Tank\" src=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/Tank_Snip.JPG\" alt=\"Tank\" width=\"170\" height=\"114\" /></td>
+<td>
+<p><span style=\"font-size: small;\">Tank treads add a level of robustness and maneuverability to the BOE-Bots. Tank treads gives the BOE-Bot the ability to traverse varying terrain.</span>&nbsp;</p>
+<span style=\"font-size: small;\"><br /></span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">1</span></td>
+</tr>
+<tr>
+<td>
+<p style=\"text-align: center;\"><span style=\"font-size: small;\">Manilla Folder &amp; Tape</span></p>
+</td>
+<td><span style=\"font-size: small;\">&nbsp;<img title=\"Manilla Folder\" src=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/manillaFolderTape.jpg\" alt=\"Manilla Folder\" width=\"170\" height=\"130\" /></span></td>
+<td><span style=\"font-size: small;\">Those that purchase the manila folder and &amp; tape option can tap into their creativity to use these extremely durable materials to construct added attachments for their BOE-Bots.&nbsp;</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">2</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">Permission to use Video in the Creative Storyline Challenge&nbsp;</span></td>
+<td><span style=\"font-size: small;\">&nbsp;<img title=\"Camera\" src=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/kodakCamcorder.jpg\" alt=\"Camera\" width=\"150\" height=\"150\" /></span></td>
+<td>
+<p><span style=\"font-size: small;\">The creative storyline challenge provides teams the opportunity to use their creativity to represent the week of camp through various media (live action&commasepar; PowerPoint&commasepar; etc). Video capability is on such media teams could use. However&commasepar; only two teams will have permission to use video by purchasing that right in the auction. If permission to use video is purchased&commasepar; you will be given a Kodak camcorder that you can use for your video production.</span></p>
+</td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">2</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">10 Second Head Start&nbsp;</span></td>
+<td><span style=\"font-size: small;\">&nbsp;<img title=\"Ten Seconds\" src=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/TenSeconds.JPG\" alt=\"Ten Seconds\" width=\"170\" height=\"76\" /></span></td>
+<td>
+<p><span style=\"font-size: small;\">The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 10 second head start on each of the six rounds. That is a total of an entire minute of additional marble collection time.</span></p>
+</td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">1</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">Buldozer</span></td>
+<td><span style=\"font-size: small;\"><img title=\"Bulldozer\" src=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/Bulldozer_snip.JPG\" alt=\"Bulldozer\" width=\"170\" height=\"115\" /></span></td>
+<td><span style=\"font-size: small;\">The bulldozer attachment provides the ability to corral and transport marbles.</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">Default*</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style=\"font-size: medium;\">*<span>given to teams that do not purchase jaws</span></span></p>|!|7bac56efe6f5160ed9997dd2782200de(*)Order of Auction Items(*)7ab118a6540881945675d33dc9a5d8ab(*)1340235644(*)1d32080fe693f4bfb8171b67bfb927f8(*)1340240641(*)<p>Below is the order that the items will be auctioned:</p>
+<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>Order</strong></span></td>
+<td><span style=\"font-size: medium;\"><strong>Item</strong></span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">1</span></td>
+<td><span style=\"font-size: medium;\">Jaw</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">2</span></td>
+<td><span style=\"font-size: medium;\">Permission to Video</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">3</span></td>
+<td><span style=\"font-size: medium;\">Manilla Folder &amp; Tape</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">4</span></td>
+<td><span style=\"font-size: medium;\">Jaw</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">5</span></td>
+<td><span style=\"font-size: medium;\">Tank</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">6</span></td>
+<td><span style=\"font-size: medium;\">Manilla Folder &amp; Tape</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">7</span></td>
+<td><span style=\"font-size: medium;\">Permission to Video</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">8</span></td>
+<td><span style=\"font-size: medium;\">Jaw</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">9</span></td>
+<td><span style=\"font-size: medium;\">10 Second Head Start</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|af2b24d3c60c25aa85c122046377e30e(*)Thursday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1340235830(*)7ab118a6540881945675d33dc9a5d8ab(*)1340238092(*)<p>7:00-8:00 Breakfast<br /> <br /> 8:30-9:00 Movie Discussion (Mixed Small Groups)</p>
+<ul>
+<li>Group 1: Business Center 131</li>
+<li>Group 2: Business Center 133</li>
+<li>Group 3: Business Center 139</li>
+</ul>
+<p>9:00-9:25 Team Time (Putting green will be available in Bogomolny Room)</p>
+<p>9:30-11:00 Hands-On-Lab (Full Group) - Bogomolny Room<br /> &bull; Topic: Boe-Bot Activitiy 3 (explore challenges)<br /> <br /> 11:00-11:15 Break<br /> <br /> 11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogomolny Room<br /> &bull; Theme: Cyber Operations<br /> <br /> 12:00-1:00 Lunch - Business Center 143<br /> <br /> 1:00-1:25 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing*<br /> <br /> 1:30-3:00 Hands-On-Lab (Full Group) - Bogomolny Room<br /> &bull; Topic: Manipulations and Exploitations I<br /> <br /> 3:30-5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p><em>3:30-4:00 Optional: Q &amp; A about UB programs associted with Cyber</em></p>
+<ul>
+<li><em>Business Center 131</em></li>
+<li><em>Business Center 133</em></li>
+<li><em>Business Center 139</em></li>
+<li><em>Business Center 141</em></li>
+</ul>
+<p><br /> 5:30-6:30 Dinner<br /> <br /> 6:30-9:30 Movie Time (Full Group) &amp; Auction &ndash; Business Center Auditorium (same floor as lunch) <br /> <br /> 9:30-11:00 Team Time (School Groups)</p>
+<p>11:00 Lights out</p>
+<p>*3D model of Cyberfort due</p>|!|ca0801a8e65d1421dced1b6b34c55e4b(*)Day 3 Video(*)7ab118a6540881945675d33dc9a5d8ab(*)1340235904(*)(*)(*)<p>Check out the&nbsp;<a title=\"Day 1 &amp; 2 Video\" href=\"http://www.nicerc.org/cyber-discovery/\" target=\"_blank\">Video</a>&nbsp;for Day 3!!!</p>
+<p>&nbsp;</p>
+<p>Like our&nbsp;<a title=\"NICERC facebook page\" href=\"http://www.facebook.com/cic.nicerc\" target=\"_blank\">facebook page</a>&nbsp;to see pictures of the camp throughout the week!</p>
+<p>&nbsp;</p>
+<p>Also&commasepar; folllow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://twitter.com/#!/CIC_NICERC\" target=\"_blank\">twitter</a>&nbsp;to see updates(@CIC_NICERC)!</p>|!|149826bd7f5159a11b23fc7807134d7c(*)Writing Activity 1 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340237197(*)7ab118a6540881945675d33dc9a5d8ab(*)1340238065(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><a title=\"Essay1\" href=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/Essay1Gilman.docx\" target=\"_blank\"><span style=\"font-size: medium;\">Gilman</span></a></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">40</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">20</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|dae97f3daafa15e54803f845a815331d(*)Current Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1340237745(*)7ab118a6540881945675d33dc9a5d8ab(*)1340237791(*)<p><span>The following table outlines the current points distribution after day 3 of the camp (as of 8:00PM). This list includes BOE-bot Challenge 1&commasepar; Writing Assignment 1 as well as the latest scoring information Bob (with the crypto-treasure hunt) has provided. This may not reflect all the treasure hunt information Bob has recieved to date. He is still procesing emails.</span></p>
+<p><span><br /></span></p>
+<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">175</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">121</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">198</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">46</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">270</span></td>
+</tr>
+</tbody>
+</table>
+<p><span>&nbsp;</span></p>|!|45a7e2a749aac8c7df588e15eb123ded(*)Survey 2(*)7ab118a6540881945675d33dc9a5d8ab(*)1340248176(*)(*)(*)<p><span style=\"font-size: medium;\">It\'s that time again...surveys!! Teachers and students&commasepar; both&commasepar; please fill out <a title=\"Survey 2\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_cBEYqZ2FhI6FOAs\" target=\"_blank\">survey 2</a> by 1:30 PM Thursday morning!&nbsp;</span></p>|!|b0b1330e4bfa480b43dd90c18503f5d1(*)Cyber Treasure Hunt Update(*)382eef607eea8a381515a8383cdac778(*)1340251152(*)(*)(*)<p>We have been informed by Agent Cypher that new information has been posted to the blog: http://aaccaa524287.blogspot.com/</p>
+<p>&nbsp;</p>
+<p>His analysts have compiled some of the information acquired so far from the various teams along with some possible leads that they feel might help in the search process.</p>|!|f198db97e1f09bdd551d101029ab1a01(*)BOE-Bot Challenge 2 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340292867(*)7ab118a6540881945675d33dc9a5d8ab(*)1340292971(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">40</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">20</span></td>
+</tr>
+</tbody>
+</table>
+<p style=\"text-align: right;\">&nbsp;</p>|!|012032bbbbee9c51fd86912fe87fa072(*)Ice Cream Truck Challenge(*)382eef607eea8a381515a8383cdac778(*)1340316520(*)(*)(*)<p>Here are the results for the ice cream truck challenge.&nbsp; The points show the number of points awarded while the \"score\" is the number of ice creams with penalties.&nbsp; A penalty is for any node that is not covered by a truck - each starving building must get an additional truck.</p>
+<p>&nbsp;</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\">School</span></td>
+<td><span style=\"font-size: medium;\">Score</span></td>
+<td><span style=\"font-size: medium;\">Points</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Baltimore City College</span></td>
+<td><span style=\"font-size: medium;\">26 + 2</span></td>
+<td><span style=\"font-size: medium;\">20</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Baltimore Poly</span></td>
+<td><span style=\"font-size: medium;\">27</span></td>
+<td><span style=\"font-size: medium;\">35</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td><span style=\"font-size: medium;\">27</span></td>
+<td><span style=\"font-size: medium;\">35</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td><span style=\"font-size: medium;\">29</span></td>
+<td><span style=\"font-size: medium;\">10</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td><span style=\"font-size: medium;\">25</span></td>
+<td><span style=\"font-size: medium;\">50</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|18e8a143e81f99282134686cfe87762e(*)Friday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1340319171(*)7ab118a6540881945675d33dc9a5d8ab(*)1340399498(*)<p><span style=\"font-size: medium;\">7:00-8:00 Breakfast (MICA Cafeteria)</span><br /> <br /><span style=\"font-size: medium;\"> 8:30-9:00 Movie Discussion (Mixed Small Groups)</span></p>
+<ul>
+<li><span style=\"font-size: medium;\">Group 1: Business Center 131</span></li>
+<li><span style=\"font-size: medium;\">Group 2: Business Center 133</span></li>
+<li><span style=\"font-size: medium;\">Group 3: Business Center 139</span></li>
+</ul>
+<p><span style=\"font-size: medium;\">9:15-11:00 Team Time (Soccer Field Available &ndash; Business Center Atrium) &amp; Bogomolny Room open<br /></span></p>
+<p style=\"font-size: medium;\"><span style=\"font-size: medium;\">11:00-11:15 Break</span><br /><br /><span style=\"font-size: medium;\"> 11:15-12:00 Cyber Policy and Ethics (Full Group) </span><span style=\"font-size: medium;\">- Bogomolny Room</span><br /><span style=\"font-size: medium;\"> Theme: Cyber Operations</span><br /><br /><span style=\"font-size: medium;\"> 12:00-1:00 Lunch</span><br /><br /><span style=\"font-size: medium;\"> 1:30 - 2:30 Boe-Bot Soccer World Cup - field in Business Center Atrium</span><br /><br /><span style=\"font-size: medium;\"> 2:30 - 3:30 <span style=\"font-size: medium;\">Hands on Lab (Open ended Preparation) - Bogomolny Room</span></span></p>
+<ul>
+<li style=\"font-size: medium;\"><span style=\"font-size: medium;\">Final Challenge</span></li>
+<li style=\"font-size: medium;\"><span style=\"font-size: medium;\">Storyline Assistance&nbsp; (Kimberley Lynne Available - Bogomolny Room)</span></li>
+<li style=\"font-size: medium;\"><span style=\"font-size: medium;\">Essay Assistance</span></li>
+</ul>
+<p><br /><span style=\"font-size: medium;\"> 3:30-5:30 Team Time (School Groups)&nbsp;</span><br /> <br /><span style=\"font-size: medium;\"> 5:30-6:30 Dinner</span></p>
+<p><span style=\"font-size: medium;\">6:00 Cyber Fort Due in Business Center Atrium</span><br /> <br /><span style=\"font-size: medium;\"> 6:30-8:00 Team Time - Open Ended Practice on Arena in Business Center Atrium </span><br /> <br /><span style=\"font-size: medium;\"> 9:00-11:00 Team Time (School Groups) - in rooms</span><br /> <br /><span style=\"font-size: medium;\"> 11:00 Lights out</span></p>|!|c765fe4e6f236c91f6af40af610c3627(*)Writing Activity 2 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340319705(*)7ab118a6540881945675d33dc9a5d8ab(*)1340319912(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><a title=\"Writing Activity 2 Catonsville\" href=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/WritingActivity2Catonsville.doc\"><span style=\"font-size: medium;\">Catonsville</span></a></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">40</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">20</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|3128a4accc67736194e72c98c2f8b268(*)Current Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1340325349(*)7ab118a6540881945675d33dc9a5d8ab(*)1340325360(*)<p>Below is the curret points distribution as of 8:15PM.</p>
+<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">356</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">294</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">476</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">105</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">512</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|1e53147c7b17e17179379e9e96d380e1(*)Day 4 Video(*)7ab118a6540881945675d33dc9a5d8ab(*)1340371212(*)(*)(*)<p>Check out the&nbsp;<a title=\"Day 1 &amp; 2 Video\" href=\"http://www.nicerc.org/cyber-discovery/\" target=\"_blank\">Video</a>&nbsp;for Day 4!!!</p>
+<p>&nbsp;</p>
+<p>Like our&nbsp;<a title=\"NICERC facebook page\" href=\"http://www.facebook.com/cic.nicerc\" target=\"_blank\">facebook page</a>&nbsp;to see pictures of the camp throughout the week!</p>
+<p>&nbsp;</p>
+<p>Also&commasepar; folllow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://twitter.com/#!/CIC_NICERC\" target=\"_blank\">twitter</a>&nbsp;to see updates(@CIC_NICERC)!</p>|!|780aaab03a5c9347c452da5459e4ca72(*)Story-Line Presentation - Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1340375069(*)7ab118a6540881945675d33dc9a5d8ab(*)1340375444(*)<p><span>Using a random number generator&commasepar; the Story-Line queue was determined as follows:</span></p>
+<ul>
+<li><span>8:30 - Digital Harbor</span></li>
+<li><span>8:40 - Catonsville</span></li>
+<li><span>8:50 - Gilman</span></li>
+<li><span>9:00 - Break</span></li>
+<li><span>9:10 - Poly</span></li>
+<li><span>9:20 - City College</span></li>
+</ul>
+<p><span>Presentations will be held in the 5th Floor Studnet Center Theatre.</span></p>
+<p><span>***If you are using some sort of computer file for your presentations&commasepar; please bring your file to the 5th Floor Student Center Theatre at <span style=\"text-decoration: underline;\"><strong>8:00AM</strong></span> to upload on the computer being used for presentations. You will<strong> </strong><span><strong>NOT</strong></span> be using your own computers for presentations.&nbsp;</span></p>
+<p><span>***Remember each team will have ten minutes (6-7 minute presentation with 3-4 minutes for questions) for the presentation of their storyline.</span></p>
+<p><span><br /></span></p>
+<p>For help in play formatting check out this <a title=\"Play Formatting\" href=\"http://www.scriptfrenzy.org/howtoformatastageplay\" target=\"_blank\">link</a>!!!</p>|!|b6829c17d1f2bee08cca799b8978b322(*)Updated Reading Activity(*)7ab118a6540881945675d33dc9a5d8ab(*)1340375559(*)(*)(*)<p>We noticed the reading activity for today was a little difficcult to read&commasepar; here is an updated version of the <a title=\"Constitutional Law\" href=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/ConstitutionalLawandPoliticsNew.pdf.doc\" target=\"_blank\">document</a> that is easier to read. The link in the assignment has also been updated.&nbsp;</p>|!|c477321f81ba471f740c255133c34646(*)Saturday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1340379349(*)7ab118a6540881945675d33dc9a5d8ab(*)1340401800(*)<p>&nbsp;</p>
+<p>***Family and School officals are welcome to attend the Storyline Presentations and the Final BOE-Bot Challenge***</p>
+<p>7:30 - 8:30 Check out of MICA*</p>
+<p>8:00 &ndash; All teams that are using some sort of media file for their storyline presentations must report to 5th Floor Student Center Atrium with their files ready on their USB drives (movie files should be of type .wmv or quicktime supported).</p>
+<p><br />8:30 - 9:30 -- Story-Line Presentations - 5th Floor Student Center Theatre<br /> Each team will present a 6-7 minute storyline given 3-4 minutes for questions. Please arrive at least 10 minutes prior to your start time.</p>
+<ul>
+<li>8:30 - Digital Harbor</li>
+<li>8:40 - Catonsville</li>
+<li>8:50 - Gilman</li>
+<li>9:00 - Break</li>
+<li>9:10 - Poly</li>
+<li>9:20 - City College</li>
+</ul>
+<div>9:30 - Final Survey Due</div>
+<p><br /> 10:00 - 11:00 -- Final Cyber Challenge - Business Center Atrium<br /> <br /> 11:30 -- Lunch and Awards Presentations - Lyric Opera House<br /> <br /> 12:30-1:00 Supply Return** &amp; Student leave with Parent/Guardian - Business Center<br /> <br /> 1:00 - 1:30 Teacher Debriefing - Business Center</p>
+<p>&nbsp;</p>
+<p>*All teams must check out of MICA Saturday morning between 7:30AM - 8:30AM. Please return rooms to the state at which they were when you arrived. Cyber Discovery Camp Staff will have vehicles ready to transport luggage to a designated luggage room in the Business Center which will remain locked until after lunch and the above supplies are returned at a designated location in the Business Center. Campers will receive a luggage tag from CD Camp staffers&commasepar; to ensure the proper return of luggage.</p>
+<p>**Teams must return all items (at one time) at a designated location in the Business Center. After the competition&commasepar; teams will have an allocated space in the Business Center to hold all supplies during lunch. Following lunch&commasepar; teams will check in their supplies&commasepar; and then retrieve their luggage. Following the procedure&commasepar; we will have a short (20-30min) teacher debriefing session in the Business Center for ALL teachers to attend.&nbsp;<br /> <br /><br /></p>
+<p>&nbsp;</p>|!|6592b281361c3c814d3874babaebe0bb(*)BOE-Bot Challenge 3 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340389584(*)7ab118a6540881945675d33dc9a5d8ab(*)1340389593(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">40</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">20</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|10bcd405363309dad222dfd4cbf2e8bc(*)FINAL SURVEY!!!!(*)7ab118a6540881945675d33dc9a5d8ab(*)1340399197(*)(*)(*)<p>Hey everyone!! It\'s time for the <a title=\"Final Survey\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_eP4PKMFWb0Vnmcs\" target=\"_blank\">final survey</a>!! Teachers and students please complete the final survey by 9:30 AM tomorrow morning.</p>|!|832cc9b1eca9804a62b2707004bd1a4c(*)Writing Activity 3 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340401112(*)7ab118a6540881945675d33dc9a5d8ab(*)1340403410(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><a title=\"Essay 3 Dig Har\" href=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/DigHar3.zip\" target=\"_blank\"><span style=\"font-size: medium;\">Digital Harbor</span></a></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">40</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">20</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|98b88d1fd02d52f1a4f4ef0f52b59eb7(*)Fort Location Information(*)7ab118a6540881945675d33dc9a5d8ab(*)1340402769(*)7ab118a6540881945675d33dc9a5d8ab(*)1340407171(*)<p>Black pieces of tape are placed at eight key locations on the arena floor. These pieces of tape identify the various fort locations. Forts can be placed in the general area near of the black tape. &nbsp;However&commasepar; at the start of the round the fort must be touching the tape.</p>
+<p>Using the current points distribution&commasepar; teams will pick the order by which they decide on their initial fort location. Once the inital fort location is decided&commasepar; after each round teams will rotate locations clockwise. Tomorrow morning&commasepar; prior to the start of the final competition&commasepar; the fort locations will be announced.&nbsp;</p>
+<p>Teams can use this <a title=\"Fort Locations\" href=\"camps/011a83e2144f78ec06c080b2ae7d00cb/blog_uploads/fort%20locations%20baltimore.PNG\" target=\"_blank\">diagram</a> of the arena to help in the decision.&nbsp;</p>
+<p>&nbsp;</p>
+<p>The order that the fort locations will be decided are as follows:</p>
+<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>Order</strong></span></td>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">1</span></td>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">2</span></td>
+<td><span style=\"font-size: medium;\">Digital Harbor&nbsp;</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">3</span></td>
+<td><span style=\"font-size: medium;\">Poly&nbsp;</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">4</span></td>
+<td><span style=\"font-size: medium;\">Gilman&nbsp;</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\">5</span></td>
+<td><span style=\"font-size: medium;\">City College</span></td>
+</tr>
+</tbody>
+</table>
+<p style=\"text-align: center;\">&nbsp;</p>|!|f8a47700d6cbae47b9e71c8faaa24c3e(*)Current Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1340402913(*)(*)(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">366</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">368</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">588</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">141</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">491</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|33d9c45634dfe555b2a461b2225bcfb6(*)Day 5 Video(*)7ab118a6540881945675d33dc9a5d8ab(*)1340408368(*)(*)(*)<p>Check out the&nbsp;<a title=\"Day 1 &amp; 2 Video\" href=\"http://www.nicerc.org/cyber-discovery/\" target=\"_blank\">Video</a>&nbsp;for Day 5!!!</p>
+<p>&nbsp;</p>
+<p>Like our&nbsp;<a title=\"NICERC facebook page\" href=\"http://www.facebook.com/cic.nicerc\" target=\"_blank\">facebook page</a>&nbsp;to see pictures of the camp throughout the week!</p>
+<p>&nbsp;</p>
+<p>Also&commasepar; folllow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://twitter.com/#!/CIC_NICERC\" target=\"_blank\">twitter</a>&nbsp;to see updates(@CIC_NICERC)!</p>|!|467c3f09137dd47691e1beb89353c0c3(*)Cyber Treasure Hunt(*)382eef607eea8a381515a8383cdac778(*)1340459901(*)382eef607eea8a381515a8383cdac778(*)1340459931(*)<p>Congratulations to Team Catonsville for finding the hidden treasure.&nbsp; All teams made great progress but in the end they were neck and neck with Gilman until the final clue.</p>
+<p>-Christian</p>|!|24d695c8c949514202f6bb577c9bc9f5(*)Writing Activity 4 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340461243(*)(*)(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">40</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">20</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|bbf83b3020ff57cfe6c38a695b2b2d87(*)Creative Story Line Activity - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340461875(*)(*)(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">400</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">350</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">300</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">250</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">200</span></td>
+</tr>
+</tbody>
+</table>|!|f0e2a1f5d1f75d99a7ef0e98dba3d4f2(*)Cyberfort Activity - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340464108(*)(*)(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>Schhol</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">40</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">20</span></td>
+</tr>
+</tbody>
+</table>|!|77d2bef3c4d349762764a6bba1026673(*)Final BOE-Bot Challenge - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1340464461(*)(*)(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">520</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">480</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">380</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">250</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">170</span></td>
+</tr>
+</tbody>
+</table>|!|dd6f2441f6e1b6e6a97f1284be6e153b(*)Overall Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1340469534(*)(*)(*)<table border=\"2\" cellspacing=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">City College</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">1236</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Poly</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">998</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Catonsville</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">1508</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Digital Harbor</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">551</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: medium;\">Gilman</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\">1561</span></td>
+</tr>
+</tbody>
+</table>|!|

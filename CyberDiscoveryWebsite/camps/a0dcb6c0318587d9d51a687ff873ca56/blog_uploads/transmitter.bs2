@@ -1,0 +1,39 @@
+' {$STAMP BS2}
+' {$PBASIC 2.5}
+'***********************
+' transmitter.bs2
+' Example to transmit decimal
+' values to a receiver Boe-Bot
+' ***********************
+X         VAR Byte
+
+CHANNEL   CON $0C    ' Set Channel Here
+BAUD      CON 84     ' Baud rate, 9600, 8-N-1, non-inverted, on BS2.
+
+RX        PIN 0      ' Receive Pin
+TX        PIN 2      ' Transmit Pin
+
+' This code contains Debugging output.  Feel free to comment
+' this out if you no longer need it for debugging.
+GOSUB EstablishConnection
+
+' Read in a value
+DO
+  DEBUGIN X
+  SEROUT  TX, BAUD, [DEC X, CR, CR]  ' Send value of X as decimal to receiver Boe-Bot
+
+  ' Second CR is added byte buffer for flow control example
+  PAUSE 20
+LOOP
+END
+
+EstablishConnection:
+  HIGH TX
+  DEBUG CLS, "Configuring XBee..."
+  PAUSE 2000                                ' Guard time for command sequence
+  SEROUT TX, BAUD,["+++"]                   ' Enter command mode
+  PAUSE 2000                                ' Guard time for command sequence
+  SEROUT TX, BAUD, ["ATCH ", HEX CHANNEL, CR]  ' Set channel
+  PAUSE 2000
+  DEBUG "Configuration Complete!",CR
+  RETURN

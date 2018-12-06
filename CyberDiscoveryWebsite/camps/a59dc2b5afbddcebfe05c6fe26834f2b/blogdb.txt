@@ -1,0 +1,829 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|58cb7095668e4a357b03c4be92dff1a7(*)Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403552750(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403570978(*)<p>Internet Login:</p>
+<p>Use the UCAGUEST wireless network.</p>
+<p>&nbsp;</p>
+<p>Campus Police:</p>
+<p>(501) 450-3111</p>|!|c51991a65b3a3a76203a4c77523c14d5(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403557467(*)d259eb37bc4b04d541b63122d52e40e9(*)1403633683(*)<p>7:30 - 8:30 Breakfast - Cafeteria</p>
+<p>*8:45 Survey 1 Due&nbsp;</p>
+<p>8:45 - 9:15 Movie Discussion (Mixed Small Groups)</p>
+<ul>
+<li>Group 1: MCST 104</li>
+<li>Group 2: MCST 105</li>
+<li>Group 3:&nbsp;MCST 110</li>
+<li>Group 4: MCST 211</li>
+<li>Group 5: MCST 219</li>
+<li>Group 6: MCST 220</li>
+</ul>
+<p>9:15 - 10:30 Hands-On-Lab (Full Group) - MCST 338</p>
+<ul>
+<li>Topic: BOE-Bot Activity (Basics)</li>
+</ul>
+<p>10:30 - 10:40 Break</p>
+<p>10:40 - 11:30 Cyber Policy and Ethics (Full Group) - MCST 338</p>
+<ul>
+<li>Theme: Cyber Knowledge</li>
+<li>Read Berry piece prior to session</li>
+</ul>
+<p>11:30 - 12:30 Lunch - Cafeteria</p>
+<p>12:30 - 1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 1:40 Break</p>
+<p>1:45 - 3:30 Hands-On-Lab (Full Group) - MCST 213</p>
+<ul>
+<li>Topic: Cryptography I</li>
+</ul>
+<p>3:30 - 5:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:00 - 6:00 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - Lewis Science 100</p>
+<p>9:00 - 11:00 Team Time (School Groups) - New Hall</p>
+<p>11:00 Lights out</p>|!|6bf0b57cf28bf68a195537ad2d0be714(*)Survey 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403557529(*)(*)(*)<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys).</p>
+<p>Why do we need to do the surveys? Your participation in the surveys are a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.</p>
+<p>Please click the following link for the first survey:</p>
+<p><a href="https://us1.us.qualtrics.com/SE/?SID=SV_cu0fC5DrrSuEFda">Survey 1</a></p>
+<p>All students and teachers should complete the survey by 9:00AM Tuesday morning.</p>|!|6fd69ab3cf93c75b83867f6908a08713(*)Welcome(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403557583(*)(*)(*)<p>Welcome Cyber Discovery Team!</p>
+<p>Thank you for agreeing to help out with this particular case. We have limited time to figure out if Mr. Everett (Suspect Alpha) is indeed still alive&commasepar; and if not&commasepar; what has convinced Mr. Sheppard that he may be.</p>
+<p>Keep working on cracking those boxes and the puzzles and clues within. So that you can be compensated (via points) for your efforts&commasepar; make sure to access the Cyber Discovery portal so that you can submit any passwords or passphrases that you discover.</p>
+<p>We will use this blog (along with&nbsp;<a href="http://maxmaven1337.blogspot.com/">Max's personal blog</a>) to post daily updates and to provide communication as we uncover new findings. So&commasepar; keep checking periodically for further developments.</p>|!|2e2a8e83afdae5df32ac75a74f766673(*)Boe-Bot Basics(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403617546(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403617665(*)<p>Here are a few resources to get you started with the first BOE-Bot activity.</p>
+<p>If you want to install the PBasic editor used with the BOE-Bot&commasepar; you can get the latest version&nbsp;<a href="http://www.parallax.com/downloads/basic-stamp-editor-software">here.</a></p>
+<p>This first activity focuses on learning how to get the BOE-Bot moving. The following links are to parts of the previous version of our Living With the Lab curriculum (which is taken by all freshman engineering students at Louisiana Tech). These links will give you some pointers on programming the BOE-Bot to move. While you are looking around&commasepar; you might want to look at our current curriculum at&nbsp;<a href="http://www.livingwiththelab.com./">www.LivingWithTheLab.com.</a>&nbsp;Here are the links:&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/6_student_programming.pdf">subroutines</a>&commasepar;&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/7_navigation_program.bs2">using EEPROM to store your program</a>&nbsp;(advanced topic).</p>
+<p>Here are a few files from this activity that you can reference in case you missed anything from today:&nbsp;<a href="https://www.dropbox.com/s/p10e89n3e40kdnn/debug%20variable%20size.bs2">DEBUG Variable Sizes</a>&commasepar;&nbsp;<a href="https://www.dropbox.com/s/xr5ynztk59luz8e/Turn%20Servos.bs2">Turning and Centering Servos</a>&commasepar; and&nbsp;<a href="https://www.dropbox.com/s/kigzx2yjo5in6dk/subroutines%20for%20servos.bs2">Subroutines</a>.&nbsp;</p>|!|cd4764124fb59095eea498159d4542b7(*)Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1403618037(*)(*)(*)<p>Cyber Discovery Teams&commasepar;</p>
+<p>DHS agents have uncovered new information. &nbsp;Please keep up with <a href="http://maxmaven1337.blogspot.com/">Max's Blog</a> for updates on this.</p>
+<p>Also&commasepar; We want to make sure that you are compensated for finding passwords and passphrases. Make sure to access the Cyber Discovery portal as soon as you think you've found a password&commasepar; and enter it in. Remember that all passwords must be in uppercase and without spaces. You are also limited to submitting five passwords (correct or incorrect) every five minutes after which time you are locked out of the system for the remainder of the five minutes. Remember that if you get locked out five times&commasepar; your limit changes to five passwords every ten minutes. It doubles each time you are locked out five times.</p>
+<p>PLEASE DO NOT GUESS AND TRY TO BRUTE FORCE PASSWORDS. This is not the intent of the treasure hunt.</p>
+<p>Good luck!</p>|!|e8d26ff21217462065b4bb7d6287ca73(*)Wednesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403655548(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403714549(*)<p>7:30 - 8:30 Breakfast - Cafeteria</p>
+<p>8:45 - 9:15 Movie Discussion (Mixed Small Groups)</p>
+<ul>
+<li>Group 1: MCST 104</li>
+<li>Group 2: MCST 105</li>
+<li>Group 3:&nbsp;MCST 110</li>
+<li>Group 4: MCST 211</li>
+<li>Group 5: MCST 219</li>
+<li>Group 6: MCST 220</li>
+</ul>
+<p>9:15 - 10:30 Hands-On-Lab (Full Group) &nbsp;- MCST 338</p>
+<ul>
+<li>Topic: BOE-Bot Activity (Maze Challenge)</li>
+<li>Topic: BOE-Bot Activity (Boe-Bot Keyboard Input)</li>
+</ul>
+<p>10:30 - 10:40 Break</p>
+<p>10:40 - 11:30 Cyber Policy and Ethics (Full Group) - MCST 338</p>
+<ul>
+<li>Theme: Cyborgs and Humanity</li>
+<li>Read Haraway Articles prior to this session</li>
+</ul>
+<p>11:30 - 12:30 Lunch - Cafeteria</p>
+<p>12:30 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 1:40 Break</p>
+<p>1:45 - 3:30 Hands-On-Lab (Full Group) - MCST 213</p>
+<ul>
+<li>Topic: Storyline Development</li>
+<li>Topic: Cryptography II</li>
+<li>Topic: Cyber Architecture</li>
+</ul>
+<p>3:30 - 5:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<ul>
+<li>3:30-4:00 Sketch-Up Introduction - MCST 338</li>
+</ul>
+<p>5:00 - 6:00 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - Lewis Science 100</p>
+<p>9:00 - 11:00 Team Time (School Groups) - New Hall</p>
+<p>11:00 Lights out</p>|!|f74a1280eb0af7ce06d86a5994f7cedb(*)(*)97da353824d211142a3dcfe98de47291(*)1403659246(*)(*)(*)<p><img src="camps/a59dc2b5afbddcebfe05c6fe26834f2b/blog_uploads/photo%202.JPG" alt="Poe" width="250" height="333" /></p>
+<p><img src="camps/a59dc2b5afbddcebfe05c6fe26834f2b/blog_uploads/photo%201.JPG" alt="Poe's Quote" width="250" height="188" /></p>
+<p>kvplavnzxielelnhquixeemikjirfqfaoudgifzxmscequsfbtrgvrrtxaiwzu</p>|!|4036abf2863120aa06845b74ceb608df(*)Boe-Bot Challenge 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403707891(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403709076(*)<p><span>Below are the results of the Boe-Bot Challenge 1:</span></p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Pottsville</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Calico Rock</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Mt Vernon - Enola</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Parkview</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Pine Bluff</td>
+<td>50</td>
+</tr>
+</tbody>
+</table>|!|c5e7ea4d6354e844ed7c1643ffa4d81d(*)Boe-Bot Challenge 2 - Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403709197(*)(*)(*)<p>The following table shows the order the teams will compete in the second BOE-Bot Challenge&nbsp;on Thursday morning. Both courses will be running simultaneously; therefore&commasepar; we have two queues set (12-Marble Course &amp; 5-Marble Course). Notice the 12-Marble queue becomes the second half of the 5-Marble queue and vice versa.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course A (12 Marbles)</strong></td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School&nbsp;</strong></td>
+</tr>
+<tr>
+<td>1&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course B (5 Marbles)</strong></td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School&nbsp;</strong></td>
+</tr>
+<tr>
+<td>1&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|b7e9b64597b0b467fa9d48b11fb9e1c3(*)What the Internet is Doing to our Brains(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403711737(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403711846(*)<p>Here is the video "<iframe src="http://www.youtube.com/embed/cKaWJ72x1rI" frameborder="0" width="425" height="350"></iframe>" that was shown in todays discussion on "Is Google making us stupid?"</p>|!|79ce9a839df4b9dadf7a8ae3b24ed75b(*)Cyber Fort(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403724953(*)(*)(*)<p><span>Click&nbsp;</span><a href="http://prezi.com/ev8djv_gkknb/cyber-fort-presentation-deal/">here</a><span>&nbsp;for the Cyber Fort Lecture presented by Dr. Deal today.</span></p>|!|b9fa37d8776da601a9b25feeb90d084b(*)Final Boe-Bot Challenge Information (*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403725001(*)(*)(*)<p><span>Click&nbsp;</span><a href="https://www.youtube.com/watch?v=l_QEiuL3Jbw&amp;feature=youtu.be">here</a><span>&nbsp;for a video about the Final Boe-Bot Challenge by Dr. Deal.</span></p>|!|9b75036468309fdaa58330abf4de7531(*)Auction Items(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403745933(*)(*)(*)<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Picture</strong></td>
+<td><strong>Description</strong></td>
+<td><strong># Avail.</strong></td>
+</tr>
+<tr>
+<td>Jaw</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/1-jaw_snip.jpg" alt="Jaw" width="250" height="170" /></td>
+<td>The jaws provide the ability to corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability of holding in the marbles after they are corralled. The jaws have added servos that lift the front bar up and down to hold in the marbles. This functionality is analogous to the children&rsquo;s game of hungry hungry hippos where the hippos&rsquo; jaws open and close to collect and hold in marbles.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Manila Folder &amp; Tape</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/3-manillaFolderTape.jpg" alt="Manilla Folder and Tape" width="250" height="191" /></td>
+<td>Those that purchase the manila folder and &amp; tape option can tap into their creativity to use these extremely durable materials to construct added attachments for their BOE-Bots.</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Permission to use Video in the Creative Storyline Challenge</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/4-Camera.jpg" alt="Camera" width="250" height="250" /></td>
+<td>The creative storyline challenge provides teams the opportunity to use their creativity to represent the week of camp through various media (live action&commasepar; PowerPoint&commasepar; etc). Video capability is one such media teams could use. However&commasepar; only two teams will have permission to use video by purchasing that right in the auction. If permission to use video is purchased&commasepar; you will be given a digital camera that you can use for your video production.</td>
+<td>2</td>
+</tr>
+<tr>
+<td>30 Second Head Start</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/5-30Seconds.jpg" alt="30 Seconds" width="250" height="107" /></td>
+<td>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 30 second head start for any one round.</td>
+<td>1</td>
+</tr>
+<tr>
+<td>45 Second Head Start</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/6-45Seconds.jpg" alt="45 Seconds" width="250" height="112" /></td>
+<td>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 45 second head start for round three.</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Side Flippers</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/8-SideFlipper.png" alt="Side Flippers" width="250" height="122" /></td>
+<td>Triangular ramp that in one direction allows you to flip opponents while providing stability and in other direction allows you to scoop marbles.</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Roadside Assistance</td>
+<td><img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/8-SideFlipper.png" alt="Side Flippers" width="250" height="122" /></td>
+<td>During the final competition&commasepar; offensive and defensive strategies can be used by all teams. If your bot becomes disabled&commasepar; then you are able to declare a reset that will return your bot to your fort. You may use this roadside assistance once&commasepar; but you can use it at any point during the competition.</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Bulldozer</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/10-Bulldozer_snip.jpg" alt="Bulldozer" width="250" height="169" /></td>
+<td>The bulldozer attachment provides the ability to corral and transport marbles. Teams will receive a bulldozer if they do not have a jaw.</td>
+<td>Default</td>
+</tr>
+</tbody>
+</table>|!|31b47dba6fc61218466f00db15f5aaf5(*)Writing Assignment 1 – Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403746012(*)(*)(*)<p>Click the link on Central&nbsp;to view the top essay from writing assignment 1.</p>
+<div align="center">
+<table border="1" cellspacing="3" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p align="center"><strong>School</strong></p>
+</td>
+<td>
+<p align="center"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><a title="Central Essay 1" href="camps/a59dc2b5afbddcebfe05c6fe26834f2b/blog_uploads/Berry%20Essay-Central.docx">Central</a></p>
+</td>
+<td>
+<p align="center">100&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Mt Vernon &ndash; Enola</p>
+</td>
+<td>
+<p align="center">90&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Pottsville</p>
+</td>
+<td>
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Calico Rock</p>
+</td>
+<td>
+<p align="center">70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Pine Bluff</p>
+</td>
+<td>
+<p align="center">60&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Parkview</p>
+</td>
+<td>
+<p align="center">50</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>|!|659f160422e96934990e12266f03d114(*)Thursday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403788099(*)(*)(*)<p>7:30 - 8:30 Breakfast - Cafeteria</p>
+<p>8:45 - 9:15 Movie Discussion (Mixed Small Groups)</p>
+<ul>
+<li>Group 1: MCST 104</li>
+<li>Group 2: MCST 105</li>
+<li>Group 3:&nbsp;MCST 110</li>
+<li>Group 4: MCST 211</li>
+<li>Group 5: MCST 219</li>
+<li>Group 6: MCST 220</li>
+</ul>
+<p>9:15 - 10:30 Hands-On-Lab (Full Group) &nbsp;- MCST 338</p>
+<ul>
+<li>Topic: BOE-Bot Activity (Golf Challenge)</li>
+<li>Topic: BOE-Bot Activity (Explore Challenges)</li>
+</ul>
+<p>10:30 - 10:40 Break</p>
+<p>10:40 - 11:30 Cyber Policy and Ethics (Full Group) - MCST 338</p>
+<ul>
+<li>Theme: Meaning of Friendship in a Social Networked World</li>
+<li>Read Friendship Article prior to this session</li>
+</ul>
+<p>11:30 - 12:30 Lunch - Cafeteria</p>
+<p>12:30 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 1:40 Break</p>
+<p>1:45 - 3:30 Hands-On-Lab (Full Group) - MCST 213</p>
+<ul>
+<li>Topic: Manipulations and Exploitations I&nbsp;</li>
+</ul>
+<p>3:30 - 5:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<ul>
+<li>3:30-4:00 Sketch-Up Introduction - MCST 338</li>
+</ul>
+<p>5:00 - 6:00 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - Lewis Science 100</p>
+<p>9:00 - 11:00 Team Time (School Groups) - New Hall</p>
+<p>11:00 Lights out</p>|!|86be273dcf65119386a7ae508aa2d647(*)(*)97da353824d211142a3dcfe98de47291(*)1403789749(*)97da353824d211142a3dcfe98de47291(*)1403810450(*)<p>Now who be the newbie?</p>
+<p>Not us here at UB.</p>
+<p>Our <a href="camps/a59dc2b5afbddcebfe05c6fe26834f2b/blog_uploads/Tabula_Recta.pdf">encryptions</a> not bad.</p>
+<p>Show us <a href="camps/a59dc2b5afbddcebfe05c6fe26834f2b/blog_uploads/Arkansas.pdf">U Can Add</a>!</p>
+<p>We hope eyes filled with tears</p>
+<p>Won't turn stripes into smears.</p>|!|f1c4771ba472189251eec21d7d8f011b(*)Wireless Code(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403790084(*)(*)(*)<p><span>Here are 2 files that can be used as a starting point for wireless communication. One bot should be programmed with the receiver code. This bot will be able to roam around on its own (not tethered to the USB). The 2nd bot should be programmed with the transmitter code and will stay connected to the computer via USB.</span></p>
+<p><span>&nbsp;</span></p>
+<p><span>NOTE: You will need to set your channel in both of the programs. Each team is assigned a channel that is three characters &nbsp;( a dollar sign&commasepar; a &nbsp;number&commasepar; and a letter or a number)</span></p>
+<p><span>&nbsp;</span></p>
+<p><a href="camps/9d4e7c6130f097651b872c4d0df2fade/blog_uploads/Reciever.bs2"><span style="color: #000000;">Receiver</span></a></p>
+<p><a href="camps/9d4e7c6130f097651b872c4d0df2fade/blog_uploads/Transmitter.bs2"><span style="color: #000000;">Transmitter</span></a></p>|!|a65da3d5b7ce4e98997cc7c66062026c(*)Golf Challenge Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403796360(*)(*)(*)<p>The Golf Challenge results are:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Pottsville</td>
+<td>95</td>
+</tr>
+<tr>
+<td>Mt Vernon - Enola</td>
+<td>95&nbsp;</td>
+</tr>
+<tr>
+<td>Parkview</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>Calico Rock</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Pine Bluff</td>
+<td>60&nbsp;</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>50&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|0306a485f73365c96e3ef37efee28f58(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403796593(*)(*)(*)<p>Current Points Distribution:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Mt Vernon - Enola</td>
+<td>492</td>
+</tr>
+<tr>
+<td>Pottsville</td>
+<td>485&nbsp;</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>446&nbsp;</td>
+</tr>
+<tr>
+<td>Calico Rock</td>
+<td>357</td>
+</tr>
+<tr>
+<td>Parkview</td>
+<td>309&nbsp;</td>
+</tr>
+<tr>
+<td>Pine Bluff</td>
+<td>278</td>
+</tr>
+</tbody>
+</table>|!|fca33aecca2f674e219d6c45239aef3f(*)Auction Order(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403817133(*)(*)(*)<p><span class="blogpostTitle">Order of Auction Items</span><br /><br /></p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Auction Order</strong></td>
+</tr>
+<tr>
+<td>1&nbsp;</td>
+<td>Jaw</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>Manilla Folder and Tape</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>Permission to Use Video</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>30s Head Start -&nbsp;<strong>Blind Bid</strong></td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>Jaw</td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td>Jaw</td>
+</tr>
+<tr>
+<td>7&nbsp;</td>
+<td>45s Head Start</td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td><span>Permission to Use Video</span></td>
+</tr>
+<tr>
+<td>9&nbsp;</td>
+<td>Manilla Folder and Tape</td>
+</tr>
+<tr>
+<td>10&nbsp;</td>
+<td>Roadside Assistance</td>
+</tr>
+<tr>
+<td>11&nbsp;</td>
+<td>Side Flippers</td>
+</tr>
+<tr>
+<td>12&nbsp;</td>
+<td>Jaw -&nbsp;<strong>Reverse Bid</strong></td>
+</tr>
+<tr>
+<td>13&nbsp;</td>
+<td>Mystery Item</td>
+</tr>
+</tbody>
+</table>|!|50595bdd13616a6b251b69267efe9419(*)Final Boe-Bot Challenge Information (*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403817184(*)(*)(*)<p><span>Click&nbsp;</span><a href="https://www.youtube.com/watch?v=l_QEiuL3Jbw&amp;feature=youtu.be">here</a><span>&nbsp;for a video about the Final Boe-Bot Challenge by Dr. Deal.</span></p>|!|e903080e7b601120108a682f1c622cab(*)Survey 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403817278(*)(*)(*)<p><span>It's that time again...surveys!! Teachers and students&commasepar; both&commasepar; please fill out&nbsp;</span><a href="https://us1.us.qualtrics.com/SE/?SID=SV_cBEYqZ2FhI6FOAs">survey 2</a><span>&nbsp;by 9:00 AM tomorrow (Friday) morning!</span></p>|!|4bf1ad63efed38d16c6fe6228005b589(*)Medals Have Been Found(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403818862(*)(*)(*)<p><span>Teams&commasepar;</span></p>
+<p><span>The medals have been found! &nbsp;Please continue to submit passwords that you think are valid after solving clues. &nbsp;Password submission will be open until Saturday morning at 7am. &nbsp;It is to your advantage to submit as many correct passwords as you can by tonight&commasepar; Thursday&commasepar; so that you have as many points as you can for the auction.</span></p>|!|14da024b080391f72001735c573f97ef(*)Movie Intros(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403827297(*)(*)(*)<p>Movie Discussion questions (from the Movie intros)</p>
+<p>&nbsp;</p>
+<p><em>WarGames</em></p>
+<p>&nbsp;</p>
+<p>1. How does the way information is obtained change during the &ldquo;evolution&rdquo; of these movies&commasepar; and how is this related to advancements in technology?</p>
+<p>&nbsp;</p>
+<p>2. Does the role of technology help or hinder the characters?</p>
+<p>&nbsp;</p>
+<p>3. How important is security?</p>
+<p>&nbsp;</p>
+<p>4. Can security be trusted to machines? Do we also need humans?</p>
+<p>&nbsp;</p>
+<p>5. Consider what Wendell Berry says (from the article you need to read for tomorrow):&nbsp; &ldquo;I do not see that computers are bringing us one step nearer to anything that does matter to me: peace&commasepar; economic justice&commasepar; ecological health&commasepar; political honesty&commasepar; family and community stability&commasepar; good work.&rdquo; Does the &ldquo;war game&rdquo; help or hinder these things?</p>
+<p>&nbsp;</p>
+<p>6. Also what you&rsquo;ll encounter in Berry&commasepar; and what you should think about for each film&mdash;does technology isolate us or does it bring us together?</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>Sneakers</em></p>
+<p><em>&nbsp;</em></p>
+<p>Other things to consider perhaps for your discussion and your own storylines:</p>
+<ul>
+<li>How is the information delivered?</li>
+<li>Who has the information?</li>
+<li>Does any one person have all of the information at any one time?</li>
+<li>What are the objectives of the characters?</li>
+<li>Do those objectives or goals change as more information becomes available?</li>
+<li>What are the conflicts?</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A. What are the simple&commasepar; complex&commasepar; and moral/ethical conflicts?</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B. Do they evolve as the movie goes on&commasepar; that is as more information becomes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; available?</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C. Are all three types of conflict part of the same issue?</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D. How are the conflicts resolved?</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>The Net</em></p>
+<p>&nbsp;</p>
+<ul>
+<li>How is the information delivered?</li>
+<li>Who has the information?</li>
+<li>Does any one person have all of the information at any one time?</li>
+<li>What are the objectives of the characters?</li>
+<li>Do those objectives or goals change as more information becomes available?</li>
+<li>What are the conflicts?</li>
+<li>How are the conflicts resolved?</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>RoboCop</em></p>
+<p>&nbsp;</p>
+<p>1. The question of humanity: What makes us human? How do we define humanity? How easy is it to lose our humanity?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Tied to the issue of humanity: Violence. There&rsquo;s a lot of violence in the film&commasepar; but it&rsquo;s mostly between machines. What do the questions of violence the movie raises say about our culture? And think about this in the context of what you learned and read this week&commasepar; so&hellip;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. How are these issues related to technology? What place does this movie and these issues have in the cyber world?&mdash;specifically with regards to the issue of security.</p>
+<p>&nbsp;</p>
+<p>Pay attention to the human connections during the film as well&commasepar; and think about why these human connections are so important to and in the film.</p>|!|c50176e96fe31ffc7dfd3b8b82afa9a4(*)Writing Assignment 2 – Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403832268(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403833354(*)<p>Writing Assignment 2 results are:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Parkview</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>Pine Bluff</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>Calico Rock</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Pottsville</td>
+<td>60&nbsp;</td>
+</tr>
+<tr>
+<td>Mt Vernon - Enola &nbsp;&nbsp;</td>
+<td>50&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|58494b54de76db25c2b1db7c7e164b71(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403832399(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403833346(*)<p>Current Points Distributions as of 8:30 Thursday night are:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Central</td>
+<td>752</td>
+</tr>
+<tr>
+<td>Mt Vernon - Enola &nbsp;</td>
+<td>640</td>
+</tr>
+<tr>
+<td>Pottsville</td>
+<td>561</td>
+</tr>
+<tr>
+<td>Calico Rock</td>
+<td>543</td>
+</tr>
+<tr>
+<td>Parkview</td>
+<td>447</td>
+</tr>
+<tr>
+<td>Pine Bluff</td>
+<td>400</td>
+</tr>
+</tbody>
+</table>|!|6f10b7f965fccc7cd0829db35699a782(*)Wireless network server files(*)d259eb37bc4b04d541b63122d52e40e9(*)1403832851(*)d259eb37bc4b04d541b63122d52e40e9(*)1403881084(*)<p>Cyber Discovery Teams&commasepar;</p>
+<p>DHS agents have uncovered several files from the wireless server that was discovered earlier at 4pm. They are attached&commasepar; along with the text found on the server.</p>
+<p><a href="camps/a59dc2b5afbddcebfe05c6fe26834f2b/blog_uploads/animal_clock.pdf">First&commasepar; check out the Animal Clock</a><span>.</span></p>
+<p><a href="camps/a59dc2b5afbddcebfe05c6fe26834f2b/blog_uploads/map.pdf">Then&commasepar; retrieve the data file</a><span>.</span></p>|!|38cd3f86afb03f8096f61f4d1b6eb91b(*)Standard Servo Basics - Using the Jaw(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403837900(*)(*)(*)<p>If you bought jaws from the auction you will need this extra bit of information to help with your jaw program. The jaws use a standard servo&commasepar; where the servos you have been using are continuous.</p>
+<p>A standard servo operates in a similar manner to a Continuous Servo with one major difference. When sent a pulse&commasepar; a standard servo will move to an absolute position where a continuous servo moves to a relative position. The range of pulse widths that are valid for a standard servo is 375 to 1125. Each pulse in this range corresponds to a position between 0 and 180 degrees. You can use the standard PULSOUT command to send pulses to the servo. It is often necessary to send multiple pulses of the same width in order for the servo to reach the desired position. A sample code snippet is shown below.</p>
+<p>&nbsp;</p>
+<p>Pulses VAR Byte</p>
+<p>Keystroke VAR Word</p>
+<p>IF Keystroke = "q" THEN</p>
+<p>&nbsp; GOSUB up</p>
+<p>ELSEIF Keystroke ="z" THEN</p>
+<p>&nbsp; GOSUB down</p>
+<p>ENDIF</p>
+<p>END</p>
+<p>up:</p>
+<p>FOR Pulses = 1 to 5</p>
+<p>&nbsp; PULSOUT 14&commasepar; 375 'It is probably necessary to experiment with the exact pulse width NEXT RETURN</p>
+<p>down:</p>
+<p>FOR Pulses = 1 to 5</p>
+<p>&nbsp; PULSOUT 14&commasepar; 1125 'It is probably necessary to experiment with the exact pulse width NEXT RETURN</p>|!|b5ee9e5389dd6cacba86d9d256b8efe2(*)Friday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403840028(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403840055(*)<p>7:30 - 8:30 Breakfast - Cafeteria</p>
+<p>8:45 - 9:15 Movie Discussion (Mixed Small Groups)</p>
+<ul>
+<li>Group 1: MCST 104</li>
+<li>Group 2: MCST 105</li>
+<li>Group 3:&nbsp;MCST 110</li>
+<li>Group 4: MCST 211</li>
+<li>Group 5: MCST 219</li>
+<li>Group 6: MCST 220</li>
+</ul>
+<p>9:15 - 10:30 Hands-On-Lab (Full Group) &nbsp;- MCST 338</p>
+<ul>
+<li>Topic: Boe-Bot Activity (open-ended preparation for final challenge)</li>
+</ul>
+<p>10:30 - 10:40 Break</p>
+<p>10:40 - 11:30 Cyber Policy and Ethics (Full Group) - MCST 338</p>
+<p>11:30 - 12:30 Lunch - Cafeteria</p>
+<p>12:30 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 2:30 Boe-Bot Soccer World Cup</p>
+<p>2:30 - 3:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>3:30 - 4:30 arena practice time (Student Center 2nd Floor)</p>
+<p>5:00 - 6:00 Dinner</p>
+<p>6:00 - 11:00 Team Time (School Groups) - New Hall</p>
+<p>11:00 Lights out</p>|!|bbdb3c3e0db7d9f3b7d34adca33b0cb1(*)Closure(*)d259eb37bc4b04d541b63122d52e40e9(*)1403876659(*)(*)(*)<p>Cyber Discovery Teams&commasepar;</p>
+<p>DHS agents have intercepted an email from a Ryan Hawkins&commasepar; who they now suspect has been impersonating Shawn Everett. His letter is reprinted on Max's Blog&commasepar; and you'll find that it helps provide details to some of the missing pieces of the case. Thanks again for your help!</p>
+<p>--</p>
+<p>From: Shawn Everrett<br />Subject: It's over...</p>
+<p>So someone got the medals. I don't quite know who&commasepar; but someone else got involved. I don't think it was the authorities...exactly. But guess what? The medals are powerless. So here's the truth:</p>
+<p>I am not Shawn Everett. He's dead&commasepar; as you know. But I am one of you. Or at least&commasepar; somewhat like you. I&commasepar; too&commasepar; was born on September 13&commasepar; 1948 at 2:03am. The difference is that my mother could not make it to the hospital in time&commasepar; so I was delivered in our home. I developed a "talent" when I was quite young&commasepar; although I had no clue that it was anything at all. It turns out that I can detect if people have special powers (and even locate them). While you were out testing your powers all over town&commasepar; and ultimately (and with finality) paying back Shawn and Larry at the warehouse&commasepar; I could detect you. I saw when Sam shot little bolts of electricity that hit them all over&commasepar; when John burned them with little flames he materialized out of nowhere&commasepar; when David hurled little&commasepar; sharp pieces of metal at their feet&commasepar; when Maurice got them scared by making them hear voices and noises&commasepar; and when Conway made them forget some things just to confuse them. I imagine that they were really scared&commasepar; and that's what made them run into the windows and fall down to their deaths.</p>
+<p>Often&commasepar; I was around and you didn't even know it. I felt left out&commasepar; I guess. And when you transferred your powers to the medals and buried them&commasepar; I could detect the power in them. So it was easy for me to find and dig them up (which I did back in 1964 around Christmas). I buried them&commasepar; together where someone recently found them&commasepar; and left them there all these years. I figured that you would want to come back and get them&commasepar; and I just didn't want you to find them since you did so much damage with the powers.</p>
+<p>It turns out that the powers dissipated over time. I really just forgot about the medals and never really noticed that I could detect them less and less over the last 50 years. Maybe 25 years ago&commasepar; I stopped noticing them altogether. So&commasepar; the powers are gone (except mine&commasepar; which is probably useless anyways). But I missed you guys in my old age. So I put together this little game&commasepar; pretending to be Shawn so that you would actually participate.</p>
+<p>And now you know the truth&commasepar;</p>
+<p>Ryan Hawkins</p>
+<p>--</p>
+<p>Hope this helps bring closure.</p>|!|97b7e97c417e5442fd2f894c03666b07(*)(*)97da353824d211142a3dcfe98de47291(*)1403883379(*)(*)(*)<p><img src="camps/a59dc2b5afbddcebfe05c6fe26834f2b/blog_uploads/6e657562696573.gif" alt="" width="640" height="431" /></p>|!|a2e607142497be4e9fb3192ef60a1dad(*)Boe-Bot Challenge 3 - Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403897868(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403907069(*)<p>Points for the Cyber Cup Soccer Challenge:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Parkview</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Pottsville &nbsp;</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Mt Vernon - Enola &nbsp;</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Pine Bluff</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Calico Rock</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>50</td>
+</tr>
+</tbody>
+</table>|!|52fcb9ec8c08f93e11cc3fb2c1347934(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403898106(*)(*)(*)<p>Current Points Distributions as of 2:30 Friday afternoon are:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Central</td>
+<td>612</td>
+</tr>
+<tr>
+<td>Pottsville &nbsp;</td>
+<td>501</td>
+</tr>
+<tr>
+<td>Calico Rock</td>
+<td>433</td>
+</tr>
+<tr>
+<td>Mt Vernon - Enola &nbsp;</td>
+<td>390</td>
+</tr>
+<tr>
+<td>Parkview</td>
+<td>238</td>
+</tr>
+<tr>
+<td>Pine Bluff</td>
+<td>66</td>
+</tr>
+</tbody>
+</table>|!|bb5433360c1717942ff9b460d949433d(*)Saturday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403906746(*)(*)(*)<p>7:30 &ndash; All teams that are using some sort of media file for their storyline presentations must report to the Lewis Science Center Room 102 with their files ready on their USB drives (movie files should be of type .wmv or QuickTime).&#8232;&#8232;</p>
+<p>8:00 - 9:45 -- Story-Line Presentations - Lewis Science Center &#8232;&nbsp; &nbsp; &nbsp;Each team will present a 6-7 minute storyline. Please arrive at least 10 minutes prior to your start time.</p>
+<p>&nbsp;</p>
+<p>10:00 - 11:30 -- Final Cyber Challenge&#8232;&#8232; - Student Center 2nd Floor</p>
+<p>11:30 -- Lunch and Presentations &ndash;&nbsp;Student Center 2nd Floor</p>
+<p>12:30 - 1:00 &ndash; Teacher debriefing &amp; Supply Return -&nbsp;Student Center 2nd Floor</p>
+<p>1:30 - 3:00 Check-out - New Hall&#8232;&#8232;</p>
+<p>*All teams must return supplies at the stage in the Student Center 2nd Floor&commasepar; then proceed to clean their rooms while the teachers are at the debriefing. Once all supplies are returned and the teams&rsquo; teachers are with the students&commasepar; the teams can check out of the apartments with housing at the New Hall.</p>|!|7fa7a4483027c56bec62ecc9ef8c4b61(*)Story Line Presentation Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403906954(*)(*)(*)<p>Using a random number generator&commasepar; the Story-Line queue was determined as follows:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Time</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td>8:00</td>
+<td>Calico Rock</td>
+</tr>
+<tr>
+<td>8:15</td>
+<td>Pottsville</td>
+</tr>
+<tr>
+<td>8:30</td>
+<td>Parkview</td>
+</tr>
+<tr>
+<td>8:45</td>
+<td>Break</td>
+</tr>
+<tr>
+<td>8:55</td>
+<td>Central</td>
+</tr>
+<tr>
+<td>9:10</td>
+<td>Pine Bluff</td>
+</tr>
+<tr>
+<td>9:25</td>
+<td>Mt Vernon - Enola &nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Presentations will be held in the Lewis Science Center. Teachers&commasepar; parents&commasepar; and other guests can watch their students present their storylines. However to keep the presentation process fair&commasepar; opposing teams are NOT allowed to view each others' presentations.&nbsp;</p>
+<p>If you are using some sort of computer file for your presentations&commasepar; please bring your file to Lewis Science Center (Room 102) at&nbsp;<strong>7:30AM</strong>&nbsp;to upload on the computer being used for presentations. You will<strong>&nbsp;NOT</strong>&nbsp;be using your own computers for presentations. Allowable movie file types are: any quicktime supported file and .wmv (windows media player files).</p>
+<p>Remember each team will have ten minutes (6-7 minute presentation with 3-4 minutes for questions) for the presentation of their storyline.</p>|!|e398ef6f3183d33ecfb526ed6b65cf2b(*)Supply Return Procedure(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403907047(*)(*)(*)<p>Following lunch&commasepar; teachers will attend a teacher debriefing session. During the debriefing&commasepar; students can collect all their supplies given to them throughout the week and return the supplies. Please collect all supplies and return them all together.</p>
+<p>After the teacher debriefing&commasepar; teams can check out together with their teachers (<strong><em>must check out as a team</em></strong>) at New Hall (same as check in). Prior to checking out&commasepar; please be sure to return the room to the state at which you arrived (or better).</p>|!|6007189506475e6189e55a270d97739a(*)Writing Assignment 3 – Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403907374(*)(*)(*)<p>Click the link to view the top essays from writing assignment 3.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a title="Central Essay" href="camps/a59dc2b5afbddcebfe05c6fe26834f2b/blog_uploads/Pattakos%20Essay.docx">Central</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Mt Vernon - Enola&nbsp;</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Parkview</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Calico Rock</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Pine Bluff</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Pottsville</td>
+<td>50</td>
+</tr>
+</tbody>
+</table>|!|8b4a7a061b35c0c4abf7db47dcfadc20(*)Saturday Assignments(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403907488(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403907745(*)<p>Reminder that there are 4 activities that are due on Saturday:</p>
+<p>1. Storyline (7:30)</p>
+<p>2. Essay (9:00)</p>
+<p>3. Final Boe-Bot competition and Cyber Fort Judging (10:00)</p>
+<p>4. Return supplies and checkout (after lunch)</p>|!|c01b3a069a3cc0671a7b0570fdca11b2(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403907599(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1403907609(*)<p>Current Points Distributions as of 5:30 Friday afternoon are:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Central</td>
+<td>738</td>
+</tr>
+<tr>
+<td>Pottsville &nbsp;</td>
+<td>643</td>
+</tr>
+<tr>
+<td>Calico Rock</td>
+<td>549</td>
+</tr>
+<tr>
+<td>Mt Vernon - Enola &nbsp;</td>
+<td>480</td>
+</tr>
+<tr>
+<td>Parkview</td>
+<td>338</td>
+</tr>
+<tr>
+<td>Pine Bluff</td>
+<td>150</td>
+</tr>
+</tbody>
+</table>|!|012ed9b783c3f6f66a2109132c005acf(*)(*)97da353824d211142a3dcfe98de47291(*)1403915582(*)(*)(*)<p><a href="http://dcsl.latech.edu/owncloud/public.php?service=files&amp;t=2f8e875de1d13d3965c167440342f601">We had fun.</a></p>|!|

@@ -1,0 +1,941 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|812767a5fb6f4640199ecba54fd580e6(*)General Camp Information(*)7ab118a6540881945675d33dc9a5d8ab(*)1528127855(*)7ab118a6540881945675d33dc9a5d8ab(*)1528128086(*)<p><strong>Internet Login:</strong>&nbsp;</p>
+<p>Use the following username and password for access to the LATech OpenAir wireless network.&nbsp;<br />Username:<strong> cdcamp&nbsp;</strong><br />Password: <strong>tech1894</strong></p>
+<p><strong>RA on duty tonight:</strong>&nbsp;<br />Rhett Firmin<br /><a href="tel:318-257-4917">225-402-1043</a>&nbsp;5:00 until midnight</p>
+<p><strong>Housing Office:</strong>&nbsp;<br /><a href="tel:318-257-4917">318-257-4917</a>&nbsp;<br />Open 7:30AM - 5:00PM</p>
+<p><strong>Tech Police:</strong>&nbsp;<br /><a href="tel:318-257-4018">318-257-4018</a></p>|!|278a70e3508eab7ae2002a6ed3e035f1(*)Tuesday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1528127891(*)7ab118a6540881945675d33dc9a5d8ab(*)1528232458(*)<p><strong>8:00 - 9:00</strong> Breakfast (Student Center)</p>
+<p><strong>9:00 - 9:30</strong> Movie Discussion (Mixed Small Groups)<br /> <em><span style="font-size: small;">Group 1: Bogard Hall 302</span></em><br /><em><span style="font-size: small;"> Group 2: Bogard Hall 303</span></em><br /><em><span style="font-size: small;"> Group 3: Bogard Hall 314</span></em><br /><em><span style="font-size: small;"> Group 4: Bogard Hall 325</span></em><br /><em><span style="font-size: small;"> Group 5: Bogard Hall 326&nbsp;</span></em><br /><em><span style="font-size: small;"> Group 6: Bogard Hall 327&nbsp;</span></em></p>
+<p><strong>9:30 - 11:00</strong> Hands-On-Lab (Full Group) - Bogard Hall 305 &nbsp;<br /><span style="font-size: small;"><em>Topic: BOE-Bot Activity (Basics)&nbsp;</em></span></p>
+<p><strong>11:00 - 11:15</strong> Break&nbsp;</p>
+<p><strong>11:15 - 12:00</strong> Cyber Policy and Ethics (Full Group) - Bogard Hall 305&nbsp;<br /><em><span style="font-size: small;">Theme: Cyber Knowledge&nbsp;<strong>(Read Berry piece prior to session)</strong></span></em></p>
+<p><strong>12:00 - 1:00</strong> Lunch (Student Center)</p>
+<p><strong>1:00 - 1:30</strong> Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p><strong>1:30 - 3:30</strong> Hands-On-Lab (Full Group) - Bogard Hall 305<br /><em><span style="font-size: small;">Topic: Cryptography I</span></em></p>
+<p><strong>3:30 - 5:30</strong> Team Time (School Groups) - A Place of Your Choosing</p>
+<p><strong>5:30 - 6:30</strong> Dinner (Student Center)</p>
+<p><strong>6:30 - 8:30</strong> Movie Time (Full Group) - George T Madison Auditorium</p>
+<p><strong>9:00 - 11:00</strong> Team Time (School Groups) - University Apartments</p>
+<p><strong>11:00</strong> Lights out</p>|!|7a597264391cac905af6a720212df69f(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1528140531(*)(*)(*)<p>Welcome Cyber Discovery Teams!</p>
+<p>Thank you for participating in our recruitment challenge. There is limited time to complete the challenge&commasepar; so get started!</p>
+<p>Keep working on cracking the combination on the recruitment portal and any clues and puzzles that you find. So that you can be compensated (via points) for your efforts&commasepar; make sure to access the Cyber Discovery portal so that you can submit any passwords or passphrases that you discover.</p>
+<p>To maximize your points&commasepar; make sure to access the Cyber Discovery portal as soon as you think you've found a password/passphrase&commasepar; and enter it in. Remember that all passwords/passphrases must be in uppercase and without spaces. You are also limited to submitting ten consecutive incorrect passwords&commasepar; after which time you are locked out of the system for ten minutes. From then on&commasepar; your lockout time doubles for every 5 consecutive incorrect passwords that you submit. So PLEASE DO NOT TRY TO GUESS OR BRUTE FORCE PASSWORDS. This complicates things for our agents.</p>
+<p>We will use this blog to post regular updates and to provide communication as we uncover new findings. So&commasepar; keep checking periodically for further developments.</p>
+<p>Good luck!</p>
+<p>-Max</p>|!|7664974ff6a55a0dae1201849cf36944(*)Getting Started with the BOE-Bot(*)7ab118a6540881945675d33dc9a5d8ab(*)1528211010(*)7ab118a6540881945675d33dc9a5d8ab(*)1528223386(*)<p><span>If you want to install the PBasic editor used with the BOE-Bot&commasepar; you can get the latest version&nbsp;<a href="http://www.parallax.com/downloads/basic-stamp-editor-software">here</a>. You can also add the Parallax IDE chrome app to your chrome browser by clicking&nbsp;<a href="https://www.parallax.com/downloads/parallax-ide-chrome">here</a>.</span></p>
+<p><span>This first activity focuses on learning how to get the BOE-Bot moving. Remember&commasepar; to turn the servos you use a series of pulses that range from 650 to 850&commasepar; where 750ish stops the servos from turning. The pulses tell the servos which direction (Clockwise or Counterclockwise) and how fast to turn.</span></p>
+<p><span>Centering Servos means finding the value where your servos stop turning. This information may come in useful for the various Boe-Bot challenges. The "center" should be near 750. Use the provided&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Turn_Servos.bs2">code for turning and centering servos</a>&nbsp;to determine your Boe-Bot&rsquo;s stop values by adjust the values 0f 650 and 850 to determine where the servos stop.</span></p>
+<p><span>Subroutines are like recipe cards that your main program can reference to know how to do something. Subroutines are written at the end of a program but can call upon in your main loop to perform some action. Here is an example of how to&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Subroutines_for_Servos.bs2">write subroutines</a>. Some key things to remember is that you call on your subroutine in your main program with&nbsp;<strong><span>GOSUB nameOfSubRoutine</span></strong>. You define your subroutine after the END statement of your main code. To define the subroutine you use its name (you can name it whatever you want) followed by a colon&commasepar;&nbsp;<strong><span>nameOfSubRoutine:</span></strong>. After the colon the next lines of code are whatever action you want that subroutine to be. Once you write the action&commasepar; ALWAYS end your subroutine code with&nbsp;<strong><span>RETURN</span></strong>. The return tells the BasicStamp (brains of the Boe-Bot) to &ldquo;return&rdquo; back to the main part of the code. You can put multiple subroutines in one program.</span></p>|!|27f7054351637e0a2d11c5688f798b69(*)Wednesday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1528242982(*)7ab118a6540881945675d33dc9a5d8ab(*)1528243253(*)<p>8:00 - 9:00 Breakfast</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups) <br /><span style="font-size: small;"><em>Group 1: Bogard Hall 302</em></span><br /><span style="font-size: small;"><em>Group 2: Bogard Hall 303</em></span><br /><span style="font-size: small;"><em>Group 3: Bogard Hall 314</em></span><br /><span style="font-size: small;"><em>Group 4: Bogard Hall 325</em></span><br /><span style="font-size: small;"><em>Group 5: Bogard Hall 326 </em></span><br /><span style="font-size: small;"><em>Group 6: Bogard Hall 327</em></span></p>
+<p>9:30 - 10:00 Boe-Bot Challenge 1 (Maze) - Bogard Hall 305</p>
+<p>10:00 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 305<br /><span style="font-size: small;"><em>Topic: BOE-Bot Keyboard Input</em></span></p>
+<p>11:00 - 11:15 Break</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 305 <br /><span style="font-size: small;"><em>Theme: Is Google Making us Stupid <strong>(Read&nbsp;Nicholas Carr article&commasepar; found under activites&commasepar; prior to session)</strong></em></span></p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:30 Hands-On-Lab (Full Group) - Bogard Hall 305 <br /><span style="font-size: small;"><em>Topic: Storyline Development </em></span><br /><span style="font-size: small;"><em>Topic: Cryptography II</em></span></p>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing <br /><span style="font-size: small;"><em>Breakout Topic: Sketch Up Introduction (At least one person from each team <span style="text-decoration: underline;">MUST</span>&nbsp;attend)</em></span></p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison Auditorium</p>
+<p>9:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|be83d8d8b894e11bb3948de36eace20a(*)Boe-Bot Keyboard Input(*)7ab118a6540881945675d33dc9a5d8ab(*)1528296091(*)7ab118a6540881945675d33dc9a5d8ab(*)1528303801(*)<p>You can use this <a href="camps/92e303a5541f358fff282bf9b6e11a22/blog_uploads/Keyboard%20Input.pdf" target="_blank">resource</a> to help program your Boe-Bot to interpret keyboard input.</p>
+<p>Remember&commasepar; for a more efficient code you should only have one variable defined for your DEBUGIN. This will help your bot move more fluidly instead of stuttering.&nbsp; This change is reflected in the resource linked above.</p>|!|dbdff36c0f66dcffe41f48e3c8fe2ebc(*)BOE-Bot Challenge 1 Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1528302731(*)7ab118a6540881945675d33dc9a5d8ab(*)1528302977(*)<p>Below are the results of BOE-Bot Challenge 1:</p>
+<div align="center">&nbsp;</div>
+<div align="center">
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style="text-align: center;"><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><span>Haughton</span></td>
+<td style="text-align: center;"><span>100</span></td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td style="text-align: center;">90</td>
+</tr>
+<tr>
+<td>El Dorado&nbsp;</td>
+<td style="text-align: center;">80&nbsp;</td>
+</tr>
+<tr>
+<td>Lee</td>
+<td style="text-align: center;">70</td>
+</tr>
+<tr>
+<td>Ponchatoula</td>
+<td style="text-align: center;">60</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td style="text-align: center;">50</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td style="text-align: center;">40</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td style="text-align: center;">25</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td style="text-align: center;">25</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td style="text-align: center;">10</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</div>|!|b2094c09050caef95f27ce6b1e9a30de(*)Writing Assignment 1 Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1528310958(*)7ab118a6540881945675d33dc9a5d8ab(*)1528314747(*)<p style="text-align: left;">Below are the results of the first writing assignment.&nbsp;<span>Click the link on North Caddo and Ponchatoula to view the top essays from writing assignment 1.</span></p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th style="text-align: left;">School</th><th>Points</th></tr>
+<tr>
+<td><a href="camps/92e303a5541f358fff282bf9b6e11a22/blog_uploads/WritingAssignment1_First.pdf" target="_blank">North Caddo</a></td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td><a href="camps/92e303a5541f358fff282bf9b6e11a22/blog_uploads/WritingAssignment1_Second.pdf" target="_blank">Ponchatoula</a></td>
+<td style="text-align: center;">90</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td style="text-align: center;">80</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td style="text-align: center;">70</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td style="text-align: center;">60</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">50</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td style="text-align: center;">40</td>
+</tr>
+<tr>
+<td>Haughton</td>
+<td style="text-align: center;">30</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td style="text-align: center;">20</td>
+</tr>
+<tr>
+<td>Lee</td>
+<td style="text-align: center;">10</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|d0339e6585c0b26e18cfa97c898f693c(*)BOE-Bot Challenge 2 - Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1528314511(*)7ab118a6540881945675d33dc9a5d8ab(*)1528314711(*)<p>The following table shows the order the teams will compete in the second BOE-Bot Challenge&nbsp;on Thursday morning. Both courses will be running simultaneously; therefore&commasepar; we have two queues set (12-Marble Course &amp; 5-Marble Course). Notice the 12-Marble queue becomes the second half of the 5-Marble queue and vice versa.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course A (12 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>Iberville</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>Lee</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>NOMMA</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>El Dorado</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Woodlawn</td>
+</tr>
+<tr>
+<td>7</td>
+<td>North Caddo</td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td>Airline</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Ponchatoula</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Haughton</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course B (5 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Woodlawn</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>North Caddo</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>Airline</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>Ponchatoula</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>Haughton</td>
+</tr>
+<tr>
+<td>6</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Iberville</td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td>Lee</td>
+</tr>
+<tr>
+<td>9</td>
+<td>NOMMA</td>
+</tr>
+<tr>
+<td>10</td>
+<td>El Dorado</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|f18f7059664527e0f58ad6859cc4756d(*)Auction Items(*)7ab118a6540881945675d33dc9a5d8ab(*)1528314827(*)7ab118a6540881945675d33dc9a5d8ab(*)1528315246(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Item</strong></td>
+<td style="text-align: center;"><strong>Picture</strong></td>
+<td style="text-align: center;"><strong>Description</strong>&nbsp;</td>
+<td style="text-align: center;"><strong># Avail.</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Jaw&nbsp;</p>
+</td>
+<td><img title="Hungry Hippo" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/1-jaw_snip.jpg" alt="Hungry Hippo" width="250" height="170" />&nbsp;</td>
+<td>
+<p style="text-align: center;">The jaws provide the ability to corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability of holding in the marbles after they are corralled. The jaws have added servos that lift the front bar up and down to hold in the marbles&commasepar; similar in functionality to the game hungry hungry hippos.</p>
+</td>
+<td style="text-align: center;">6</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Manila Folder &amp; Tape</p>
+</td>
+<td><img title="Manila Folder and Tape" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/3-manilaFolderTape.jpg" alt="Manila Folder and Tape" width="250" height="191" />&nbsp;</td>
+<td>
+<p style="text-align: center;">The extremely durable materials of manila folder and tape can be used to creativity build attachments for your Boe-Bot.</p>
+</td>
+<td style="text-align: center;">3</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Storyline Media Enrichment</p>
+</td>
+<td><img title="Camera" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/4-Camera.jpg" alt="Camera" width="250" height="250" /></td>
+<td>
+<p style="text-align: center;">The creative storyline challenge provides teams the opportunity to use their creativity to represent themes of the camp through various media (live action&commasepar; PowerPoint&commasepar; etc). Only two teams will have permission to use video by purchasing that right in the auction. These teams will be given a digital camera that can be used for your video production.</p>
+</td>
+<td style="text-align: center;">2&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">30 Second Head Start</p>
+</td>
+<td><img title="30 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/5-30Seconds.jpg" alt="30 Seconds" width="250" height="107" /></td>
+<td>
+<p style="text-align: center;">The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles.</p>
+<p style="text-align: center;">This auction item gives the team who purchases it a 30 second head start in the 4th round.</p>
+</td>
+<td style="text-align: center;">1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">45 Second Head Start</p>
+</td>
+<td><img title="45 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/6-45Seconds.jpg" alt="45 Seconds" width="250" height="112" /></td>
+<td>
+<p style="text-align: center;">This auction item gives the team who purchases it a 45 second head start in any round.</p>
+</td>
+<td style="text-align: center;">1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Side Flippers</p>
+</td>
+<td><img title="Side Flippers" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/8-SideFlipper.png" alt="Side Flippers" width="250" height="122" /></td>
+<td>
+<p style="text-align: center;">Triangular ramps can be used in two ways. If attached in one direction&commasepar; they allow you to flip opponents while providing stability and in the other direction allows you to scoop marbles.</p>
+</td>
+<td style="text-align: center;">2</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">High Speed Servo Upgrade</p>
+</td>
+<td><img title="High-Speed Servos" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/9-HighSpeedServo.png" alt="High-Speed Servos" width="250" height="172" /></td>
+<td>
+<p style="text-align: center;">This allows for 2 to 2.5 times the speed of standard servo driven bots.</p>
+</td>
+<td style="text-align: center;">4</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Mystery</p>
+</td>
+<td><img title="Mystery" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/mystery.jpg" alt="Mystery" width="250" height="168" /></td>
+<td style="text-align: center;">Mystery Box</td>
+<td style="text-align: center;">1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Bulldozer</p>
+</td>
+<td><img title="Bulldozer" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/10-Bulldozer_snip.jpg" alt="Bulldozer" width="250" height="169" />&nbsp;</td>
+<td>
+<p style="text-align: center;">The bulldozer attachment provides the ability to corral and transport marbles. Teams will receive a bulldozer if they do not have a jaw.</p>
+</td>
+<td style="text-align: center;">Default&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|938826673177394edc3ba151e28e8ef0(*)SketchUP 2017 Install file(*)7ab118a6540881945675d33dc9a5d8ab(*)1528315316(*)(*)(*)<p>Since SketchUp has changed the way it installs&commasepar; the creation of a free account is difficult without a .edu email address (which many of you probably don't have).</p>
+<p>Instead&commasepar; you may download the <a href="https://drive.google.com/open?id=1m5sjr9EDarZxLiVL8ugm2KcGDVEHxCj5">install file for SketchUp 2017</a>.</p>|!|069b9adb8c370e1e43e237453623b280(*)Thursday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1528315531(*)(*)(*)<p><strong>8:00 - 9:00</strong>&nbsp;Breakfast</p>
+<p><strong>9:00 - 9:30</strong>&nbsp;Movie Discussion (Mixed Small Groups)<br /><span style="font-size: small;"><em>Group 1: Bogard Hall 302</em></span><br /><span style="font-size: small;"><em>Group 2: Bogard Hall 303</em></span><br /><span style="font-size: small;"><em>Group 3: Bogard Hall 314</em></span><br /><span style="font-size: small;"><em>Group 4: Bogard Hall 325</em></span><br /><span style="font-size: small;"><em>Group 5: Bogard Hall 326</em></span><br /><span style="font-size: small;"><em>Group 6: Bogard Hall 327</em></span></p>
+<p><strong>9:30 - 11:00</strong>&nbsp;Hands-On-Lab (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br /><span style="font-size: small;"><em>Topic: Boe-Bot Activity (explore challenges)</em></span></p>
+<p><strong>11:00 - 11:15</strong>&nbsp;Break</p>
+<p><strong>11:15 - 12:00</strong>&nbsp;Cyber Policy and Ethics (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br /><span style="font-size: small;"><em>Theme: Spanish Prisoners</em></span></p>
+<p><strong>12:00 - 1:30</strong>&nbsp;Lunch &amp; Team Time</p>
+<p><strong>1:30 - 3:30</strong>&nbsp;Hands-On-Lab (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br /><span style="font-size: small;"><em>Topic: Cryptography III</em></span></p>
+<p><strong>3:30 - 5:00</strong>&nbsp;Team Time (School Groups) - A Place of Your Choosing</p>
+<p><strong>5:00 - 6:00</strong>&nbsp;Dinner</p>
+<p><strong>6:00 - 8:00</strong>&nbsp;Movie Time (Full Group) - GTM 105</p>
+<p><strong>8:00 - 9:30</strong>&nbsp;Auction - GTM 105</p>
+<p><strong>9:30 - 11:00</strong>&nbsp;Team Time (School Groups) - University Apartments</p>
+<p><strong>11:00</strong>&nbsp;Lights out</p>|!|475fe94c1405f00dae06ab1d1ebfcf70(*)Wireless Sample Code(*)7ab118a6540881945675d33dc9a5d8ab(*)1528384738(*)(*)(*)<p>Here are two files that can be used as a starting point for wireless communication. One bot should be programmed with the reciever code. This bot will be able to roam around on its own (not tethered to the USB). The 2nd bot should be programmed with the transmitter code and will stay connected to the computer via USB.</p>
+<p>NOTE: You will need to set your channel in both of the programs. Each team is assigned a channel that is three characters &nbsp;(a dollar sign&commasepar; a &nbsp;number&commasepar; and a letter or a number).</p>
+<p><a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/Reciever.txt">Receiver</a></p>
+<p><a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/Transmitter.txt">Transmitter</a></p>|!|c83ce23e9042091384c905f1ebd0dd6c(*)BOE-Bot Challenge 2 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1528390032(*)7ab118a6540881945675d33dc9a5d8ab(*)1528390161(*)<p>Below are the results of BOE-Bot Challenge 2:</p>
+<div align="center">
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style="text-align: center;"><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Lee</td>
+<td style="text-align: center;">100</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td style="text-align: center;">85</td>
+</tr>
+<tr>
+<td>Haughton</td>
+<td style="text-align: center;">85&nbsp;</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td style="text-align: center;">70</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td style="text-align: center;">55</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">55</td>
+</tr>
+<tr>
+<td>Ponchatoula</td>
+<td style="text-align: center;">30</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td style="text-align: center;">30</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td style="text-align: center;">30</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td style="text-align: center;">10</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div align="center">&nbsp;</div>|!|5ecbc325e2772ffad5112838914bf5de(*)Writing Assignment 2 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1528398535(*)7ab118a6540881945675d33dc9a5d8ab(*)1528398700(*)<p style="text-align: left;">Below are the results of the first writing assignment.&nbsp;Click the link on NOMMA and Airline to view the top essays from writing assignment 2.</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th style="text-align: center;">School</th><th style="text-align: center;">Points</th></tr>
+<tr>
+<td><a href="camps/92e303a5541f358fff282bf9b6e11a22/blog_uploads/WritingAssignment2_First.pdf" target="_blank">NOMMA</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="camps/92e303a5541f358fff282bf9b6e11a22/blog_uploads/WritingAssignment2_Second.pdf" target="_blank">Airline</a></td>
+<td>90</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>80</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Ponchatoula</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td>50</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Lee</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Haughton</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|14e1abaf41e0bce7ac415f4f217a0963(*)Friday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1528405117(*)(*)(*)<p><strong>8:00 - 9:00</strong>&nbsp;Breakfast</p>
+<p><strong>9:00 - 9:30</strong>&nbsp;Movie Discussion (Mixed Small Groups)<br /><span style="font-size: small;"><em>Group 1: Bogard Hall 302</em></span><br /><span style="font-size: small;"><em>Group 2: Bogard Hall 303</em></span><br /><span style="font-size: small;"><em>Group 3: Bogard Hall 314</em></span><br /><span style="font-size: small;"><em>Group 4: Bogard Hall 325</em></span><br /><span style="font-size: small;"><em>Group 5: Bogard Hall 326</em></span><br /><span style="font-size: small;"><em>Group 6: Bogard Hall 327</em></span></p>
+<p><strong>9:30 - 11:00</strong>&nbsp;Hands-On-Lab (Full Group)&nbsp;&nbsp;<br /><span style="font-size: small;"><em>Topic: BOE-Bot Activity (open-ended preparation for final challenge)&nbsp;</em></span></p>
+<p><strong>11:15 - 12:00</strong>&nbsp;Cyber Policy and Ethics (Full Group)&nbsp;&nbsp;<br /><span style="font-size: small;"><em>Theme: RoboCop&commasepar; A.I.&commasepar; and...Poetry?</em></span></p>
+<p><strong>12:00 - 1:30</strong>&nbsp;Lunch and Team Time</p>
+<p><strong>1:30 - 3:00</strong>&nbsp;BOE-Bot Soccer World Cup - field in Bogard Hall 304</p>
+<p><strong>3:00 - 11:00</strong>&nbsp;Team Time (School Groups)&nbsp;<br /><span style="font-size: small;"><em>Open-ended preparation for Saturday challenges &nbsp;&nbsp;</em></span><br /><span style="font-size: small;"><em>3:00 - 5:00 Cyber Fort Assembly - Bogard Hall 305&nbsp;</em></span><br /><span style="font-size: small;"><em>4:00 - 6:30 Arena open in the Student Center<br /></em></span><span style="font-size: small;"><em>5:30 - 6:30 Dinner</em></span></p>
+<p><strong>11:00</strong>&nbsp;Lights out</p>|!|1883585127bacd0ec9414ac655c75708(*)Jaw Servo Basics(*)7ab118a6540881945675d33dc9a5d8ab(*)1528424592(*)(*)(*)<p>If you bought jaws from the auction you will need this extra bit of information to help with your jaw program. The jaws use a standard servo&commasepar; where the servos you have been using are continuous.</p>
+<p>A standard servo operates in a similar manner to a Continuous Servo with one major difference. When sent a pulse&commasepar; a standard servo will move to an absolute position where a continuous servo moves to a relative position. The range of pulse widths that are valid for a standard servo is 375 to 1125. Each pulse in this range corresponds to a position between 0 and 180 degrees. You can use the standard PULSOUT command to send pulses to the servo. It is often necessary to send multiple pulses of the same width in order for the servo to reach the desired position. A sample code snippet is shown below.</p>
+<p>Pulses VAR Byte<br />Keystroke VAR Word</p>
+<p>IF Keystroke = "q" THEN<br />&nbsp; GOSUB up<br />ELSEIF Keystroke ="z" THEN<br />&nbsp; GOSUB down<br />ENDIF<br />END</p>
+<p>up:<br />FOR Pulses = 1 to 5<br />&nbsp; PULSOUT 14&commasepar; 375 'It is probably necessary to experiment with the exact pulse width<br />NEXT<br />RETURN</p>
+<p>down:<br />FOR Pulses = 1 to 5<br />&nbsp; PULSOUT 14&commasepar; 1125 'It is probably necessary to experiment with the exact pulse width<br />NEXT<br />RETURN</p>|!|04608af5bbeb1c03f7424bb4c27ec388(*)Storyline Presentation Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1528465975(*)(*)(*)<p>Using a random number generator&commasepar; the Storyline queue was determined as follows:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Time</strong></td>
+<td><strong>School</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>7:15</td>
+<td>Haughton</td>
+</tr>
+<tr>
+<td>7:30</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>7:45</td>
+<td>Ponchatoula</td>
+</tr>
+<tr>
+<td>8:00</td>
+<td>El Dorado</td>
+</tr>
+<tr>
+<td>8:15</td>
+<td>Lee</td>
+</tr>
+<tr>
+<td>8:30</td>
+<td>Iberville</td>
+</tr>
+<tr>
+<td>8:45</td>
+<td>North Caddo</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>Woodlawn</td>
+</tr>
+<tr>
+<td>9:15</td>
+<td>Airline</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>NOMMA</td>
+</tr>
+</tbody>
+</table>
+<p>Presentations will be held in GTM 105. Teachers&commasepar; parents&commasepar; and other guests can watch their students present their storylines. However to keep the presentation process fair&commasepar; opposing teams are NOT allowed to view each others' presentations.&nbsp;</p>
+<p>If you are using some sort of computer file for your presentations&commasepar; please bring your file to GTM 105 (the Auditorium) at&nbsp;<strong>7:00AM</strong>&nbsp;to upload on the computer being used for presentations. You will<strong>&nbsp;NOT</strong>&nbsp;be using your own computers for presentations. Allowable movie file types are: any quicktime supported file and .wmv (windows media player files).</p>
+<p>Remember each team will have ten minutes (5-10 minute presentation with a few minutes for questions) for the presentation of their storyline.</p>
+<p><em><strong>All teams must arrive at least 10 minutes prior to their presentation starting time!</strong>&nbsp;</em> Please be ready to provide the title of your Storyline at the beginning of your presentation.</p>|!|221482dbfaedd156726d91e1ece2383d(*)Paint Booth Directions(*)7ab118a6540881945675d33dc9a5d8ab(*)1528477052(*)(*)(*)<p>Want to spray paint your fort? Clcik <a href="camps/92e303a5541f358fff282bf9b6e11a22/blog_uploads/Paint%20Boot%20Entrance.jpg" target="_blank">here</a> for directions to the paint booth.</p>|!|da8e7400c8e71f35625f939df3736091(*)Writing Assignment 3 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1528486456(*)7ab118a6540881945675d33dc9a5d8ab(*)1528486597(*)<p style="text-align: left;">Below are the results of the first writing assignment.&nbsp;Click the link on NOMMA and Airline to view the top essays from writing assignment 3.</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th style="text-align: center;">School</th><th style="text-align: center;">Points</th></tr>
+<tr>
+<td><a href="camps/92e303a5541f358fff282bf9b6e11a22/blog_uploads/WritingAssignment3_First.pdf" target="_blank">NOMMA</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="camps/92e303a5541f358fff282bf9b6e11a22/blog_uploads/WritingAssignment3_Second.pdf" target="_blank">North Caddo</a></td>
+<td>90</td>
+</tr>
+<tr>
+<td>Ponchatoula</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Haughton</td>
+<td>70</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td>55</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|eccb6f6b3cb0dcae5f834e05dd0d957b(*)BOE-Bot Challenge 3 Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1528487179(*)7ab118a6540881945675d33dc9a5d8ab(*)1528487334(*)<p>Below are the results of BOE-Bot Challenge 3:</p>
+<div align="center">
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Airline/Haughton</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Iberville/NOMMA&nbsp;</td>
+<td>80</td>
+</tr>
+<tr>
+<td>West Monroe/Woodlawn&nbsp;</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Ponchatoula/Lee&nbsp;</td>
+<td>40</td>
+</tr>
+<tr>
+<td>North Caddo/El Dorado</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div align="center">&nbsp;</div>|!|ee51a8e3019231acb1543421b7a490e3(*)Current Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1528487788(*)(*)(*)<p style="text-align: left;">Below are the current points distribution as of 3:00PM Friday.</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th style="text-align: left;">School</th><th>Points</th></tr>
+<tr>
+<td>NOMMA</td>
+<td style="text-align: right;">634</td>
+</tr>
+<tr>
+<td>Ponchatoula</td>
+<td style="text-align: right;">432</td>
+</tr>
+<tr>
+<td>Haughton</td>
+<td style="text-align: right;">373</td>
+</tr>
+<tr>
+<td>Lee</td>
+<td style="text-align: right;">332</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td style="text-align: right;">325</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td style="text-align: right;">294</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: right;">254</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td style="text-align: right;">208</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td style="text-align: right;">172</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td style="text-align: right;">92</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|70c702a45338d0c69938a7cc42938829(*)Saturday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1528488172(*)7ab118a6540881945675d33dc9a5d8ab(*)1528488415(*)<p><strong>7:00</strong> All teams that are using some sort of media file for their storyline presentations must report to GTM 105 with their files ready on their USB drives (movie files should be of type .wmv or QuickTime).</p>
+<p><strong>7:15 - 9:45</strong> Story-Line Presentations - George T Madison Auditorium&nbsp;&nbsp;<br />Each team will present a 10 minute maximum storyline. <em><strong>Please arrive at least 10 minutes prior to your start time.</strong></em></p>
+<p><strong>8:00 - 9:00</strong> Breakfast - First Floor Student Center (Tonk)</p>
+<p><strong>10:00 - 11:30</strong>&nbsp;Final Cyber Challenge - First Floor Student Center (Tonk)</p>
+<p><strong>11:30</strong>&nbsp;Lunch and Presentations &ndash; First Floor Student Center (Tonk)</p>
+<p><strong>12:30 - 1:30</strong>&nbsp;Teacher debriefing (ELS Lounge 2nd Floor Student Center) &amp; Supply Return (BOGH 304&commasepar; student teams must return supplies by 1:30PM)</p>
+<p><strong>1:30 - 3:00</strong> Check-out - Wyly Tower*</p>
+<p>*All teams must return supplies to BOGH 304 and clean their rooms while the teachers are at the debriefing. Once all supplies are returned and the teams&rsquo; teachers are with the students&commasepar; the teams can check out of the apartments with housing at Wyly Tower.</p>
+<p><span style="text-decoration: underline;"><strong>Supply Return Checklist:</strong></span></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">Backpack</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">Computer</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">Computer charging cable</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">2 Routers with cables</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">2 Short USB cables</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">1 Long UBS cable</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">2 Boe-Bots with USB adapters</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">Ruler</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">Large lockbox</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">Small lockbox</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">PVC end cap</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">Marbles</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">Any items purchased at auction (except manila folder)</td>
+</tr>
+<tr>
+<td align="center" width="30">☐</td>
+<td valign="top" width="594">Flag holder (can be returned attached to Boe-Bot)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div align="center">&nbsp;</div>|!|071e78c2c71e3d3aa8fe6aa4ad3ffff7(*)Surveys(*)7ab118a6540881945675d33dc9a5d8ab(*)1528488306(*)7ab118a6540881945675d33dc9a5d8ab(*)1528488324(*)<p><span>Please make sure you complete the Survey Activity before 9:30 Saturday morning. Each student and teacher should fill out their respective survey. We are working with the funding agency to secure funding that will continue this camp in the future. Having 100% participation is important for the message that will be sent to them. Thank you for helping make this a great week&commasepar; and for helping us with this.</span></p>|!|aec9c269b67e7413d17bf01eed5e129b(*)Creative Storyline - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1528558790(*)7ab118a6540881945675d33dc9a5d8ab(*)1528558956(*)<p>Below are the results of the creative storyline competition:</p>
+<div align="center">
+<table border="1">
+<tbody>
+<tr><th>School</th><th>Points</th></tr>
+<tr>
+<td>Ponchatoula</td>
+<td>400</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>360</td>
+</tr>
+<tr>
+<td>Haughton</td>
+<td>320</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td>280</td>
+</tr>
+<tr>
+<td>Lee</td>
+<td>240</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>200</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>160</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td>120</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div align="center">&nbsp;</div>|!|b77e5ccb535e85b0be4d7a1fc9038232(*)Writing Assignment 4 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1528559605(*)7ab118a6540881945675d33dc9a5d8ab(*)1528559675(*)<p style="text-align: left;">Below are the results of writing assignment 4:</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th style="text-align: left;">School</th><th>Score</th></tr>
+<tr>
+<td>Ponchatoula</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>90</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td>75</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>40</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>30</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Haughton</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>|!|1c95e99b072b80b0a925ca17bb275763(*)Cyber Fort Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1528559761(*)7ab118a6540881945675d33dc9a5d8ab(*)1528559784(*)<p style="text-align: left;">Below are the results of the cyber fort challenge:</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th>School</th><th>Score</th></tr>
+<tr>
+<td>Ponchatoula</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Lee</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>75</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>75</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>60</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Haughton</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td>20</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|353b24ab7a8af6101c5010bd03048852(*)Final BOE-Bot Challenge(*)7ab118a6540881945675d33dc9a5d8ab(*)1528564455(*)(*)(*)<p style="text-align: left;">Below are the results of the final Boe-Bot Challenge:</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th>School</th><th>Score</th></tr>
+<tr>
+<td>Haughton</td>
+<td>530</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>495</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td>370</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>365</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>355</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>330</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td>315</td>
+</tr>
+<tr>
+<td>Ponchatoula</td>
+<td>360</td>
+</tr>
+<tr>
+<td>Lee</td>
+<td>140</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td>140</td>
+</tr>
+</tbody>
+</table>|!|68ee819aee8911387ad0cb3d2ae95ba0(*)Final Scores!(*)7ab118a6540881945675d33dc9a5d8ab(*)1528564563(*)(*)(*)<p style="text-align: center;">&nbsp;</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th style="text-align: left;">School</th><th style="text-align: center;">Score</th></tr>
+<tr>
+<td>NOMMA</td>
+<td>1469</td>
+</tr>
+<tr>
+<td>Ponchatoula</td>
+<td>1292</td>
+</tr>
+<tr>
+<td>Haughton</td>
+<td>1263</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>994</td>
+</tr>
+<tr>
+<td>Iberville</td>
+<td>948</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>917</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td>885</td>
+</tr>
+<tr>
+<td>Lee</td>
+<td>842</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>739</td>
+</tr>
+<tr>
+<td>Woodlawn</td>
+<td>367</td>
+</tr>
+</tbody>
+</table>|!|

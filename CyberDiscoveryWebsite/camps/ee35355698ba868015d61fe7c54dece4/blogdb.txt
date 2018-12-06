@@ -1,0 +1,795 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|dc01d05d82c02cd0ae3995cadc516102(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1466469482(*)c65708364809cd385b24d3c5bcc8b403(*)1466471758(*)<p>Camp Issued Laptops Login:</p>
+<p>Login: ltu</p>
+<p>Password: cyber</p>
+<p><br />Internet Login:</p>
+<p>Use the following username and password for access to the LATech OpenAir wireless network.</p>
+<p>Username: cdcamp</p>
+<p>Password: tech1894</p>
+<p><br />Resident Assistant:</p>
+<p>504-655-0176</p>
+<p><br />Housing Office:</p>
+<p>318-257-4917</p>
+<p>Open 7:30AM - 5:00PM</p>
+<p><br />Tech Police:</p>
+<p>318-257-4018</p>|!|009bc72bd0391ab06eda47e135f70ba4(*)Survey 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1466469569(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1466471036(*)<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys).</p>
+<p>Why do we need to do the surveys? Your participation in the surveys are a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.</p>
+<p>Please click the following link for the first survey:</p>
+<p><a href="https://survey.co1.qualtrics.com/jfe5/form/SV_5ojUao7jXnluZ37">Survey 1</a></p>
+<p>All students and teachers should complete the survey by 9:00AM Tuesday morning.</p>|!|b7bda6ffae1ed615e3348c17a7797162(*)T-Shirt Colors(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1466469606(*)(*)(*)<p>We would like all teams to wear the BLACK t-shirts on Saturday; so please reserve the BLACK t-Shirt to be worn on Saturday.</p>
+<p>&nbsp;</p>
+<p>For the Tuesday-Friday&commasepar; each team should choose a shirt color to wear as a team each day.</p>|!|d02c79acb91ee3d2423fdde56d833048(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1466469647(*)c65708364809cd385b24d3c5bcc8b403(*)1466471250(*)<p>7:00 - 8:30 Breakfast<br /><br />*8:30 Survey 1 Due<br /><br />8:30 - 9:15 Training Seminar: Situation Analysis - Bogard Hall 304<br /><br />9:15 - 9:25 Break<br /><br />9:25 - 10:10 Training Seminar: Textual Analysis - Bogard Hall 304<br /><br />10:10 - 10:20 Break<br /><br />10:20 - 11:05 Training Seminar: Rhetorical Analysis - Bogard Hall 304<br /><br />11:05 - 11:15 Break<br /><br />11:15 - 12:00 Training Seminar: Legal Analysis - Bogard Hall 304<br /><br />12:00 - 1:00 Lunch<br /><br />1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing<br /><br />*1:20 - Submit Documents for Briefing - In-person to Bogard Hall 304<br /><br />1:30 - 3:00 Briefings - Bogard Hall 304 / Bogard Hall 305&nbsp;</p>
+<table border="0">
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>&nbsp; &nbsp;&nbsp;</strong></td>
+<td style="text-align: left;"><strong>Bogard Hall 304 &nbsp; &nbsp;</strong></td>
+<td style="text-align: left;"><strong>Bogard Hall 305 &nbsp;</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Parkway</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Ascension</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>NOMMA&nbsp;</td>
+<td>Catholic</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Delhi</td>
+<td>Dunham</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Airline</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;">3:00 - 4:30 Training Seminar: Web Security - Bogard Hall 304<br /><br />4:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p style="text-align: left;">5:30 - 6:30 Dinner<br /><br />6:30 - 8:30 Movie Time (Full Group) - George T Madison 105 Auditorium<br /><br />8:30 - 9:00 Training Exercise (Full Group) - George T Madison 105 Auditorium<br /><br />9:00 - 11:00 Team Time (School Groups) - University Apartments<br /><br />11:00 Lights out</p>|!|93883903a82b45b78e35ea2693d4f744(*)Briefing Rankings(*)c65708364809cd385b24d3c5bcc8b403(*)1466545355(*)(*)(*)<p>Here are the results from the first briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+<td><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong></td>
+<td><strong>School &nbsp;&nbsp;</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>95</td>
+<td>&nbsp;</td>
+<td>Catholic</td>
+<td>95</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>85</td>
+<td>&nbsp;</td>
+<td>Delhi</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Dunham&nbsp;</td>
+<td>70</td>
+<td>&nbsp;</td>
+<td>West Monroe &nbsp;</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+<td>&nbsp;</td>
+<td>Airline&nbsp;</td>
+<td>65</td>
+</tr>
+<tr>
+<td>Ascension &nbsp;&nbsp;</td>
+<td>60</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|a6bcda0f5713b3fdef98fcd6338159ac(*)Wednesday Itinerary (*)c65708364809cd385b24d3c5bcc8b403(*)1466552847(*)c65708364809cd385b24d3c5bcc8b403(*)1466556431(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:15 Essay 1 Due</p>
+<p>8:30 - 9:15 Training Seminar: Situation Analysis - Bogard Hall 304<br /><br />9:15 - 9:25 Break<br /><br />9:25 - 10:10 Training Seminar: Rhetorical Analysis - Bogard Hall 304<br /><br />10:10 - 10:20 Break<br /><br />10:20 - 11:05 Training Seminar: Theoretical Analysis - Bogard Hall 304</p>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Training Seminar: Textual Analysis - Bogard Hall 304</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:00 Training Seminar: Web Security 2 - Bogard Hall 304</p>
+<p>3:00 - 4:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>*3:50 - Submit Documentation for Briefing - In-person to Bogard Hall 304</p>
+<p>4:00 - 5:30 Briefings - Bogard Hall 304</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
+<td><strong>Bogard Hall 304 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td><strong>Bogard Hall 305</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Ascension</td>
+<td>Delhi</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Airline</td>
+<td>Parkway</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Dunham</td>
+<td>Catholic</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>NOMMA</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>West Monroe</td>
+</tr>
+</tbody>
+</table>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison 105 Auditorium</p>
+<p>8:30 - 9:00 Training Exercise (Full Group) - George T Madison 105 Auditorium</p>
+<p>9:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|1d16924f197713af292e0b5c4c5e48b3(*)Photos(*)aec5ef67a62ceb6df672c06b7511206f(*)1466556131(*)(*)(*)<p>Link to a Google photo album compiled by Dr. Swanbom. If you would like any depictions of yourself removed from this album please let us know.<br /><br /><a href="https://goo.gl/photos/UXcnMe7EBsyRjF8w9"><span>https://goo.gl/photos/UXcnMe7EBsyRjF8w9</span></a></p>
+<p>&nbsp;</p>|!|5970a6af2838cc1f983a3744083e159c(*)Web Exercise 1 - Results(*)c65708364809cd385b24d3c5bcc8b403(*)1466568389(*)(*)(*)<p>Below are the results for the first Web Exercise:</p>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>100</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Delhi</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>30</td>
+</tr>
+<tr>
+<td>West Monroe &nbsp;</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|6ec2d0a7726ed70a86085e3ae915d7e3(*)Essay 1 - Results(*)c65708364809cd385b24d3c5bcc8b403(*)1466609496(*)(*)(*)<p>Click the links for Dunham to view the top essays from assignment 1.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/ee35355698ba868015d61fe7c54dece4/submissions/Lies%20Behind%20the%20Smiles-4837d9561b0821123b8bb702a5bb86b4.pdf">Dunham</a>&nbsp;</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Delhi</td>
+<td>90</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>80</td>
+</tr>
+<tr>
+<td>West Monroe &nbsp;</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|fc568467bfac34199508cd8e485fc5d9(*)DHS Agent Profiles(*)c65708364809cd385b24d3c5bcc8b403(*)1466629050(*)c65708364809cd385b24d3c5bcc8b403(*)1466629076(*)<p>Below are the profiles of the onsite DHS agents</p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Amanda%20Sanford.pdf" target="_blank">Agent Amanda Sanford</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Drew%20McKevitt.pdf" target="_blank">Agent Drew McKevitt</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Eric%20Borquist.pdf" target="_blank">Agent Eric Borquist</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Ernest%20Rufleth.pdf" target="_blank">Agent Ernest Rufleth</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Michael%20Swanbom.pdf" target="_blank">Agent Michael Swanbom</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Nicole%20de%20Fee.pdf" target="_blank">Agent Nicole de Fee</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Paul%20Hummel.pdf" target="_blank">Agent Paul Hummel</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Agent%20Scott%20Levin.pdf" target="_blank">Agent Scott Levin</a>&nbsp;</p>|!|5b925e721442e1d879e465e11006f89b(*)Briefing 2 Rankings(*)c65708364809cd385b24d3c5bcc8b403(*)1466633970(*)(*)(*)<p>Here are the results from the second briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+<td><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong></td>
+<td><strong>School &nbsp;&nbsp;</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>95</td>
+<td>&nbsp;</td>
+<td>NOMMA</td>
+<td>95</td>
+</tr>
+<tr>
+<td>West Monroe &nbsp;</td>
+<td>85</td>
+<td>&nbsp;</td>
+<td>Dunham</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>75</td>
+<td>&nbsp;</td>
+<td>Airline &nbsp;</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Delhi</td>
+<td>65</td>
+<td>&nbsp;</td>
+<td>Ascension&nbsp;</td>
+<td>65</td>
+</tr>
+<tr>
+<td>Catholic &nbsp;&nbsp;</td>
+<td>60</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|9da4589ce4b7ea19dad315556cd09747(*)Thursday Itinerary (*)c65708364809cd385b24d3c5bcc8b403(*)1466639793(*)(*)(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:15 Essay 2 Due</p>
+<p>8:30 - 11:00 Field Operations Support - Bogard Hall 305</p>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Training Seminar: Rhetorical Analysis - Bogard Hall 304</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 2:45 Training Seminar: Web Security 3 - Bogard Hall 304</p>
+<p>2:45 - 3:00 Break</p>
+<p>3:00 - 3:45 Training Exercise (Full Group) - Bogard Hall 304</p>
+<p>3:45 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>*6:45 Briefing Materials Due in Bogard Hall 304</p>
+<p>7:00 - 8:30 Briefings (Full Group) - University Hall Auditorium</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></td>
+<td><strong>Room A &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td><strong>Room B</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Parkway</td>
+<td>NOMMA</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Delhi</td>
+<td>West Monroe &nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Catholic</td>
+<td>Dunham</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Airline</td>
+<td>Ascension</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>Ruston&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>8:30 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|19791973843d5c24230a8cacbd80d06d(*)Web Analysis 2 Slides(*)c65708364809cd385b24d3c5bcc8b403(*)1466642621(*)(*)(*)<p>Here are the slides from the Web Analysis 2 training seminar</p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Cyber%20AI%202.pdf" target="_blank">Web Analysis 2</a></p>|!|c3b6934d6965cf89ab5c8e52c22860ba(*)Web Exercise 2 - Results(*)c65708364809cd385b24d3c5bcc8b403(*)1466691565(*)(*)(*)<p>Below are the results for the second Web Exercise:</p>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>90</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Delhi</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>40</td>
+</tr>
+<tr>
+<td>West Monroe &nbsp;</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Ruston &nbsp;</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|0e402517cc39983ad7fdaa53736b25c0(*)Essay 2 - Results(*)c65708364809cd385b24d3c5bcc8b403(*)1466700144(*)(*)(*)<p>Click the links for Ruston to view the top essays from Essay 2.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/ee35355698ba868015d61fe7c54dece4/submissions/Essay%202-37bd64a7706727bd6d4a6427e4fb79e3.odt">Ruston</a>&nbsp;</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Delhi&nbsp;</td>
+<td>70</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>55</td>
+</tr>
+<tr>
+<td>West Monroe &nbsp;</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|f83c1ec110ae53011efbe0fc07047536(*)Web Analysis 3 Information(*)c65708364809cd385b24d3c5bcc8b403(*)1466706506(*)c65708364809cd385b24d3c5bcc8b403(*)1466709469(*)<p>Here is the dictionary for the tutorial</p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/words.txt">words.txt</a></p>
+<p>Here are the slides from the Web Analysis 3 training seminar</p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Cyber%20AI%203.pdf" target="_blank">Web Analysis&nbsp;3</a></p>|!|b2e961dd33b1b788e91edea277801d53(*)Friday Itinerary (*)c65708364809cd385b24d3c5bcc8b403(*)1466731671(*)c65708364809cd385b24d3c5bcc8b403(*)1466799156(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:15 Essay 3 Due</p>
+<p>8:30 - 11:00 Field Operations Support - Bogard Hall 305</p>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Training Seminar: Legal Analysis - Bogard Hall 304</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 2:30 Training Exercise: Web Security - Bogard Hall 304</p>
+<p>2:30 - 5:30 Field Operations Support - Bogard Hall 304</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>*9:00 Essay 4 Due</p>
+<p>6:30 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|213bf6b594a639d009f3cbd510341eba(*)Web Exercise 3 - Results(*)c65708364809cd385b24d3c5bcc8b403(*)1466737706(*)(*)(*)<p>Below are the results for the third Web Exercise:</p>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>70</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Delhi</td>
+<td>40</td>
+</tr>
+<tr>
+<td>West Monroe &nbsp;</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Airline &nbsp;</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|3ce40cc272f4eefff813260f7eae1500(*)Briefing 3 Rankings(*)c65708364809cd385b24d3c5bcc8b403(*)1466737984(*)(*)(*)<p>Here are the results from the third briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+<td><strong>&nbsp; &nbsp; &nbsp;&nbsp;</strong></td>
+<td><strong>School &nbsp;&nbsp;</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>West Monroe &nbsp;</td>
+<td>95</td>
+<td>&nbsp;</td>
+<td>Delhi</td>
+<td>95</td>
+</tr>
+<tr>
+<td>NOMMA &nbsp;</td>
+<td>85</td>
+<td>&nbsp;</td>
+<td>Catholic &nbsp;</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>75</td>
+<td>&nbsp;</td>
+<td>Parkway &nbsp;&nbsp;</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>65</td>
+<td>&nbsp;</td>
+<td>Airline&nbsp;</td>
+<td>65</td>
+</tr>
+<tr>
+<td>Ascension &nbsp;&nbsp;</td>
+<td>60</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|001252fe6ded793d9c58260d342cdc6c(*)Legal Analysis Seminar(*)c65708364809cd385b24d3c5bcc8b403(*)1466782138(*)(*)(*)<p>Here are the materials used in the Legal Analysis Seminar</p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Warrants%20Session.pdf" target="_blank">Warrant Session Slides</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Search%20Warrants%20Handout.pdf" target="_blank">Search Warrant Handout</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/Google%20Warrant%20Affidavit.pdf" target="_blank">Google Warrant Affidavit</a></p>|!|668424eeaccf93c930142bf5952bdb76(*)Essay 3 - Results(*)c65708364809cd385b24d3c5bcc8b403(*)1466783093(*)(*)(*)<p>Click the links for Dunham to view the top essays from Essay 3</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/ee35355698ba868015d61fe7c54dece4/submissions/Becoming%20Aware-fdbd0a924024124639ffac1ec6c514c9.pdf">Dunham</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Delhi</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>80</td>
+</tr>
+<tr>
+<td>NOMMA&nbsp;</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>55</td>
+</tr>
+<tr>
+<td>West Monroe &nbsp;</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Airline</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|bc35128d72699c9b0303702a4c605e10(*)Saturday Itinerary (*)c65708364809cd385b24d3c5bcc8b403(*)1466800797(*)aec5ef67a62ceb6df672c06b7511206f(*)1466851196(*)<p dir="ltr"><span>7:30 - 9:00 Breakfast</span></p>
+<p dir="ltr">*8:45 Briefing Materials Due at Bogard 304</p>
+<p dir="ltr"><span>*9:00 Survey 2 Due</span></p>
+<p dir="ltr"><span>9:00 - 9:30 Public Introduction to Briefings (University Hall 134)</span></p>
+<p dir="ltr"><span>9:30 - 11:00 Team Briefings - University Hall Auditorium/University Hall Classroom</span></p>
+<p dir="ltr"><span>11:30 - 12:15 Luncheon and Awards (Student Center 222)</span></p>
+<p dir="ltr"><span>12:15 - 12:45 Teacher / Faculty Debrief &amp; Supply Return (TBA)</span></p>
+<p><span id="docs-internal-guid-b884640d-8418-fff6-3a3e-61bd41ec3346"><span>1:00 - 2:30 Check-Out (Women's Center)</span></span></p>
+<p><span><span><br /></span></span></p>|!|2ffd1d410173d5dfbe916f56d42c2f6d(*)Survey 2(*)c65708364809cd385b24d3c5bcc8b403(*)1466800852(*)(*)(*)<p>It's time for the&nbsp;<a href="http://tinyurl.com/CDSurvey-2">final survey</a>! Teachers and students please complete the final survey by Saturday morning!</p>|!|f97b654f686f81c72a8e275320135d40(*)Web Exercise 4 - Results(*)c65708364809cd385b24d3c5bcc8b403(*)1466805632(*)aec5ef67a62ceb6df672c06b7511206f(*)1466851459(*)<p>Below are the results for the fourth Web Exercise:</p>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>180</td>
+</tr>
+<tr>
+<td>Parkway</td>
+<td>160</td>
+</tr>
+<tr>
+<td>Delhi</td>
+<td>140</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>120</td>
+</tr>
+<tr>
+<td>West Monroe &nbsp;</td>
+<td>100</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Ruston &nbsp;</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Airline &nbsp;</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|a18c3251ee2374bc8407b1c71fe457b5(*)Warrant Timetable(*)c65708364809cd385b24d3c5bcc8b403(*)1466807244(*)c65708364809cd385b24d3c5bcc8b403(*)1466807264(*)<p>The requests to access private TOR servers will be processed and warrants will be granted based on their quality.&nbsp; Once the data has been collected&commasepar; your teachers will be emailed according to the timetable below. The results and ranking of the warrants will be posted later tonight.</p>
+<table border="2" align="center">
+<tbody>
+<tr align="center" valign="middle">
+<td><strong>&nbsp;Rank&nbsp;</strong></td>
+<td style="text-align: center;"><strong>&nbsp;Time&nbsp;</strong></td>
+</tr>
+<tr align="center" valign="middle">
+<td align="center">1</td>
+<td>6:10</td>
+</tr>
+<tr align="center" valign="middle">
+<td>2</td>
+<td>6:20</td>
+</tr>
+<tr align="center" valign="middle">
+<td>3</td>
+<td>6:30</td>
+</tr>
+<tr align="center" valign="middle">
+<td>4</td>
+<td>6:40</td>
+</tr>
+<tr align="center" valign="middle">
+<td>5</td>
+<td>6:50</td>
+</tr>
+<tr align="center" valign="middle">
+<td>6</td>
+<td>7:00</td>
+</tr>
+<tr align="center" valign="middle">
+<td>7</td>
+<td>7:10</td>
+</tr>
+<tr align="center" valign="middle">
+<td>8</td>
+<td>7:20</td>
+</tr>
+<tr align="center" valign="middle">
+<td>9</td>
+<td>7:30</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>In addition&commasepar; note the following important details:</p>
+<ol>
+<li><strong>All&nbsp;</strong>data will be provided at 8 AM with one final briefing on the blog.</li>
+<li>Your briefing protocol reports&nbsp;<strong>MUST</strong>&nbsp;be submitted by&nbsp;<span><strong>8:45AM</strong></span>&nbsp;so that they can be processed and copied.&nbsp; Submit your reports to Dr. Swanbom in Bogard Hall 304.</li>
+<li>The blog will also have the briefing schedule and location. (This will be posted soon.)</li>
+<li>You will have 5 minutes to present your findings and results&commasepar; which is then followed by about 5 minutes of Questions and Answers from the panel.</li>
+</ol>|!|1bdfcbd54a214c6e23d20a18f001f46e(*)Final Briefing Schedule(*)c65708364809cd385b24d3c5bcc8b403(*)1466809318(*)c65708364809cd385b24d3c5bcc8b403(*)1466809344(*)<p>Final Briefings will take place in University Hall</p>
+<table border="0">
+<tbody>
+<tr>
+<td><strong>Time &nbsp; &nbsp; &nbsp;&nbsp;</strong></td>
+<td><strong>Auditorium &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td><strong>Classroom (111) &nbsp;&nbsp;</strong></td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>Parkway</td>
+<td>Ascension</td>
+</tr>
+<tr>
+<td>9:45&nbsp;</td>
+<td>Catholic</td>
+<td>Delhi</td>
+</tr>
+<tr>
+<td>10:00&nbsp;</td>
+<td>Airline</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>10:15&nbsp;</td>
+<td>NOMMA</td>
+<td>Dunham</td>
+</tr>
+<tr>
+<td>10:30 &nbsp;&nbsp;</td>
+<td>West Monroe &nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|910cd156d18a3fb5f08cb04ba39fbfaf(*)Warrant Results(*)c65708364809cd385b24d3c5bcc8b403(*)1466822956(*)c65708364809cd385b24d3c5bcc8b403(*)1466823350(*)<p>Your scheduled email delivery time is listed below:</p>
+<table border="2" align="center">
+<tbody>
+<tr align="center" valign="middle">
+<td><strong>Team</strong></td>
+<td><strong>&nbsp; Time &nbsp;</strong></td>
+<td style="text-align: center;"><strong>&nbsp; Points &nbsp;</strong></td>
+</tr>
+<tr align="center" valign="middle">
+<td style="text-align: left;" align="center">Ascension&nbsp;</td>
+<td>6:10</td>
+<td>200</td>
+</tr>
+<tr align="center" valign="middle">
+<td style="text-align: left;">Dunham&nbsp;</td>
+<td style="text-align: center;">6:20</td>
+<td>180</td>
+</tr>
+<tr align="center" valign="middle">
+<td style="text-align: left;">Airline&nbsp;</td>
+<td>6:30</td>
+<td>160</td>
+</tr>
+<tr align="center" valign="middle">
+<td style="text-align: left;">Ruston&nbsp;</td>
+<td>6:45</td>
+<td>130</td>
+</tr>
+<tr align="center" valign="middle">
+<td style="text-align: left;">Catholic&nbsp;</td>
+<td>6:45</td>
+<td>130</td>
+</tr>
+<tr align="center" valign="middle">
+<td style="text-align: left;">Delhi&nbsp;</td>
+<td>7:00</td>
+<td>100</td>
+</tr>
+<tr align="center" valign="middle">
+<td style="text-align: left;">NOMMA&nbsp;</td>
+<td>7:10</td>
+<td>80</td>
+</tr>
+<tr align="center" valign="middle">
+<td style="text-align: left;">Parkway&nbsp;</td>
+<td>7:20</td>
+<td>60</td>
+</tr>
+<tr align="center" valign="middle">
+<td>West Monroe &nbsp;</td>
+<td>7:30</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|29fec19daf406b3dbdad84a950b0dc54(*)Warrant Release(*)c65708364809cd385b24d3c5bcc8b403(*)1466859544(*)(*)(*)<p>The data from all searched TOR exit nodes is given below</p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/BostonNode.pdf" target="_blank">Boston Exit Node</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/DetroitNode.pdf" target="_blank">Detroit Exit Node</a></p>
+<p><a href="camps/ee35355698ba868015d61fe7c54dece4/blog_uploads/DCNode.pdf" target="_blank">Washington DC Exit Node</a></p>|!|

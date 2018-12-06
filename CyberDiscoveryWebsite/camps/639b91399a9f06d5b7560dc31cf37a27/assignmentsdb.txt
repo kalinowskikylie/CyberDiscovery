@@ -1,0 +1,164 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content(*)exp_date|!|aa4178e78b907a36005ea1c9e4753213(*)Wendell Berry - Reading Assignment(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527519685(*)(*)(*)<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Click&nbsp;<a style="color: #0193cf;" href="camps/81041e26a1e63933cdeaf7036df8ae7f/assignments_uploads/BerryLandscape.pdf" target="_blank">here</a>&nbsp;for the Wendell Berry article. Read this article prior to the 11:15AM session on Cyber Policy and Ethics.</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Note: To rotate the article&commasepar; right click on the article and then click rotate clockwise</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">You do not need to submit anything for this.</p>(*)1527610500|!|9561cadea8b7f763e15a8c48abbe373b(*)Wargames (1983)(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527519742(*)(*)(*)<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Themes and questions to consider:</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">1. The Cold War Context - in what way does the Cold War drive the plot of the film? How does the Soviet threat drive the technological innovation on display in the film?</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">2. Level of Technology - what does Cyber look like at this time (1983&commasepar; mind you)? How&commasepar; for instance&commasepar; does one get on-line? And what (if anything) does Cyber-Security involve?</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">3. Military-Industrial Complex - what role does the military play in the development of Cyber-Space? How does the military draw on different sectors of society (the University&commasepar; for instance) to achieve its objectives?</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">4. Automation and Artificial Intelligence - in the military's estimation&commasepar; how does WOPR represent an improvement over human agents? By the end of the film&commasepar; how has WOPR changed? Is it more or less like the humans it replaced?</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">5. Man vs. Machine - although this story has a very specific focus (Cold War&commasepar; Military Technology&commasepar; etc.)&commasepar; its theme is nevertheless timeless. How does it help us to see the problem man always has with the things he builds? Does technological innovation always equal progress?</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">You do not need to submit anything for this assignment.</p>(*)1527602400|!|3e54760556e5565036676f477f28341b(*)Boe-Bot Challenge 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527608201(*)d259eb37bc4b04d541b63122d52e40e9(*)1527689615(*)<p>The first BOE-Bot challenge requires your team to program one of your bots to navigate a&nbsp;"Maze". Your bot will <strong>not</strong> be tethered to your computer during this competition; therefore&commasepar; you will need to pre-program your bot to complete the maze on its own.&nbsp;</p>
+<p>The bot will start at the location marked by the green circle. The objective of this competition is for the bot to follow your program and arrive at the location marked by the red "no" symbol. A timer will start when your bot begins to move and will stop when part of your bot arrives at the area marked with the red "no" symbol&nbsp;(or becomes immobilized).&nbsp;</p>
+<p>Points will be awarded starting with 100 points to the team that completes the maze in the fastest time down to 10 points to the team that either finishes the maze in the slowest time or is the farthest from the objective when their bot stalls. Each team will receive&nbsp;two runs on the maze. Each team will run the maze once&commasepar; and then the queue will be repeated for the second run of the maze. The best run out of the two will be counted for the teams' final score.</p>
+<p>NOTE: You do not have to submit anything for this assignment via the blog. Just be ready to run the maze at the beginning&nbsp;of the Boe-Bot session on Wednesday.</p>
+<p><img title="Maze" src="camps/95194f6b0c7a55b3808104870a724074/assignments_uploads/Maze.jpeg" alt="Maze Design" width="302" height="439" /></p>
+<p>The order for the two rounds is:</p>
+<p>1 - Little Elm</p>
+<p>2 - Live Oak</p>
+<p>3 - Ruston</p>
+<p>4 - Minden</p>
+<p>5 - St. Joseph's</p>
+<p>6 - Beekman</p>
+<p>7 - Little Rock Central</p>
+<p>8 - Dunham</p>
+<p>9 - West Feliciana</p>(*)1527690600|!|0d03fa6408eaad4eb0b9f1e2f42357dd(*)Writing Assignment 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527613348(*)d259eb37bc4b04d541b63122d52e40e9(*)1527689284(*)<p>Imagine you read Berry's essay when it was first published in 1990&commasepar; and Harper's asked you to write a response (500 word maximum) that would be published along with his reply. What would you say regarding both his argument in general&commasepar; as well as his particular examples and issues? Is there a sense in which his "indictment" of technological innovation (especially the proliferation of computers) is correct? And if so&commasepar; can you give any examples in your own life of technology that ends up doing more harm than good? Or&commasepar; is Berry's analysis flawed&commasepar; which leads him to see solutions as problems? If so&commasepar; what is wrong in his chain of reasoning that produces this erroneous judgment? And can you think of any technological innovation that meets or exceeds his standards laid out on pg. 32? Be sure in your response to anticipate his reply to your response&commasepar; for as you have seen&commasepar; he will be able to use your words&commasepar; and hence your ideas&commasepar; against you.</p>
+<p><a href="camps/9d4e7c6130f097651b872c4d0df2fade/assignments_uploads/rubric%20for%20grading%20essays.pdf">Rubric for Grading Essays</a></p>(*)1527688800|!|ef3a6753af07f33617eb9ceb27c5afc1(*)Sneakers (1992)(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527637195(*)(*)(*)<p>Trivia: The movie deals with the impact of a factoring breakthrough on encryption&commasepar; an obvious reference to the RSA algorithm&commasepar; one of the most popular methods of encrypting any form of data in the world. The computer in the room off of Cosmo's office in the PlayTronics building (the one that looks like a circular bench) is actually a Cray Y-MP&commasepar; a multi-million dollar supercomputer that was one of the world's fastest computers at the time the film was made. James Earl Jones' character&commasepar; Bernard Abbott&commasepar; was named after Robert Abbott&commasepar; a charismatic technical consultant for the film. Abbott designed the first time-sharing (multi-user) operating system for the Cray CDC-6600&commasepar; the predecessor of the Y-MP seen in the film. He is also often referred to as the "Father of Information Security" by seasoned veterans of the computing industry.</p>
+<p>Questions for discussion:</p>
+<p>What&rsquo;s the purpose of the opening sequence in 1969?</p>
+<p>What is the role of the NSA (National Security Agency) as explained early in the film?</p>
+<p>What&rsquo;s the significance of the Scrabble game in the film?</p>
+<p>What&commasepar; exactly&commasepar; is Dr. Janek&rsquo;s &ldquo;black box&rdquo;?</p>
+<p>What is Cosmo&rsquo;s plan for &ldquo;changing the world&rdquo; and why does he need the &ldquo;black box&rdquo;?</p>
+<p>Do you agree with Cosmo&rsquo;s argument at the end of the film that &ldquo;who controls the information&rdquo; will determine the balance of power in the future? Why or why not?</p>
+<p><strong>No Submission Necessary</strong></p>(*)1527688800|!|8a3ee7ed8e441d897604c3555d2b0f11(*)Is Google Making Us Stupid - Reading Assignment 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527637238(*)(*)(*)<p>Click <a href="camps/b0193fbf756384d0d6df14918e549cdd/assignments_uploads/Is%20Google%20Making%20Us%20Stupid.pdf">here</a> for the Nicholas Carr article. Read this article prior to the 11:00AM session on Cyber Policy and Ethics.</p>(*)1527696000|!|656c7b34284c88dc432a2b491bdf50b1(*)Boe-Bot Activity 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527699657(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527699765(*)<p>The next BOE-Bot challenge is a hybrid of polo and mini-golf. You have an attachment to your BOE-Bot that you will need to program in order to hit a marble golf ball around the course. There are two courses (Course A and Course B) with different objectives on each course. Starting position on each course is up to each team.</p>
+<p><strong>Course A (12 Marbles)</strong></p>
+<p>You will be given five minutes on this course during which time you will be challenged to score as many points as possible. There will be 12 marbles placed on the field in a predetermined pattern. The pattern will be marked on the field&commasepar; and will be the same for all teams.</p>
+<p>One point will be awarded for scoring a marble in the center hole&nbsp;<br />Three points for the hole to the right of center&nbsp;<br />Five points for the hole to the left of center&nbsp;<br />Note: the holes have differing levels of inclination.</p>
+<p><strong>Course B (5 Marbles)</strong></p>
+<p>This field will only have five marbles placed in a set pattern. You will be given five minutes on this field to score as many points as possible using the same scoring system as the first field. Five bonus points will be awarded on this field for scoring with all of the marbles.</p>
+<p>Only the "putter" may be used to move the marble. You are not allowed to push the marble around with the bot itself. The initial starting point for both courses is left up to each team to decide. You can choose any location to begin the challenge.</p>
+<p>The&nbsp;putting greens&nbsp;will be available for practice in Bogard Hall 305 during Team Time. Click to see the layout of&nbsp;<a href="camps/9d4e7c6130f097651b872c4d0df2fade/assignments_uploads/CourseA.JPG">Course A</a>&nbsp;and the layout of&nbsp;<a href="camps/9d4e7c6130f097651b872c4d0df2fade/assignments_uploads/CourseB.JPG">Course B</a>.</p>
+<p><strong>Note: There will be a two and half minute break between rounds.</strong></p>
+<p><strong>Queue</strong></p>
+<p>The queue will be determined using the results from Boe-Bot Challenge 1. In the order of the results&commasepar; teams will chose which field to start in and what the starting position will be (1 through 4). The four teams will start on their respective course&commasepar; and then move over to the other course competing in the same order.</p>
+<p>NOTE: No submission via the blog is necessary for this assignment.</p>(*)1527777000|!|37364dfdd751b1029145e1b5677ef8aa(*)Writing Assignment 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527699751(*)(*)(*)<p>Carr Essay Prompt:&nbsp;</p>
+<p>Both the Wendell Berry text and the Nicholas Carr essay deal with literacy and the connections we make with other humans and with information through the use (or lack thereof) of technology. Both readings make compelling arguments about the damage technology can have on those types of relationships.&nbsp;</p>
+<p>While technology might be changing the way we interact with people and while it might be changing how we read texts or take in information&commasepar; is this necessarily as bad as Carr suggests? Are we really becoming &ldquo;stupid&commasepar;&rdquo; or are we just &ldquo;processing differently&commasepar;&rdquo; so to speak?&nbsp;</p>
+<p>Your essay will respond to Carr&rsquo;s argument. What I want you to argue/offer is the counterpoint. In an essay of&nbsp;<strong>500 words</strong>&commasepar; argue why Google is&nbsp;<strong>not&nbsp;</strong>making us more stupid but rather why Google and the Internet could actually be making us smarter. You can choose to respond to Carr however you&rsquo;d like. You may refute specific points in his essay (but do not choose more than two specific points); you may offer a more general response to his essay; you may choose to structure your argument like Carr&rsquo;s and offer anecdotal evidence.&nbsp;</p>
+<p>Your response is due by 9 am Thursday morning.</p>(*)1527775200|!|d4762ec13c427ef9d27959907016495e(*)Cyber Fort(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527709149(*)(*)(*)<p>Cyber Discovery students&commasepar; get ready create your CyberFort! Please read and follow these&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/assignments_uploads/Cyberfort%20Assignment_SketchUp%20Tutioral.pdf">instructions</a>.</p>
+<p>Click&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/assignments_uploads/Cyber_Arena.skp">here</a>&nbsp;for the SketchUp file for the Cyber Arena.</p>(*)1527804000|!|44453d31f1172eaeaffedc7946042690(*)The Imitation Game (2014)(*)d259eb37bc4b04d541b63122d52e40e9(*)1527724692(*)d259eb37bc4b04d541b63122d52e40e9(*)1527724761(*)<p><span>Discussion Questions for&nbsp;<span>The Imitation Game</span></span></p>
+<ol>
+<li>Was cracking the Enigma Cipher an impossible problem? What made it difficult? Why could a machine do it better than a human?</li>
+<li>Humans are often the weakest link in any security system. How did German errors make it easier to break this cipher?</li>
+<li>Why couldn&rsquo;t the British government act on all the information that learned from reading German messages? What would you have done if you were in their position?</li>
+<li>Secrets play a major role in The Imitation Game. We see the British government trying to keep information secret from nations they are at war with (Germany)&commasepar; nations they are allied with (USSR)&commasepar; other branches of their own government (MI6 hiding information from the military) and the public. Why are these secrets important? Are they a problem? Should the government be able to hide some of its activities from the public? Should citizens be able to hide some of their activities from the government?</li>
+</ol>
+<p>There is no assignment to be submitted&commasepar; but you should be prepared to discuss these themes Thursday morning in your Movie Discussion Group at 9AM.</p>(*)1527775200|!|b64fbd1750301d2ea34fd0ffa6c32106(*)Letters - Reading Assignment(*)d259eb37bc4b04d541b63122d52e40e9(*)1527730498(*)d259eb37bc4b04d541b63122d52e40e9(*)1527730535(*)<p>Click&nbsp;<a href="camps/f1db4f36a6401ff11c12263752a935be/assignments_uploads/June%208%20Letters.pdf">here</a>&nbsp;for the reading assignment. Read these letters prior to the 11:00AM session on Cyber Policy and Ethics.</p>
+<p><em><strong>No Submissions Necessary</strong></em></p>(*)1527782400|!|d52a60bb2647a57411f636afd7422a98(*)Writing Assignment #3(*)6854842ea7154a93801e5ab7e5e3f6b5(*)1527789685(*)(*)(*)<p>Advanced Fee Fraud</p>
+<p>For this assignment&commasepar; write your own advance fee fraud letter addressed to a well-known public figure. Collect information on your chosen target&commasepar; and devise a strategy for scamming them based on their biography and personal interests. Your letters can contain a maximum of 500 typed words&commasepar; but your letter can include one supporting attachment (e.g. a photograph&commasepar; official document&commasepar; etc.)&commasepar; which you can paste at the end of your letter. Letters will be assessed based on their writing style&commasepar; target research&commasepar; and argument (i.e. your ability to sell the scam).</p>(*)1527861600|!|e833b81573a695b2b2301f9a02456f48(*)Boe-Bot Challenge 3(*)d259eb37bc4b04d541b63122d52e40e9(*)1527821542(*)d259eb37bc4b04d541b63122d52e40e9(*)1527821796(*)<p>The next BOE-Bot challenge is collaborative soccer challenge. You will be given four minutes on the field during which time you will be challenged to score as many points as possible with your partner school. There will be a total of four bots on the field at a time. Your school&rsquo;s team will be partnered with a different school&rsquo;s team each round. You will be able to use any attachment that you purchase at the auction tonight.</p>
+<p>There will be five marbles placed on the field in a predetermined pattern. The pattern will be marked on the field&commasepar; and will be the same for all teams. Each team will start their Boe-Bot in a corner on their side of the field. After the start of the competition&commasepar; you can maneuver your bot anywhere on the field. Once a score is made&commasepar; the marble will be placed back on the field by a referee. Each game will last four minutes.</p>
+<p>If your bot is immobilized or you feel it is about to be immobilized you are allowed to request assistance.&nbsp; If assistance is requested&commasepar; your bot will be removed from the field for 30 seconds. After 30 seconds&commasepar; your bot will be returned to your team&rsquo;s starting corner.</p>
+<p>One point will be awarded for scoring a marble in the opposing team&rsquo;s goal.&nbsp;</p>
+<p>The soccer field will be available for practice in Bogard Hall 304.</p>
+<p>There will be nine rounds of play. Each team will compete 4 times&commasepar; and will sit out five rounds. The schedule for the matchups are:</p>
+<table border="1">
+<tbody>
+<tr>
+<td><strong>Game 1</strong></td>
+<td>
+<p>Beekman/West Feliciana</p>
+</td>
+<td><strong>vs</strong></td>
+<td>
+<p>Dunham/St. Joseph's</p>
+</td>
+</tr>
+<tr>
+<td><strong>Game 2</strong></td>
+<td>Little Elm/Ruston</td>
+<td><strong>vs</strong></td>
+<td>
+<p>Little Rock Central/Minden</p>
+</td>
+</tr>
+<tr>
+<td><strong>Game 3</strong></td>
+<td>
+<p>Live Oak/West Feliciana</p>
+</td>
+<td><strong>vs</strong></td>
+<td>
+<p>Beekman/Dunham&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td><strong>Game 4</strong></td>
+<td>
+<p>Little Elm/St. Joseph's</p>
+</td>
+<td><strong>vs</strong></td>
+<td>
+<p>Little Rock Central/Ruston&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td><strong>Game 5</strong></td>
+<td>
+<p>Dunham/Minden&nbsp;</p>
+</td>
+<td><strong>vs</strong></td>
+<td>
+<p>Beekman/Live Oak</p>
+</td>
+</tr>
+<tr>
+<td><strong>Game 6</strong></td>
+<td>
+<p>Little Elm/Little Rock Central&nbsp;</p>
+</td>
+<td><strong><strong>vs</strong></strong></td>
+<td>
+<p>Ruston/West Feliciana&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td><strong>Game 7</strong></td>
+<td>
+<p>Live Oak/St. Joseph's&nbsp;</p>
+</td>
+<td><strong><strong>vs</strong></strong>&nbsp;</td>
+<td>
+<p>Beekman/Minden&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td><strong>Game 8</strong></td>
+<td>
+<p>Dunham/Little Elm&nbsp;</p>
+</td>
+<td><strong><strong>vs</strong></strong>&nbsp;</td>
+<td>
+<p>Little Rock Central/West Feliciana</p>
+</td>
+</tr>
+<tr>
+<td><strong>Game 9</strong></td>
+<td>
+<p>Live Oak/Ruston&nbsp;</p>
+</td>
+<td><strong><strong>vs</strong></strong>&nbsp;</td>
+<td>
+<p>Minden/St. Joseph's</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For each round&commasepar; your team pair will receive 3 points for winning&commasepar; 1 point for a draw&commasepar; or 0 points for losing. Final ranking will be determined from the most points. A tie will be broken by using goal difference.</p>
+<p><strong><em>No Submission Necessary</em></strong></p>(*)1527877800|!|7c149cef4bed795f4c2e589c7938c4f0(*)Reading Assignment 3(*)d259eb37bc4b04d541b63122d52e40e9(*)1527821716(*)d259eb37bc4b04d541b63122d52e40e9(*)1527821777(*)<p>Please read the following prior to the 11:15AM session on Cyber Policy and Ethics.</p>
+<p><a href="http://theconversation.com/will-ai-ever-understand-human-emotions-70960">http://theconversation.com/will-ai-ever-understand-human-emotions-70960</a></p>(*)1527869700|!|206f8dcfe06b61a850dced3a3bc7bf86(*)RoboCop (2014)(*)d259eb37bc4b04d541b63122d52e40e9(*)1527821762(*)(*)(*)<p>Robocop Movie discussion questions:</p>
+<p>1. Sen. Dreyfus says &ldquo;in order to legislate over human life&commasepar; we need to value human life.&rdquo; What does this mean? Do you think that this is true? Why or why not? And what does the value of human life have to do with cyber technology/cyber citizenry?</p>
+<p>2. Does the definition of &ldquo;human&rdquo; change throughout the movie? If so&commasepar; how? How would you define &ldquo;human&rdquo;? What does it mean to be &ldquo;human&rdquo; in a cyberworld?</p>
+<p>3. Is Alex better off as a &ldquo;machine&rdquo; than if he would have recovered and attempted to heal in his human body? Why or why not? What are the pros and cons to &ldquo;machine&rdquo; and &ldquo;human&rdquo;? If this is&commasepar; as Dr. Norton says &ldquo;a second chance&commasepar;&rdquo; what does this mean for medicine and technology?</p>
+<p>4. Keeping question #3 in mind&commasepar; what would Wendell Berry say about putting a human in a machine? What do you think he would think about this kind of technology?</p>
+<p><em><strong>No Submission Necessary</strong></em></p>(*)1527861600|!|aa4b0c5f979832ac2960b234acc64abd(*)Surveys(*)d259eb37bc4b04d541b63122d52e40e9(*)1527862579(*)d259eb37bc4b04d541b63122d52e40e9(*)1527862590(*)<p>Teachers&commasepar; please complete the <a href="https://www.research.net/r/LouisanaTech_May28_June2_Teacher">teacher survey</a> by Sat 2 Jun at 9:30am.</p>
+<p>Students&commasepar; please complete the <a href="https://www.research.net/r/LouisanaTech_May28_June2_Student">student survey</a> by Sat 2 Jun at 9:30am.</p>(*)1527949800|!|90d508646838ce6b47f19ab39c84d72f(*)Writing Assignment 4(*)d259eb37bc4b04d541b63122d52e40e9(*)1527883612(*)d259eb37bc4b04d541b63122d52e40e9(*)1527883636(*)<p>Writing from the point of view of Alex Murphy/Robocop&commasepar; how would you respond to the article concerning AI and human emotions?&nbsp; Is it a good idea for machines/robots to experience emotion?&nbsp; Is "efficiency" an ethical justification for the potential consequences?&nbsp; Are you still human if you cannot feel emotion?&nbsp; And what about the importance of choice?&nbsp; Do not feel as if you must answer each question; they are here to get you to brainstorm.&nbsp; Per usual&commasepar; 500 words.</p>(*)1527948000|!|4606bc80d12bed2423a77e660b27eb1c(*)Creative Storyline(*)d259eb37bc4b04d541b63122d52e40e9(*)1527889378(*)(*)(*)<p>The storyline assignment asks each team to present a creative treatment that explains or provides a storyline for the various themes of the camp (examples include: the BOE-Bot competitions&commasepar; role of technology in our lives&commasepar; our responsibilities as cyber citizens&commasepar; etc.). Each team will have ten minutes (6-7 minute presentation with 3-4 minutes for questions) for the presentation of their storyline and may use any media (permission to use a video camera&commasepar; camera included&commasepar; will be available for purchase at the auction) or props. The presentations will take place on Saturday morning before the BOE-bot competition. The presentations will be held in GTM 105 (same rooms as the movies).</p>
+<p>For help with the storylines&commasepar; here is Professor Crook's&nbsp;<a href="camps/9d4e7c6130f097651b872c4d0df2fade/assignments_uploads/Creative%20Storyline%20Score%20Sheet.doc">scoring sheet</a>.</p>(*)1527941700|!|

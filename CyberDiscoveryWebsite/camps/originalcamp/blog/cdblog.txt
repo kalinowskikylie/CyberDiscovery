@@ -1,0 +1,541 @@
+Cyber Discovery Camp starts soon! This website will be the hub of communication for the camp. Check often to see assignments and progress of the teams throughout the week.(*)Last edited by: David Richard on May 29, 2011*****END_OF_ENTRY*****Louisiana Tech University is proud to host its fourth annual Cyber Discovery Camp from May 30-June 4, 2011. We are excited to welcome outstanding students and teachers from ten schools to what promises to be a fun, challenging, and rewarding academic experience. Check back here for updates, assignments, and other kinds of information necessary for the camp. Good luck to everyone!(*)Written by: Heath Tims on May 30, 2011*****END_OF_ENTRY*****Tuesday Itinerary <br>
+8:00-9:00 Breakfast <br>
+<br>
+*8:30 Survey 1 is Due <br>
+<br>
+9:00-9:30 Movie Discussion (Mixed Small Groups)<br>
+Group 1: GTM 123A <br>
+Group 2: Dean\'s Conference Room (1st Floor GTM) <br>
+Group 3: GTM 223 <br>
+Group 4: Bogard Hall 325 <br>
+Group 5: Bogard Hall 327 <br>
+Group 6: Bogard Hall 328 <br>
+<br>
+9:30-11:00 Hands-On-Lab (Full Group) - Bogard Hall 304 <br> 
+<br>
+Topic: BOE-Bot Activity (Basics) <br>
+<br>
+11:00-11:15 Break <br>
+<br>
+11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 304<br>
+Theme: Cyber Knowledge<br>
+<br>
+12:00-1:00 Lunch<br>
+<br>
+1:00-1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing<br>
+<br>
+1:30-1:40 Break<br>
+<br>
+1:45-3:30 Hands-On-Lab (Full Group) - Bogard Hall 304<br>
+Topic: Cryptography I<br>
+<br>
+3:30-5:30 Team Time (School Groups) - A Place of Your Choosing<br>
+<br>
+5:30-6:30 Dinner<br>
+<br>
+6:30-8:30 Movie Time (Full Group) - Wyly Tower Auditorium<br>
+<br>
+9:00-11:00 Team Time (School Groups) - University Apartments<br>
+<br>
+11:00 Lights out<br>
+(*)Last edited by: Krystal Corbett on May 30, 2011*****END_OF_ENTRY*****Surveys
+<br>
+<br>
+Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys). 
+<br>
+<br>
+Why do we need to do the surveys? Your participation in the surveys are a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.
+<br>
+<br>
+Please click the following link for the first survey:
+<br>
+<div><a style=\"color:blue;text-decoration:underline;\" href=\"https://www.surveymonkey.com/s/cyberdiscoverycamp_survey1\">Survey 1</a></div>
+<br>
+<br>
+All students and teachers should complete the survey by 8:30 Tuesday morning.(*)Last edited by: David Richard on May 31, 2011*****END_OF_ENTRY*****Days 1 & 2 recap video! <br>
+<br>
+
+<iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/MDO3a8DbxoQ\" frameborder=\"0\" allowfullscreen></iframe>
+<br>
+<br>
+Click this post to find the link to share this video.
+
+(*)Last edited by: Heath Tims on June 7, 2011*****END_OF_ENTRY*****Wednesday Itinerary<br>
+<br>
+8:00-9:00 Breakfast<br>
+<br>
+9:00-9:30 Movie Discussion (Mixed Small Groups) <br>
+. Group 1: GTM 123A<br>
+. Group 2: Dean\'s Conference Room (1st Floor of GTM) <br>
+. Group 3: GTM 223<br>
+. Group 4: Bogard Hall 325<br>
+. Group 5: Bogard Hall 327<br>
+. Group 6: Bogard Hall 328<br>
+<br>
+9:30-11:00 Hands-On-Lab (Full Group) - Bogard Hall 304<br>
+. Topic: BOE-Bot Activity (whiskers, maze) <br>
+<br>
+11:00-11:15 Break<br>
+<br>
+11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 304<br>
+. Theme: Cyber Liberties<br>
+<br>
+12:00-1:00 Lunch<br>
+<br>
+1:00-1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of
+Your Choosing<br>
+<br>
+1:30-1:40 Break<br>
+<br>
+1:45-3:30 Hands-On-Lab (Full Group) - Bogard Hall 304<br>
+. Topic: Performing Arts<br>
+. Topic: Cryptography II<br>
+. Topic: Sketch Up Introduction<br>
+<br>
+3:30-5:30 Team Time (School Groups) - A Place of Your Choosing<br>
+<br>
+5:30-6:30 Dinner<br>
+<br>
+6:30-8:30 Movie Time (Full Group) - George T Madison Auditorium<br>
+<br>
+9:00-11:00 Team Time (School Groups) - University Apartments<br>
+<br>
+11:00 Lights out<br>
+(*)Last edited by: Heath Tims on June 1, 2011*****END_OF_ENTRY*****Please click the following link for the second survey:
+<br>
+<div><a style=\"color:blue;text-decoration:underline;\" href=\"https://www.surveymonkey.com/s/cyberdiscoverycamp_survey2\">Survey 2</a></div>
+<br>
+<br>
+All students and teachers should complete the survey after your second round in the maze competition.(*)Written by: Krystal Corbett on June 1, 2011*****END_OF_ENTRY*****<b>BOE-Bot Challenge #1 Results</b><br><br>
+<table border=\"1\" cellpadding=\"5\" cellspacing=\"5\" width=\"40%\">
+<tbody><tr>
+<th>School</th>
+<th>Points</th>
+</tr>
+<tr>
+<td width=\"50%\">Airline</td><td>100</td></tr>
+<tr>
+<td width=\"50%\">North Desoto</td><td>85</td></tr>
+<tr>
+<td width=\"50%\">Haughton</td><td>85</td></tr>
+<tr>
+<td width=\"50%\">Evangel</td><td>70</td></tr>
+<tr>
+<td width=\"50%\">Parkway</td><td>60</td></tr>
+<tr>
+<td width=\"50%\">Benton</td><td>50</td></tr>
+<tr>
+<td width=\"50%\">Ruston</td><td>25</td></tr>
+<tr>
+<td width=\"50%\">Minden</td><td>25</td></tr>
+<tr>
+<td width=\"50%\">El Dorado</td><td>25</td></tr>
+<tr>
+<td width=\"50%\">Byrd</td><td>25</td></tr>
+
+</tbody></table>
+<br>
+Some of the results were too close to call, and therefore the teams were tied and the points split evenly between the tied positions. It was an exciting event with some very well programmed bots. <br><br>Tomorrow it is time for some cyber golf! 
+(*)Last edited by: Kelly Crittenden on June 1, 2011*****END_OF_ENTRY*****Hey everyone check out our facebook page!!! 
+<br>
+<br>
+<div><a style=\"color:blue;text-decoration:underline;\" href=\"http://www.facebook.com/pages/Cyber-Discovery/213954368626255\">Cyber Discovery Facebook Page</a></div>
+<br>(*)Last edited by: Krystal Corbett on June 1, 2011*****END_OF_ENTRY*****<SPAN>The results for the first essay are as follows:</SPAN><BR>1. (tie) Airline/North Desoto<BR>3. - Evangel<BR>4. - Parkway<BR>5. - Benton<BR>6. - El Dorado<BR>7. - Ruston<BR>8. - Byrd<BR>9. - Haughton<BR>10. Minden<BR>(*)Last edited by: Jeremy Mhire on June 1, 2011*****END_OF_ENTRY*****Day 3 Video:<br>
+<br>
+
+<iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/RNd3POjNALo\" frameborder=\"0\" allowfullscreen></iframe>
+<br>
+<br>
+Click this post to share on facebook.<br>(*)Written by: Heath Tims on June 1, 2011*****END_OF_ENTRY*****Thursday Itinerary<br><br>
+8:00-9:00 Breakfast<br>
+<br>
+9:00-9:30 Movie Discussion (Mixed Small Groups)<br>
+•	Group 1: GTM 123A<br>
+•	Group 2: Dean\'s Conference Room (1st Floor of GTM)<br>
+•	Group 3: GTM 223<br>
+•	Group 4: Bogard Hall 325<br>
+•	Group 5: Bogard Hall 327<br>
+•	Group 6: Bogard Hall 328<br>
+<br>
+9:30-11:00 Hands-On-Lab (Full Group) - Bogard Hall 304<br>
+•	Topic: Boe-Bot Activitiy 3 (explore challenges)<br>
+<br>
+11:00-11:15 Break<br>
+<br>
+11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 304<br>
+•	Theme: Cyber Operations<br>
+<br>
+12:00-1:00 Lunch<br>
+<br>
+1:00-1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing<br>
+<br>
+1:30-1:40 Break<br>
+<br>
+1:45-3:30 Hands-On-Lab (Full Group) - Bogard Hall 304<br>
+•	Topic: Manipulations and Exploitations I<br>
+<br>
+3:30-5:30 Team Time (School Groups) - A Place of Your Choosing<br>
+<br>
+5:30-6:30 Dinner<br>
+<br>
+6:30-8:30 Movie Time (Full Group)- Wyly Tower Auditorium<br>
+<br>
+9:00-11:00 Team Time (School Groups) - University Apartments<br>
+<br>
+11:00 Lights out<br>
+(*)Written by: Heath Tims on June 1, 2011*****END_OF_ENTRY*****<b>BOE-Bot Challenge #2 Results</b><br><br>
+<table border=\"1\" cellpadding=\"5\" cellspacing=\"5\" width=\"40%\">
+<tbody><tr>
+<th>School</th>
+<th>Points</th>
+</tr>
+<tr>
+<td width=\"50%\">North Desoto</td><td>100</td></tr>
+<tr>
+<td width=\"50%\">Airline</td><td>90</td></tr>
+<tr>
+<td width=\"50%\">Minden</td><td>80</td></tr>
+<tr>
+<td width=\"50%\">Parkway</td><td>70</td></tr>
+<tr>
+<td width=\"50%\">Haughton</td><td>60</td></tr>
+<tr>
+<td width=\"50%\">Benton</td><td>50</td></tr>
+<tr>
+<td width=\"50%\">El Dorado</td><td>35</td></tr>
+<tr>
+<td width=\"50%\">Byrd</td><td>35</td></tr>
+<tr>
+<td width=\"50%\">Evangel</td><td>20</td></tr>
+<tr>
+<td width=\"50%\">Ruston</td><td>10</td></tr>
+
+</tbody></table>
+<br>
+It was an exciting event with some very well programmed bots. <br><br>Tomorrow it is time for some cyber soccer! 
+(*)Last edited by: Heath Tims on June 2, 2011*****END_OF_ENTRY*****The following items will be available at the auction:<br>
+<br>
+10 - hungry hippo attachments<br>
+3 - putter attachments<br>
+3 - remote controls<br>
+5 - erector sets (various sizes) <br>
+1 - track set <br>
+2 - manilla folder and tape<br>
+<br>
+All teams will receive a basic bulldozer (blue) attachment for no cost.(*)Written by: Heath Tims on June 2, 2011*****END_OF_ENTRY*****<b>Friday Itinerary</b><br>
+<br>
+8:00-9:00 Breakfast<br>
+<br>
+9:00-9:30 Movie Discussion (Mixed Small Groups) <br>
+<br>
+9:30-9:50 Cyber Security Presentation - Invited Guest<br>
+<br>
+9:50-11:00 *Hands-On-Lab (Full Group) <br>
+Topic: Boe-Bot Activitiy (open-ended preparation for final challenge) <br>
+<br>
+11:00-11:15 Break<br>
+<br>
+11:15-12:00 Cyber Policy and Ethics (Full Group) <br>
+<br>
+Theme: Cyber Operations<br>
+<br>
+12:00-1:00 Lunch<br>
+<br>
+1:30 - 2:30 Boe-Bot Soccer World Cup - field in BH 305<br>
+<br>
+2:30 - 3:30* Hands-On-Lab (Full Group) <br>
+Open-ended preparation for final challenge<br>
+<br>
+3:30-5:30* Team Time (School Groups) <br>
+<br>
+5:30-6:30 Dinner<br>
+<br>
+6:30-8:00 Team Time (Small groups) - arena in Memorial Gym<br>
+<br>
+9:00-11:00 Team Time (School Groups) - in rooms<br>
+<br>
+11:00 Lights out<br>
+<br>
+*Green-screen time to be scheduled for 30 minute sessions<br>
+2 sessions in the 10:00-11:00 time slot<br>
+2 sessions in the 2:30-3:30 time slot<br>
+3 sessions in the 4:00-5:30 time slot<br>
+(*)Last edited by: Krystal Corbett on June 2, 2011*****END_OF_ENTRY*****<span>The results for Essay #2 are as follows:</span><br>1. - Evangel<br>2. - North Desoto<br>3. - Haughton<br>4. - Airline<br>5. - Ruston<br>6. (tie) - Byrd, El Dorado<br>8. - Parkway<br>9. - Benton<br>10. - Minden<br>(*)Last edited by: Heath Tims on June 2, 2011*****END_OF_ENTRY*****Points Standings Thursday 7:30pm <br>
+<br>
+Ruston - 535<br>
+Airline - 503<br>
+Evangel - 430<br>
+North DeSoto - 408<br>
+Parkway - 296<br> 
+Haughton - 259<br>
+Benton - 242<br>
+Minden - 189<br>
+El Dorado - 179<br>
+Byrd - 153<br>(*)Last edited by: Christian Duncan on June 2, 2011*****END_OF_ENTRY*****Congratulations to Team Ruston for discovering the hidden treasure at noon today!
+
+All other teams, feel free to pursue all leads as there are still many points remaining to be handed out.
+
+(*)Written by: Christian Duncan on June 2, 2011*****END_OF_ENTRY*****Day 4 video: <br><br>
+
+<iframe width=\"425\" height=\"349\" src=\"http://www.youtube.com/embed/eUK1vjZ9yD8\" frameborder=\"0\" allowfullscreen></iframe>
+<br><br>
+Click this post to share on facebook!(*)Written by: Krystal Corbett on June 2, 2011*****END_OF_ENTRY*****<b>Post Auction Point Distribution</b><br><br>
+<table border=\"1\" cellpadding=\"5\" cellspacing=\"5\" width=\"40%\">
+<tbody><tr>
+<th>School</th>
+<th>Points</th>
+</tr>
+<tr>
+<td width=\"50%\">Airline</td><td>282</td></tr>
+<tr>
+<td width=\"50%\">Benton</td><td>131</td></tr>
+<tr>
+<td width=\"50%\">Bryd</td><td>48</td></tr>
+<tr>
+<td width=\"50%\">El Dorado</td><td>24</td></tr>
+<tr>
+<td width=\"50%\">Evangel</td><td>224</td></tr>
+<tr>
+<td width=\"50%\">Haughton</td><td>107</td></tr>
+<tr>
+<td width=\"50%\">Minden</td><td>49</td></tr>
+<tr>
+<td width=\"50%\">North DeSoto</td><td>268</td></tr>
+<tr>
+<td width=\"50%\">Parkway</td><td>176</td></tr>
+<tr>
+<td width=\"50%\">Ruston</td><td>245</td></tr>
+
+</tbody></table>
+(*)Last edited by: Krystal Corbett on June 2, 2011*****END_OF_ENTRY*****Since some teams have been asking for this list so that they know how many more points they can still earn in the treasure hunt, I am attaching the current table of scores in the treasure hunt.  Not counting the 200 points won by Ruston for finding the hidden treasure first.
+
+<table border=\"1\">
+<tbody><tr>
+<td>Clue</td>
+<td>Airline</td>
+<td>Benton</td>
+<td>Byrd</td>
+<td>El Dorado</td>
+<td>Evangel</td>
+<td>Haughton</td>
+<td>Minden</td>
+<td>North DeSoto</td>
+<td>Parkway</td>
+<td>Ruston</td>
+</tr>
+<tr><td>1</td>
+<td>16</td><td>18</td><td>-</td><td>-</td><td>14</td><td>-</td><td>8</td><td>12</td><td>10</td> <td>20</td>
+</tr>
+<tr><td>2</td><td>18 </td><td> 8 </td><td>12 </td><td> - </td><td>14 </td><td>10 </td><td> 4 </td><td> 6 </td><td>16 </td><td>20</td></tr>
+<tr><td>3</td><td>14 </td><td> 2 </td><td> 6 </td><td>12 </td><td>16 </td><td> 4 </td><td>18 </td><td>10 </td><td> 8 </td><td>20</td></tr>
+<tr><td>4</td><td>14 </td><td> 6 </td><td> - </td><td>12 </td><td>18 </td><td> - </td><td>16 </td><td>10 </td><td> 8 </td><td>20</td></tr>
+<tr><td>5</td><td>16 </td><td> - </td><td> - </td><td> - </td><td>14 </td><td> - </td><td>18 </td><td> - </td><td> - </td><td>20</td></tr>
+<tr><td>6</td><td>18 </td><td>14 </td><td> - </td><td> - </td><td>16 </td><td> - </td><td> - </td><td> - </td><td>12 </td><td>20</td></tr>
+<tr><td>7</td><td>16 </td><td>14 </td><td> - </td><td> - </td><td>18 </td><td> - </td><td> - </td><td> - </td><td>12 </td><td>20</td></tr>
+<tr><td>8</td><td>18 </td><td> - </td><td> - </td><td> - </td><td>16 </td><td> - </td><td> - </td><td> - </td><td> - </td><td>20</td></tr>
+<tr><td>9</td><td>18 </td><td> - </td><td> - </td><td> - </td><td>16 </td><td> - </td><td> - </td><td> - </td><td> - </td><td>20</td></tr>
+<tr><td>10</td><td>16 </td><td> - </td><td> - </td><td> - </td><td>18 </td><td> - </td><td> - </td><td> - </td><td> - </td><td>20</td></tr>
+</tbody></table>(*)Last edited by: Christian Duncan on June 3, 2011*****END_OF_ENTRY*****For directions to the Final Challenge refer to the new tab on the website entitled \"Directions.\" Included in the tab are directions to the event coming from I20 as well as a campus map. Please refer all parents and other attendees to this tab!
+<br><br>
+Parents and other visitors should try to get to Memorial Gym for 9:30AM. The competition will start at 10:00AM. (*)Last edited by: Krystal Corbett on June 3, 2011*****END_OF_ENTRY*****<b>BOE-Bot Challenge #3 Results</b><br><br>
+<table border=\"1\" cellpadding=\"5\" cellspacing=\"5\" width=\"40%\">
+<tbody><tr>
+<th>School</th>
+<th>Points</th>
+</tr>
+<tr>
+<td width=\"50%\">North DeSoto/Airline</td><td>95</td></tr>
+<tr>
+<td width=\"50%\">Evangel/Parkway</td><td>75</td></tr>
+<tr>
+<td width=\"50%\">Haughton/Benton</td><td>55</td></tr>
+<tr>
+<td width=\"50%\">Byrd/El Dorado</td><td>35</td></tr>
+<tr>
+<td width=\"50%\">Ruston/Minden</td><td>15</td></tr>
+
+</tbody></table>
+ 
+(*)Written by: Krystal Corbett on June 3, 2011*****END_OF_ENTRY*****<span>The results for Essay 3 are as follows:</span><br>1. - Airline<br>2. (tie) - North Desoto, Minden <br>4. - Evangel<br>5. - Benton<br>6. - Ruston<br>7. - Byrd<br>8. - Haughton<br>9. - Parkway<br>10. - El Dorado<br>(*)Last edited by: Krystal Corbett on June 4, 2011*****END_OF_ENTRY*****If you are having trouble importing your Flip video files, you can go to:<br>
+<br>
+<div><a style=\"color:blue;text-decoration:underline;\" href=\"http://winff.org/html_new/downloads.html\">http://winff.org/html_new/downloads.html</a></div>
+<br>
+
+<br>
+Install this program on your computer. Click the \"Add\" button to select the .mp4 (flip video) file. In the Output Details choose <br>
+Convert to:WMV<br>
+Preset:WMV2 Generic<br>
+Output Folder: (this is wherever you want to save your files)<br>
+<br>
+<br>
+You should now be able to open Windows Movie Maker and import this file.
+
+(*)Last edited by: Heath Tims on June 3, 2011*****END_OF_ENTRY*****<b>Please click the following link for the third survey:</b>
+<br><br>
+<div><a style=\"color:blue;text-decoration:underline;\" href=\"https://www.surveymonkey.com/s/cyberdiscoverycamp_survey3\">Survey 3</a></div>
+<br>
+<br>
+All students and teachers should complete the survey tonight!(*)Last edited by: Krystal Corbett on June 3, 2011*****END_OF_ENTRY*****<b> Saturday Itinerary</b> <br> <br>
+7:00 – All teams that are using some sort of media file for their storyline presentations must report to Hale Hall Room 211 with their files ready on their USB drives (movie files should be of type .wmv).<br><br>
+
+7:30 - 9:30 -- Story-Line Presentations - Hale Hall (2nd floor)<br>
+Each team will present a 6-7 minute storyline. Please arrive at least 10 minutes prior to your start time.<br><br>
+<dd>7:30 - Minden<br>
+7:40 - Byrd<br>
+7:50 – El Dorado<br>
+8:00 - Haughton<br>
+8:10 - Benton<br>
+8:20 - 8:30 BREAK<br>
+8:30 - Parkway<br>
+8:40 - Evangel<br>
+8:50 - Ruston<br>
+9:00 – North DeSoto<br>
+9:10 - Airline</dd><br><br>
+10:00 - 11:30 -- Final Cyber Challenge<br><br>
+
+11:30 -- Lunch and Presentations - Tolliver Hall<br><br>
+12:30-1:00 – Teacher debriefing<br><br>
+
+1:30 - 3:00 Check-out - Women\'s Center*<br><br>
+*All teams must first clean their rooms and then go to the supply check out table located at the Women’s Center. Once all supplies are returned and the teams teachers are with the students, the teams can check out of the apartments with housing at the Women’s center.
+(*)Last edited by: Krystal Corbett on June 3, 2011*****END_OF_ENTRY*****<span><b>Essay 4 Results are as follows:</b></span><br>1. - Airline<br>2. - North Desoto<br>3. - Evangel<br>4. - Ruston<br>5. - Minden<br>6. - Byrd<br>7. - Haughton<br>8. - Parkway<br>9. - Benton<br>10. - El Dorado<br>(*)Last edited by: Krystal Corbett on June 4, 2011*****END_OF_ENTRY*****<b> Story-line Results </b><br><br>
+
+<table border=\"1\" cellpadding=\"5\" cellspacing=\"5\" width=\"40%\">
+<tbody><tr>
+<th>School</th>
+<th>Points</th>
+</tr>
+<tr>
+<td width=\"50%\">North DeSoto</td><td>400</td></tr>
+<tr>
+<td width=\"50%\">Haughton</td><td>360</td></tr>
+<tr>
+<td width=\"50%\">Airline</td><td>320</td></tr>
+<tr>
+<td width=\"50%\">El Dorado</td><td>280</td></tr>
+<tr>
+<td width=\"50%\">Parkway</td><td>240</td></tr>
+<tr>
+<td width=\"50%\">Minden</td><td>200</td></tr>
+<tr>
+<td width=\"50%\">Evangel</td><td>160</td></tr>
+<tr>
+<td width=\"50%\">Ruston</td><td>120</td></tr>
+<tr>
+<td width=\"50%\">Byrd</td><td>80</td></tr>
+<tr>
+<td width=\"50%\">Benton</td><td>40</td></tr>
+
+</tbody></table><br><br>
+
+The Story-Line Presentations were really entertaining. All the schools did a fantastic job!
+
+(*)Last edited by: Krystal Corbett on June 4, 2011*****END_OF_ENTRY*****<b> Cyber Fort Results </b><br><br>
+
+<table border=\"1\" cellpadding=\"5\" cellspacing=\"5\" width=\"40%\">
+<tbody><tr>
+<th>School</th>
+<th>Points</th>
+</tr>
+<tr>
+<td width=\"50%\">Airline</td><td>100</td></tr>
+<tr>
+<td width=\"50%\">El Dorado</td><td>90</td></tr>
+<tr>
+<td width=\"50%\">Byrd</td><td>80</td></tr>
+<tr>
+<td width=\"50%\">Benton</td><td>70</td></tr>
+<tr>
+<td width=\"50%\">Minden</td><td>60</td></tr>
+<tr>
+<td width=\"50%\">Parkway</td><td>50</td></tr>
+<tr>
+<td width=\"50%\">North DeSoto</td><td>40</td></tr>
+<tr>
+<td width=\"50%\">Evangel</td><td>30</td></tr>
+<tr>
+<td width=\"50%\">Haughton</td><td>20</td></tr>
+<tr>
+<td width=\"50%\">Ruston</td><td>10</td></tr>
+
+</tbody></table><br><br>
+(*)Written by: Krystal Corbett on June 4, 2011*****END_OF_ENTRY*****<b> Final Challenge Results </b><br><br>
+
+<table border=\"1\" cellpadding=\"5\" cellspacing=\"5\" width=\"40%\">
+<tbody><tr>
+<th>School</th>
+<th>Points</th>
+</tr>
+<tr>
+<td width=\"50%\">Parkway</td><td>495</td></tr>
+<tr>
+<td width=\"50%\">Benton</td><td>455</td></tr>
+<tr>
+<td width=\"50%\">Minden</td><td>440</td></tr>
+<tr>
+<td width=\"50%\">Airline</td><td>360</td></tr>
+<tr>
+<td width=\"50%\">El Dorado</td><td>360</td></tr>
+<tr>
+<td width=\"50%\">Haughton</td><td>340</td></tr>
+<tr>
+<td width=\"50%\">Byrd</td><td>320</td></tr>
+<tr>
+<td width=\"50%\">Evangel</td><td>250</td></tr>
+<tr>
+<td width=\"50%\">North DeSoto</td><td>130</td></tr>
+<tr>
+<td width=\"50%\">Ruston</td><td>120</td></tr>
+
+</tbody></table><br><br>
+
+It was a very exciting final challenge...full of strategy, creativity, and fun!(*)Last edited by: Krystal Corbett on June 4, 2011*****END_OF_ENTRY*****<p><strong>Overall Points Distribution for Cyber Discovery Camp 2011 </strong></p>
+<p>&nbsp;</p>
+<table style=\"width: 40%;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">
+<tbody>
+<tr><th>School</th><th>Points</th></tr>
+<tr>
+<td width=\"50%\">Airline</td>
+<td>1373</td>
+</tr>
+<tr>
+<td width=\"50%\">North DeSoto</td>
+<td>1108</td>
+</tr>
+<tr>
+<td width=\"50%\">Parkway</td>
+<td>1096</td>
+</tr>
+<tr>
+<td width=\"50%\">Haughton</td>
+<td>1008</td>
+</tr>
+<tr>
+<td width=\"50%\">Minden</td>
+<td>941</td>
+</tr>
+<tr>
+<td width=\"50%\">Evangel</td>
+<td>889</td>
+</tr>
+<tr>
+<td width=\"50%\">Benton</td>
+<td>831</td>
+</tr>
+<tr>
+<td width=\"50%\">El Dorado</td>
+<td>809</td>
+</tr>
+<tr>
+<td width=\"50%\">Byrd</td>
+<td>695</td>
+</tr>
+<tr>
+<td width=\"50%\">Ruston</td>
+<td>688</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /> Congratulations to all the teams for making this week a fun and exciting event! Everyone did such a great job throughout the week!</p>(*)Last edited by: David Richard on December 15, 2011*****END_OF_ENTRY*****Final Day Video!<br>
+<br>
+<iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/d6vaDSJHjoc\" frameborder=\"0\" allowfullscreen></iframe>(*)Written by: Heath Tims on June 7, 2011*****END_OF_ENTRY*****

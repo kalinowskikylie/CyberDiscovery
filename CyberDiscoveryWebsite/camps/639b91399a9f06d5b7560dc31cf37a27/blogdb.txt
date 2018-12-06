@@ -1,0 +1,818 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|1691957c290960f258aee11a46832673(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527519591(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527538700(*)<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong>Internet Login:</strong>&nbsp;</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Use the following username and password for access to the LATech OpenAir wireless network.<span>&nbsp;</span><br />Username: cdcamp<span>&nbsp;</span><br />Password: tech1894</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong>RA on duty tonight:</strong><span>&nbsp;</span><br />Rhett Firmin<br /><a href="tel:318-257-4917">225-402-1043</a>&nbsp;5:00 until midnight</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong>Housing Office:</strong><span>&nbsp;</span><br /><a href="tel:318-257-4917">318-257-4917</a><span>&nbsp;</span><br />Open 7:30AM - 5:00PM</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong>Tech Police:</strong><span>&nbsp;</span><br /><a href="tel:318-257-4018">318-257-4018</a></p>|!|28da5552ed7f59103c6451680e10f4c9(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527519618(*)7ab118a6540881945675d33dc9a5d8ab(*)1528232423(*)<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">8:00 - 9:00 Breakfast (Student Center)</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Group 1: Bogard Hall 302</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Group 2: Bogard Hall 303</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Group 3: Bogard Hall 314</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Group 4: Bogard Hall 325</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Group 5: Bogard Hall 326&nbsp;</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Group 6: Bogard Hall 327&nbsp;</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">9:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 305 &nbsp;<br />Topic: BOE-Bot Activity (Basics)&nbsp;</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">11:00 - 11:15 Break&nbsp;</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">11:15 - 12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 305&nbsp;<br />Theme: Cyber Knowledge<span>&nbsp;</span><br />* Read Berry piece prior to session</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">12:00 - 1:00 Lunch (Student Center)</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">1:00 - 1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">1:30 - 3:30 Hands-On-Lab (Full Group) - Bogard Hall 305 <br />Topic: Cryptography I</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">5:30 - 6:30 Dinner (Student Center)</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">6:30 - 8:30 Movie Time (Full Group) - George T Madison Auditorium</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">9:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p style="color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: arial&commasepar; san-serif; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #fef8ef; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">11:00 Lights out</p>|!|13a84f14b5c98683be159beb9f905ba6(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1527602778(*)d259eb37bc4b04d541b63122d52e40e9(*)1527602972(*)<p>Welcome Cyber Discovery Teams!</p>
+<p>Thank you for participating in our recruitment challenge. There is limited time to complete the challenge&commasepar; so get started!</p>
+<p>Keep working on cracking the combination on the recruitment portal and any clues and puzzles that you find. So that you can be compensated (via points) for your efforts&commasepar; make sure to access the Cyber Discovery portal so that you can submit any passwords or passphrases that you discover.</p>
+<p>To maximize your points&commasepar; make sure to access the Cyber Discovery portal as soon as you think you've found a password/passphrase&commasepar; and enter it in. Remember that all passwords/passphrases must be in uppercase and without spaces. You are also limited to submitting ten consecutive incorrect passwords&commasepar; after which time you are locked out of the system for ten minutes. From then on&commasepar; your lockout time doubles for every 5 consecutive incorrect passwords that you submit. So PLEASE DO NOT TRY TO GUESS OR BRUTE FORCE PASSWORDS. This complicates things for our agents.</p>
+<p>We will use this blog to post regular updates and to provide communication as we uncover new findings. So&commasepar; keep checking periodically for further developments.</p>
+<p>Good luck!</p>
+<p>-Max</p>|!|ccc2ef3fb3adb5a213e0928876469aa4(*)Getting Started with the BOE-Bot(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527637058(*)(*)(*)<p>Here are a few resources to get you started with the first BOE-Bot activity.</p>
+<p>If you want to install the PBasic editor used with the BOE-Bot&commasepar; you can get the latest version&nbsp;<a href="http://www.parallax.com/downloads/basic-stamp-editor-software">here.</a></p>
+<p>This first activity focuses on learning how to get the BOE-Bot moving. The following links are to parts of the previous version of our Living With the Lab curriculum (which is taken by all freshman engineering students at Louisiana Tech). These links will give you some pointers on programming the BOE-Bot to move. While you are looking around&commasepar; you might want to look at our current curriculum at&nbsp;<a href="http://www.livingwiththelab.com/">www.LivingWithTheLab.com.</a>&nbsp;Here are the links:&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/6_student_programming.pdf">subroutines</a>&commasepar;&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/7_navigation_program.bs2">using EEPROM to store your program</a>&nbsp;(advanced topic).</p>
+<p>Here are a few files from this activity that you can reference in case you missed anything from today:&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Debug_Variable_Size.bs2">DEBUG Variable Sizes</a>&commasepar;&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Turn_Servos.bs2">Turning and Centering Servos</a>&commasepar; and&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Subroutines_for_Servos.bs2">Subroutines</a>.&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Cyber_Discovery_1_BOE-Bot.pdf">Here is a PDF</a>&nbsp;of examples of the various encoding schemes shown in the talk.</p>|!|b8f0a178b10b5aa7ee5e48fc91dd2aa5(*)Wednesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527637148(*)7ab118a6540881945675d33dc9a5d8ab(*)1528232442(*)<p>8:00 - 9:00 Breakfast</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;</p>
+<p>Group 1: Bogard Hall 302</p>
+<p>Group 2: Bogard Hall 303</p>
+<p>Group 3: Bogard Hall 314</p>
+<p>Group 4: Bogard Hall 325</p>
+<p>Group 5: Bogard Hall 326&nbsp;</p>
+<p>Group 6: Bogard Hall 327</p>
+<p>9:30 - 10:00 Boe-Bot Challenge 1 (Maze) - Bogard Hall 305</p>
+<p>10:00 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 305</p>
+<p>Topic: BOE-Bot Keyboard Input</p>
+<p>11:00 - 11:15 Break</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 305 <br />Theme: Is Google Making us Stupid</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:30 Hands-On-Lab (Full Group) - Bogard Hall 305 <br />Topic: Storyline Development <br />Topic: Cryptography II</p>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing <br />Breakout Topic: Sketch Up Introduction</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison Auditorium</p>
+<p>9:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|1aac387fe915dac8eca9dc7f19271238(*)Boe-Bot Challenge 1 Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527712974(*)d259eb37bc4b04d541b63122d52e40e9(*)1527715735(*)<p>Below are the results of BOE-Bot Challenge 1:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>100&nbsp;</td>
+</tr>
+<tr>
+<td>Little Rock Central&nbsp;</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>West Feliciana&nbsp;</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Beekman&nbsp;</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Ruston&nbsp;</td>
+<td>60&nbsp;</td>
+</tr>
+<tr>
+<td>St. Joseph's&nbsp;</td>
+<td>50&nbsp;</td>
+</tr>
+<tr>
+<td>Dunham&nbsp;</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Live Oak&nbsp;</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Little Elm&nbsp;</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>|!|239a08923c2f8967125f3eb58aafc582(*)Writing Assignment 1 Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527713281(*)(*)(*)<p>Click the link on Little Rock Central and Dunham to view the top essays from writing assignment 1.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a title="LittleRock" href="camps/639b91399a9f06d5b7560dc31cf37a27/blog_uploads/The%20Case%20for%20Technology-LittleRockCentral.docx">Little Rock Central&nbsp;</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a title="Dunham" href="camps/639b91399a9f06d5b7560dc31cf37a27/blog_uploads/Mary%20Berry%20Quite%20Contrary-Dunham.pdf">Dunham</a></td>
+<td>90</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>St Joseph's</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Beekman Charter</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>40</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>30&nbsp;</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|a371ed355a113ebb5f620a9b427822c8(*)Boe-Bot Challenge 2 Queue(*)d259eb37bc4b04d541b63122d52e40e9(*)1527725139(*)d259eb37bc4b04d541b63122d52e40e9(*)1527725172(*)<p>The following table shows the order the teams will compete in the second BOE-Bot Challenge&nbsp;on Thursday morning. Both courses will be running simultaneously; therefore&commasepar; we have two queues set (12-Marble Course &amp; 5-Marble Course). Notice the 12-Marble queue becomes the second half of the 5-Marble queue and vice versa.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course A (12 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Live Oak</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>St. Joseph's</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>Beekman</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>Little Rock Central</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>Little Elm</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Dunham</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Minden</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course B (5 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Little Elm</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>Dunham</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>Minden</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Live Oak</td>
+</tr>
+<tr>
+<td>7</td>
+<td>St. Joseph's</td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td>Beekman</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Little Rock Central</td>
+</tr>
+</tbody>
+</table>|!|cc905ffe32d0cb32ea0b67ce75d17bc7(*)Auction Items(*)d259eb37bc4b04d541b63122d52e40e9(*)1527725370(*)7ab118a6540881945675d33dc9a5d8ab(*)1528315282(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Picture</strong></td>
+<td><strong>Description</strong>&nbsp;</td>
+<td><strong># Avail.</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Jaw&nbsp;</p>
+</td>
+<td><img title="Hungry Hippo" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/1-jaw_snip.jpg" alt="Hungry Hippo" width="250" height="170" />&nbsp;</td>
+<td>
+<p>The jaws provide the ability to corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability of holding in the marbles after they are corralled. The jaws have added servos that lift the front bar up and down to hold in the marbles. This functionality is analogous to the children&rsquo;s game of hungry hungry hippos where the hippos&rsquo; jaws open and close to collect and hold in marbles.</p>
+</td>
+<td>5</td>
+</tr>
+<tr>
+<td>
+<p>Manila Folder &amp; Tape</p>
+</td>
+<td><img title="Manila Folder and Tape" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/3-manilaFolderTape.jpg" alt="Manila Folder and Tape" width="250" height="191" />&nbsp;</td>
+<td>
+<p>Those that purchase the manila folder and &amp; tape option can tap into their creativity to use these extremely durable materials to construct added attachments for their BOE-Bots.</p>
+</td>
+<td>3</td>
+</tr>
+<tr>
+<td>
+<p>Storyline Media Enrichment</p>
+</td>
+<td><img title="Camera" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/4-Camera.jpg" alt="Camera" width="250" height="250" /></td>
+<td>
+<p>The creative storyline challenge provides teams the opportunity to use their creativity to represent themes of the camp through various media (live action&commasepar; PowerPoint&commasepar; etc). Video capability is one such media teams could use. However&commasepar; only two teams will have permission to use video by purchasing that right in the auction. If permission to use video is purchased&commasepar; you will be given a digital camera that you can use for your video production.</p>
+</td>
+<td>2&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>30 Second Head Start</p>
+</td>
+<td><img title="30 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/5-30Seconds.jpg" alt="30 Seconds" width="250" height="107" /></td>
+<td>
+<p>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 30 second head start for any one round.</p>
+</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>45 Second Head Start</p>
+</td>
+<td><img title="45 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/6-45Seconds.jpg" alt="45 Seconds" width="250" height="112" /></td>
+<td>
+<p>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 45 second head start for round four.</p>
+</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Side Flippers</p>
+</td>
+<td><img title="Side Flippers" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/8-SideFlipper.png" alt="Side Flippers" width="250" height="122" /></td>
+<td>
+<p>Triangular ramp that in one direction allows you to flip opponents while providing stability and in other direction allows you to scoop marbles.</p>
+</td>
+<td>2</td>
+</tr>
+<tr>
+<td>
+<p>High Speed Servo Upgrade</p>
+</td>
+<td><img title="High-Speed Servos" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/9-HighSpeedServo.png" alt="High-Speed Servos" width="250" height="172" /></td>
+<td>
+<p>This allows for 2 to 2.5 times the speed of standard servo driven bots.</p>
+</td>
+<td>3&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Mystery</p>
+</td>
+<td><img title="Mystery" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/mystery.jpg" alt="Mystery" width="250" height="168" /></td>
+<td>Mystery Box</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Bulldozer</p>
+</td>
+<td><img title="Bulldozer" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/10-Bulldozer_snip.jpg" alt="Bulldozer" width="250" height="169" />&nbsp;</td>
+<td>
+<p>The bulldozer attachment provides the ability to corral and transport marbles. Teams will receive a bulldozer if they do not have a jaw.</p>
+</td>
+<td>Default&nbsp;<br /><br /></td>
+</tr>
+</tbody>
+</table>|!|2a4fb72546be72c0818f13791d8aa8e3(*)SketchUp 2017 Install file(*)d259eb37bc4b04d541b63122d52e40e9(*)1527730816(*)(*)(*)<p><br />Since SketchUp has changed the way it installs&commasepar; the creation of a free account is difficult without a .edu email address (which many of you probably don't have).</p>
+<p>Instead&commasepar; you may download the <a href="https://drive.google.com/open?id=1m5sjr9EDarZxLiVL8ugm2KcGDVEHxCj5">install file for SketchUp 2017</a>.</p>|!|d088a35e1ff622b2531eb0cfd9aa7188(*)Thursday Itinerary(*)d259eb37bc4b04d541b63122d52e40e9(*)1527776450(*)(*)(*)<p><strong>8:00 - 9:00</strong>&nbsp;Breakfast</p>
+<p><strong>9:00 - 9:30</strong>&nbsp;Movie Discussion (Mixed Small Groups)<br />Group 1: Bogard Hall 302<br />Group 2: Bogard Hall 303<br />Group 3: Bogard Hall 314<br />Group 4: Bogard Hall 325<br />Group 5: Bogard Hall 326<br />Group 6: Bogard Hall 327</p>
+<p><strong>9:30 - 11:00</strong>&nbsp;Hands-On-Lab (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br />Topic: Boe-Bot Activity (explore challenges)</p>
+<p><strong>11:00 - 11:15</strong>&nbsp;Break</p>
+<p><strong>11:15 - 12:00</strong>&nbsp;Cyber Policy and Ethics (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br />Theme: Spanish Prisoners</p>
+<p><strong>12:00 - 1:30</strong>&nbsp;Lunch &amp; Team Time</p>
+<p><strong>1:30 - 3:30</strong>&nbsp;Hands-On-Lab (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br />Topic: Cryptography III</p>
+<p><strong>3:30 - 5:00</strong>&nbsp;Team Time (School Groups) - A Place of Your Choosing</p>
+<p><strong>5:00 - 6:00</strong>&nbsp;Dinner</p>
+<p><strong>6:00 - 8:00</strong>&nbsp;Movie Time (Full Group) - GTM 105</p>
+<p><strong>8:00 - 9:30</strong>&nbsp;Auction - GTM 105</p>
+<p><strong>9:30 - 11:00</strong>&nbsp;Team Time (School Groups) - University Apartments</p>
+<p><strong>11:00</strong>&nbsp;Lights out</p>|!|804037cadd6dda81da8b893a202d3253(*)Wireless Sample Code(*)d259eb37bc4b04d541b63122d52e40e9(*)1527776493(*)(*)(*)<p>Here are two files that can be used as a starting point for wireless communication. One bot should be programmed with the reciever code. This bot will be able to roam around on its own (not tethered to the USB). The 2nd bot should be programmed with the transmitter code and will stay connected to the computer via USB.</p>
+<p>NOTE: You will need to set your channel in both of the programs. Each team is assigned a channel that is three characters &nbsp;(a dollar sign&commasepar; a &nbsp;number&commasepar; and a letter or a number).</p>
+<p><a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/Reciever.txt">Receiver</a></p>
+<p><a href="camps/f1db4f36a6401ff11c12263752a935be/blog_uploads/Transmitter.txt">Transmitter</a></p>|!|e4be8f7bb3f54ec4a33e830e02dae012(*)Boe-Bot Challenge 2 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1527781615(*)d259eb37bc4b04d541b63122d52e40e9(*)1527781850(*)<p>Below are the results of BOE-Bot Challenge 2:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>100&nbsp;</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Ruston&nbsp;</td>
+<td>60&nbsp;</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>50&nbsp;</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td>40</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>|!|883e2b8e81f144d93ee9799e234a4a9a(*)Writing Assignment 2 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1527799550(*)d259eb37bc4b04d541b63122d52e40e9(*)1527799559(*)<p>Click the link on Little Rock Central and Ruston to view the top essays from writing assignment 2.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/639b91399a9f06d5b7560dc31cf37a27/submissions/Why%20Technology%20Makes%20Us%20Smarter-b3f80d425d7d9442fd9a73fe366481ed.docx">Little Rock Central&nbsp;</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="camps/639b91399a9f06d5b7560dc31cf37a27/submissions/No%20Google%20is%20Making%20Us%20Smart-1562d42299511ef2a6ea17488635b170.pdf">Ruston</a></td>
+<td>90</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>75&nbsp;</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>60</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>30&nbsp;</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|6995b15418bb83f13e4dc69ee3f9c25a(*)Friday Itinerary(*)d259eb37bc4b04d541b63122d52e40e9(*)1527821128(*)d259eb37bc4b04d541b63122d52e40e9(*)1527821870(*)<p><strong>8:00 - 9:00</strong>&nbsp;Breakfast</p>
+<p><strong>9:00 - 9:30</strong>&nbsp;Movie Discussion (Mixed Small Groups)<br />Group 1: Bogard Hall 302<br />Group 2: Bogard Hall 303<br />Group 3: Bogard Hall 314<br />Group 4: Bogard Hall 325<br />Group 5: Bogard Hall 326<br />Group 6: Bogard Hall 327</p>
+<p><strong>9:30 - 11:00</strong>&nbsp;Hands-On-Lab (Full Group)&nbsp;&nbsp;<br />Topic: BOE-Bot Activity (open-ended preparation for final challenge)&nbsp;</p>
+<p><strong>11:15 - 12:00</strong>&nbsp;Cyber Policy and Ethics (Full Group)&nbsp;&nbsp;<br />Theme: RoboCop&commasepar; A.I.&commasepar; and...Poetry?</p>
+<p><strong>12:00 - 1:30</strong>&nbsp;Lunch and Team Time</p>
+<p><strong>1:30 - 3:00</strong>&nbsp;BOE-Bot Soccer World Cup - field in Bogard Hall 304</p>
+<p><strong>3:00 - 11:00</strong>&nbsp;Team Time (School Groups)&nbsp;<br />&nbsp; Open-ended preparation for Saturday challenges &nbsp;&nbsp;<br />&nbsp; 3:00 - 5:00 Cyber Fort Assembly - Bogard Hall 305&nbsp;<br />&nbsp; 4:00 - 6:30 Arena open in the Lambright Intramural Center's Red Gym<br />&nbsp; 5:30 - 6:30 Dinner</p>
+<p><strong>11:00</strong>&nbsp;Lights out</p>|!|2910eb4ad970b649e7400bfb3aff9474(*)Jaw Servo Basics(*)d259eb37bc4b04d541b63122d52e40e9(*)1527861761(*)d259eb37bc4b04d541b63122d52e40e9(*)1527861781(*)<p>If you bought jaws from the auction you will need this extra bit of information to help with your jaw program. The jaws use a standard servo&commasepar; where the servos you have been using are continuous.</p>
+<p>A standard servo operates in a similar manner to a Continuous Servo with one major difference. When sent a pulse&commasepar; a standard servo will move to an absolute position where a continuous servo moves to a relative position. The range of pulse widths that are valid for a standard servo is 375 to 1125. Each pulse in this range corresponds to a position between 0 and 180 degrees. You can use the standard PULSOUT command to send pulses to the servo. It is often necessary to send multiple pulses of the same width in order for the servo to reach the desired position. A sample code snippet is shown below.</p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">Pulses VAR Byte<br />Keystroke VAR Word</span></p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">IF Keystroke = "q" THEN<br />&nbsp; GOSUB up<br />ELSEIF Keystroke ="z" THEN<br />&nbsp; GOSUB down<br />ENDIF<br />END</span></p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">up:<br />FOR Pulses = 1 to 5<br />&nbsp; PULSOUT 14&commasepar; 375 'It is probably necessary to experiment with the exact pulse width<br />NEXT<br />RETURN</span></p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">down:<br />FOR Pulses = 1 to 5<br />&nbsp; PULSOUT 14&commasepar; 1125 'It is probably necessary to experiment with the exact pulse width<br />NEXT<br />RETURN</span></p>|!|9d7da6a0b78af14c120530d3a37b61e9(*)Crypto Treasure Hunt Update(*)d259eb37bc4b04d541b63122d52e40e9(*)1527861858(*)(*)(*)<p>Teams&commasepar;</p>
+<p>Although the grand prize has been awarded&commasepar; please continue to submit passwords/passphrases that you think are valid after solving clues. Password submission will be open until Saturday morning at 7am. It is to your advantage to submit as many correct passwords as you can by tonight&commasepar; Thursday&commasepar; so that you have as many points as you can for the auction.</p>
+<p>--Max</p>|!|7e129f504b72d3b0416bd5e9c1c6126b(*)Storyline Presentation Queue(*)d259eb37bc4b04d541b63122d52e40e9(*)1527862244(*)(*)(*)<p>Using a random number generator&commasepar; the Storyline queue was determined as follows:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Time</strong></td>
+<td><strong>School</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>7:30</td>
+<td>Minden</td>
+</tr>
+<tr>
+<td>7:45</td>
+<td>Little Elm</td>
+</tr>
+<tr>
+<td>8:00</td>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>8:15</td>
+<td>St. Joseph's</td>
+</tr>
+<tr>
+<td>8:30</td>
+<td>Beekman</td>
+</tr>
+<tr>
+<td>8:45</td>
+<td>Dunham</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>Live Oak</td>
+</tr>
+<tr>
+<td>9:15</td>
+<td>Little Rock Central</td>
+</tr>
+<tr>
+<td>9:30</td>
+<td>Ruston</td>
+</tr>
+</tbody>
+</table>
+<p>Presentations will be held in GTM 105. Teachers&commasepar; parents&commasepar; and other guests can watch their students present their storylines. However to keep the presentation process fair&commasepar; opposing teams are NOT allowed to view each others' presentations.&nbsp;</p>
+<p>If you are using some sort of computer file for your presentations&commasepar; please bring your file to GTM 105 (the Auditorium) at&nbsp;<strong>7:15AM</strong>&nbsp;to upload on the computer being used for presentations. You will<strong>&nbsp;NOT</strong>&nbsp;be using your own computers for presentations. Allowable movie file types are: any quicktime supported file and .wmv (windows media player files).</p>
+<p>Remember each team will have ten minutes (5-10 minute presentation with a few minutes for questions) for the presentation of their storyline.</p>
+<p><strong>All teams must arrive at least 10 minutes prior to their presentation starting time!</strong>&nbsp; Please be ready to provide the title of your Storyline at the beginning of your presentation.</p>|!|8fb80b8b16d51ac76a9b0fa229a9787a(*)Writing Assignment 3 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1527883078(*)(*)(*)<p>Click the link on St. Joseph's and West Feliciana to view the top essays from writing assignment 3.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/639b91399a9f06d5b7560dc31cf37a27/submissions/AidForHumanTraffickingVictims-8068924348617dd501aa4684a62893d7.docx">St. Joseph's</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="camps/639b91399a9f06d5b7560dc31cf37a27/submissions/Cancer%20Care%20Today-81f1b0feca69eac3eb27c91ad2058156.docx">West Feliciana</a></td>
+<td>90</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>25&nbsp;</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>25</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|0658b39df54e88e019374c014a5698ef(*)Current Points Distribution(*)d259eb37bc4b04d541b63122d52e40e9(*)1527883936(*)d259eb37bc4b04d541b63122d52e40e9(*)1527883977(*)<p>Below is the current points ditribution as of 3:00PM today.</p>
+<table border="1" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>257</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>215</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>528</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td>160</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>135</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>306</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>178</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>473</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>539</td>
+</tr>
+</tbody>
+</table>|!|389997eaf92482f99cb98b37b28b9d2f(*)Saturday Itinerary(*)d259eb37bc4b04d541b63122d52e40e9(*)1527889448(*)d259eb37bc4b04d541b63122d52e40e9(*)1527889885(*)<p>7:15 &ndash; All teams that are using some sort of media file for their storyline presentations must report to GTM 105 with their files ready on their USB drives (movie files should be of type .wmv or QuickTime).</p>
+<p>7:30 - 9:45 -- Story-Line Presentations - George T Madison Auditorium&nbsp;&nbsp;<br />Each team will present a 10 minute maximum storyline. <strong>Please arrive at least 10 minutes prior to your start time.</strong></p>
+<p>8:00 - 9:00 Breakfast - First Floor Student Center (Tonk)</p>
+<p>10:00 - 11:30 -- Final Cyber Challenge - First Floor Student Center (Tonk)</p>
+<p>11:30 -- Lunch and Presentations &ndash; First Floor Student Center (Tonk)</p>
+<p>12:30 - 1:00 &ndash; Teacher debriefing &amp; Supply Return - ELS Lounge 2nd Floor Student Center (Tonk)</p>
+<p>1:30 - 3:00 Check-out - Wyly Tower*</p>
+<p>*All teams must return supplies at the stage in the first floor Student Center (Tonk)&commasepar; then proceed to clean their rooms while the teachers are at the debriefing. Once all supplies are returned and the teams&rsquo; teachers are with the students&commasepar; the teams can check out of the apartments with housing at Wyly Tower.</p>|!|4f94369167b23dabf103e07936bff461(*)Supply Return Procedure(*)d259eb37bc4b04d541b63122d52e40e9(*)1527889748(*)d259eb37bc4b04d541b63122d52e40e9(*)1527889771(*)<p>Following lunch&commasepar; teachers will attend a teacher debriefing session. During the debriefing&commasepar; students can collect all their supplies given to them throughout the week and return the supplies at the arena in the first floor Student Center (Tonk). Please collect all supplies and return them all together (see yellow supply sheet). &nbsp;See parts return&nbsp;<a href="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/CD1_parts_return.pdf">list</a>&nbsp;as well.</p>
+<p>After the teacher debriefing&commasepar; teams can check out together with their teachers (<strong><em>must check out as a team</em></strong>) in Wyly Tower (same as check in). Prior to checking out&commasepar; please be sure to return the room to the state at which you arrived (or better).</p>|!|1ea4b974d39b8b9b076a8a05b7ec8bbb(*)Surveys(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1527890655(*)(*)(*)<p>Please make sure you complete the Survey Activity before 9:30 in the morning. We are working with the funding agency to secure funding that will continue this camp in the future. Having 100% participation is important for the message that will be sent to them. Thank you for helping make this a great week&commasepar; and for helping us with this.</p>|!|b16f3a722512a60bc30c45e76ccba776(*)Writing Assignment 4 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1527956365(*)d259eb37bc4b04d541b63122d52e40e9(*)1527956372(*)<p>Click the link on Dunham&commasepar; St. Joseph's&commasepar; and Ruston to view the top essays from writing assignment 4.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/639b91399a9f06d5b7560dc31cf37a27/submissions/Man%20or%20Machine-ea67552931de27cee415dc08295a12a0.pdf">Dunham</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="camps/639b91399a9f06d5b7560dc31cf37a27/submissions/Balancing%20Act-495159e3e79c997f0428507e4251b953.docx">St. Joseph's</a></td>
+<td>85</td>
+</tr>
+<tr>
+<td><a href="camps/639b91399a9f06d5b7560dc31cf37a27/submissions/The%20Human%20Element-1a0422172a3baf3ce90b35090a2e3d29.pdf">Ruston</a></td>
+<td>85</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>60</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>45</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td>45</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>25&nbsp;</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>25</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|62fb070d32986f4d6c9e0c6027bc8493(*)Cyber Fort Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1527956472(*)(*)(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>60&nbsp;</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>40&nbsp;</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>30&nbsp;</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|1091b2f95baabfb3481f06c2aaffbd6c(*)Creative Storyline Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1527956584(*)(*)(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>400</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>360</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>320&nbsp;</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>280</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>240</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>200</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>160</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td>100</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|e43e3e12bf1c75b3ef41afeda188281f(*)Final Boe-Bot Competition Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1527962810(*)(*)(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>490</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>475</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>430</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>430</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>400</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>375</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td>260</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>180</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|0ff0322ab7005800f377b3abfe5585cd(*)Final Scores!(*)d259eb37bc4b04d541b63122d52e40e9(*)1527962933(*)(*)(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Minden</td>
+<td>1271</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>1244</td>
+</tr>
+<tr>
+<td>St. Joseph's</td>
+<td>1223</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>1158</td>
+</tr>
+<tr>
+<td>Little Elm</td>
+<td>1153</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>1037</td>
+</tr>
+<tr>
+<td>Dunham</td>
+<td>835</td>
+</tr>
+<tr>
+<td>Live Oak</td>
+<td>715</td>
+</tr>
+<tr>
+<td>Little Rock Central</td>
+<td>667</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|

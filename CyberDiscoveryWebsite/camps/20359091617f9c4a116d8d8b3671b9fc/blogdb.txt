@@ -1,0 +1,793 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|f5a22736175a05594afee3ea41de2b35(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404699934(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404753567(*)<p><strong>Internet Login:</strong></p>
+<p>In order to access the internet&commasepar; you will need to connect to the PSU Guest wireless network. You will have to register with the network before you are given access. You have been provided 2 laptops. Each of the provided laptops already have wireless access.</p>
+<p>&nbsp;</p>
+<p><strong>Main Housing Office:</strong></p>
+<p><span>503-725-4370</span></p>
+<p>&nbsp;</p>
+<p><strong>Campus Public Safety:</strong></p>
+<p>Emergency:</p>
+<p>503-725-4404</p>
+<p><span>Non-Emergency:</span></p>
+<p><br /><span>503-725-4407</span></p>|!|8c1c359e9f5fce3304db1f819af90959(*)Campus Map(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404764280(*)(*)(*)<p>Here is a<a title="PSU Campus Map" href="camps/20359091617f9c4a116d8d8b3671b9fc/blog_uploads/campus-map-annotated.pdf"> link</a> to the campus map for Portland State University</p>|!|cf79c0b5e6809a102e1895393d17bacb(*)Survey 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404772015(*)(*)(*)<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys).&nbsp;<br /><br />Why do we need to do the surveys? Your participation in the surveys are a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.<br /><br />Please click the following link for the first survey:</p>
+<p><a href="https://us1.us.qualtrics.com/SE/?SID=SV_cu0fC5DrrSuEFda">Survey 1</a></p>
+<p><br />All students and teachers should complete the survey by 9:00AM Tuesday morning.</p>|!|1d8c6538601a0bd1527da29f7846532a(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404772067(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404850335(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*9:00 Survey 1 Due&nbsp;</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)</p>
+<ul>
+<li>Group 1: Smith 238 (Browsing Lounge) - Dr. Josh Fost</li>
+<li>Group 2: Smith 296 - Dr. Betsy Natter</li>
+<li>Group 3:&nbsp;Smith 298 - Dr. Tim Sheard</li>
+<li>Group 4: Smith Student Lounge - Dr. Michael Lupro&nbsp;</li>
+<li>Group 5: Smith Cafeteria (south&commasepar; 1<sup>st</sup> floor) - Dr. Bob Liebman&nbsp;</li>
+<li>Group 6: Smith Parkway (cafeteria north) - Dr. Wu-Chang Feng</li>
+</ul>
+<p><a href="http://www.pdx.edu/conferences/smith-memorial-student-union" target="_blank">map of Smith Memorial Student Union</a></p>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group) &ndash; Smith 238 (Browsing Lounge)</p>
+<ul>
+<li>Topic: Boe-Bot Activity (Basics)</li>
+</ul>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Cyber Policy and Ethics (Full Group) - Smith 238 (Browsing Lounge)</p>
+<ul>
+<li>Theme: Cyber Knowledge</li>
+<li>Read Berry piece prior to session</li>
+</ul>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 1:40 Break</p>
+<p>1:45 - 3:30 Hands-On-Lab (Full Group) - Smith 238 (Browsing Lounge)</p>
+<ul>
+<li>Topic: Cryptography I</li>
+</ul>
+<p>3:30 - 5:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p><em>Addition Team and Faculty interaction time</em></p>
+<p>Available Rooms:</p>
+<ul>
+<li>Ondine 201</li>
+<li>Ondine 202</li>
+<li>Ondine 203</li>
+<li>Ondine 220</li>
+</ul>
+<p>&nbsp;</p>
+<p>5:00 - 6:15 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) &ndash; Engineering Building 102</p>
+<p>9:00 - 11:00 Team Time (School Groups) &ndash; Ondine Hall</p>
+<p>11:00 Lights out</p>|!|a6c820daccb382ff6ba2ed6e29b95b8b(*)Wednesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404878718(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404950184(*)<p>8:00 - 9:00 Breakfast&#8232;&#8232;</p>
+<p>8:30 - 9:00 Maze Practice Time - Smith 238</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)</p>
+<ul>
+<li>Group 1: Smith 238 (Browsing Lounge)</li>
+<li>Group 2: Smith 296</li>
+<li>Group 3:&nbsp;Smith 298</li>
+<li>Group 4: Smith Student Lounge</li>
+<li>Group 5: Smith Cafeteria (south&commasepar; 1<sup>st</sup> floor)</li>
+<li>Group 6: Smith Parkway (cafeteria north)</li>
+</ul>
+<p><a href="http://www.pdx.edu/conferences/smith-memorial-student-union" target="_blank">map of Smith</a></p>
+<p>9:30 - 10:00 Boe-Bot Challenge 1 (Maze) - Smith 238 (Browsing Lounge)</p>
+<p>10:00 - 11:00 Hands-On-Lab (Full Group) - Smith 238 (Browsing Lounge)</p>
+<ul>
+<li>Topic: Boe-Bot Activity (Maze Challenge)</li>
+<li>Topic: Boe-Bot Activity (Boe-Bot keyboard Input)</li>
+</ul>
+<p>11:00 - 11:10 Break&#8232;&#8232;</p>
+<p>11:10 - 12:00 Cyber Policy and Ethics (Full Group) - Smith 238 (Browsing Lounge)</p>
+<ul>
+<li>Theme: Cyber Liberties</li>
+</ul>
+<p>12:00 - 1:00 Lunch&#8232;&#8232;</p>
+<p>1:00 - 1:45 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing&#8232;&#8232;</p>
+<p>1:45 - 3:50 Hands-On-Lab (Full Group) - Smith 238 (Browsing Lounge)</p>
+<ul>
+<li>Topic: Storyline Development</li>
+<li>Topic: Cryptography II</li>
+<li>Topic: Cyber Fort</li>
+</ul>
+<p>3:50 - 5:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p><em>Addition Team and Faculty interaction time</em></p>
+<p>3:50 - 4:30 Sketch-Up Introduction - Smith 238 (Browsing Lounge)</p>
+<p>Available Rooms:</p>
+<ul>
+<li>Ondine 201</li>
+<li>Ondine 202</li>
+<li>Ondine 203</li>
+<li>Ondine 220</li>
+</ul>
+<p>5:00 - 6:15 Dinner&#8232;&#8232;</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - Engineering Building 102</p>
+<p>9:00 - 11:00 Team Time (School Groups) &ndash; Ondine Hall</p>
+<p>11:00 Lights out</p>|!|1a3a808ecc571ac53ec6b9c4a24b0f41(*)Maze Pick Order(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404878791(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404878971(*)<p>Below is the rankings of the around the wheel exercise. The list below shows the teams that will pick the order of the maze runs.&nbsp;</p>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style="text-align: center;"><strong>Pick</strong></td>
+</tr>
+<tr>
+<td>SST</td>
+<td>1st</td>
+</tr>
+<tr>
+<td>Tigard</td>
+<td>2nd&nbsp;</td>
+</tr>
+<tr>
+<td>St Mary's</td>
+<td>3rd&nbsp;</td>
+</tr>
+<tr>
+<td>Village Home</td>
+<td>4th&nbsp;</td>
+</tr>
+<tr>
+<td>Madison</td>
+<td>5th</td>
+</tr>
+<tr>
+<td>Franklin</td>
+<td>6th&nbsp;</td>
+</tr>
+<tr>
+<td>Woodburn</td>
+<td>7th&nbsp;</td>
+</tr>
+<tr>
+<td>Capital</td>
+<td>8th&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|83d1f2b24ed8ca0be38e6bd26e6bdc3d(*)Boe-Bot Challenge 1 - Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404925336(*)(*)(*)<p>Below are the results of the first Boe-Bot Challenge:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Village Home</td>
+<td>&nbsp;100</td>
+</tr>
+<tr>
+<td>Capital</td>
+<td>&nbsp;90</td>
+</tr>
+<tr>
+<td>Tigard</td>
+<td>&nbsp;80</td>
+</tr>
+<tr>
+<td>St. Mary's</td>
+<td>&nbsp;70</td>
+</tr>
+<tr>
+<td>Madison</td>
+<td>&nbsp;60&nbsp;</td>
+</tr>
+<tr>
+<td>SST</td>
+<td>&nbsp;50&nbsp;</td>
+</tr>
+<tr>
+<td>Woodburn</td>
+<td>&nbsp;40&nbsp;</td>
+</tr>
+<tr>
+<td>Franklin</td>
+<td>&nbsp;30&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|e6824971061a7ef908da953f085aef4a(*)Writing Assignment 1 – Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404945628(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404945810(*)<p>Below are the results of the first writing assignment:</p>
+<p style="text-align: center;">&nbsp;</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th>Team</th><th>Ranking</th></tr>
+<tr>
+<td>Saint Mary's High School</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Capital High School</td>
+<td>90</td>
+</tr>
+<tr>
+<td>School of Science and Technology</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Tigard High School</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Village Home Education Resource Center</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Madison High School</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Woodburn Academy of Art&commasepar; Science&commasepar; and Technology</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Franklin High School</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>
+<p>The first place team essay can be viewed <a title="Essay 1" href="camps/20359091617f9c4a116d8d8b3671b9fc/blog_uploads/Essay%201%20Wendell%20Berry%20Response.docx">here</a>.</p>|!|75a9e1bb5adb9d40785560d4a58f33b8(*)Auction Items(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404962803(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1404963816(*)<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Picture</strong></td>
+<td><strong>Description</strong></td>
+<td><strong># Avail.</strong></td>
+</tr>
+<tr>
+<td>Jaw</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/1-jaw_snip.jpg" alt="Jaw" width="250" height="170" /></td>
+<td>The jaws provide the ability to corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability of holding in the marbles after they are corralled. The jaws have added servos that lift the front bar up and down to hold in the marbles. This functionality is analogous to the children&rsquo;s game of hungry hungry hippos where the hippos&rsquo; jaws open and close to collect and hold in marbles.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Erector Set Pieces</td>
+<td>&nbsp;</td>
+<td>Pieces of an erector set that will allow for you to "engineer" your own attachment.</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Manila Folder &amp; Tape</td>
+<td><img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/3-manillaFolderTape.jpg" alt="Manilla Folder and Tape" width="250" height="191" /></td>
+<td>Those that purchase the manila folder and &amp; tape option can tap into their creativity to use these extremely durable materials to construct added attachments for their BOE-Bots.</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Alliance Round 2</td>
+<td>&nbsp;</td>
+<td>Ability to create an alliance with another team during round 2 of the final competition. Each team in the alliance will get the same score in that round by taking the maximum number of marbles of the 2 allied teams</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Alliance Round 5</td>
+<td>&nbsp;</td>
+<td>Ability to create an alliance with another team during round 5&nbsp;of the final competition. Each team in the alliance will get the same score in that round by taking the maximum number of marbles of the 2 allied teams</td>
+<td>1</td>
+</tr>
+<tr>
+<td>30 Second Head Start</td>
+<td><img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/5-30Seconds.jpg" alt="30 Seconds" width="250" height="107" /></td>
+<td>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 30 second head start for any one round.</td>
+<td>1</td>
+</tr>
+<tr>
+<td>45 Second Head Start</td>
+<td><img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/6-45Seconds.jpg" alt="45 Seconds" width="250" height="112" /></td>
+<td>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 45 second head start for round three.</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Roadside Assistance</td>
+<td>&nbsp;</td>
+<td><span>During the final competition&commasepar; offensive and defensive strategies can be used by all teams. If your bot becomes disabled&commasepar; then you are able to declare a reset that will return your bot to your fort. You may use this roadside assistance once&commasepar; but you can use it at any point during the competition.</span></td>
+<td>1</td>
+</tr>
+<tr>
+<td>High Speed Servo Upgrade</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/9-HighSpeedServo.png" alt="High-Speed Servo" width="250" height="172" /></td>
+<td>This allows for 2 to 2.5 times the speed of standard servo driven bots.</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Bulldozer</td>
+<td>&nbsp;<img src="camps/b62b57faca2a0427e14a03f4a1de1759/blog_uploads/10-Bulldozer_snip.jpg" alt="Bulldozer" width="250" height="169" /></td>
+<td>The bulldozer attachment provides the ability to corral and transport marbles. Teams will receive a bulldozer if they do not have a jaw.</td>
+<td>Default</td>
+</tr>
+<tr>
+<td>Mystery Box Pick</td>
+<td>&nbsp;</td>
+<td>
+<p>The winning team will be able to pick from 3 boxes. One box contains a bulldozer.</p>
+<p>One box contains a high speed servo set.</p>
+<p>One box contains a high speed servo set&commasepar; a jaw&commasepar; and a 30 sec head-start.</p>
+</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>|!|9d1f5cb08dd60ae4054d8f9c01371593(*)Wireless Code(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405005766(*)(*)(*)<p>Here are 2 files that can be used as a starting point for wireless communication. One bot should be programmed with the receiver code. This bot will be able to roam around on its own (not tethered to the USB). The 2nd bot should be programmed with the transmitter code and will stay connected to the computer via USB.</p>
+<p>&nbsp;</p>
+<p>NOTE: You will need to set your channel in both of the programs. Each team is assigned a channel that is three characters &nbsp;( a dollar sign&commasepar; a &nbsp;number&commasepar; and a letter or a number)</p>
+<p>&nbsp;</p>
+<p><a href="camps/9d4e7c6130f097651b872c4d0df2fade/blog_uploads/Reciever.bs2"><span>Receiver</span></a></p>
+<p><a href="camps/9d4e7c6130f097651b872c4d0df2fade/blog_uploads/Transmitter.bs2"><span>Transmitter</span></a></p>|!|b7e76dd57b94dfae080198f998236a95(*)Thursday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405005805(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405005823(*)<p>Thursday Itinerary:</p>
+<p>8:00 - 9:00 Breakfast&#8232;&#8232;</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)</p>
+<ul>
+<li>Group 1: Smith 238 (Browsing Lounge)</li>
+<li>Group 2: Smith 296</li>
+<li>Group 3:&nbsp;Smith 298</li>
+<li>Group 4: Smith Student Lounge</li>
+<li>Group 5: Smith Cafeteria (south&commasepar; 1<sup>st</sup> floor)</li>
+<li>Group 6: Smith Parkway (cafeteria north)</li>
+</ul>
+<p><a href="http://www.pdx.edu/conferences/smith-memorial-student-union" target="_blank">map of Smith</a></p>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group) - Smith 238 (Browsing Lounge)</p>
+<ul>
+<li>Topic: Boe-Bot Activity (wireless)&#8232;&#8232;</li>
+</ul>
+<p>11:00 - 11:10 Break&#8232;&#8232;</p>
+<p>11:10 - 12:00 Cyber Policy and Ethics (Full Group) - Smith 238 (Browsing Lounge)&#8232; &nbsp; &nbsp;&nbsp;</p>
+<ul>
+<li>Theme: Cyber Operations&#8232;&#8232;</li>
+</ul>
+<p>12:00 - 1:00 Lunch&#8232;&#8232;</p>
+<p>1:00 - 1:45 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing&#8232;&#8232;</p>
+<p>1:45 - 3:30 Hands-On-Lab (Full Group) - Smith 238 (Browsing Lounge)</p>
+<ul>
+<li>Topic: Manipulations and Exploitations I&#8232;&#8232;</li>
+</ul>
+<p>3:30 - 5:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p><em>Addition Team and Faculty interaction time</em></p>
+<p>Available Rooms:</p>
+<ul>
+<li>Ondine 201</li>
+<li>Ondine 202</li>
+<li>Ondine 203</li>
+<li>Ondine 220</li>
+</ul>
+<p>5:00 - 6:15 Dinner&#8232;&#8232;</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - CIN-90 (Theater)&#8232;&#8232;</p>
+<p>8:30 - 9:30 Auction (Full Group) - CIN-90 (Theater)</p>
+<p>9:30 - 11:00 Team Time (School Groups) &ndash; Ondine Hall</p>
+<p>11:00 Lights out</p>|!|cd1ce949864bb18cb79a104949f1893e(*)Boe-Bot Challenge 2 - Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405014565(*)(*)(*)<p>Below are the results of the golf Boe-Bot Challenge:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Tigard</td>
+<td>&nbsp;100</td>
+</tr>
+<tr>
+<td>Madison</td>
+<td>&nbsp;90</td>
+</tr>
+<tr>
+<td>Woodburn</td>
+<td>&nbsp;80</td>
+</tr>
+<tr>
+<td>Capital</td>
+<td>&nbsp;70</td>
+</tr>
+<tr>
+<td>SST</td>
+<td>&nbsp;60&nbsp;</td>
+</tr>
+<tr>
+<td>Village Home</td>
+<td>&nbsp;50&nbsp;</td>
+</tr>
+<tr>
+<td>Franklin</td>
+<td>&nbsp;40&nbsp;</td>
+</tr>
+<tr>
+<td>St. Mary's</td>
+<td>&nbsp;30&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|959c218561d116308342534d484a05a7(*)Auction Order(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405028622(*)(*)(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Auction Order</strong></td>
+</tr>
+<tr>
+<td>1&nbsp;</td>
+<td>Jaw</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>Manilla Folder and Tape</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td><span>30s Head Start -&nbsp;</span><strong>Blind Bid</strong></td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>Jaw</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>High-Speed Servo Upgrade</td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td>45s Head Start Round 3</td>
+</tr>
+<tr>
+<td>7&nbsp;</td>
+<td>Alliance Round 2</td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td>Manilla Folder and Tape</td>
+</tr>
+<tr>
+<td>9&nbsp;</td>
+<td>Jaw</td>
+</tr>
+<tr>
+<td>10&nbsp;</td>
+<td>Roadside Assistance&nbsp;</td>
+</tr>
+<tr>
+<td>11&nbsp;</td>
+<td>Erector Set</td>
+</tr>
+<tr>
+<td>12&nbsp;</td>
+<td>Jaw -&nbsp;<strong>Reverse Bid</strong></td>
+</tr>
+<tr>
+<td>13&nbsp;</td>
+<td>High-Speed Servo Upgrade</td>
+</tr>
+<tr>
+<td>14&nbsp;</td>
+<td>Alliance Round 5</td>
+</tr>
+<tr>
+<td>15&nbsp;</td>
+<td>Mystery Item</td>
+</tr>
+</tbody>
+</table>|!|65600fc366e96a95f16b9cfa7ce5a361(*)Storyline Presentation(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405032685(*)(*)(*)<p>This is a <a title="Storyline Presentation" href="camps/20359091617f9c4a116d8d8b3671b9fc/blog_uploads/Storyline%20Composition%20Process--Some%20Suggestions.pdf">brief document</a> containing an outline of the composition process that could assist in writing your storyline.</p>|!|5b3bad0155b0afc3172c6d412497244a(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405033086(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405033115(*)<p>Below is the current points distribution as of 4:00pm:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Capital</td>
+<td>&nbsp;313</td>
+</tr>
+<tr>
+<td>Franklin</td>
+<td>&nbsp;162</td>
+</tr>
+<tr>
+<td>Madison</td>
+<td>&nbsp;260</td>
+</tr>
+<tr>
+<td>St. Mary's</td>
+<td>&nbsp;420</td>
+</tr>
+<tr>
+<td>SST</td>
+<td>&nbsp;412</td>
+</tr>
+<tr>
+<td>Tigard</td>
+<td>&nbsp;421&nbsp;</td>
+</tr>
+<tr>
+<td>Village Home</td>
+<td>&nbsp;329&nbsp;</td>
+</tr>
+<tr>
+<td>Woodburn</td>
+<td>&nbsp;259&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|5c81c4ede6edc8d62042c7f404d1b64d(*)Propaganda Powerpoint(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405034331(*)(*)(*)<p>Here is a<a title="Propaganda Presentation" href="camps/20359091617f9c4a116d8d8b3671b9fc/blog_uploads/Propaganda%20PSU%20without%20facebook%20pages.pptx"> link</a> to the powerpoint that Dr. Etheridge presented today.</p>|!|b4cc479abc7ac34b2e0710f8768ea375(*)Friday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405034422(*)(*)(*)<p>8:00 - 9:00 Breakfast&#8232;&#8232;</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)</p>
+<ul>
+<li>Group 1: Smith 238 (Browsing Lounge)</li>
+<li>Group 2: Smith 296</li>
+<li>Group 3:&nbsp;Smith 298</li>
+<li>Group 4: Smith Student Lounge</li>
+<li>Group 5: Smith Cafeteria (south&commasepar; 1<sup>st</sup> floor)</li>
+<li>Group 6: Smith Parkway (cafeteria north)</li>
+</ul>
+<p><a href="http://www.pdx.edu/conferences/smith-memorial-student-union" target="_blank">map of Smith</a></p>
+<p>9:30 - 10:45 Hands-On-Lab (Full Group) - Smith 228 (Multicultural Center)&nbsp;&nbsp;</p>
+<ul>
+<li>DHS Presentation</li>
+<li>Topic: Boe-Bot Activity (open-ended preparation for final challenge)&nbsp;</li>
+</ul>
+<p>10:45 - 11:00 Break&#8232;&#8232;</p>
+<p>11:00 - 12:00 Cyber Policy and Ethics (Full Group)&nbsp;- Smith 228 (Multicultural Center)&nbsp;&nbsp;</p>
+<ul>
+<li>Theme: Cyber Operations&#8232;&#8232;</li>
+</ul>
+<p>12:00 - 1:00 Lunch&#8232;&#8232;</p>
+<p>1:30 - 2:30 Boe-Bot Soccer World Cup - field in Smith 228 (Multicultural Center)&nbsp;&nbsp;</p>
+<p>2:30 - 3:30 Hands-On-Lab (Full Group)&nbsp;&#8232; &nbsp; &nbsp;&nbsp;</p>
+<ul>
+<li>Open-ended preparation for final challenge&#8232;&#8232;</li>
+</ul>
+<p>3:30 - 5:00 Team Time (Small Groups)</p>
+<p>5:30 - 6:30 Dinner&#8232;</p>
+<p>6:30 - 8:00 arena in Hoffman Hall for practice&commasepar; music and ice-cream&#8232;&#8232; &nbsp; &nbsp;&nbsp;</p>
+<p>8:00 - 11:00* Team Time (School Groups) - in rooms</p>
+<p>11:00 Lights out</p>
+<p>*Please complete survey 3 before 9AM Saturday Morning. Survey 3 will be released on the blog Friday evening.</p>|!|6ab18205b118bf93051c2d9306d4a9e0(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405037641(*)(*)(*)<p>Below is the current points distribution as of 5:00pm:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Capital</td>
+<td>&nbsp;313</td>
+</tr>
+<tr>
+<td>Franklin</td>
+<td>&nbsp;162</td>
+</tr>
+<tr>
+<td>Madison</td>
+<td>&nbsp;260</td>
+</tr>
+<tr>
+<td>St. Mary's</td>
+<td>&nbsp;420</td>
+</tr>
+<tr>
+<td>SST</td>
+<td>&nbsp;464</td>
+</tr>
+<tr>
+<td>Tigard</td>
+<td>&nbsp;421&nbsp;</td>
+</tr>
+<tr>
+<td>Village Home</td>
+<td>&nbsp;343&nbsp;</td>
+</tr>
+<tr>
+<td>Woodburn</td>
+<td>&nbsp;299&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|2cdf449e5e2685e653d6c407893eebbf(*)Current Points Distribution(*)d259eb37bc4b04d541b63122d52e40e9(*)1405050541(*)d259eb37bc4b04d541b63122d52e40e9(*)1405050552(*)<p>Below is the current points distribution as of 9:00pm:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Capital</td>
+<td>&nbsp;403</td>
+</tr>
+<tr>
+<td>Franklin</td>
+<td>&nbsp;228</td>
+</tr>
+<tr>
+<td>Madison</td>
+<td>&nbsp;298</td>
+</tr>
+<tr>
+<td>St. Mary's</td>
+<td>&nbsp;500</td>
+</tr>
+<tr>
+<td>SST</td>
+<td>&nbsp;664</td>
+</tr>
+<tr>
+<td>Tigard</td>
+<td>&nbsp;487&nbsp;</td>
+</tr>
+<tr>
+<td>Village Home</td>
+<td>&nbsp;413&nbsp;</td>
+</tr>
+<tr>
+<td>Woodburn</td>
+<td>&nbsp;357</td>
+</tr>
+</tbody>
+</table>|!|6325fc8c4aa5467b221bfc0f21f83487(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405058141(*)(*)(*)<p>Below is the current points distribution after the auction:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Capital</td>
+<td>&nbsp;0</td>
+</tr>
+<tr>
+<td>Franklin</td>
+<td>&nbsp;93</td>
+</tr>
+<tr>
+<td>Madison</td>
+<td>&nbsp;0</td>
+</tr>
+<tr>
+<td>St. Mary's</td>
+<td>&nbsp;312</td>
+</tr>
+<tr>
+<td>SST</td>
+<td>&nbsp;269</td>
+</tr>
+<tr>
+<td>Tigard</td>
+<td>&nbsp;0&nbsp;</td>
+</tr>
+<tr>
+<td>Village Home</td>
+<td>&nbsp;195</td>
+</tr>
+<tr>
+<td>Woodburn</td>
+<td>&nbsp;102</td>
+</tr>
+</tbody>
+</table>|!|6cd8588ac9a938db4bfd374523908b14(*)Survey 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405093124(*)(*)(*)<p><span>It's that time again...surveys!! Teachers and students&commasepar; both&commasepar; please fill out&nbsp;</span><a href="https://us1.us.qualtrics.com/SE/?SID=SV_cBEYqZ2FhI6FOAs">survey 2</a><span>&nbsp;by 12:00 PM (noon) today!&nbsp;</span></p>|!|b9ad14e784411577a08d95fdf7173d81(*)Writing Assignment 2 - Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1405096191(*)d259eb37bc4b04d541b63122d52e40e9(*)1405096347(*)<p>Below are the results of the second writing assignment:</p>
+<p>&nbsp;</p>
+<table border="1">
+<tbody>
+<tr><th>Team</th><th>Ranking</th></tr>
+<tr>
+<td>School of Science and Technology</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Capital High School</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Saint Mary's High School</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Village Home Education Resource Center</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Franklin High School</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Tigard High School</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Woodburn Academy of Art&commasepar; Science&commasepar; and Technology</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Madison High School</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>
+<p>The first place team essay can be viewed <a href="camps/20359091617f9c4a116d8d8b3671b9fc/blog_uploads/essay2-14a5476faf091d53975d4ba8ae0ee579.docx">here</a>.</p>|!|3996a344785c38a8fa6653b0fdb585b2(*)Standard Servo Basics - Using the Jaw(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405097496(*)(*)(*)<p>If you bought jaws from the auction you will need this extra bit of information to help with your jaw program. The jaws use a standard servo&commasepar; where the servos you have been using are continuous.</p>
+<p>A standard servo operates in a similar manner to a Continuous Servo with one major difference. When sent a pulse&commasepar; a standard servo will move to an absolute position where a continuous servo moves to a relative position. The range of pulse widths that are valid for a standard servo is 375 to 1125. Each pulse in this range corresponds to a position between 0 and 180 degrees. You can use the standard PULSOUT command to send pulses to the servo. It is often necessary to send multiple pulses of the same width in order for the servo to reach the desired position. A sample code snippet is shown below.</p>
+<p>&nbsp;</p>
+<p>Pulses VAR Byte</p>
+<p>Keystroke VAR Word</p>
+<p>IF Keystroke = "q" THEN</p>
+<p>&nbsp; GOSUB up</p>
+<p>ELSEIF Keystroke ="z" THEN</p>
+<p>&nbsp; GOSUB down</p>
+<p>ENDIF</p>
+<p>END</p>
+<p>up:</p>
+<p>FOR Pulses = 1 to 5</p>
+<p>&nbsp; PULSOUT 14&commasepar; 375 'It is probably necessary to experiment with the exact pulse width NEXT RETURN</p>
+<p>down:</p>
+<p>FOR Pulses = 1 to 5</p>
+<p>&nbsp; PULSOUT 14&commasepar; 1125 'It is probably necessary to experiment with the exact pulse width NEXT RETURN</p>|!|bbe23d79b87baf59b4cc6d5c9a623e39(*)Boe-Bot Challenge 3 - Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405111322(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405115009(*)<p>Below are the results of the Cyber Cup Soccer:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Tigard</td>
+<td>&nbsp;95</td>
+</tr>
+<tr>
+<td>&nbsp;SST&nbsp;</td>
+<td>&nbsp;95</td>
+</tr>
+<tr>
+<td>&nbsp;Franklin&nbsp;</td>
+<td>&nbsp;75</td>
+</tr>
+<tr>
+<td>&nbsp;Madison&nbsp;</td>
+<td>&nbsp;75</td>
+</tr>
+<tr>
+<td>&nbsp;Capital&nbsp;</td>
+<td>&nbsp;55</td>
+</tr>
+<tr>
+<td>&nbsp;WAAST&nbsp;</td>
+<td>&nbsp;55&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;Village Home &nbsp;</td>
+<td>&nbsp;35&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;St. Mary's&nbsp;</td>
+<td>&nbsp;35&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|13d67294053c23fc52683fb0d448a3a8(*)Saturday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405136392(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405183247(*)<p>7:30 &ndash; All teams that are using some sort of media file for their storyline presentations must report to Smith 238 (Browsing Lounge) with their files ready on their USB drives (files must be compatible with a standard PC such as: powerpoint&commasepar; pdf&commasepar; mp3&commasepar; wma&commasepar; jpeg).&#8232;&#8232;</p>
+<p>8:00 - 10:10 -- Story-Line Presentations - Smith 238 (Browsing Lounge)&nbsp; &nbsp; &nbsp;&#8232; &nbsp; &nbsp;&nbsp;</p>
+<ul>
+<li>8:00 &ndash; Tigard</li>
+<li>8:15 &ndash; Madison</li>
+<li>8:30 &ndash; WAAST</li>
+<li>8:45 &ndash; Village Home</li>
+<li>9:00 &ndash; Break</li>
+<li>9:10 &ndash; St. Mary's</li>
+<li>9:25 &ndash; SST</li>
+<li>9:40 &ndash; Capital</li>
+<li>9:55 &ndash; Franklin&nbsp;</li>
+</ul>
+<p>Each team will present a 6-7 minute storyline. Please arrive at least 10 minutes prior to your start time.</p>
+<p>10:30 - 12:00 -- Final Cyber Challenge - Hoffman Hall</p>
+<p>12:00 -- Lunch and Presentations - Hoffman Hall</p>
+<p>immediately following the luncheon* -- All equipment Check-In - Ondine Hall</p>
+<p>~1:00 - 2:00 Check-out &ndash; Ondine Hall</p>
+<p>immediately following the check-out &ndash; Teacher debriefing - Ondine Hall &nbsp;</p>
+<p>*All teams must return supplies at Ondine Hall&commasepar; then proceed to check-out (with teacher permission). &nbsp;Once all supplies are returned and the teams&rsquo; teachers are with the students&commasepar; the teams can check out of the rooms with housing at Ondine Hall. Immediately following room check-out&commasepar; all teachers will attend the debriefing.</p>|!|0a3c2c1599924def3ec2527054ed7bda(*)Final Survey(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405136446(*)(*)(*)<p><span>It's time for the&nbsp;</span><a href="https://us1.us.qualtrics.com/SE/?SID=SV_eP4PKMFWb0Vnmcs">final survey</a><span>!! Teachers and students please complete the final survey by Saturday morning!!</span></p>|!|8f067ef7c3e1d2f09b85f550c75282a9(*)Writing Assignment 3 - Results   (*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405136601(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405136696(*)<h3>Below are the results of the third writing assignment.</h3>
+<table border="1">
+<tbody>
+<tr><th>Team</th><th>Ranking</th></tr>
+<tr>
+<td>Franklin High School</td>
+<td>95</td>
+</tr>
+<tr>
+<td>Woodburn Academy of Art&commasepar; Science&commasepar; and Technology</td>
+<td>95</td>
+</tr>
+<tr>
+<td>Capital High School</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Village Home Education Resource Center</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Saint Mary's High School</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Tigard High School</td>
+<td>45</td>
+</tr>
+<tr>
+<td>Madison High School</td>
+<td>45</td>
+</tr>
+<tr>
+<td>School of Science and Technology</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>|!|

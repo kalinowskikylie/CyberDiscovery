@@ -1,0 +1,961 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|59ee2231a02aa85e52dd45ca24c94365(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496083889(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496094436(*)<p><strong>Internet Login:</strong>&nbsp;</p>
+<p>Use the following username and password for access to the LATech OpenAir wireless network. <br />Username: cdcamp <br />Password: tech1894</p>
+<p><strong>RA on duty tonight:</strong> <br />Tristan Conly<br />318-243-8601&nbsp;until midnight</p>
+<p>Zachary Thornton<br />985-351-4560 until midnight</p>
+<p><strong>Housing Office:</strong> <br />318-257-4917 <br />Open 7:30AM - 5:00PM</p>
+<p><strong>Tech Police:</strong> <br />318-257-4018</p>|!|c4151fca00e427b605dd6664c7d4b9e0(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496083934(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496094632(*)<p>8:00 - 9:00 Breakfast (Student Center)</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;</p>
+<p>Group 1: Bogard Hall 302</p>
+<p>Group 2: Bogard Hall 303</p>
+<p>Group 3: Bogard Hall 314</p>
+<p>Group 4: Bogard Hall 325</p>
+<p>Group 5: Bogard Hall 326&nbsp;</p>
+<p>Group 6: Bogard Hall 327&nbsp;</p>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 305 &nbsp;<br /> Topic: BOE-Bot Activity (Basics)&nbsp;</p>
+<p>11:00 - 11:15 Break&nbsp;</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 305&nbsp;<br />Theme: Cyber Knowledge <br />* Read Berry piece prior to session</p>
+<p>12:00 - 1:00 Lunch (Student Center)</p>
+<p>1:00 - 1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 1:45 Break</p>
+<p>1:45 - 3:30 Hands-On-Lab (Full Group) - Bogard Hall 305&nbsp;<br />Topic: Cryptography I</p>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner (Student Center 2nd Floor)</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison Auditorium</p>
+<p>9:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|e8190a1400ecc75baa7c6a729a051e53(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1496089281(*)(*)(*)<p>Welcome Cyber Discovery Teams!</p>
+<p>Thank you for participating in our recruitment challenge. There is limited time to complete the challenge&commasepar; so get started!</p>
+<p>Keep working on cracking the combination on the recruitment portal and any clues and puzzles that you find. So that you can be compensated (via points) for your efforts&commasepar; make sure to access the Cyber Discovery portal so that you can submit any passwords or passphrases that you discover.</p>
+<p>We will use this blog to post regular updates and to provide communication as we uncover new findings. So&commasepar; keep checking periodically for further developments.</p>
+<p>-Max</p>|!|a13acdc94b3ff52a734710feeded0289(*)Getting Started with the BOE-Bot(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496158443(*)(*)(*)<p>Here are a few resources to get you started with the first BOE-Bot activity.</p>
+<p>If you want to install the PBasic editor used with the BOE-Bot&commasepar; you can get the latest version&nbsp;<a href="http://www.parallax.com/downloads/basic-stamp-editor-software">here.</a></p>
+<p>This first activity focuses on learning how to get the BOE-Bot moving. The following links are to parts of the previous version of our Living With the Lab curriculum (which is taken by all freshman engineering students at Louisiana Tech). These links will give you some pointers on programming the BOE-Bot to move. While you are looking around&commasepar; you might want to look at our current curriculum at&nbsp;<a href="http://www.livingwiththelab.com/">www.LivingWithTheLab.com.</a>&nbsp;Here are the links:&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/6_student_programming.pdf">subroutines</a>&commasepar;&nbsp;<a href="http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/7_navigation_program.bs2">using EEPROM to store your program</a>&nbsp;(advanced topic).</p>
+<p>Here are a few files from this activity that you can reference in case you missed anything from today:&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Debug_Variable_Size.bs2">DEBUG Variable Sizes</a>&commasepar;&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Turn_Servos.bs2">Turning and Centering Servos</a>&commasepar; and&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Subroutines_for_Servos.bs2">Subroutines</a>.&nbsp;<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Cyber_Discovery_1_BOE-Bot.pdf">Here is a PDF</a>&nbsp;of examples of the various encoding schemes shown in the talk.</p>|!|b99abb91675ab6d707110780ff1d2620(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1496160949(*)(*)(*)<p>Teams&commasepar;</p>
+<p>We want to make sure that you are compensated for finding passwords and passphrases. Make sure to access the Cyber Discovery portal as soon as you think you've found a password/passphrase&commasepar; and enter it in. Remember that all passwords/passphrases must be in uppercase and without spaces. You are also limited to submitting ten consecutive incorrect passwords&commasepar; after which time you are locked out of the system for ten minutes. From then on&commasepar; your lockout time doubles for every 5 consecutive incorrect passwords that you submit. So PLEASE DO NOT TRY TO GUESS OR BRUTE FORCE PASSWORDS. This complicates things for our agents.</p>
+<p>Good luck!</p>
+<p>--Max</p>|!|2818d7eb3ba492bf80e216698e861dac(*)Boe-Bot Challenge 1 - Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496176649(*)7ab118a6540881945675d33dc9a5d8ab(*)1496765999(*)<p>&nbsp;</p>
+<p>The following table shows the order the teams will compete in the first BOE-Bot Challenge (<a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Maze.jpeg">The Maze</a>) on Wednesday morning. All&nbsp;teams completed the "around the object" task&commasepar; which allowed them to choose their position in the queue.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>1</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>SJA</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>Catholic&nbsp;</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>Lee Magnet&nbsp;</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>Beekman Charter</td>
+</tr>
+<tr>
+<td>6</td>
+<td>St. Frederick's</td>
+</tr>
+<tr>
+<td>7</td>
+<td>NOMMA</td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td>West Feliciana&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|0cbd06ecdb14772a5b81abc818ed0b9b(*)Wednesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496176750(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496176769(*)<p>8:00 - 9:00 Breakfast</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;</p>
+<p>Group 1: Bogard Hall 302</p>
+<p>Group 2: Bogard Hall 303</p>
+<p>Group 3: Bogard Hall 314</p>
+<p>Group 4: Bogard Hall 325</p>
+<p>Group 5: Bogard Hall 326&nbsp;</p>
+<p>Group 6: Bogard Hall 327</p>
+<p>9:30 - 10:00 Boe-Bot Challenge 1 (Maze) - Bogard Hall 305</p>
+<p>10:00 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 305</p>
+<p>Topic: BOE-Bot Keyboard Input</p>
+<p>11:00 - 11:15 Break</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 305 <br />Theme: Critically Evaluating Technology</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:30 Hands-On-Lab (Full Group) - Bogard Hall 305 <br />Topic: Storyline Development <br />Topic: Cryptography II</p>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing <br />Breakout Topic: Sketch Up Introduction</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison Auditorium</p>
+<p>9:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|229cb4c17ad3617adeee0405ee2e4f7c(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1496247559(*)(*)(*)<p>Teams&commasepar;</p>
+<p>It's HIGHLY likely that some of you may need <a href="camps/81041e26a1e63933cdeaf7036df8ae7f/blog_uploads/bulldog2.jpg">this image</a>!</p>
+<p>--Max</p>|!|d6ce7bcfd1d92ae393bca04e0d6d1a2b(*)Writing Assignment 1 Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496262458(*)7ab118a6540881945675d33dc9a5d8ab(*)1496863344(*)<p>Click the link on Catholic and NOMMA to view the top essays from writing assignment 1.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/81041e26a1e63933cdeaf7036df8ae7f/blog_uploads/Confronting%20the%20Future%20of%20Modern%20Technology-3aad95659131f03f567a35cf111e50a6.docx">Catholic</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="camps/81041e26a1e63933cdeaf7036df8ae7f/blog_uploads/TheMightyPencil.pdf">NOMMA</a></td>
+<td>90</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>55</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>40</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>30&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|20cb18974737a163d1e9e2b2d1d81d85(*)BOE-Bot Challenge 1 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1496263575(*)d259eb37bc4b04d541b63122d52e40e9(*)1496263714(*)<p>Below are the results of BOE-Bot Challenge 1:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>100&nbsp;</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>60&nbsp;</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>50&nbsp;</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>40</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|737d571b7a04e0c5fcbdf972c4b4a8b3(*)Boe-Bot Challenge 2 - Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496269391(*)(*)(*)<p>The following table shows the order the teams will compete in the second BOE-Bot Challenge&nbsp;on Thursday morning. Both courses will be running simultaneously; therefore&commasepar; we have two queues set (12-Marble Course &amp; 5-Marble Course). Notice the 12-Marble queue becomes the second half of the 5-Marble queue and vice versa.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course A (12 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>NOMMA</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>SJA</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>Catholic</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>Beekman&nbsp;</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Lee Magnet</td>
+</tr>
+<tr>
+<td>7</td>
+<td>St. Freds</td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td>West Feliciana&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td colspan="2"><strong>Course B (5 Marbles)</strong>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Queue Position</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>Lee Magnet</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>St. Freds&nbsp;</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>NOMMA</td>
+</tr>
+<tr>
+<td>6</td>
+<td>SJA</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Catholic</td>
+</tr>
+<tr>
+<td>8&nbsp;</td>
+<td>Beekman</td>
+</tr>
+</tbody>
+</table>|!|7e6685aa9cee8c66e0b6c0a9ec22f564(*)Thursday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496274761(*)7ab118a6540881945675d33dc9a5d8ab(*)1496867733(*)<p>8:00 - 9:00 Breakfast</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;&nbsp;</p>
+<p>Group 1: Bogard Hall 302</p>
+<p>Group 2: Bogard Hall 303</p>
+<p>Group 3: Bogard Hall 314</p>
+<p>Group 4: Bogard Hall 325</p>
+<p>Group 5: Bogard Hall 326&nbsp;</p>
+<p>Group 6: Bogard Hall 327</p>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br />Topic: Boe-Bot Activity (explore challenges)</p>
+<p>11:00 - 11:15 Break</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br />Theme: Thinking Historically about Drone Warfare</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 2:00 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing</p>
+<p>2:00 - 3:30 Hands-On-Lab (Full Group) - Bogard Hall 305&nbsp;&nbsp;<br />Topic: Cryptography III</p>
+<p>3:30 - 5:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:00 - 6:00 Dinner</p>
+<p>6:00 - 8:00 Movie Time (Full Group) - GTM 105</p>
+<p>8:00 - 9:30 Auction - GTM 105</p>
+<p>9:30 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|9b6fc348ce3bdc28987b88fddad2e24d(*)BOE-Bot Challenge 2 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1496331555(*)(*)(*)<p>The Golf Challenge results are:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>100&nbsp;</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>60</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>50</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>40</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|8b0067c596ac4930c14cdf23bb9b1c1e(*)Wireless Sample Code(*)d259eb37bc4b04d541b63122d52e40e9(*)1496332349(*)(*)(*)<p>Here are two files that can be used as a starting point for wireless communication. One bot should be programmed with the reciever code. This bot will be able to roam around on its own (not tethered to the USB). The 2nd bot should be programmed with the transmitter code and will stay connected to the computer via USB.</p>
+<p>NOTE: You will need to set your channel in both of the programs. Each team is assigned a channel that is three characters &nbsp;(a dollar sign&commasepar; a &nbsp;number&commasepar; and a letter or a number).</p>
+<p><a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Reciever.bs2">Receiver</a></p>
+<p><a href="camps/95194f6b0c7a55b3808104870a724074/blog_uploads/Transmitter.bs2">Transmitter</a></p>|!|875677e23b859dce77ae07025bb0d38e(*)Auction Items(*)d259eb37bc4b04d541b63122d52e40e9(*)1496336611(*)(*)(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Picture</strong></td>
+<td><strong>Description</strong>&nbsp;</td>
+<td><strong># Avail.</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Jaw&nbsp;</p>
+</td>
+<td><img title="Hungry Hippo" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/1-jaw_snip.jpg" alt="Hungry Hippo" width="250" height="170" />&nbsp;</td>
+<td>
+<p>The jaws provide the ability to corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability of holding in the marbles after they are corralled. The jaws have added servos that lift the front bar up and down to hold in the marbles. This functionality is analogous to the children&rsquo;s game of hungry hungry hippos where the hippos&rsquo; jaws open and close to collect and hold in marbles.</p>
+</td>
+<td>5</td>
+</tr>
+<tr>
+<td>
+<p>Manila Folder &amp; Tape</p>
+</td>
+<td><img title="Manila Folder and Tape" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/3-manilaFolderTape.jpg" alt="Manila Folder and Tape" width="250" height="191" />&nbsp;</td>
+<td>
+<p>Those that purchase the manila folder and &amp; tape option can tap into their creativity to use these extremely durable materials to construct added attachments for their BOE-Bots.</p>
+</td>
+<td>2&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Storyline Media Enrichment</p>
+</td>
+<td><img title="Camera" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/4-Camera.jpg" alt="Camera" width="250" height="250" /></td>
+<td>
+<p>The creative storyline challenge provides teams the opportunity to use their creativity to represent themes of the camp through various media (live action&commasepar; PowerPoint&commasepar; etc). Video capability is one such media teams could use. However&commasepar; only two teams will have permission to use video by purchasing that right in the auction. If permission to use video is purchased&commasepar; you will be given a digital camera that you can use for your video production.</p>
+</td>
+<td>2&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>30 Second Head Start</p>
+</td>
+<td><img title="30 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/5-30Seconds.jpg" alt="30 Seconds" width="250" height="107" /></td>
+<td>
+<p>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 30 second head start for any one round.</p>
+</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>45 Second Head Start</p>
+</td>
+<td><img title="45 Seconds" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/6-45Seconds.jpg" alt="45 Seconds" width="250" height="112" /></td>
+<td>
+<p>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 45 second head start for round four.</p>
+</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Side Flippers</p>
+</td>
+<td><img title="Side Flippers" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/8-SideFlipper.png" alt="Side Flippers" width="250" height="122" /></td>
+<td>
+<p>Triangular ramp that in one direction allows you to flip opponents while providing stability and in other direction allows you to scoop marbles.</p>
+</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>High Speed Servo Upgrade</p>
+</td>
+<td><img title="High-Speed Servos" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/9-HighSpeedServo.png" alt="High-Speed Servos" width="250" height="172" /></td>
+<td>
+<p>This allows for 2 to 2.5 times the speed of standard servo driven bots.</p>
+</td>
+<td>3&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Mystery</p>
+</td>
+<td><img title="Mystery" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/mystery.jpg" alt="Mystery" width="250" height="168" /></td>
+<td>Mystery Item</td>
+<td>1&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Bulldozer</p>
+</td>
+<td><img title="Bulldozer" src="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/10-Bulldozer_snip.jpg" alt="Bulldozer" width="250" height="169" />&nbsp;</td>
+<td>
+<p>The bulldozer attachment provides the ability to corral and transport marbles. Teams will receive a bulldozer if they do not have a jaw.</p>
+</td>
+<td>Default&nbsp;<br /><br /></td>
+</tr>
+</tbody>
+</table>|!|052e286fa7ade34176084f13b440ccab(*)Storyline Presentations Queue(*)d259eb37bc4b04d541b63122d52e40e9(*)1496337017(*)(*)(*)<p>Using a random number generator&commasepar; the Story-Line queue was determined as follows:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Time</strong></td>
+<td><strong>School</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>7:30</td>
+<td>Lee Magnet&nbsp;</td>
+</tr>
+<tr>
+<td>7:45</td>
+<td>Beekman</td>
+</tr>
+<tr>
+<td>8:00</td>
+<td>Catholic</td>
+</tr>
+<tr>
+<td>8:15</td>
+<td>St. Frederick</td>
+</tr>
+<tr>
+<td>8:30</td>
+<td>NOMMA</td>
+</tr>
+<tr>
+<td>8:45</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>West Feliciana</td>
+</tr>
+<tr>
+<td>9:15</td>
+<td>SJA</td>
+</tr>
+</tbody>
+</table>
+<p>Presentations will be held in GTM 105. Teachers&commasepar; parents&commasepar; and other guests can watch their students present their storylines. However to keep the presentation process fair&commasepar; opposing teams are NOT allowed to view each others' presentations.&nbsp;</p>
+<p>If you are using some sort of computer file for your presentations&commasepar; please bring your file to GTM 105 (the Auditorium) at&nbsp;<strong>7:15AM</strong>&nbsp;to upload on the computer being used for presentations. You will<strong>&nbsp;NOT</strong>&nbsp;be using your own computers for presentations. Allowable movie file types are: any quicktime supported file and .wmv (windows media player files).</p>
+<p>Remember each team will have ten minutes (5-10 minute presentation with a few minutes for questions) for the presentation of their storyline.</p>|!|48651fb2589ed292982b22c6bf53fee5(*)Writing Assignment 2 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1496347406(*)d259eb37bc4b04d541b63122d52e40e9(*)1496347539(*)<p>Click the link on Lee Magnet and Catholic to view the top essays from writing assignment 2.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/81041e26a1e63933cdeaf7036df8ae7f/submissions/FluidAccessRequiresFluidTraining-2-f129fd1f305651e8a1563fa49b5478b6.docx">Lee Magnet</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="camps/81041e26a1e63933cdeaf7036df8ae7f/submissions/The%20Internet-%20%20An%20Intellectual%20Environment-88f0c0719b75c42e3cf62be7ac4690e8.docx">Catholic</a></td>
+<td>90</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>65</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>65</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>50</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>40</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>30&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|13d6fd0b3279679fdc7f1c9a92dd1441(*)BOE-Bot Challenge 3 Queue(*)d259eb37bc4b04d541b63122d52e40e9(*)1496352157(*)(*)(*)<p>The teams for the BOE-Bot Challenge 3 (Soccer) are:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Teams</strong></td>
+<td><strong>Schools</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>A</td>
+<td>NOMMA/West Monroe</td>
+</tr>
+<tr>
+<td>B&nbsp;</td>
+<td>Lee Magnet/West Feliciana</td>
+</tr>
+<tr>
+<td>C&nbsp;</td>
+<td>SJA/Catholic</td>
+</tr>
+<tr>
+<td>D&nbsp;</td>
+<td>Beekman/St. Frederick</td>
+</tr>
+</tbody>
+</table>
+<p>The order that each team will compete is:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Game</strong></td>
+<td><strong>Match-Up</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>1</td>
+<td>A vs. B</td>
+</tr>
+<tr>
+<td>2&nbsp;</td>
+<td>C vs. D&nbsp;</td>
+</tr>
+<tr>
+<td>3&nbsp;</td>
+<td>A vs. D&nbsp;</td>
+</tr>
+<tr>
+<td>4&nbsp;</td>
+<td>B vs. C&nbsp;</td>
+</tr>
+<tr>
+<td>5&nbsp;</td>
+<td>A vs. C&nbsp;</td>
+</tr>
+<tr>
+<td>6&nbsp;</td>
+<td>B vs. D&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|482b838b5a0808734189278175522381(*)Current Point Distribution(*)d259eb37bc4b04d541b63122d52e40e9(*)1496361217(*)d259eb37bc4b04d541b63122d52e40e9(*)1496362459(*)<p>The following table outlines the current point distribution. &nbsp;This list includes BOE-Bot Challenges 1 and 2&commasepar; Writing Assignments 1 and 2&commasepar; and the latest scoring information from the Crypto Treasure Hunt.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>391</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>690</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>678</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>324</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>378</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>585</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>540</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>383</td>
+</tr>
+</tbody>
+</table>
+<p>All the teams are doing a great job! &nbsp;And remember&commasepar; there are still plenty of points up for grabs with the Crypto Treasure Hunt and the remainder of the week's activities!</p>|!|97049e3bcd38ce37778080428a7252c3(*)Friday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496362922(*)7ab118a6540881945675d33dc9a5d8ab(*)1496969332(*)<p>8:00 - 9:00 Breakfast</p>
+<p>9:00 - 9:30 Movie Discussion (Mixed Small Groups)&nbsp;&nbsp;</p>
+<p>Group 1: Bogard Hall 302</p>
+<p>Group 2: Bogard Hall 303</p>
+<p>Group 3: Bogard Hall 314</p>
+<p>Group 4: Bogard Hall 325</p>
+<p>Group 5: Bogard Hall 326&nbsp;</p>
+<p>Group 6: Bogard Hall 327</p>
+<p>9:30 - 11:00 Hands-On-Lab (Full Group)&nbsp;&nbsp;<br />Topic: BOE-Bot Activity (open-ended preparation for final challenge)&nbsp;</p>
+<p>11:15 - 12:00 Cyber Policy and Ethics (Full Group)&nbsp;&nbsp;<br />Theme: RoboCop&commasepar; A.I.&commasepar; and...Poetry?</p>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:30 - 2:30 BOE-Bot Soccer World Cup - field in Bogard Hall 305</p>
+<p>2:30 - 11:00 Team Time (School Groups)&nbsp;<br />&nbsp; Open-ended preparation for Saturday challenges &nbsp;&nbsp;<br />&nbsp; 2:30 - 5:00 Cyber Fort Assembly - Bogard Hall 305&nbsp;<br />&nbsp; 3:30 - 6:30 Arena open in the first floor Student Center (Tonk)&nbsp;<br />&nbsp; 5:30 - 6:30 Dinner</p>
+<p>11:00 Lights out</p>|!|66eaf4ae65d5c7bd593fd3952d9db064(*)Crypto Treasure Hunt(*)d259eb37bc4b04d541b63122d52e40e9(*)1496363702(*)(*)(*)<p>Teams&commasepar;</p>
+<p>Although the grand prize has been awarded&commasepar; please continue to submit passwords/passphrases that you think are valid after solving clues. Password submission will be open until Saturday morning at 7am. It is to your advantage to submit as many correct passwords as you can by tonight&commasepar; Thursday&commasepar; so that you have as many points as you can for the auction.</p>
+<p>--Max</p>|!|336dae404cfb107b88fe128b90b62339(*)Jaw Servo Basics(*)d259eb37bc4b04d541b63122d52e40e9(*)1496415550(*)d259eb37bc4b04d541b63122d52e40e9(*)1496422219(*)<p>If you bought jaws from the auction you will need this extra bit of information to help with your jaw program. The jaws use a standard servo&commasepar; where the servos you have been using are continuous.</p>
+<p>A standard servo operates in a similar manner to a Continuous Servo with one major difference. When sent a pulse&commasepar; a standard servo will move to an absolute position where a continuous servo moves to a relative position. The range of pulse widths that are valid for a standard servo is 375 to 1125. Each pulse in this range corresponds to a position between 0 and 180 degrees. You can use the standard PULSOUT command to send pulses to the servo. It is often necessary to send multiple pulses of the same width in order for the servo to reach the desired position. A sample code snippet is shown below.</p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">Pulses VAR Byte<br />Keystroke VAR Word</span></p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">IF Keystroke = "q" THEN<br />&nbsp; GOSUB up<br />ELSEIF Keystroke ="z" THEN<br />&nbsp; GOSUB down<br />ENDIF<br />END</span></p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">up:<br />FOR Pulses = 1 to 5<br />&nbsp; PULSOUT 14&commasepar; 375 'It is probably necessary to experiment with the exact pulse width<br /></span><span style="font-family: 'courier new'&commasepar; courier;">NEXT<br /></span><span style="font-family: 'courier new'&commasepar; courier;">RETURN</span></p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">down:<br />FOR Pulses = 1 to 5<br />&nbsp; PULSOUT 14&commasepar; 1125 'It is probably necessary to experiment with the exact pulse width<br />NEXT<br />RETURN</span></p>|!|b48df9d5ac5953132d761401255d74d7(*)Writing Assignment 3 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1496422832(*)d259eb37bc4b04d541b63122d52e40e9(*)1496422896(*)<p>Click the link on Lee Magnet and West Feliciana to view the top essays from writing assignment 3.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/81041e26a1e63933cdeaf7036df8ae7f/submissions/ThePurposeoftheFifthAmendment-fad269d3df26eccadbdc6508dfd86c13.docx">Lee Magnet</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="camps/81041e26a1e63933cdeaf7036df8ae7f/submissions/ThePriceofLiberty-e785031a2a9a1ce7b1e3567e7479488a.docx">West Feliciana</a></td>
+<td>90</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>70</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>55</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>55</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>30&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|5474071e978e6a261a7374af193bf669(*)BOE-Bot Challenge 3 Results(*)d259eb37bc4b04d541b63122d52e40e9(*)1496431975(*)(*)(*)<p>The Soccer Challenge results are:</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>95</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>95&nbsp;</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>75&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>75&nbsp;</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>55&nbsp;</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>55&nbsp;</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>35</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>35</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|ee9371efbf332e94a40cba15cc1cf998(*)Current Point Distribution(*)d259eb37bc4b04d541b63122d52e40e9(*)1496432172(*)7ab118a6540881945675d33dc9a5d8ab(*)1496969530(*)<p>The following table outlines the current point distribution. &nbsp;This list includes BOE-Bot Challenge 3&commasepar; Writing Assignment 3&commasepar; and the latest scoring information from the Crypto Treasure Hunt.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>555</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>228</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>75</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>228</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>448</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>355</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>182</td>
+</tr>
+</tbody>
+</table>
+<p>All the teams are doing a great job!</p>|!|1331b885bb863ad69fe5d318be87050b(*)Saturday Itinerary(*)d259eb37bc4b04d541b63122d52e40e9(*)1496492056(*)(*)(*)<p>7:15 &ndash; All teams that are using some sort of media file for their storyline presentations must report to GTM 105 with their files ready on their USB drives (movie files should be of type .wmv or QuickTime).</p>
+<p>7:30 - 9:30 -- Story-Line Presentations - George T Madison Auditorium&nbsp;&nbsp;<br />Each team will present a 10 minute maximum storyline. Please arrive at least 10 minutes prior to your start time.</p>
+<p>8:00 - 9:00 Breakfast&nbsp;- First Floor Student Center (Tonk)</p>
+<p>10:00 - 11:30 -- Final Cyber Challenge - First Floor Student Center (Tonk)</p>
+<p>11:30 -- Lunch and Presentations &ndash; First Floor Student Center (Tonk)</p>
+<p>12:30 - 1:00 &ndash; Teacher debriefing &amp; Supply Return - ELS Lounge 2nd Floor Student Center (Tonk)</p>
+<p>1:30 - 3:00 Check-out - Women's Center*</p>
+<p>*All teams must return supplies at the stage in the first floor Student Center (Tonk)&commasepar; then proceed to clean their rooms while the teachers are at the debriefing. Once all supplies are returned and the teams&rsquo; teachers are with the students&commasepar; the teams can check out of the apartments with housing at the Women&rsquo;s Center.</p>|!|f2d55e6e27b7fbb5463643f3dbe26f5c(*)Supply Return Procedure(*)d259eb37bc4b04d541b63122d52e40e9(*)1496492157(*)(*)(*)<p>Following lunch&commasepar; teachers will attend a teacher debriefing session. During the debriefing&commasepar; students can collect all their supplies given to them throughout the week and return the supplies at the arena in the first floor Student Center (Tonk). Please collect all supplies and return them all together (see yellow supply sheet). &nbsp;See parts return&nbsp;<a href="camps/e4ba6170e4c64ebc0a17fd56fb60b056/blog_uploads/CD1_parts_return.pdf">list</a>&nbsp;as well.</p>
+<p>After the teacher debriefing&commasepar; teams can check out together with their teachers (<strong><em>must check out as a team</em></strong>) in the Women's Center (same as check in). Prior to checking out&commasepar; please be sure to return the room to the state at which you arrived (or better).</p>|!|53d11a289614e0a18db0594063cef80e(*)Writing Assignment 4 Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496506759(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496507394(*)<p>Click the link on West Feliciana and Catholic to view the top essays from writing assignment 4.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>Schools</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a href="camps/81041e26a1e63933cdeaf7036df8ae7f/submissions/Robots%20A%20New%20Frontier-6891c60f3b6c59368b0cb2105edf097a.docx">West Feliciana</a></td>
+<td>100</td>
+</tr>
+<tr>
+<td><a href="camps/81041e26a1e63933cdeaf7036df8ae7f/submissions/Machines%20That%20Experience%20Emotion%20Achieve%20Autonomy-7da040d4ed64000d0abd70093488a787.docx">Catholic</a></td>
+<td>90</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>75</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>75</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>60</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>40</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>30&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|dc19f12deeb35768f73135d113a7678a(*)Cyber Fort Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496506952(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496506962(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>100</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>90&nbsp;</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>80&nbsp;</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>70&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>60&nbsp;</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>50</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>40&nbsp;</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>30&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|994f84e1b781bb88d6d33418ba9ab721(*)Creative Storyline Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496507092(*)(*)(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>400</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>360</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>300&nbsp;</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>300</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>240</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>200</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>160</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>120</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|a20e0060f2354c165e089c66cbb45655(*)Final BOE-Bot Challenge Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496507187(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1496507311(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>545</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>525</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>480</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>390</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>385</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>280</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>265</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>250</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|76a17f5dc8617ea37a1d7217fe105b54(*)Final Scores!(*)d259eb37bc4b04d541b63122d52e40e9(*)1496590921(*)(*)(*)<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong>&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>1490</td>
+</tr>
+<tr>
+<td>SJA</td>
+<td>1418</td>
+</tr>
+<tr>
+<td>West Feliciana</td>
+<td>1190</td>
+</tr>
+<tr>
+<td>Beekman</td>
+<td>1073</td>
+</tr>
+<tr>
+<td>Lee Magnet</td>
+<td>1043</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td>817</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>780</td>
+</tr>
+<tr>
+<td>St. Frederick</td>
+<td>758</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|

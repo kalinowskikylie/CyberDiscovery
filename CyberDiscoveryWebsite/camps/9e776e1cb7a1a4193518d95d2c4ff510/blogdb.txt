@@ -1,0 +1,572 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|333f4b7c98e84adcc6f6bda3a1f809ef(*)General Camp Information(*)7ab118a6540881945675d33dc9a5d8ab(*)1343087841(*)7ab118a6540881945675d33dc9a5d8ab(*)1343140301(*)<table border=\"0\">
+<tbody>
+<tr>
+<td><strong>Housing / Building Manager:</strong></td>
+<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td><strong>Internet Login:</strong></td>
+</tr>
+<tr>
+<td><address>Jordan Clark</address><address>318-257-3544</address></td>
+<td>&nbsp;</td>
+<td><address>Username: cdcamp</address><address>Password: &nbsp;tech1894</address></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|415ec0a959c0fd36c91fc1a1ede53a59(*)Tuesday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1343088331(*)7ab118a6540881945675d33dc9a5d8ab(*)1343092636(*)<table border=\"1\" cellspacing=\"1\" cellpadding=\"1\">
+<tbody>
+<tr>
+<td>
+<p>7:30-8:15</p>
+</td>
+<td><address>Breakfast</address></td>
+</tr>
+<tr>
+<td>8:30-11:00</td>
+<td><address>*Survey 1 due by 8:30</address><address>Hands-On-Lab (Full Group)</address><address>Topic: Scenario I</address><address>Bogard Hall (BH)&commasepar; Room 129</address><address>&nbsp;</address></td>
+</tr>
+<tr>
+<td>11:00-12:00</td>
+<td><address>LBAR Session (Full Group)</address><address>BH 129</address></td>
+</tr>
+<tr>
+<td>
+<p>12:00-1:00</p>
+</td>
+<td><address>Lunch</address></td>
+</tr>
+<tr>
+<td>
+<p>1:00-1:30</p>
+</td>
+<td><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td>1:30-2:30</td>
+<td><address>Team Briefings</address><address>BH 129</address></td>
+</tr>
+<tr>
+<td>2:30-4:00</td>
+<td><address>&nbsp;</address><address>Hands-On-Lab (Full Group)</address><address>Topic: Computer Networks</address><address>BH 129&nbsp;</address><address>&nbsp;</address></td>
+</tr>
+<tr>
+<td>
+<p>4:00-5:30</p>
+</td>
+<td><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td>
+<p>5:30-6:30</p>
+</td>
+<td><address>Dinner</address></td>
+</tr>
+<tr>
+<td>6:30-8:30</td>
+<td><address>Movie</address><address>George T. Madison (GTM)&commasepar; Room 105</address></td>
+</tr>
+<tr>
+<td>
+<p>8:45-11:00</p>
+</td>
+<td><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td>11:00</td>
+<td><address>Lights Out</address></td>
+</tr>
+</tbody>
+</table>|!|7dc500aab3e1292096a4e30eba6f6163(*)Survey 1(*)7ab118a6540881945675d33dc9a5d8ab(*)1343090157(*)(*)(*)<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys). <br /><br />Why do we need to do the surveys? Your participation in the surveys are a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.<br /><br />Please click the following link for the first survey:</p>
+<div><a href=\"https://www.surveymonkey.com/s/cyberdiscoverycamp_survey1\">Survey 1</a></div>
+<p><br /><br />All students and teachers should complete the survey by 8:30 Tuesday morning.</p>|!|717e4e2c1195081d0ce9e26e4c025cb9(*)T-Shirt Colors(*)7ab118a6540881945675d33dc9a5d8ab(*)1343098170(*)7ab118a6540881945675d33dc9a5d8ab(*)1343098284(*)<p>We would like all teams to wear the white t-shirts on Saturday; so please reserve the WHITE t-Shirt to be worn on Saturday.</p>
+<p>&nbsp;</p>
+<p>For the Tuesday-Friday&commasepar; each team should choose a shirt color (Chalk&commasepar; Green&commasepar; Blue&commasepar; Yellow) to wear as a team each day.</p>|!|813861d75b295c1d541b4ef199f5ac34(*)Brief I - Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1343149774(*)7ab118a6540881945675d33dc9a5d8ab(*)1343157906(*)<p>At 1:30PM&commasepar; the breifing to the DHS agents will occur. This briefing session will answer the questions related to the investigation this morning. The queue for the briefings is as follows:</p>
+<p>&nbsp;</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td style=\"text-align: center;\"><strong>Queue</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">1</td>
+<td>Airline/Ruston</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">2</td>
+<td>El Dorado</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">3</td>
+<td>Benton</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">4</td>
+<td>Parkway</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|cbcd35f11c56ba18b257ef702fb40d4a(*)Investigative Session 1(*)7ab118a6540881945675d33dc9a5d8ab(*)1343162720(*)(*)(*)<p>The Nethken Corporation security team has made the <a title=\"Investigative Session 1\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/InvestigativeSession1.odp\" target=\"_blank\">slides</a> from today\'s training session available for your use.</p>|!|130cc89e7262f5ea3091f002e06ac380(*)Briefing I - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1343175767(*)(*)(*)<p>Below are the results of Briefing I and the points allocated to each team for the briefings. &nbsp;Briefing I had a total of 100 points posisble. First place recieved 100 points; subsequent teams recieved points declining from 100 in multiples of 20 as placement declined.</p>
+<p>&nbsp;</p>
+<table border=\"2\" cellpadding=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>Placement</strong></span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">1</span></td>
+<td><span style=\"font-size: small;\">Parkway</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">100</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">2</span></td>
+<td><span style=\"font-size: small;\">El Dorado</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">80</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">3</span></td>
+<td><span style=\"font-size: small;\">Benton&nbsp;</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">60</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">4</span></td>
+<td><span style=\"font-size: small;\">Airline/Ruston&nbsp;</span></td>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">40</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>|!|392cff2e69f72289be7b01261827b1e6(*)Wednesday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1343175892(*)7ab118a6540881945675d33dc9a5d8ab(*)1343175931(*)<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td valign=\"top\" width=\"127\"><address>7:30 &ndash; 8:15</address></td>
+<td valign=\"top\" width=\"348\"><address>Breakfast</address><address>*Essay 1 Due at 8:15</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>8:30 &ndash; 11:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Hands-On-Lab (Full Group)</address><address>Topic: Scenario II</address><address><em>BH 129</em></address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>11:00 &ndash; 12:00</address></td>
+<td valign=\"top\" width=\"348\"><address>LBAR Session (Full Group)</address><address><em>BH 129</em></address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>12:00 &ndash; 1:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Lunch</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>1:00 &ndash; 1:30</address></td>
+<td valign=\"top\" width=\"348\"><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>1:30 &ndash; 3:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Hands-On-Lab (Full Groups)</address><address>Topic: Hard Drive Analysis &amp; Cryptography</address><address><em>BH 129</em></address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>3:00 &ndash; 4:30</address></td>
+<td valign=\"top\" width=\"348\"><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>4:30 &ndash; 5:30</address></td>
+<td valign=\"top\" width=\"348\"><address>Team Briefings</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>5:30 &ndash; 6:30</address></td>
+<td valign=\"top\" width=\"348\"><address>Dinner</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>6:30 &ndash; 8:30</address></td>
+<td valign=\"top\" width=\"348\"><address>Movie</address><address><em>GTM 105</em></address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>8:45 &ndash; 11:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"127\"><address>11:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Lights Out</address></td>
+</tr>
+</tbody>
+</table>|!|8b07c1edfeda2b16abdd04c0784f0077(*)Survey 2(*)7ab118a6540881945675d33dc9a5d8ab(*)1343176194(*)7ab118a6540881945675d33dc9a5d8ab(*)1343176230(*)<p>Please complete the <a title=\"PreCampSurvey\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_cu0fC5DrrSuEFda\" target=\"_blank\">survey</a> by <em><span style=\"text-decoration: underline;\"><strong>8:30AM</strong></span></em> Wednesday (tomorrow) morning.</p>|!|8f8222e90cec1a87642bb9a31c5908b7(*)Investigative Session 2(*)7ab118a6540881945675d33dc9a5d8ab(*)1343247403(*)7ab118a6540881945675d33dc9a5d8ab(*)1343247494(*)<p>The Nethken Corporation security team has made <a title=\"Investigative Session 2\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/Hard%20Drive%20Analysis.pdf\" target=\"_blank\">slides</a>&nbsp;from today\'s training session available for your use.</p>|!|0edbf456e636c5b79c0d1bb433c45b31(*)Briefing II - Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1343247998(*)7ab118a6540881945675d33dc9a5d8ab(*)1343248099(*)<p>&nbsp;At 4:30PM&commasepar; the breifing to the DHS agents will occur. This briefing session will answer the questions related to the investigation today. The queue for the briefings was determined by a random list generator and is as follows:</p>
+<p>&nbsp;</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td style=\"text-align: center;\"><strong><span style=\"font-size: medium;\">Queue</span></strong></td>
+<td><strong><span style=\"font-size: medium;\">School</span></strong></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">1</span></td>
+<td><span style=\"font-size: small;\">El Dorado</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">2</span></td>
+<td><span style=\"font-size: small;\">Parkway</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">3</span></td>
+<td><span style=\"font-size: small;\">Benton</span></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><span style=\"font-size: small;\">4</span></td>
+<td><span style=\"font-size: small;\">Airline/Ruston</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|e8a168e280624ab2e140ae1eb9a38b49(*)Goldman Sachs Executive Team Phone Logs(*)7ab118a6540881945675d33dc9a5d8ab(*)1343249909(*)(*)(*)<p><a title=\"PhoneLogs\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/phoneLogsForGSSeniorExecs.pdf\" target=\"_blank\">Phone logs</a> for the three executives who have recently travelled abraod (Debora Spar&commasepar; Robert Hamilton&commasepar; &amp; Richard Miller&commasepar; III).</p>|!|f938bef32e546a8cee8d6c0a1fd8ce82(*)Essay 1 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1343265170(*)7ab118a6540881945675d33dc9a5d8ab(*)1343265186(*)<p>Below are the results of the first essay.</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Benton</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Ruston/Airline</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">El Dorado</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Parkway</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">40</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|5f859250de6e3ef9d8df673a91e78c20(*)Briefing II - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1343265295(*)7ab118a6540881945675d33dc9a5d8ab(*)1343265305(*)<p>Below are the results of Briefing II.</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">El Dorado</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">150</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Benton</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">120</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Parkway</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">90</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Airline/Ruston</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">60</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|fb5cd92ef2a55c6a99b84232278c3fef(*)Thursday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1343265325(*)7ab118a6540881945675d33dc9a5d8ab(*)1343265343(*)<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td valign=\"top\" width=\"133\"><address>7:30 &ndash; 8:15</address></td>
+<td valign=\"top\" width=\"348\"><address>Breakfast</address><address>*8:15 Essay 2 Due</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>8:30 &ndash; 11:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Hands-On-Lab (Full Group)</address><address>Topic: Scenario III</address><address>BH 129</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>11:00 &ndash; 12:00</address></td>
+<td valign=\"top\" width=\"348\"><address>LBAR Session (Full Group)</address><address>BH 129</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>12:00 &ndash; 1:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Lunch</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>1:00 &ndash; 1:30</address></td>
+<td valign=\"top\" width=\"348\"><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>1:30 &ndash; 3:30</address></td>
+<td valign=\"top\" width=\"348\"><address>Hands-On-Lab (Full Group)</address><address>Topic: Wireless Networks and Steganography</address><address>BH 129</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>3:30 &ndash; 5:30</address></td>
+<td valign=\"top\" width=\"348\"><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>5:30 &ndash; 6:30</address></td>
+<td valign=\"top\" width=\"348\"><address>Dinner</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>6:30 &ndash; 8:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Team Briefings</address><address>University Hall Auditorium</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>8:00 &ndash; 11:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>11:00</address></td>
+<td valign=\"top\" width=\"348\"><address>Lights Out</address></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|298cdac52db23aa03728ea3fce3f1a05(*)Investigative Session 3(*)7ab118a6540881945675d33dc9a5d8ab(*)1343335306(*)7ab118a6540881945675d33dc9a5d8ab(*)1343337622(*)<p><span>The Nethken Corporation security team has made these files</span><span>&nbsp;from today\'s training session available for your use.</span></p>
+<p><a title=\"Steganography\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/Steganography.pdf\" target=\"_blank\"><span>Steganography</span></a></p>
+<p><a title=\"Wireless Networks\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/WirelessNetworks.pptx\" target=\"_blank\"><span>Wireless Networks</span></a></p>|!|2b776cbfa41e48c455d8812e29cd0d4c(*)Essay 2 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1343346291(*)7ab118a6540881945675d33dc9a5d8ab(*)1343346333(*)<p>Below are the results of the first essay.</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span><strong>School</strong></span></td>
+<td><span><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style=\"text-align: right;\"><span>100</span></td>
+</tr>
+<tr>
+<td><span>Benton</span></td>
+<td style=\"text-align: right;\"><span>80</span></td>
+</tr>
+<tr>
+<td><span>Parkway</span></td>
+<td style=\"text-align: right;\"><span>60</span></td>
+</tr>
+<tr>
+<td><span>Airline/Ruston</span></td>
+<td style=\"text-align: right;\"><span>40</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|db711fcfc3cbdaa33c8e45d0a10164b5(*)Friday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1343346478(*)7ab118a6540881945675d33dc9a5d8ab(*)1343399458(*)<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td valign=\"top\" width=\"133\"><address>7:30 &ndash; 8:15</address></td>
+<td valign=\"top\" width=\"222\"><address>Breakfast</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>8:30 &ndash; 11:00</address></td>
+<td valign=\"top\" width=\"222\"><address>Hands-On-Lab (Full Group)</address><address>Topic: Scenario IV</address><address>BH 129</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>11:00 &ndash; 12:00</address></td>
+<td valign=\"top\" width=\"222\"><address>LBAR Session (Full Group)</address><address>BH 129</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>12:00 &ndash; 1:30</address></td>
+<td valign=\"top\" width=\"222\"><address>Lunch</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>1:30 &ndash; 3:00</address></td>
+<td valign=\"top\" width=\"222\"><address>DHS Interaction</address><address>BH 129</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>3:00 &ndash; 5:30</address></td>
+<td valign=\"top\" width=\"222\"><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>5:30 &ndash; 6:30</address></td>
+<td valign=\"top\" width=\"222\"><address>Dinner</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>6:30 &ndash; 11:00</address></td>
+<td valign=\"top\" width=\"222\"><address>Team Time (School Groups)</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"133\"><address>11:00</address></td>
+<td valign=\"top\" width=\"222\"><address>Lights Out</address></td>
+</tr>
+</tbody>
+</table>|!|8685c6b07d9d56cdd5756b96928a0033(*)Survey 3(*)7ab118a6540881945675d33dc9a5d8ab(*)1343346519(*)7ab118a6540881945675d33dc9a5d8ab(*)1343346553(*)<p>It\'s that time again...surveys!! Teachers and students&commasepar; both&commasepar; please fill out <a title=\"Survey 3\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_cBEYqZ2FhI6FOAs\" target=\"_blank\">survey 3</a>&nbsp;by 8:30 AM tomorrow (Friday) morning!</p>|!|ddbb7ea6cff50a2430e5bec610247940(*)Briefing III - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1343352073(*)7ab118a6540881945675d33dc9a5d8ab(*)1343352078(*)<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">El Dorado</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">200</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Parkway</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">160</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Airline/Ruston</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">120</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Benton</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">80</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|17c48d0946b742b683d4e88e30f815c6(*)Information for the Visitors on Saturday(*)7ab118a6540881945675d33dc9a5d8ab(*)1343406709(*)7ab118a6540881945675d33dc9a5d8ab(*)1343406733(*)<p><span>We encourage visitors to be at University Hall between 9:00AM and 9:30AM. Presentations will begin promptly at 9:30AM. Following presentations&commasepar; a lunch and awards ceremony will be held in Toliver Hall.</span></p>|!|a0af4fbd607fcce23adc71c4193eaaed(*)Charlotte Bryan Interrogation(*)7ab118a6540881945675d33dc9a5d8ab(*)1343415579(*)(*)(*)<p><a title=\"Charlotte Bryan Interrogation\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/CharlotteBryanInterrogation.wma\" target=\"_blank\">Charlotte Bryan</a> Interrogation - Audio File</p>|!|008e9ecb087ba58cf79a44dcfdf07f76(*)Essay 3 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1343417333(*)(*)(*)<p>&nbsp;</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong><span style=\"font-size: medium;\">School</span></strong></td>
+<td style=\"text-align: right;\"><strong><span style=\"font-size: medium;\">Points</span></strong></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">El Dorado</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">100</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Airline/Ruston</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">80</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Parkway</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">60</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Benton</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">40</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|b3c3487429a15f939fedf5aa6b3031f0(*)Investigation Update(*)7ab118a6540881945675d33dc9a5d8ab(*)1343419344(*)7ab118a6540881945675d33dc9a5d8ab(*)1343419758(*)<p>Please check the Activities section; there is a new action item for the investigation that is due by<strong><em><span style=\"text-decoration: underline;\"> 9:00PM</span></em></strong>.</p>|!|18f24ac3c2ec69098a4074afb8df8ece(*)Nethken Corporation - Update(*)7ab118a6540881945675d33dc9a5d8ab(*)1343419601(*)7ab118a6540881945675d33dc9a5d8ab(*)1343420556(*)<p>One of our agents has informed us that the pre-shared key THOMAS for the wireless network that we believe will be used to transmit our intellectual property is in fact FRANKLIN.</p>
+<p>&nbsp;</p>
+<p>In addition&commasepar; Nethken Corps. Building will be on lockdown tomorrow (Saturday) in anticipation of our big release. If you require access&commasepar; it must be requested by 5:00PM today (Friday). Note that the building will close at 8:00PM.</p>
+<p>&nbsp;</p>
+<p>***NOTE***</p>
+<p>Please make sure you are answering all the prompts found in the Supplemental Document (See Activities Tab - Netken Corportaion Document 2).</p>|!|f05cb1fade374c5e4ac026c99e3da9c9(*)Davidson & Ritter Interrogations(*)7ab118a6540881945675d33dc9a5d8ab(*)1343422841(*)7ab118a6540881945675d33dc9a5d8ab(*)1343430067(*)<p><a title=\"Davidson Interrogation\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/AndrewDavidsonInterrogation.wma\" target=\"_blank\">Andrew Davidson</a> - Audio File</p>
+<p><a title=\"Ritter Interrogation\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/RobertRitterInterrogation.mp3\" target=\"_blank\">Robert Ritter</a> - Audio File</p>|!|1223374b7f5e48625ff295d83da64d6d(*)Falken&commasepar; Wolfson&commasepar; & Cortez Interrogations(*)7ab118a6540881945675d33dc9a5d8ab(*)1343430045(*)(*)(*)<p><a title=\"Falken Interrogation\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/PeterFalkenInterrogation.wma\" target=\"_blank\">Peter Falken</a> - Audio File</p>
+<p><a title=\"Wolfson Interrogation\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/MoiraWolfsonInterrogation.wma\" target=\"_blank\">Moira Wolfson</a> - Audio File</p>
+<p><a title=\"Cortez Interrogation\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/FelixCortezInterrogation.wma\" target=\"_blank\">Felix Cortez</a> - Audio File</p>|!|993c411240136af409dad0ca38a8d1ff(*)Saturday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1343435616(*)7ab118a6540881945675d33dc9a5d8ab(*)1343435678(*)<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td valign=\"top\" width=\"151\"><address>8:00 &ndash; 9:00</address></td>
+<td valign=\"top\" width=\"270\"><address>Breakfast</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"151\"><address>9:00 &ndash; 10:00</address></td>
+<td valign=\"top\" width=\"270\"><address>Set-up for Briefings</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"151\"><address>9:30 &ndash; 10:00</address></td>
+<td valign=\"top\" width=\"270\"><address>Presentations by DHS team to Audience/Visitors</address><address>(no student teams)</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"151\"><address>10:00 &ndash; 11:30</address></td>
+<td valign=\"top\" width=\"270\"><address>Team Briefings (Full Group)</address><address>University Hall Auditorium</address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"151\"><address>11:30 &ndash; 1:30</address></td>
+<td valign=\"top\" width=\"270\"><address>Lunch and Presentations</address></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|e23ecb8a379192217719615d59a4948f(*)FINAL SURVEY!!!!(*)7ab118a6540881945675d33dc9a5d8ab(*)1343435834(*)(*)(*)<p>Hey everyone!! It\'s time for the <a title=\"Final Survey\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_eP4PKMFWb0Vnmcs\" target=\"_blank\">final survey</a>!! As usual we need both teachers and students to fill out the survey.</p>|!|cb69824aa42697ecd29c277a7bf092fe(*)Supply Return Procedure(*)7ab118a6540881945675d33dc9a5d8ab(*)1343436284(*)(*)(*)<p><span>Following lunch&commasepar; teachers will attend a teacher debriefing session. During the debriefing&commasepar; students can collect all their supplies given to them throughout the week and return the supplies in Tolliver Hall (same as lunch location). Please collect all supplies and return them all together (see green supply sheet).</span></p>
+<p><span>After the teacher debriefing&commasepar; teams can check out of the dorms as a team with their teachers (must check out as a team) in the Women\'s Center (same as check in). P</span><span>rior to checking out&commasepar; p</span><span>lease be sure to return the room to the state at which you arrived.</span></p>|!|9cc4bfd02487b2cdee246939cb85d590(*)Nethken Corporation Investigation Deadline(*)7ab118a6540881945675d33dc9a5d8ab(*)1343440766(*)7ab118a6540881945675d33dc9a5d8ab(*)1343440946(*)<p>***Important Deadline for Nethken Corporation Investigation***</p>
+<p>The CSO of Nethken Corporation wants the investgative teams to be sure to have all<span>&nbsp;evidence/documents submited to nethken.cso@gmail.com&nbsp;by <span style=\"text-decoration: underline;\"><em><strong>6:00AM</strong></em></span> tomorrow (Saturday) Morning.</span></p>|!|a7f93b39ffc8807cc83f576c6ab9a9eb(*)Warrant Request Information Release(*)7ab118a6540881945675d33dc9a5d8ab(*)1343448499(*)7ab118a6540881945675d33dc9a5d8ab(*)1343448514(*)<p>Below are the rankings of the search warrants submitted for the ongoing investigation. Information requested through the search warrants will be released to the investigative team in 15min time intervals tomorrow morning based on the rankings. The investigative team with the highest rank will receive their requested documents at 6:00AM&commasepar; the second rank team at 6:15AM&commasepar; and so on. Teams will receive their documents via the email address provided at the 6:00PM briefing session this evening.&nbsp;</p>
+<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td valign=\"top\" width=\"115\"><address><span style=\"font-size: small;\"><strong>School</strong></span></address></td>
+<td valign=\"top\" width=\"96\"><address><span style=\"font-size: small;\"><strong>Points*</strong></span></address></td>
+<td valign=\"top\" width=\"120\"><address><span style=\"font-size: small;\"><strong>Time Release**</strong></span></address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"115\"><address><span style=\"font-size: small;\">Airline/Ruston</span></address></td>
+<td valign=\"top\" width=\"96\"><address><span style=\"font-size: small;\">90</span></address></td>
+<td valign=\"top\" width=\"120\"><address><span style=\"font-size: small;\">6:00 AM</span></address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"115\"><address><span style=\"font-size: small;\">Benton</span></address></td>
+<td valign=\"top\" width=\"96\"><address><span style=\"font-size: small;\">90</span></address></td>
+<td valign=\"top\" width=\"120\"><address><span style=\"font-size: small;\">6:00 AM</span></address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"115\"><address><span style=\"font-size: small;\">Parkway</span></address></td>
+<td valign=\"top\" width=\"96\"><address><span style=\"font-size: small;\">50</span></address></td>
+<td valign=\"top\" width=\"120\"><address><span style=\"font-size: small;\">6:30 AM</span></address></td>
+</tr>
+<tr>
+<td valign=\"top\" width=\"115\"><address><span style=\"font-size: small;\">El Dorado</span></address></td>
+<td valign=\"top\" width=\"96\"><address><span style=\"font-size: small;\">50</span></address></td>
+<td valign=\"top\" width=\"120\"><address><span style=\"font-size: small;\">6:30 AM</span></address></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Good Luck with the investigation and remember to check the website periodically for more updates.</p>
+<p>*Because there was a tie in the rankings of the release the points were average amongst the teams (i.e. 1<sup>st</sup> place gets 100 pts and 2<sup>nd</sup> place gets 80 pts; therefore&commasepar; the average is 90 pts. Since there was a tie for first those two teams get 90 pts. The same goes for the tie at third&commasepar; but with the average of 60 and 40 points).</p>
+<p>**Since there was a tie for first and a tie for third the release times for both first place teams is 6:00AM (time set for the first ranked warrant) and the release times for both third place teams is 6:30 PM (time set for the third ranked warrant).</p>|!|f44610b759447ed56578681da1e5a851(*)Felix Cortez - Emails & Browsing History(*)7ab118a6540881945675d33dc9a5d8ab(*)1343480388(*)7ab118a6540881945675d33dc9a5d8ab(*)1343480663(*)<p>&nbsp;Felis Cortez - <a title=\"Felix Emails\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/email%20exchanges%20-%20Felix%20Cortez%20(20%20July%20-%2027%20July).docx\" target=\"_blank\">Email Exchanges</a> &amp; <a title=\"Felix Browsing\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/cortez.csv\" target=\"_blank\">Browsing History</a></p>|!|e967cc4de97250cf7ed1c541edb66203(*)Andrew Davidson - Emails & Browsing History(*)7ab118a6540881945675d33dc9a5d8ab(*)1343480455(*)(*)(*)<p>Andrew Davidson -&nbsp;<a title=\"Falken Email\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/email%20exchanges%20-%20Andrew%20Davidson%20(20%20July%20-%2027%20July).odt\" target=\"_blank\">Email Exchanges</a>&nbsp;&amp; <a title=\"Davidson Browsing\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/davidson.csv\" target=\"_blank\">Browsing History</a></p>|!|23b493d7f4f5b9ea4fe21d49a3570baa(*)Peter Falken - Emails & Browsing History(*)7ab118a6540881945675d33dc9a5d8ab(*)1343480555(*)(*)(*)<p>Peter Falken - <a title=\"Falken Emails\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/email%20exchanges%20-%20Peter%20Falken.doc\" target=\"_blank\">Email Exchanges</a> &amp; <a title=\"Falken Browsing\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/falken.csv\" target=\"_blank\">Browsing History</a></p>|!|1f70ef7365acaf9b65436b8509cdfdba(*)Moira Wolfson - Emails & Browsing History(*)7ab118a6540881945675d33dc9a5d8ab(*)1343480648(*)(*)(*)<p>Moira Wolfson - <a title=\"Wolfson Email\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/EmailExchangeMoira.docx\" target=\"_blank\">Email Exchanges</a> &amp; <a title=\"Wolfson Browsing\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/wolfson.csv\" target=\"_blank\">Browsing History</a></p>|!|b744dfcacc963aca0582e8e7a034aecc(*)Phone Logs - Peter Falken(*)7ab118a6540881945675d33dc9a5d8ab(*)1343483993(*)(*)(*)<p>Be advised&commasepar; DHS has obtained another piece of information that may or maty not be useful in the current investigation &ndash; Peter Falken&rsquo;s <a title=\"Falken Phone Logs\" href=\"camps/9e776e1cb7a1a4193518d95d2c4ff510/blog_uploads/PhoneLogPeter.xlsx\" target=\"_blank\">phone log</a>.</p>|!|f772a6519a8b7be63f694b34c5a3dc92(*)Nethken Corporation Investigation - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1343505077(*)7ab118a6540881945675d33dc9a5d8ab(*)1343505114(*)<p>Below are the results from the corporate espionage investigation on the Nethken Corporation.</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><span style=\"font-size: medium;\"><strong>School</strong></span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: medium;\"><strong>Points</strong></span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">El Dorado</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">242</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Benton</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">174</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Parkway</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">94</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Airline/Ruston</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">72</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|2a5f955293a50a8aa01a8f9d96684c84(*)Briefing IV - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1343505216(*)(*)(*)<p>Below are the results from the final breifing this morning.</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong><span style=\"font-size: medium;\">School</span></strong></td>
+<td style=\"text-align: right;\"><strong><span style=\"font-size: medium;\">Points</span></strong></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">El Dorado</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">400</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Parkway</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">320</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Benton</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">240</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Airline/Ruston</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">160</span></td>
+</tr>
+</tbody>
+</table>
+<p style=\"text-align: right;\">&nbsp;</p>|!|3eb0907ae17359d50144489bccc2f181(*)OVERALL Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1343505401(*)7ab118a6540881945675d33dc9a5d8ab(*)1343505417(*)<p>Congratulations to all the teams! You all did an excellent job this week! Below are the overall points distribution for the week. This distribution includes all scored portions of the camp - essays&commasepar; briefings&commasepar; and the corporate espionage investigation.</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong><span style=\"font-size: medium;\">School</span></strong></td>
+<td style=\"text-align: right;\"><strong><span style=\"font-size: medium;\">Points</span></strong></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">El Dorado</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">1382</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Benton</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">984</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Parkway</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">974</span></td>
+</tr>
+<tr>
+<td><span style=\"font-size: small;\">Airline/Ruston</span></td>
+<td style=\"text-align: right;\"><span style=\"font-size: small;\">742</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|fb09feb47c7d525ffacbd1ad1865e711(*)FINAL SURVEY!!!!(*)7ab118a6540881945675d33dc9a5d8ab(*)1343505508(*)(*)(*)<p>There is still time to complete the final survey! All you need to do is click on the survey link in the earlier posting in this newsfeed thread! If you haven\'t completed the survey yet&commasepar; please do so! It will be available for the next few days&commasepar; so please complete the survey by the morning of Monday July 30.</p>|!|

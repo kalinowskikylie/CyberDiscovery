@@ -1,0 +1,842 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|7cb3ec567ee694eaf815bd2746f12736(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405973375(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405989180(*)<p>Internet Login:</p>
+<p>Use the following username and password for access to the LATech OpenAir wireless network.</p>
+<p>&nbsp;</p>
+<p>Username: cdcamp</p>
+<p>Password: tech1894</p>
+<p>&nbsp;</p>
+<p>Hall Director:</p>
+<p>Danielle Jeffries</p>
+<p>281-798-2645</p>
+<p>&nbsp;</p>
+<p>Housing Office:</p>
+<p>318-257-4917</p>
+<p>Open 7:30AM - 5:00PM</p>
+<p>&nbsp;</p>
+<p>Tech Police:</p>
+<p>318-257-4018</p>|!|557cfa9c79e2d807437bbef4ceeec992(*)Survey 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405973403(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405973601(*)<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys).</p>
+<p>Why do we need to do the surveys? Your participation in the surveys are a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.</p>
+<p>Please click the following link for the first survey:</p>
+<p><a href="https://us1.us.qualtrics.com/SE/?SID=SV_cu0fC5DrrSuEFda">Survey 1</a></p>
+<p>All students and teachers should complete the survey by 9:00AM Tuesday morning.</p>|!|f11337fa489437db06b3ef4ca1d7c927(*)T-shirt colors(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405973438(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405978227(*)<p>We would like all teams to wear the RED t-shirts on Saturday; so please reserve the RED t-Shirt to be worn on Saturday.</p>
+<p>&nbsp;</p>
+<p>For the Tuesday-Friday&commasepar; each team should choose a shirt color (Mallord Green&commasepar; Antique Tweed&commasepar; Sand&commasepar; Royal Blue) to wear as a team each day.</p>|!|b6a52816f75d0a0e7824e227b5a2c159(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1405973461(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406051670(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:30 Survey 1 Due&nbsp;</p>
+<p>8:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic:&nbsp;</li>
+</ul>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Theme: Liberal Arts</li>
+</ul>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>*1:20 - Submit Documentation for Briefing - In-person to Bogard Hall 304</p>
+<p>1:30 - 3:00 Briefings - Bogard Hall 304</p>
+<p>3:00 - 4:30 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Computer Science</li>
+</ul>
+<p>4:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison 105 Auditorium</p>
+<p>8:30 - 9:00 Investigative Challenge 1 (Full Group) - George T Madison 105 Auditorium</p>
+<p>9:00 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|87950416e065b71e3d60f6a6052716c5(*)Briefing Rubric(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406043560(*)(*)(*)<p>Here is a <a href="camps/a2e6cd04f768b86806f6f5170a820c9c/blog_uploads/Cyber%20Briefing%20Rubric.docx">link</a> to the briefing rubric.</p>|!|79764113645e464a09cf888897749b1c(*)Briefing 1 Ranking(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406065065(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406065261(*)<p>Here are the results from the first briefing.</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Benton</td>
+<td>100</td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>&nbsp;90</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA</td>
+<td>&nbsp;80</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado</td>
+<td>&nbsp;70</td>
+</tr>
+<tr>
+<td>&nbsp;Ascension &nbsp; &nbsp;&nbsp;</td>
+<td>&nbsp;60</td>
+</tr>
+<tr>
+<td>&nbsp;Ruston</td>
+<td>&nbsp;50</td>
+</tr>
+</tbody>
+</table>|!|b550cbe3825bb76bc60abf166e6f79a1(*)Wednesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406080096(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406160798(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:15 Essay 1 Due&nbsp;</p>
+<p>8:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic:&nbsp;</li>
+</ul>
+<p>11:00 - 11:10 Break</p>
+<p>(12:45-1:30) 11:10 - 12:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Theme: Liberal Arts</li>
+</ul>
+<p>(11:10-12:45) 12:00 - 1:00 Lunch</p>
+<p>(absorbed into lunch) 1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Computer Science</li>
+</ul>
+<p>3:00 - 4:00 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>*3:50 - Submit Documentation for Briefing - In-person to Bogard Hall 304</p>
+<p>4:00 - 5:30 Briefings - Bogard Hall 304</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Movie Time (Full Group) - George T Madison 105 Auditorium</p>
+<p>8:30 - 9:15 Investigative Challenge (Full Group) - George T Madison 105 Auditorium</p>
+<p>9:15 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|8ff654b91d4ee95a11efcaa4d9e0d19e(*)Briefing Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406127554(*)(*)(*)<p>Here is the queue for the Wednesday briefing. The briefing will begin at 4:00pm. All teams must submit all their documentation by 3:50pm in BH 304.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>&nbsp;Order</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Benton</td>
+<td>&nbsp;1</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado</td>
+<td>&nbsp;2</td>
+</tr>
+<tr>
+<td>&nbsp;Ascension Christian&nbsp;</td>
+<td>&nbsp;3</td>
+</tr>
+<tr>
+<td>&nbsp;Catholic&nbsp;</td>
+<td>&nbsp;4</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA &nbsp;</td>
+<td>&nbsp;5</td>
+</tr>
+<tr>
+<td>&nbsp;Ruston</td>
+<td>&nbsp;6</td>
+</tr>
+</tbody>
+</table>|!|cc16a5c50134891341c3db5ab29b15fe(*)Essay 1 - Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406145698(*)(*)(*)<p>Here are the results from Essay 1.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>&nbsp;Order</strong></td>
+<td><strong>&nbsp;Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Benton</td>
+<td>&nbsp;1</td>
+<td>&nbsp;100</td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>&nbsp;2</td>
+<td>&nbsp;85</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA&nbsp;</td>
+<td>&nbsp;2</td>
+<td>&nbsp;85</td>
+</tr>
+<tr>
+<td>&nbsp;Ruston&nbsp;</td>
+<td>&nbsp;4</td>
+<td>&nbsp;70</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado &nbsp;</td>
+<td>&nbsp;5</td>
+<td>&nbsp;55</td>
+</tr>
+<tr>
+<td>&nbsp;Ascension&nbsp;</td>
+<td>&nbsp;5</td>
+<td>&nbsp;55</td>
+</tr>
+</tbody>
+</table>|!|97fd6f66d457fab076275e1bd3822a2a(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406145879(*)(*)(*)<p>Current points distrubutions as of 3:00pm on Wednesday.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>&nbsp;Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Benton</td>
+<td>&nbsp;200</td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>&nbsp;175</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA&nbsp;</td>
+<td>&nbsp;165</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado</td>
+<td>&nbsp;125</td>
+</tr>
+<tr>
+<td>&nbsp;Ruston &nbsp;</td>
+<td>&nbsp;120</td>
+</tr>
+<tr>
+<td>&nbsp;Ascension&nbsp;</td>
+<td>&nbsp;115</td>
+</tr>
+</tbody>
+</table>|!|db50f565050428d3b203901080458a3c(*)Briefing 2 Ranking(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406159759(*)(*)(*)<p>Here are the results from Essay 1.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>&nbsp;Order</strong></td>
+<td><strong>&nbsp;Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Ascension</td>
+<td>&nbsp;1</td>
+<td>&nbsp;90</td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>&nbsp;1</td>
+<td>&nbsp;90</td>
+</tr>
+<tr>
+<td>&nbsp;Benton</td>
+<td>&nbsp;1</td>
+<td>&nbsp;90</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado&nbsp;</td>
+<td>&nbsp;4</td>
+<td>&nbsp;70</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA &nbsp;</td>
+<td>&nbsp;5</td>
+<td>&nbsp;60</td>
+</tr>
+<tr>
+<td>&nbsp;Ruston</td>
+<td>&nbsp;6</td>
+<td>&nbsp;50</td>
+</tr>
+</tbody>
+</table>|!|750ad2e7cdafe18293319e942ddcbff9(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406160007(*)(*)(*)<p>Current points distrubutions as of 7:00pm on Wednesday.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>&nbsp;Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Benton</td>
+<td>&nbsp;290</td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>&nbsp;265</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA&nbsp;</td>
+<td>&nbsp;225</td>
+</tr>
+<tr>
+<td>&nbsp;Ascension &nbsp;</td>
+<td>&nbsp;205</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado&nbsp;</td>
+<td>&nbsp;195</td>
+</tr>
+<tr>
+<td>&nbsp;Ruston&nbsp;</td>
+<td>&nbsp;170</td>
+</tr>
+</tbody>
+</table>|!|415d65bd429c8db5549910b779d14b92(*)Investigative Challenge 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406160134(*)(*)(*)<p>Challenge Results from Tuesday night.</p>
+<p style="text-align: center;"><strong><br /></strong></p>
+<table style="margin-left: auto; margin-right: auto;" border="1" cellspacing="3" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p style="text-align: center;" align="center"><strong>Team</strong></p>
+</td>
+<td style="text-align: center;">
+<p align="center"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Benton</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catholic</p>
+</td>
+<td>
+<p>&nbsp;90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>NOMMA</p>
+</td>
+<td>
+<p>&nbsp;80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El Dorado</p>
+</td>
+<td>
+<p>&nbsp;70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ruston</p>
+</td>
+<td>
+<p>&nbsp;60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ascension Christian</p>
+</td>
+<td>
+<p>&nbsp;50</p>
+</td>
+</tr>
+</tbody>
+</table>|!|6367deae878b4a80f31b1ec9bda43f9e(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406160260(*)(*)(*)<p>Current points distrubutions as of 8:00pm on Wednesday.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>&nbsp;Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Benton</td>
+<td>&nbsp;390</td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>&nbsp;355</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA&nbsp;</td>
+<td>&nbsp;305</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado &nbsp;</td>
+<td>&nbsp;265</td>
+</tr>
+<tr>
+<td>&nbsp;Ascension</td>
+<td>&nbsp;255</td>
+</tr>
+<tr>
+<td>&nbsp;Ruston&nbsp;</td>
+<td>&nbsp;230</td>
+</tr>
+</tbody>
+</table>|!|40df4be304a991c90b10aa192506cf56(*)Thursday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406160552(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406161407(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:15 Essay 2 Due&nbsp;</p>
+<p>8:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic:&nbsp;</li>
+</ul>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Theme: Liberal Arts</li>
+</ul>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 3:30 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Computer Science</li>
+</ul>
+<p>3:30 - 5:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>*5:30 - 6:00 - Submit Documentation for Briefing - In-person to Bogard Hall 304</p>
+<p>5:30 - 6:30 Dinner</p>
+<p>6:30 - 8:30 Briefings (Full Group) - University Hall Auditorium</p>
+<p>9:15 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|7b4d29687b29660b0f706918fe414d33(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406179744(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406179826(*)<p><span>Current points distrubutions as of 12:30am on Thursday.&nbsp;</span></p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>&nbsp;Points</strong></td>
+</tr>
+<tr>
+<td><span>&nbsp;Benton</span></td>
+<td><span>&nbsp;781</span></td>
+</tr>
+<tr>
+<td><span>&nbsp;Catholic</span></td>
+<td><span>&nbsp;517</span></td>
+</tr>
+<tr>
+<td><span>&nbsp;Ascension</span></td>
+<td><span>&nbsp;450</span></td>
+</tr>
+<tr>
+<td><span>&nbsp;NOMMA&nbsp;</span></td>
+<td><span>&nbsp;397</span></td>
+</tr>
+<tr>
+<td>
+<p><span>&nbsp;El Dorado</span></p>
+</td>
+<td><span>&nbsp;374</span></td>
+</tr>
+<tr>
+<td><span>&nbsp;Ruston</span></td>
+<td>
+<p><span>&nbsp;366</span></p>
+</td>
+</tr>
+</tbody>
+</table>|!|17dc925ae87c294edd25b980245e7443(*)Briefing 4 Data(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406214513(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406215462(*)<p>Here is a link to the <a href="https://www.dropbox.com/s/ngsydp155zxhdj4/Calypso.cap">Calypso Cap File</a> and the <a href="https://www.dropbox.com/s/8gahqgrcuo930cv/Calypso.log?n=88428650">Calypso Log File</a></p>|!|b5eebb94987802df89bc04af4ca83d71(*)Vault Corporate Espionage Case(*)97da353824d211142a3dcfe98de47291(*)1406224907(*)97da353824d211142a3dcfe98de47291(*)1406224924(*)<p>Teams&commasepar;</p>
+<p>The Vault Incorporated corporate espionage case is moving along&commasepar; though this is not the time to let up on your investigations.&nbsp; All teams have been doing a great job in producing valuable and actionable intelligence.</p>
+<p>I want to remind you that your teams are being rated based on both the speed and accuracy of your investigations.&nbsp; Do not hesitate in uploading valid evidence upon discovery to the scoring server at the address provided on the first day. You will not be penalized for incorrect submissions.</p>
+<p>For access to Vault facilities&commasepar; requests must be made in writing and sent to the DHS through case specific email (<span style="text-decoration: underline;">vault.cso@gmail.com</span>) channels for approval.&nbsp; Also use this email for any questions pertaining to the investigation.</p>
+<p>As a look-ahead reminder&commasepar; your report detailing how DHS in concert with Vault should respond is due Friday. Be sure that you response includes a discussion on means and methods of how the information was exfiltrated.</p>
+<p>DHS Security Team</p>
+<p>Vault Security Team</p>|!|ad278409b0e5ca70f73fadd458b56f0d(*)Survey 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406230648(*)(*)(*)<p>It's that time again...surveys!! Teachers and students&commasepar; both&commasepar; please fill out&nbsp;<a href="https://survey.co1.qualtrics.com/SE/?SID=SV_cBEYqZ2FhI6FOAs">survey 2</a>&nbsp;by 11:00 PM tonight (Thursday) morning!</p>|!|bbc14acc222de6dba70bb6e512c4d1e5(*)DHS Software Update(*)d259eb37bc4b04d541b63122d52e40e9(*)1406237158(*)d259eb37bc4b04d541b63122d52e40e9(*)1406237726(*)<p>Teams&commasepar;</p>
+<p>Please update your Cyber Discovery Toolkit on <strong>all of your DHS issued laptops</strong> as soon as you can. &nbsp;This will enable you to poison nodes and sniff remote network traffic using ettercap. &nbsp;It also includes a WPA crack update and some buffer fixes. &nbsp;Copy <a href="camps/a2e6cd04f768b86806f6f5170a820c9c/blog_uploads/CDGUI.jar">this file</a> to your Desktop and open a terminal. &nbsp;In the terminal&commasepar; type the following lines separately:</p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">cd ~/Desktop</span></p>
+<p><span style="font-family: 'courier new'&commasepar; courier;">sudo cp CDGUI.jar /opt/CDGUI</span></p>
+<p>--DHS</p>|!|3066ab59484afc87cd6aab5e385f9dc2(*)Thursday Briefing Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406238592(*)(*)(*)<p>Here is the queue for the Thursday briefing. The briefing will begin at 4:00pm. All teams must submit all their documentation by 3:50pm in BH 304.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>&nbsp;Order</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>&nbsp;1</td>
+</tr>
+<tr>
+<td>&nbsp;Ruston</td>
+<td>&nbsp;2</td>
+</tr>
+<tr>
+<td>&nbsp;NOMMA&nbsp;</td>
+<td>&nbsp;3</td>
+</tr>
+<tr>
+<td>&nbsp;Ascension&nbsp;</td>
+<td>&nbsp;4</td>
+</tr>
+<tr>
+<td>&nbsp;Benton&nbsp;</td>
+<td>&nbsp;5</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado</td>
+<td>&nbsp;6</td>
+</tr>
+</tbody>
+</table>|!|cb0d90a87a85f5b4351d812a4d3a5863(*)Essay 2 - Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406238761(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406238874(*)<p style="text-align: left;">Below are the results of essay 2</p>
+<p style="text-align: center;">&nbsp;</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th style="text-align: center;">Team</th><th style="text-align: center;">Points</th></tr>
+<tr>
+<td>Benton</td>
+<td>100</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Ascension Christian</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>70</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>50</td>
+</tr>
+</tbody>
+</table>|!|cea7a56c5d31b14e5a2c23cd9043dd5d(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406238845(*)(*)(*)<p>Current points distrubutions as of 5:00pm on Thursday.&nbsp;</p>
+<table border="2" align="center">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>&nbsp;Points</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Benton</td>
+<td>&nbsp;881</td>
+</tr>
+<tr>
+<td>&nbsp;Catholic</td>
+<td>&nbsp;693</td>
+</tr>
+<tr>
+<td>&nbsp;Ascension</td>
+<td>&nbsp;668</td>
+</tr>
+<tr>
+<td>&nbsp;El Dorado&nbsp;</td>
+<td>&nbsp;610</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;NOMMA</p>
+</td>
+<td>&nbsp;503</td>
+</tr>
+<tr>
+<td>&nbsp;Ruston</td>
+<td>
+<p>&nbsp;416</p>
+</td>
+</tr>
+</tbody>
+</table>|!|ae3015ccd205c9a419c83de4d721ad95(*)Friday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406253312(*)(*)(*)<p>7:00 - 8:30 Breakfast</p>
+<p>*8:15 Essay 3 Due&nbsp;</p>
+<p>8:30 - 11:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Scenario</li>
+</ul>
+<p>11:00 - 11:10 Break</p>
+<p>11:10 - 12:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Theme: Liberal Arts</li>
+</ul>
+<p>12:00 - 1:00 Lunch</p>
+<p>1:00 - 1:30 Team Time (School Groups) - A Place of Your Choosing</p>
+<p>1:30 - 2:30 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Computer Science</li>
+</ul>
+<p>2:30 - 5:30 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Scenario</li>
+</ul>
+<p>5:30 - 6:30 Dinner</p>
+<p>*8:00 Essay 4 Due</p>
+<p>6:30 - 11:00 Team Time (School Groups) - University Apartments</p>
+<p>11:00 Lights out</p>|!|f36528317628e5a881e852fe7b7d60d4(*)Briefing 3 Ranking(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406253594(*)(*)(*)<p>Below are the results of briefing 3:</p>
+<p style="text-align: center;">&nbsp;</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th>Team</th><th>Rank</th><th>Points</th></tr>
+<tr>
+<td>Ascension Christian</td>
+<td>1</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Benton</td>
+<td>2</td>
+<td>270</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>3</td>
+<td>225</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>3</td>
+<td>225</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>5</td>
+<td>180</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>6</td>
+<td>150</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|c59394d50fb7ad08529fb11923006b89(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406253734(*)(*)(*)<p>Current points distribution as of 9:00pm Thursday:</p>
+<p style="text-align: center;">&nbsp;</p>
+<table style="margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr><th>Team</th><th>Points</th></tr>
+<tr>
+<td>Benton</td>
+<td>1351</td>
+</tr>
+<tr>
+<td>Ascension Christian</td>
+<td>&nbsp; 968</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>&nbsp; 953</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>&nbsp; 760</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>&nbsp; 746</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>&nbsp; 642</td>
+</tr>
+</tbody>
+</table>|!|8028a2facc5f73be2f2c8f93d2eea83e(*)Investigative Session Presentations(*)97da353824d211142a3dcfe98de47291(*)1406263018(*)97da353824d211142a3dcfe98de47291(*)1406263088(*)<p>Below are links to all of the Investigative Session Presentations</p>
+<p><a title="Network Security" href="http://dcsl.latech.edu/owncloud/public.php?service=files&amp;t=43e0074e28c870c22ba44a34b18438e4">Network Security</a></p>
+<p><a title="Hard Drive Analysis" href="http://dcsl.latech.edu/owncloud/public.php?service=files&amp;t=473c7d72e437f192bd0750b0fa8a10a4">Hard Drive Analysis</a></p>
+<p><a title="Steganography" href="http://dcsl.latech.edu/owncloud/public.php?service=files&amp;t=9f21d5dd5eee81c927228307cff53659">Steganography</a></p>
+<p><a title="Wireless Networks" href="http://dcsl.latech.edu/owncloud/public.php?service=files&amp;t=987cabfa064efbd31140e54b51e429f8">Wireless Networks</a></p>|!|bc87789de741b1b2873a149b33c68a0f(*)Essay 3 - Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406318346(*)(*)(*)<p>Below are the results of Essay 3:</p>
+<p>&nbsp;</p>
+<table border="1">
+<tbody>
+<tr><th>Team</th><th>Rank</th><th>Points</th></tr>
+<tr>
+<td>Ascension Christian</td>
+<td>1</td>
+<td>95</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>1</td>
+<td>95</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>3</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>4</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>5</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Benton</td>
+<td>6</td>
+<td>50<br /><br /></td>
+</tr>
+</tbody>
+</table>|!|bbb8584f10748d0609cbb25b651a1325(*)(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406318463(*)(*)(*)<p>Current points distribution as of 3:00pm Friday:</p>
+<p>&nbsp;</p>
+<table border="1">
+<tbody>
+<tr><th>Team</th><th>Points</th></tr>
+<tr>
+<td>Benton</td>
+<td>&nbsp; 1401</td>
+</tr>
+<tr>
+<td>Ascension Christian</td>
+<td>&nbsp; 1225</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>&nbsp; 1163</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>&nbsp; 1002</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>&nbsp; 1085</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>&nbsp; &nbsp; 867</td>
+</tr>
+</tbody>
+</table>|!|2da373644b15ddeb7845fff498f475d4(*)Drone Communication File(*)382eef607eea8a381515a8383cdac778(*)1406334386(*)(*)(*)<p>Attention Investigative Teams:</p>
+<p>We have received the communication downloaded from the downed drone from the Turkish intelligence.&nbsp; They have kindly shared that data with us.&nbsp; Please access the CAP file <a href="https://www.dropbox.com/s/7vjrn5i9i5v8ucf/droneCommunication.cap">here</a>.</p>|!|93e5b014d48233b28250d364a889ffb1(*)Briefing 10(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406336534(*)(*)(*)<p><span>Here is a&nbsp;</span><a href="camps/9b34395b400d1ad307c851e1bdef8baa/blog_uploads/Briefing10.pdf">pdf of briefing 10</a><span>.&nbsp;</span></p>|!|2bb24b486fee44f56e935ce16dac0b0f(*)Warrant Ranking and Reveal(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406345179(*)(*)(*)<p>Below are the rankings of the warrant request. Based upon the ranking&commasepar; your team will have information emailed to you at the time shown:&nbsp;</p>
+<p>&nbsp;</p>
+<table border="1">
+<tbody>
+<tr><th>Team</th><th>Rank</th><th>&nbsp;Points&nbsp;</th><th>Warrant Reveal Time</th></tr>
+<tr>
+<td>Catholic</td>
+<td>1</td>
+<td>200</td>
+<td>&nbsp; 6:00am</td>
+</tr>
+<tr>
+<td>Benton</td>
+<td>2</td>
+<td>180</td>
+<td>&nbsp; 6:15am</td>
+</tr>
+<tr>
+<td>Ascension</td>
+<td>3</td>
+<td>160</td>
+<td>&nbsp; 6:30am</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>4</td>
+<td>140</td>
+<td>&nbsp; 6:45am</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>5</td>
+<td>120</td>
+<td>&nbsp; 7:00am</td>
+</tr>
+<tr>
+<td>El Dorado &nbsp;&nbsp;</td>
+<td>6</td>
+<td>100</td>
+<td>&nbsp; 7:15am</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Questions after the reveal time concerning the emails can be sent to htims@LaTech.edu</p>|!|a9e614c3013fd00e605e580aeb298dd5(*)Final Briefing Order(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406345316(*)(*)(*)<p>Final briefing order will be based on the current points distribution. The first place team will have first choice for their briefing time. Reminder your team will have 6-7min for your briefing presentation&commasepar; followed by 7-8min of questions.</p>
+<p>&nbsp;</p>
+<table border="1">
+<tbody>
+<tr><th>Team</th><th>&nbsp;Pick Order&nbsp;</th><th>Points</th></tr>
+<tr>
+<td>Benton</td>
+<td>1</td>
+<td>&nbsp; 1676</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td>2</td>
+<td>&nbsp; 1468</td>
+</tr>
+<tr>
+<td>Ascension Christian &nbsp;</td>
+<td>3</td>
+<td>&nbsp; 1460</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td>4</td>
+<td>&nbsp; 1300</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td>5</td>
+<td>&nbsp; 1177</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td>6</td>
+<td>&nbsp; 1082</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1">
+<tbody>
+<tr><th>Team</th><th>&nbsp;Briefing Times&nbsp;</th></tr>
+<tr>
+<td>Team A</td>
+<td>&nbsp; 9:30 - 9:45</td>
+</tr>
+<tr>
+<td>Team B</td>
+<td>&nbsp; 9:50 - 10:05</td>
+</tr>
+<tr>
+<td>Team C</td>
+<td>10:10 - 10:25</td>
+</tr>
+<tr>
+<td>Team D</td>
+<td>10:30 - 10:45</td>
+</tr>
+<tr>
+<td>Team E</td>
+<td>10:50 - 11:05</td>
+</tr>
+<tr>
+<td>Team F</td>
+<td>11:10 - 11:25</td>
+</tr>
+</tbody>
+</table>|!|a39d179ccfcf230b13f79d8e4006b9a2(*)Warrant Reveal for Companies(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406379595(*)(*)(*)<p><span>Here are the&nbsp;</span><a href="camps/9b34395b400d1ad307c851e1bdef8baa/blog_uploads/FinalBatch.pdf">warrant findings</a><span>&nbsp;for Drone&commasepar; KIT&commasepar; OCSIC&commasepar; and SOLEUS</span></p>|!|8d3df9326d5dbe0a757f0cf99e526574(*)Final Briefing(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1406393299(*)(*)(*)<p>&nbsp;Here are the final rankings and points for briefing 4:</p>
+<table border="1">
+<tbody>
+<tr><th>Team</th><th>Rank</th><th>Points</th></tr>
+<tr>
+<td>Benton</td>
+<td style="text-align: center;">1</td>
+<td>&nbsp; 600</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td style="text-align: center;">2</td>
+<td>&nbsp; 540</td>
+</tr>
+<tr>
+<td>Catholic &nbsp;</td>
+<td style="text-align: center;">3</td>
+<td>&nbsp; 480</td>
+</tr>
+<tr>
+<td>Ascension&nbsp;</td>
+<td style="text-align: center;">4</td>
+<td>&nbsp; 420</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style="text-align: center;">5</td>
+<td>&nbsp; 360</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style="text-align: center;">6</td>
+<td>&nbsp; 300</td>
+</tr>
+</tbody>
+</table>|!|

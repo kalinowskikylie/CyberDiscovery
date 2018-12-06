@@ -1,0 +1,1401 @@
+UNID(*)title(*)op(*)op_date(*)edit_author(*)edit_date(*)content|!|4663473320c76b8609f549f288d84ed3(*)General Camp Information(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370350956(*)(*)(*)<p><strong>Internet Login</strong></p>
+<p>Unsername: cdcamp</p>
+<p>Password: tech1894</p>
+<p><span><strong>Building Manager</strong></span></p>
+<p>Tarek</p>
+<p>318-257-2688 or 832-401-6980</p>
+<p>Jenkins B 202</p>
+<p><span><strong>Housing Office</strong></span></p>
+<p>318-257-4917</p>
+<p>Open 7:30AM - 5:00PM</p>
+<p><span><strong>Tech Police</strong></span></p>
+<p>318-257-4018</p>|!|a73fd94997603aeb799d4a46aaac6a8d(*)Tuesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370351050(*)(*)(*)<p>8:00-9:00 Breakfast&nbsp;</p>
+<p><br />*9:00 Survey 1 is Due&nbsp;<br /><br />9:00-9:30 Movie Discussion (Mixed Small Groups)<br />Group 1: Bogard Hall 303<br />Group 2: Bogard Hall 314<br />Group 3: Bogard Hall 328<br />Group 4: GTM 307<br />Group 5: GTM 313&nbsp;<br />Group 6: GTM 323&nbsp;<br /><br />9:30-11:00 Hands-On-Lab (Full Group) - Bogard Hall 304&nbsp;<br /><br />Topic: BOE-Bot Activity (Basics)&nbsp;<br /><br />11:00-11:15 Break&nbsp;<br /><br />11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 304<br />Theme: Cyber Knowledge<br />* Read Berry piece prior to session</p>
+<p><br />12:00-1:00 Lunch<br /><br />1:00-1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing<br /><br />1:30-1:40 Break<br /><br />1:45-3:30 Hands-On-Lab (Full Group) - Bogard Hall 304<br />Topic: Cryptography I<br /><br />3:30-5:30 Team Time (School Groups) - A Place of Your Choosing<br /><br />5:30-6:30 Dinner<br /><br />6:30-8:30 Movie Time (Full Group) - George T Madison Auditorium<br /><br />9:00-11:00 Team Time (School Groups) - University Apartments<br /><br />11:00 Lights out</p>|!|412b9a2ed99c3737e5101578ae4f6eab(*)Survey 1(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370351083(*)(*)(*)<p>Throughout the week we will be providing you with a few short surveys. Each student and each teacher should fill out a survey whenever they are posted. The links to the surveys will be posted on the blog when they become available (So check the blog periodically for new surveys).&nbsp;<br /><br />Why do we need to do the surveys? Your participation in the surveys are a great help in continuing the success of this camp. Data from the surveys help us showcase your overall abilities as schools as well as generate funding for future camps. The surveys also let us know what you think about the camp and how we can make it even better for future years.<br /><br />Please click the following link for the first survey:</p>
+<div><a title=\"Survey 1\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_cu0fC5DrrSuEFda\" target=\"_blank\">Survey 1</a></div>
+<p><br />All students and teachers should complete the survey by 9:00AM Tuesday morning.</p>|!|2e1c053b4252103655bd5404e60966af(*)Shirt Colors(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370351109(*)(*)(*)<p><span>Reminder - your team should pick one color to wear as a team each day. All teams will wear the blue shirt on Saturday.&nbsp;</span></p>|!|675c86dccca4735aa0f5266da7ebf06c(*)Getting Started with the Boe-Bot(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370354534(*)(*)(*)<p>Here are a few resources to get you started with the first BOE-Bot activity.</p>
+<p>&nbsp;</p>
+<p>If you want to install the PBasic editor used with the BOE-Bot&commasepar; you can get the latest version&nbsp;<a href=\"http://www.parallax.com/tabid/441/Default.aspx\" target=\"_blank\">here.</a></p>
+<p>This first activity focuses on learning how to get the BOE-Bot moving. The following links are to parts of the previous version of our Living With the Lab curriculum (which is taken by all freshman engineering students at Louisiana Tech). These links will give you some pointers on programming the BOE-Bot to move. While you are looking around&commasepar; you might want to look at our current curriculum at&nbsp;<a href=\"http://www.livingwiththelab.com./\" target=\"_blank\">www.LivingWithTheLab.com.</a>&nbsp;Here are the links:&nbsp;<a href=\"http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/6_student_programming.pdf\" target=\"_blank\">subroutines</a>&commasepar;&nbsp;<a href=\"http://www2.latech.edu/~dehall/LWTL/ENGR120old/notes/7_navigation_program.bs2\" target=\"_blank\">using EEPROM to store your program</a>&nbsp;(advanced topic).</p>
+<p>&nbsp;</p>
+<p>Here are a few files from this activity that you can reference in case you missed anything from today:&nbsp;<a href=\"https://www.dropbox.com/s/p10e89n3e40kdnn/debug%20variable%20size.bs2\" target=\"_blank\">DEBUG Variable Sizes</a>&commasepar;&nbsp;<a href=\"https://www.dropbox.com/s/xr5ynztk59luz8e/Turn%20Servos.bs2\" target=\"_blank\">Turning and Centering Servos</a>&commasepar; and&nbsp;<a href=\"https://www.dropbox.com/s/kigzx2yjo5in6dk/subroutines%20for%20servos.bs2\" target=\"_blank\">Subroutines</a>.&nbsp;<a href=\"https://www.dropbox.com/s/83oubv5r0gik3ev/Cyber%20Discovery%201.0%20BOE-Bot%201.pdf\" target=\"_blank\">Here is a PDF</a>&nbsp;of examples of the various encoding schemes shown in the talk.&nbsp;<a href=\"https://www.dropbox.com/s/grq9drhrtb7pbdn/BOE-Bot%20with%20Servos.pptx\" target=\"_blank\">Here is the PowerPoint</a>&nbsp;that we went over during the first activity.</p>|!|53b465039c03310053e3c70cbd65ddda(*)Boe-Bot Challenge 1 – Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370360967(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370362764(*)<p>The following table shows the order the teams will compete in the first BOE-Bot Challenge (<a title=\"Maze\" href=\"camps/9d4e7c6130f097651b872c4d0df2fade/blog_uploads/BoeBotMaze_5_28_2013.JPG\" target=\"_blank\">The Maze</a>) on Wednesday morning. All eight teams completed the \"around the object\" task which allowed them to choose their position in the queue.&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p align=\"center\"><strong>Queue Position</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>School</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">1</p>
+</td>
+<td>&nbsp;El Dorado</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">2</p>
+</td>
+<td>&nbsp;NOMMA</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">3</p>
+</td>
+<td>&nbsp;Ruston</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">4</p>
+</td>
+<td>&nbsp;West Monroe</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">5</p>
+</td>
+<td>&nbsp;Benton</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">6</p>
+</td>
+<td>&nbsp;Catholic</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">7</p>
+</td>
+<td>&nbsp;North Caddo</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">8</p>
+</td>
+<td>&nbsp;St. Joseph\'s</td>
+</tr>
+</tbody>
+</table>
+</div>|!|a8f56a92bfcad16374e2f63134c72595(*)Day 1 Video(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370389320(*)(*)(*)<p><span>Click this link to see the&nbsp;<a title=\"Day 1 Video\" href=\"http://www.youtube.com/watch?v=AqBn1RVVnDg&amp;feature=youtu.be\" target=\"_blank\">video</a>&nbsp;for Day 1 of Cyber Discovery Camp.</span></p>
+<p><span>Also&commasepar; check out the National Integrated Cyber Education Research Center\'s (NICERC) website (<a href=\"http://www.nicerc.org/\" target=\"_blank\">www.nicerc.org</a>)&nbsp;to see photos of Cyber Discovery Camp as well as other NICERC programs.</span></p>
+<p><span>Stay connected with&nbsp;Cyber Discovery Camp and&nbsp;NICERC activities with our social media sites. Like us on&nbsp;<a title=\"Facebook NICERC\" href=\"http://www.facebook.com/CIC.NICERC\" target=\"_blank\">facebook</a>&nbsp;and follow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://www.twitter.com/CIC_NICERC\" target=\"_blank\">twitter</a>!</span></p>|!|0bec7b6a9c109abd5c5227cbc81bdae3(*)Wednesday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370396610(*)(*)(*)<p>8:00-9:00 Breakfast</p>
+<p><br /> 9:00-9:30 Movie Discussion (Mixed Small Groups)&nbsp;</p>
+<ul>
+<li>Group 1: Bogard Hall 303</li>
+<li>Group 2: Bogard Hall 314</li>
+<li>Group 3: Bogard Hall 328</li>
+<li>Group 4: GTM 307</li>
+<li>Group 5: GTM 313&nbsp;</li>
+<li>Group 6: GTM 323&nbsp;</li>
+</ul>
+<p>9:30-11:00 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: BOE-Bot Activity (maze)&nbsp;</li>
+</ul>
+<p><br /> 11:00-11:15 Break<br /> <br /> 11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Theme: Cyber Liberties</li>
+</ul>
+<p><br /> 12:00-1:00 Lunch<br /> <br /> 1:00-1:30 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing<br /> <br /> 1:30-1:40 Break<br /> <br /> 1:45-3:30 Hands-On-Lab (Full Group) - Bogard Hall 304</p>
+<ul>
+<li>Topic: Performing Arts</li>
+<li>Topic: Cryptography II</li>
+<li>Topic: Sketch Up Introduction</li>
+</ul>
+<p><br /> 3:30-5:30 Team Time (School Groups) - A Place of Your Choosing<br /> <br /> 5:30-6:30 Dinner<br /> <br /> 6:30-8:30 Movie Time (Full Group) - George T Madison Auditorium<br /> <br /> 9:00-11:00 Team Time (School Groups) - University Apartments<br /> <br /> 11:00 Lights out</p>|!|c7f27807274c2bb00673a925841a22f5(*)Cryptography II Lecture(*)d259eb37bc4b04d541b63122d52e40e9(*)1370443044(*)(*)(*)<p>Please bring your ice cream trucks to the Cryptography II lecture this afternoon (Wed) at 1:45. &nbsp;We will use them to do an exercise.</p>|!|89bc74670742a5e22604d53fe38b39df(*)Ice Cream Truck Challenge(*)d259eb37bc4b04d541b63122d52e40e9(*)1370443118(*)(*)(*)<p>Remember to bring your ice cream truck challenge to the Cryptography II lecture this afternoon at 1:45pm. &nbsp;It will be due at the beginning of the lecture.</p>|!|c70114f080638b1d3b2973e4f5d13a8a(*)Ferris Wheeler and his blog(*)d259eb37bc4b04d541b63122d52e40e9(*)1370443180(*)d259eb37bc4b04d541b63122d52e40e9(*)1370443247(*)<p>Teams&commasepar;</p>
+<p>Please remember to check Agent Ferris Wheeler\'s <a href=\"http://ferriswheelerabc.blogspot.com/\" target=\"_blank\">blog</a> often. &nbsp;He has been posting (and will continue to post) useful information. &nbsp;By the way&commasepar; great job so far. &nbsp;Keep up the good work!</p>|!|900b5525b29319e2d887137c0ee3a55d(*)Boe-Bot Challenge 1 - Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370445558(*)(*)(*)<p>Below are the results of the Boe-Bot Challenge 1:</p>
+<div align=\"center\">
+<table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p>School</p>
+</td>
+<td>
+<p align=\"right\">Points</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;St. Joseph\'s Academy</p>
+</td>
+<td>
+<p align=\"right\">100&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;Catholic</p>
+</td>
+<td>
+<p align=\"right\">90&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;Benton</p>
+</td>
+<td>
+<p align=\"right\">80&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;North Caddo</p>
+</td>
+<td>
+<p align=\"right\">70&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;El Dorado</p>
+</td>
+<td>
+<p align=\"right\">60&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;West Monroe</p>
+</td>
+<td>
+<p align=\"right\">50&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;NOMMA</p>
+</td>
+<td>
+<p align=\"right\">40&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;Ruston</p>
+</td>
+<td>
+<p align=\"right\">30&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>|!|8368d25c81b5032776044b0466df5db3(*)Boe-Bot Challenge 2 - Queue(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370445729(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370446913(*)<p>The following table shows the order the teams will compete in the second BOE-Bot Challenge&nbsp;on Thursday morning. Both courses will be running simultaneously; therefore&commasepar; we have two queues set (12-Marble Course &amp; 5-Marble Course). Notice the 12-Marble queue becomes the second half of the 5-Marble queue and vice versa.</p>
+<div align=\"center\">
+<table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td colspan=\"2\">
+<p align=\"center\"><strong>Course A (12 Marbles)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\"><strong>Queue Position</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>School</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">1</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;El Dorado</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">2</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;Benton</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">3</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;St. Joseph\'s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">4</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;Catholic</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">5</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;Ruston</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">6</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;North Caddo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">7</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;NOMMA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">8</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;West Monroe</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td colspan=\"2\">
+<p align=\"center\"><strong>Course B (5 Marbles)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\"><strong>Queue Position</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>School</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">1</p>
+</td>
+<td>
+<p align=\"center\">Ruston&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">2</p>
+</td>
+<td>
+<p align=\"center\">North Caddo&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">3</p>
+</td>
+<td>
+<p align=\"center\">NOMMA&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">4</p>
+</td>
+<td>
+<p align=\"center\">West Monroe&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">5</p>
+</td>
+<td>
+<p align=\"center\">El Dorado&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">6</p>
+</td>
+<td>
+<p align=\"center\">Benton&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">7</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;St. Joseph\'s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">8</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;Catholic</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>|!|10b38ed4180a951fc5c03e78c5ced766(*)Creative Story-Line Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1370452138(*)7ab118a6540881945675d33dc9a5d8ab(*)1370460261(*)<p>Using a random number generator&commasepar; the Story-Line queue was determined as follows:</p>
+<div align=\"center\">&nbsp;</div>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>Time</strong></td>
+<td><strong>School</strong></td>
+</tr>
+<tr>
+<td>7:30</td>
+<td>Ruston</td>
+</tr>
+<tr>
+<td>7:45</td>
+<td>El Dorado</td>
+</tr>
+<tr>
+<td>8:00</td>
+<td>West Monroe</td>
+</tr>
+<tr>
+<td>8:15</td>
+<td>Catholic</td>
+</tr>
+<tr>
+<td>8:30</td>
+<td>BREAK</td>
+</tr>
+<tr>
+<td>8:40</td>
+<td>Benton</td>
+</tr>
+<tr>
+<td>8:55</td>
+<td>North Caddo</td>
+</tr>
+<tr>
+<td>9:10</td>
+<td>St. Joseph\'s</td>
+</tr>
+<tr>
+<td>9:25</td>
+<td>NOMMA</td>
+</tr>
+</tbody>
+</table>
+<p>Presentations will be held in GTM 105 in Saturday morning. Teachers&commasepar; parents&commasepar; and other guests can watch their students present their storylines. However to keep the presentation process fair&commasepar; opposing teams are NOT allowed to view each other&rsquo;s\' presentations.&nbsp;</p>
+<p>If you are using some sort of computer file for your presentations&commasepar; please bring your file to GTM 105 (the Auditorium) at&nbsp;<strong>7:00AM</strong>&nbsp;to upload on the computer being used for presentations. You will<strong>&nbsp;NOT</strong>&nbsp;be using your own computers for presentations. Allowable movie file types are: any quicktime supported file and .wmv (windows media player files).</p>
+<p>Remember each team will have ten minutes (6-7 minute presentation with 3-4 minutes for questions) for the presentation of their storyline.</p>
+<p><span style=\"text-decoration: underline;\"><em><strong>ALL TEAMS&commasepar; please arrive at least 10 minutes prior to your scheduled presentation time!!!!!</strong></em></span></p>|!|3067f1a1066cdc20d3f923ae82db5eed(*)Auction Items(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370460472(*)7ab118a6540881945675d33dc9a5d8ab(*)1370535640(*)<p><strong>Auction Items</strong></p>
+<div align=\"center\">
+<table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p align=\"center\"><strong>Item</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>Picture</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>Description</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong># Avail.</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Boe-Bot Armor</p>
+</td>
+<td><img title=\"Boe-Bot Armor\" src=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/image001.png\" alt=\"Boe-Bot Armor\" width=\"250\" height=\"131\" /></td>
+<td>
+<p><span>Boe-Bot armor is designed with offense and defense in mind. The side shields will help fend off attackers and protect your bot from being flipped. For offense&commasepar; the armor is specially designed to help flip other bots.&nbsp;</span></p>
+</td>
+<td>
+<p align=\"center\">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Jaw</p>
+</td>
+<td>&nbsp;<img src=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/jaw_snip.JPG\" alt=\"\" width=\"285\" height=\"195\" /></td>
+<td>
+<p>The jaws provide the ability to corral and transport marbles. Additionally&commasepar; the jaws offer the extra ability of holding in the marbles after they are corralled. The jaws have added servos that lift the front bar up and down to hold in the marbles. This functionality is analogous to the children&rsquo;s game of hungry hungry hippos where the hippos&rsquo; jaws open and close to collect and hold in marbles.</p>
+</td>
+<td>
+<p align=\"center\">6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Tank Treads</p>
+</td>
+<td>
+<p>&nbsp;<img src=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/Tank_Snip.JPG\" alt=\"\" width=\"285\" height=\"191\" /></p>
+</td>
+<td>
+<p>Tank treads add a level of robustness and maneuverability to the BOE-Bots. Tank treads gives the BOE-Bot the ability to6traverse varying terrain.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td>
+<p align=\"center\">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Manila Folder &amp; Tape</p>
+</td>
+<td>
+<p>&nbsp;<img src=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/manillaFolderTape.jpg\" alt=\"\" width=\"265\" height=\"202\" /></p>
+</td>
+<td>
+<p>Those that purchase the manila folder and &amp; tape option can tap into their creativity to use these extremely durable materials to construct added attachments for their BOE-Bots.&nbsp;</p>
+</td>
+<td>
+<p align=\"center\">2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Permission to use Video in the Creative Storyline Challenge&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;<img class=\"hoverZoomLink\" src=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/Camera.jpg\" alt=\"\" width=\"250\" height=\"250\" /></p>
+</td>
+<td>
+<p>The creative storyline challenge provides teams the opportunity to use their creativity to represent the week of camp through various media (live action&commasepar; PowerPoint&commasepar; etc). Video capability is one such media teams could use. However&commasepar; only two teams will have permission to use video by purchasing that right in the auction. If permission to use video is purchased&commasepar; you will be given a digital camera that you can use for your video production.</p>
+</td>
+<td>
+<p align=\"center\">2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">20 Second Head Start&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;<img src=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/TwentySeconds.JPG\" alt=\"\" width=\"380\" height=\"162\" /></p>
+</td>
+<td>
+<p>The final BOE-Bot challenge is a six round competition where teams are competing to gather the most marbles in 5 minute rounds. Every second is crucial in collecting marbles. This auction item gives the team who purchases it a 20 second head start for one round. Six 20 second head starts will be available for purchase&commasepar; one for each round.</p>
+</td>
+<td>
+<p align=\"center\">6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Remote Control</p>
+</td>
+<td>&nbsp;<img src=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/Remote.jpg\" alt=\"\" width=\"300\" height=\"300\" /></td>
+<td>
+<p>The remote controller allows teams to maneuver the Boe-bot like a typical video game.</p>
+</td>
+<td>
+<p align=\"center\">2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Bulldozer</p>
+</td>
+<td>&nbsp;<img src=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/Bulldozer_snip.JPG\" alt=\"\" width=\"285\" height=\"194\" /></td>
+<td>
+<p>The bulldozer attachment provides the ability to corral and transport marbles. Teams will receive a bulldozer if they do not have a jaw.</p>
+</td>
+<td>
+<p align=\"center\">Default</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>|!|21feb67b0b5641eef12b0064b7c1742a(*)Order of Auction Items at Auction(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370460654(*)7ab118a6540881945675d33dc9a5d8ab(*)1370535771(*)<p>Below is the order that the items will be auctioned:</p>
+<table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td colspan=\"2\">
+<p align=\"center\"><strong>Auction Order</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>20 seconds Round 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Permission to video</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Manilla Folder</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Remote Control</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>20 seconds Round 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>20 seconds Round 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Manilla Folder</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>Boe-Bot Armor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>20 seconds Round 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>Permission to video</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>Tank kit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>20 seconds Round 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>Remote Control</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>Jaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>20 seconds Round 6</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>|!|4e95104d0f56139cf0abf226f25944ae(*)Thursday Itinerary(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370477602(*)7ab118a6540881945675d33dc9a5d8ab(*)1370548193(*)<p>8:00-9:00 Breakfast</p>
+<p>9:00-9:30 Movie Discussion (Mixed Small Groups)&nbsp;</p>
+<ul>
+<li>Group 1: Bogard Hall 303</li>
+<li>Group 2: Bogard Hall 314</li>
+<li>Group 3: Bogard Hall 328</li>
+<li>Group 4: GTM 307</li>
+<li>Group 5: GTM 313&nbsp;</li>
+<li>Group 6: GTM 323&nbsp;</li>
+</ul>
+<p><br /> <br /> 9:30-11:00 Hands-On-Lab (Full Group) - Bogard Hall 304<br /> &bull; Topic: Boe-Bot Activity 3 (explore challenges)<br /> <br /> 11:00-11:15 Break<br /> <br /> 11:15-12:00 Cyber Policy and Ethics (Full Group) - Bogard Hall 304<br /> &bull; Theme: Cyber Operations<br /> <br /> 12:00-1:00 Lunch<br /> <br /> 1:00-1:45 Cyber Policy and Ethics Case Study (School Groups) - A Place of Your Choosing<br /> <br /> 1:45-2:00 Break<br /> <br /> 2:00-3:30 Hands-On-Lab (Full Group) - Bogard Hall 304<br /> &bull; Topic: Manipulations and Exploitations I<br /> <br /> 3:30-5:30 Team Time (School Groups) - A Place of Your Choosing<br /> <br /> 5:30-6:30 Dinner<br /> <br /> 6:30-8:30 Movie Time (Full Group)- GTM 105<br /> <br /> 9:00-10:00 Auction (GTM 105)</p>
+<p>10:00 - 11:00 Team Time (School Groups) - University Apartments<br /> <br /> 11:00 Lights out</p>|!|f681118802a51a73cffa956d51bdff19(*)Writing Assignment 1 – Results(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370477849(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370481459(*)<p>Click the link on West Monroe to view the top essay from writing assignment 1.</p>
+<div align=\"center\">
+<table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p align=\"center\"><strong>School</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\"><a href=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/Paper%201-7479b24d3aeb368f2d3c712f216362d0.docx\">West Monroe</a></p>
+</td>
+<td>
+<p align=\"center\">&nbsp;100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">El Dorado</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Benton</p>
+</td>
+<td>
+<p align=\"center\">&nbsp;80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">&nbsp;Catholic</p>
+</td>
+<td>
+<p align=\"center\">70&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Ruston&nbsp;</p>
+</td>
+<td>
+<p align=\"center\">70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">NOMMA</p>
+</td>
+<td>
+<p align=\"center\">50&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">&nbsp;North Caddo</p>
+</td>
+<td>
+<p align=\"center\">40&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">&nbsp;St. Joseph\'s&nbsp;</p>
+</td>
+<td>
+<p align=\"center\">30&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div align=\"center\">&nbsp;</div>
+<div align=\"center\">&nbsp;</div>|!|a283fc9ccee6eb6f4f9b0be02b3e4363(*)Current Points Distribution(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370478852(*)d259eb37bc4b04d541b63122d52e40e9(*)1370490931(*)<p>The following table outlines the current points distribution after day 3 of the camp. This list includes BOE-bot Challenge 1&commasepar; Writing Assignment 1 as well as the latest scoring information Ferris (with the crypto-treasure hunt) has provided.&nbsp;</p>
+<div align=\"center\">
+<table border=\"1\" cellspacing=\"3\" cellpadding=\"0\">
+<tbody>
+<tr>
+<td>
+<p align=\"center\"><strong>School</strong></p>
+</td>
+<td>
+<p align=\"center\"><strong>Points</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">West Monroe</p>
+</td>
+<td>
+<p align=\"center\">313</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Catholic</p>
+</td>
+<td>
+<p align=\"center\">302</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">El Dorado</p>
+</td>
+<td>
+<p align=\"center\">281</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">St. Joseph&rsquo;s</p>
+</td>
+<td>
+<p align=\"center\">279</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Benton</p>
+</td>
+<td>
+<p align=\"center\">276</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">North Caddo</p>
+</td>
+<td>
+<p align=\"center\">241</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">NOMMA</p>
+</td>
+<td>
+<p align=\"center\">207</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align=\"center\">Ruston</p>
+</td>
+<td>
+<p align=\"center\">173</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>All the teams are doing a great job...and remember there are still plenty of points up for grabs with the crypto-treasure hunt and the remainder of the week\'s activities!!!</p>|!|c67d2267d4dbae6a361968aa95d6b9bd(*)Survey 2(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370478881(*)(*)(*)<p>It\'s that time again...surveys!! Teachers and students&commasepar; both&commasepar; please fill out&nbsp;<a title=\"Survey 2\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_cBEYqZ2FhI6FOAs\" target=\"_blank\">survey 2</a>&nbsp;by 9:00 AM tomorrow (Thursday) morning!&nbsp;</p>|!|59e2dcfa7f93d71e001bd5675c73f643(*)Day 2 Video(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370479866(*)(*)(*)<p>Click this link to see the&nbsp;<a title=\"Day 3 Video\" href=\"http://youtu.be/qLc07tHpxZ8\" target=\"_blank\">video</a>&nbsp;for Day 3 of Cyber Discovery Camp.</p>
+<p>Also&commasepar; check out the National Integrated Cyber Education Research Center\'s (NICERC) website (<a href=\"http://www.nicerc.org/\" target=\"_blank\">www.nicerc.org</a>)&nbsp;to see photos of Cyber Discovery Camp as well as other NICERC programs.</p>
+<p>Stay connected with&nbsp;Cyber Discovery Camp and&nbsp;NICERC activities with our social media sites. Like us on&nbsp;<a title=\"Facebook NICERC\" href=\"http://www.facebook.com/CIC.NICERC\" target=\"_blank\">facebook</a>&nbsp;and follow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://www.twitter.com/CIC_NICERC\" target=\"_blank\">twitter</a>!</p>|!|8da9b4a39f971e9d89b9b4fb8f727aee(*)Ferris Wheeler\'s Blog(*)d259eb37bc4b04d541b63122d52e40e9(*)1370491223(*)(*)(*)<p>Teams&commasepar;</p>
+<p>Again&commasepar; please make sure that you regularly check out <a href=\"http://ferriswheelerabc.blogspot.com/\" target=\"_blank\">Agent Ferris Wheeler\'s blog</a>. &nbsp;He has informed us that he will be posting some important clues very soon.</p>|!|e0bf4654a462fd6fd6af8b9ac173bedc(*)Wireless Sample Code(*)7ab118a6540881945675d33dc9a5d8ab(*)1370529754(*)(*)(*)<p>Here are 2 files that can be used as a starting point for wireless communication. One bot should be programmed with the receiver code. This bot will be able to roam around on its own (not tethered to the USB). The 2nd bot should be programmed with the transmitter code and will stay connected to the computer via USB.</p>
+<p>NOTE: You will need to set your channel in both of the programs. Each team is assigned a channel that is three characters &nbsp;( a dollar sign&commasepar; a &nbsp;number&commasepar; and a letter or a number)</p>
+<p><a title=\"Reciever\" href=\"camps/a0dcb6c0318587d9d51a687ff873ca56/blog_uploads/reciever.bs2\" target=\"_blank\">Receiver</a></p>
+<p><a title=\"Transmitter\" href=\"camps/a0dcb6c0318587d9d51a687ff873ca56/blog_uploads/transmitter.bs2\" target=\"_blank\">Transmitter</a></p>|!|724ed330e266c9f5321c65382b240b56(*)Boe-Bot Challenge 2(*)7ab118a6540881945675d33dc9a5d8ab(*)1370533241(*)7ab118a6540881945675d33dc9a5d8ab(*)1370533739(*)<p>The Golf Challenge Results are:</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td style=\"text-align: left;\"><strong>Team</strong></td>
+<td style=\"text-align: center;\"><strong>Score</strong></td>
+<td style=\"text-align: right;\"><strong>Points</strong></td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">El Dorado</td>
+<td style=\"text-align: center;\">47&nbsp;</td>
+<td style=\"text-align: right;\">100&nbsp;</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">Catholic</td>
+<td style=\"text-align: center;\">36&nbsp;</td>
+<td style=\"text-align: right;\">90&nbsp;</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">West Monroe</td>
+<td style=\"text-align: center;\">29&nbsp;</td>
+<td style=\"text-align: right;\">80&nbsp;</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">St. Joseph\'s&nbsp;</td>
+<td style=\"text-align: center;\">24&nbsp;</td>
+<td style=\"text-align: right;\">70&nbsp;</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">NOMMA</td>
+<td style=\"text-align: center;\">21&nbsp;</td>
+<td style=\"text-align: right;\">60&nbsp;</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">North Caddo</td>
+<td style=\"text-align: center;\">19&nbsp;</td>
+<td style=\"text-align: right;\">50&nbsp;</td>
+</tr>
+<tr>
+<td>Benton&nbsp;</td>
+<td style=\"text-align: center;\">18&nbsp;</td>
+<td style=\"text-align: right;\">40&nbsp;</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">Ruston&nbsp;</td>
+<td style=\"text-align: center;\">8&nbsp;</td>
+<td style=\"text-align: right;\">30&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|d272b77724f707f4a89cd85473669ad8(*)Boe-Bot Challenge 3 - Queue(*)7ab118a6540881945675d33dc9a5d8ab(*)1370534403(*)7ab118a6540881945675d33dc9a5d8ab(*)1370534667(*)<p>The teams for BOE-Bot Challenge 3 (Soccer) are:</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>Team</strong></td>
+<td><strong>Schools</strong></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><strong>A</strong></td>
+<td style=\"text-align: left;\">Catholic/St. Joseph\'s</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><strong>B</strong></td>
+<td style=\"text-align: left;\">West Monroe/Ruston</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><strong>C</strong></td>
+<td style=\"text-align: left;\">El Dorado/NOMMA</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\"><strong>D</strong></td>
+<td style=\"text-align: left;\">North Caddo/Benton</td>
+</tr>
+</tbody>
+</table>
+<p>The order that each team will compete is:</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td style=\"text-align: center;\"><strong>Game</strong></td>
+<td style=\"text-align: center;\"><strong>Match-Up</strong></td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">1</td>
+<td style=\"text-align: center;\">A vs B</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">2</td>
+<td style=\"text-align: center;\">C vs D</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">3</td>
+<td style=\"text-align: center;\">A vs D</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">4</td>
+<td style=\"text-align: center;\">B vs C</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">5</td>
+<td style=\"text-align: center;\">A vs C</td>
+</tr>
+<tr>
+<td style=\"text-align: center;\">6</td>
+<td style=\"text-align: center;\">B vs D</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;The queue was determined based on the result of Challenge 2&commasepar; the golf challenge.</p>
+<p>&nbsp;</p>|!|811e3e88c75f40e807767c21851cb4a7(*)New Auction Item(*)7ab118a6540881945675d33dc9a5d8ab(*)1370535880(*)7ab118a6540881945675d33dc9a5d8ab(*)1370535954(*)<p><span>A new auction item has been added to tonight&rsquo;s auction queue. Check out the auction item&commasepar;<span class=\"apple-converted-space\">&nbsp;</span></span><strong><span style=\"text-decoration: underline;\"><span>Boe-Bot Armor</span></span></strong>&commasepar; in the post describing all the items up for bidding! It has also been added to the auction queue as item number 11.</p>|!|4f33ff302fa51f50c83697256c976364(*)Crypto Treasure Hunt - FOUND!(*)7ab118a6540881945675d33dc9a5d8ab(*)1370555018(*)d259eb37bc4b04d541b63122d52e40e9(*)1370564514(*)<p>***UPDATE***</p>
+<p>Congratulations teams!</p>
+<p>The ZIP drive has been found. &nbsp;I am told that there was some treasure also contained within the package. &nbsp;At this time&commasepar; we do not know what is on the drive&commasepar; however we will continue to check it out.</p>
+<p>Please continue to email me with passwords if you have them. &nbsp;I will be sending out emails to each of you with missing passwords in case you forgot to email them to me. &nbsp;Points will still be awarded to teams if they submit new passwords.</p>
+<p>GREAT JOB!</p>
+<p>--Ferris</p>|!|e56af51485447d07ca0a7b4ee0fb8a92(*)Cyber Fort Design(*)d259eb37bc4b04d541b63122d52e40e9(*)1370556571(*)(*)(*)<p>***UPDATE***</p>
+<p>Please submit your Cyber Fort designs ASAP as the time to submit them has passed.</p>|!|e8097811b931556d762e185a80734be0(*)Crypto Treasure Hunt - Missing Passwords(*)d259eb37bc4b04d541b63122d52e40e9(*)1370564273(*)d259eb37bc4b04d541b63122d52e40e9(*)1370564499(*)<p>***UPDATE***</p>
+<p>I am missing the following passwords from the following teams. &nbsp;Please send them along (or not). &nbsp;Please make sure that your passwords are spelled correctly and that they can be (or have been) directly used to decipher a clue. &nbsp;For example&commasepar; do not say that Max went to the Netherlands. &nbsp;Instead&commasepar; mention that NETHERLANDS was a password that you obtained. &nbsp;Please send these to me ASAP.</p>
+<p>Team 1:<br />(1) The password that decodes the message at the bottom of the first document obtained from the wireless server</p>
+<p>Team 2:<br />Have them all!</p>
+<p>Team 3:<br />Have them all!</p>
+<p>Team 4:<br />(1) The wireless network password<br />(2) The password that opens the final treasure map</p>
+<p>Team 5:<br />(1) The password that decodes the message at the bottom of the first document obtained from the wireless server<br />(2) The password that opens the final treasure map</p>
+<p>Team 6:<br />(1) The wireless network password<br />(2) The password that opens the final treasure map</p>
+<p>Team 7:<br />(1) The password that decodes the message at the bottom of the first document obtained from the wireless server<br />(2) The password that opens the final treasure map</p>
+<p>Team 8:<br />Have them all!</p>
+<p>--Ferris</p>|!|862b733b43f0fbd8d8064f42bf5823fa(*)Writing Assignment 2 Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1370565264(*)7ab118a6540881945675d33dc9a5d8ab(*)1370565805(*)<p><span>Click the link on NOMMA&nbsp;to reference the top essay from writing assignment 2.</span></p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style=\"text-align: right;\"><strong>Points</strong></td>
+</tr>
+<tr>
+<td><a title=\"Essay 2 NOMMA\" href=\"camps/84bc95f89a1c91f59785b32c7a340a0a/blog_uploads/NOMMAEssay2.docx\" target=\"_blank\">NOMMA</a></td>
+<td style=\"text-align: right;\">100</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td style=\"text-align: right;\">90</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td style=\"text-align: right;\">80</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style=\"text-align: right;\">65</td>
+</tr>
+<tr>
+<td>Benton</td>
+<td style=\"text-align: right;\">65</td>
+</tr>
+<tr>
+<td>St. Joseph\'s</td>
+<td style=\"text-align: right;\">45</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style=\"text-align: right;\">45</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td style=\"text-align: right;\">30</td>
+</tr>
+</tbody>
+</table>|!|a20260d7deb5b6badd15ffea863a2ac2(*)Day 3 Video(*)7ab118a6540881945675d33dc9a5d8ab(*)1370565375(*)(*)(*)<p>Click this link to see the&nbsp;<a title=\"Day 3 Video\" href=\"http://youtu.be/rBJ9zzwLqN8\" target=\"_blank\">video</a>&nbsp;for Day 3 of Cyber Discovery Camp.</p>
+<p>Also&commasepar; check out the National Integrated Cyber Education Research Center\'s (NICERC) website (<a href=\"http://www.nicerc.org/\" target=\"_blank\">www.nicerc.org</a>)&nbsp;to see photos of Cyber Discovery Camp as well as other NICERC programs.</p>
+<p>Stay connected with&nbsp;Cyber Discovery Camp and&nbsp;NICERC activities with our social media sites. Like us on&nbsp;<a title=\"Facebook NICERC\" href=\"http://www.facebook.com/CIC.NICERC\" target=\"_blank\">facebook</a>&nbsp;and follow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://www.twitter.com/CIC_NICERC\" target=\"_blank\">twitter</a>!</p>|!|105cb1e4550479c1513020431145a67d(*)Friday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1370567755(*)7ab118a6540881945675d33dc9a5d8ab(*)1370567773(*)<p>8:00-9:00 Breakfast<br /> <br /> 9:00-9:30 Movie Discussion (Mixed Small Groups)&nbsp;<br /> <br /> 9:30-10:45 Hands-On-Lab (Full Group)&nbsp;<br /> Topic: Boe-Bot Activity (open-ended preparation for final challenge)&nbsp;<br /> <br /> 10:45-11:00 Break<br /> <br /> 11:00-12:00 Cyber Policy and Ethics (Full Group)&nbsp;<br /> <br /> Theme: Cyber Operations<br /> <br /> 12:00-1:00 Lunch<br /> <br /> 1:30 - 2:30 Boe-Bot Soccer World Cup - field in BH 305<br /> <br /> 2:30 - 3:30 Hands-On-Lab (Full Group)&nbsp;<br /> Open-ended preparation for final challenge<br /> <br /> 3:30-5:30 Team Time (School Groups) &nbsp;- Survey 3 assigned*<br /> <br /> 5:30-6:30 Dinner<br /> <br /> 6:30-8:00 Team Time (Small groups) - arena in Memorial Gym<br /> <br /> 9:00-11:00 Team Time (School Groups) - in rooms<br /> <br /> 11:00 Lights out</p>
+<p>&nbsp;</p>
+<p>*Please complete survey 3 before 9AM Saturday Morning. Survey 3 will be released on the blog Friday during team time.</p>|!|c6b1e46bb760e5996ac444d5bfd87d0c(*)Current Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1370567838(*)7ab118a6540881945675d33dc9a5d8ab(*)1370568188(*)<p><span>As of 8:20PM (Thursday Evening) the current points distribution is as follows:</span></p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Benton</td>
+<td style=\"text-align: right;\">455&nbsp;</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style=\"text-align: right;\">488&nbsp;</td>
+</tr>
+<tr>
+<td>NOMMA&nbsp;</td>
+<td style=\"text-align: right;\">457&nbsp;</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td style=\"text-align: right;\">371&nbsp;</td>
+</tr>
+<tr>
+<td>Ruston&nbsp;</td>
+<td style=\"text-align: right;\">490&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic&nbsp;</td>
+<td style=\"text-align: right;\">520&nbsp;</td>
+</tr>
+<tr>
+<td>West Monroe&nbsp;</td>
+<td style=\"text-align: right;\">529&nbsp;</td>
+</tr>
+<tr>
+<td>St. Joseph\'s&nbsp;</td>
+<td style=\"text-align: right;\">462&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|cd0c05c729ad2f7664f89df6294b75fb(*)Standard Servo Basics – Using the Jaws(*)7ab118a6540881945675d33dc9a5d8ab(*)1370567888(*)aec5ef67a62ceb6df672c06b7511206f(*)1370573912(*)<p>If you bought jaws from the auction you will need this extra bit of information to help with your jaw program. The jaws use a standard servo&commasepar; where the servos you have been using are continuous.</p>
+<p>A standard servo operates in a similar manner to a Continuous Servo with one major difference. When sent a pulse&commasepar; a standard servo will move to an absolute position where a continuous servo moves to a relative position. The range of pulse widths that are valid for a standard servo is 375 to 1125. Each pulse in this range corresponds to a position between 0 and 180 degrees. You can use the standard PULSOUT command to send pulses to the servo. It is often necessary to send multiple pulses of the same width in order for the servo to reach the desired position. A sample code snippet is shown below.</p>
+<p>Pulses VAR Byte</p>
+<p>Keystroke VAR Word</p>
+<p>IF Keystroke = \"q\" THEN</p>
+<p>&nbsp; GOSUB up</p>
+<p>ELSEIF Keystroke =\"z\" THEN</p>
+<p>&nbsp; GOSUB down</p>
+<p>ENDIF</p>
+<p>END</p>
+<p>&nbsp;</p>
+<p>up:</p>
+<p>FOR Pulses = 1 to 5</p>
+<p>&nbsp; PULSOUT 14&commasepar; 375 \'It is probably necessary to experiment with the exact pulse width</p>
+<p>NEXT</p>
+<p>RETURN</p>
+<p>&nbsp;</p>
+<p>down:</p>
+<p>FOR Pulses = 1 to 5</p>
+<p>&nbsp; PULSOUT 14&commasepar; 1125 \'It is probably necessary to experiment with the exact pulse width</p>
+<p>NEXT</p>
+<p>RETURN</p>|!|2463b5db7c8f08393b7ba7a54b360646(*)Final Survey(*)7ab118a6540881945675d33dc9a5d8ab(*)1370621901(*)7ab118a6540881945675d33dc9a5d8ab(*)1370621983(*)<p>It\'s time for the <a title=\"Survey 3\" href=\"https://us1.us.qualtrics.com/SE/?SID=SV_eP4PKMFWb0Vnmcs\" target=\"_blank\"><span style=\"text-decoration: underline;\">final survey</span></a>!! Teachers and students please complete the final survey by Saturday morning!!</p>|!|4539f8b97bf750a70b171c054a8a5305(*)Saturday Itinerary(*)7ab118a6540881945675d33dc9a5d8ab(*)1370632937(*)(*)(*)<p>Title: <strong>Saturday Itinerary</strong><em></em></p>
+<p>7:00 &ndash; All teams that are using some sort of media file for their storyline presentations must report to GTM 105 with their files ready on their USB drives (movie files should be of type .wmv or QuickTime).<br /> <br /> 7:30 - 9:45 -- Story-Line Presentations &ndash; GTM 105 (Auditorium)<br /> Each team will present a 6-7 minute storyline. <span style=\"text-decoration: underline;\"><strong>Please arrive at least 10 minutes prior to your start time.</strong></span></p>
+<p><br /> 10:00 - 11:30 -- Final Cyber Challenge<br /> <br /> 11:30 -- Lunch and Presentations - Tolliver Hall<br /> <br /> 12:30-1:00 &ndash; Teacher debriefing &amp; Supply Return - Tolliver Hall<br /> <br /> 1:30 - 3:00 Check-out - Women\'s Center*<br /> <br /> *All teams must return supplies at the return desk in Tolliver Hall&commasepar; then proceed to clean their rooms while the teachers are at the debriefing. Once all supplies are returned and the teams&rsquo; teachers are with the students&commasepar; the teams can check out of the apartments with housing at the Women&rsquo;s Center.</p>|!|3a1d02f2a62c715a2d360bbe73863f7b(*)Boe-Bot Challenge 3 - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1370633425(*)(*)(*)<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>Team</strong></td>
+<td style=\"text-align: right;\"><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Catholic/St. Joseph\'s</td>
+<td style=\"text-align: right;\">95&nbsp;</td>
+</tr>
+<tr>
+<td>El Dorado/NOMMA</td>
+<td style=\"text-align: right;\">75&nbsp;</td>
+</tr>
+<tr>
+<td>West Monroe/Ruston</td>
+<td style=\"text-align: right;\">55&nbsp;</td>
+</tr>
+<tr>
+<td>North Caddo/Benton</td>
+<td style=\"text-align: right;\">35&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|36f2b5afebe6b8e1e3a424484d0dba5a(*)Writing Assignment 3 Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1370642513(*)7ab118a6540881945675d33dc9a5d8ab(*)1370643016(*)<table border=\"1\">
+<tbody>
+<tr><th style=\"text-align: left;\">Team</th><th>Score</th></tr>
+<tr>
+<td>Catholic High School</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Benton High School</td>
+<td>90</td>
+</tr>
+<tr>
+<td>St. Joseph\'s Academy</td>
+<td>80</td>
+</tr>
+<tr>
+<td>West Monroe High School</td>
+<td>70</td>
+</tr>
+<tr>
+<td>El Dorado High School</td>
+<td>60</td>
+</tr>
+<tr>
+<td>New Orleans Maritime Military Academy</td>
+<td>45</td>
+</tr>
+<tr>
+<td>North Caddo High School</td>
+<td>45</td>
+</tr>
+<tr>
+<td>Ruston High School</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>|!|0f2768747b65d280b7b929593c1b29b3(*)Current Points Distribution(*)7ab118a6540881945675d33dc9a5d8ab(*)1370642818(*)19f6eaa727685f6c13c84c8c6cf68df7(*)1370649841(*)<p>As of 5:05PM (6/7/2013)&commasepar; the current points distribution is:</p>
+<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style=\"text-align: right;\"><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Benton</td>
+<td style=\"text-align: right;\">354</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style=\"text-align: right;\">388</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td style=\"text-align: right;\">391</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">North Caddo</td>
+<td style=\"text-align: right;\">181</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">Ruston</td>
+<td style=\"text-align: right;\">219</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td style=\"text-align: right;\">355</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td style=\"text-align: right;\">394</td>
+</tr>
+<tr>
+<td>St. Joseph\'s</td>
+<td style=\"text-align: right;\">383</td>
+</tr>
+</tbody>
+</table>|!|070c12a8554d40711b5a7d00437ca920(*)Day 4 Video(*)7ab118a6540881945675d33dc9a5d8ab(*)1370649872(*)7ab118a6540881945675d33dc9a5d8ab(*)1370655758(*)<p>Click this link to see the <a title=\"Day 4 Video\" href=\"http://youtu.be/dE0qQwncQGQ\">video</a> for&nbsp;Day 4 of Cyber Discovery Camp.</p>
+<p><span>Also&commasepar; check out the National Integrated Cyber Education Research Center\'s (NICERC) website (<a href=\"http://www.nicerc.org/\" target=\"_blank\">www.nicerc.org</a>)&nbsp;to see photos of Cyber Discovery Camp as well as other NICERC programs.</span></p>
+<p><span>Stay connected with&nbsp;Cyber Discovery Camp and&nbsp;NICERC activities with our social media sites. Like us on&nbsp;<a title=\"Facebook NICERC\" href=\"http://www.facebook.com/CIC.NICERC\" target=\"_blank\">facebook</a>&nbsp;and follow us on&nbsp;<a title=\"NICERC Twitter\" href=\"http://www.twitter.com/CIC_NICERC\" target=\"_blank\">twitter</a>!</span></p>|!|4472c9d7adead1b4dae364b009e16f42(*)Writing Assignment 4 Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1370705590(*)(*)(*)<table border=\"1\">
+<tbody>
+<tr><th style=\"text-align: left;\">School</th><th style=\"text-align: right;\">Score</th></tr>
+<tr>
+<td>Catholic High School</td>
+<td style=\"text-align: right;\">100</td>
+</tr>
+<tr>
+<td>West Monroe High School</td>
+<td style=\"text-align: right;\">90</td>
+</tr>
+<tr>
+<td>El Dorado High School</td>
+<td style=\"text-align: right;\">80</td>
+</tr>
+<tr>
+<td>North Caddo High School</td>
+<td style=\"text-align: right;\">65</td>
+</tr>
+<tr>
+<td>Benton High School</td>
+<td style=\"text-align: right;\">65</td>
+</tr>
+<tr>
+<td>St. Josephs Academy</td>
+<td style=\"text-align: right;\">50</td>
+</tr>
+<tr>
+<td>New Orleans Maritime Military Academy</td>
+<td style=\"text-align: right;\">40</td>
+</tr>
+<tr>
+<td>Ruston High School</td>
+<td style=\"text-align: right;\">30</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>|!|078944d53c274779cf08a2e96d4e061c(*)Creative Story line - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1370708303(*)(*)(*)<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style=\"text-align: right;\"><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style=\"text-align: right;\">400&nbsp;</td>
+</tr>
+<tr>
+<td>Benton&nbsp;</td>
+<td style=\"text-align: right;\">360&nbsp;</td>
+</tr>
+<tr>
+<td>St. Joseph\'s</td>
+<td style=\"text-align: right;\">320&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic&nbsp;</td>
+<td style=\"text-align: right;\">280&nbsp;</td>
+</tr>
+<tr>
+<td>NOMMA&nbsp;</td>
+<td style=\"text-align: right;\">240&nbsp;</td>
+</tr>
+<tr>
+<td>West Monroe&nbsp;</td>
+<td style=\"text-align: right;\">200&nbsp;</td>
+</tr>
+<tr>
+<td>North Caddo&nbsp;</td>
+<td style=\"text-align: right;\">160&nbsp;</td>
+</tr>
+<tr>
+<td>El Dorado&nbsp;</td>
+<td style=\"text-align: right;\">120&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|b86d813ee688a0c82d32e2c85e683c51(*)Cyber Fort - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1370708506(*)(*)(*)<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td><strong>Points</strong></td>
+</tr>
+<tr>
+<td>St. Joseph\'s</td>
+<td style=\"text-align: right;\">100&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td style=\"text-align: right;\">90&nbsp;</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">West Monroe</td>
+<td style=\"text-align: right;\">80&nbsp;</td>
+</tr>
+<tr>
+<td>Benton</td>
+<td style=\"text-align: right;\">70&nbsp;</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style=\"text-align: right;\">60&nbsp;</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td style=\"text-align: right;\">50&nbsp;</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td style=\"text-align: right;\">40&nbsp;</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style=\"text-align: right;\">30&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|82c7eb3da0694f7eb028fb2b1ecdde70(*)Final Boe-Bot Challenge - Results(*)7ab118a6540881945675d33dc9a5d8ab(*)1370711861(*)(*)(*)<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style=\"text-align: right;\"><strong>Points</strong></td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style=\"text-align: right;\">540&nbsp;</td>
+</tr>
+<tr>
+<td>West Monroe</td>
+<td style=\"text-align: right;\">465&nbsp;</td>
+</tr>
+<tr>
+<td>North Caddo</td>
+<td style=\"text-align: right;\">450&nbsp;</td>
+</tr>
+<tr>
+<td>Benton</td>
+<td style=\"text-align: right;\">435&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic</td>
+<td style=\"text-align: right;\">410&nbsp;</td>
+</tr>
+<tr>
+<td>Ruston</td>
+<td style=\"text-align: right;\">280&nbsp;</td>
+</tr>
+<tr>
+<td>St. Joseph\'s</td>
+<td style=\"text-align: right;\">280&nbsp;</td>
+</tr>
+<tr>
+<td>NOMMA</td>
+<td style=\"text-align: right;\">260&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|66e1b903db70b01d5ff727e4c60fcc72(*)Overall Scores(*)7ab118a6540881945675d33dc9a5d8ab(*)1370712026(*)(*)(*)<table border=\"2\" align=\"center\">
+<tbody>
+<tr>
+<td><strong>School</strong></td>
+<td style=\"text-align: right;\"><strong>Points</strong></td>
+</tr>
+<tr>
+<td>Benton</td>
+<td style=\"text-align: right;\">1284&nbsp;</td>
+</tr>
+<tr>
+<td>El Dorado</td>
+<td style=\"text-align: right;\">1188&nbsp;</td>
+</tr>
+<tr>
+<td>NOMMA&nbsp;</td>
+<td style=\"text-align: right;\">981&nbsp;</td>
+</tr>
+<tr>
+<td>North Caddo&nbsp;</td>
+<td style=\"text-align: right;\">896&nbsp;</td>
+</tr>
+<tr>
+<td>Ruston&nbsp;</td>
+<td style=\"text-align: right;\">959&nbsp;</td>
+</tr>
+<tr>
+<td>Catholic&nbsp;</td>
+<td style=\"text-align: right;\">1235&nbsp;</td>
+</tr>
+<tr>
+<td>West Monroe&nbsp;</td>
+<td style=\"text-align: right;\">1229&nbsp;</td>
+</tr>
+<tr>
+<td>St. Joseph\'s</td>
+<td style=\"text-align: right;\">1133&nbsp;</td>
+</tr>
+</tbody>
+</table>|!|

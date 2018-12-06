@@ -1,0 +1,300 @@
+a {
+	color:#0193cf;
+}
+
+#header_bg{
+     background-color:#FAA634;
+     height:200px;
+     padding:0px;
+     margin:0px;
+     width:100%;
+     border:none;
+     position:absolute;
+     top:0px;
+     z-index:1;
+}
+
+#line_bg{
+     background-color:#F89C1A;
+     height:20px;
+     padding:0px;
+     margin:0px;
+     width:100%;
+     border:none;
+     position:absolute;
+     top:200px;
+     z-index:1;
+}
+
+#underline_bg{
+     background-color:#333333;
+     height:2px;
+     padding:0px;
+     margin:0px;
+     width:100%;
+     border:none;
+     position:absolute;
+     top:220px;
+     z-index:1;
+}
+
+body{
+     font-family: arial, san-serif;
+     background-color:#0193CF;
+     padding:0px;
+     margin:0px;
+     width:100%;
+     border:none;
+}
+
+#page{
+     margin:0px auto;
+     width:1000px;
+     position:relative;
+}
+
+#wrapper{
+     z-index:200;
+     position:absolute;
+     top:0px;
+     width:1000px;
+}
+
+#header{
+     height:222px;
+}
+
+h1{
+     color:#FFF;
+     font-size:70px;
+     font-family: Impact, Charcoal, sans-serif;
+     padding:0px;
+     margin:0px;
+}
+
+#content{
+     background-color:#FFF;
+     border:none;
+     -moz-border-radius: 20px;
+     -webkit-border-radius: 20px;
+     border-radius: 20px;
+     -moz-box-shadow: 0px 9px 11px #000000;
+     -webkit-box-shadow: 0px 9px 11px #000000;
+     box-shadow: 0px 9px 11px #000000;
+     min-height:400px;
+     padding:4px;
+     position:relative;
+     top:-20px;
+}
+
+#nav{
+    /* width:450px; */
+	display: inline;
+	color:#FFF;
+	background-color:#555555;
+	border:none;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	position:relative;
+	top:-18px;
+	padding:4px 20px;
+}
+
+#nav a{
+     color:#FFF;
+     text-decoration:none;
+     padding:4px;
+}
+
+#nav a:hover{
+     color:#FAA634;
+     text-decoration:none;
+}
+
+.fright{
+	float:right;
+}
+
+/* -----------------------------------------Admin Bar---------------------------------------------------*/
+#adminsection {
+	height:18px;
+	position:fixed;
+	top:0px;
+	left:5%;
+	width:90%;
+	background-color:#DDD;
+	color:#000;
+	padding:5px;
+	margin:0px;
+	border:1px;
+	border-style:solid;
+	border-color:#444;
+}
+
+#adminsection a {
+	color:#000;
+}
+
+.adminbutton a {
+	color:#000;
+	text-decoration:none;
+	background-color:#EEE;
+	padding:3px;
+	margin:0px;
+	border:1px;
+	border-style:solid;
+	border-color:#FFF;
+}
+
+.adminbutton a:hover {
+	background-color:#CCC;
+}
+
+/* -----------------------------------------Blog Section----------------------------------------------------*/
+#blogcolumn{
+    padding:10px;
+    width:700px;
+    float:left;
+    border-style:dashed;
+    border-width: 0px 2px 0px 0px;
+    border-color:#96BDCC;
+}
+
+.blogpost {
+	border:1px;
+	border-style:solid;
+	border-color:#FAA634;
+	margin:5px;
+	padding:5px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+	background-color:#FEF8EF;
+}
+
+.blogpostTitle {
+	font-size:24px;
+	font-weight:bold;
+}
+
+.blogpostAuthor {
+	margin-left:10px;
+	margin-bottom:10px;
+	font-size:12px;
+	font-style:italic;
+}
+
+.blogpostUpdate {
+	color:#0193cf;
+	margin-left:10px;
+	margin-bottom:10px;
+	font-size:12px;
+	font-style:italic;
+}
+
+.editpost {
+	background-color:#DDD;
+	border:1px;
+	border-style:solid;
+	border-color:#0193cf;
+	margin:5px;
+	padding:5px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.hoverpost {
+	background-color:#EEE;
+	border:1px;
+	border-style:solid;
+	border-color:#0193cf;
+	margin:5px;
+	padding:5px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+	cursor:pointer;
+}
+
+.deleteblogbutton {
+	float:right;
+	background-color:#F00;
+	color:#FFF;
+	border:1px;
+	border-color:#FFF;
+	border-style:solid;
+	font-weight:bold;
+	padding:0px 3px 0px 3px;
+	cursor:pointer;
+}
+
+#infocolumn {
+	padding:10px;
+	width:250px;
+	float:left;
+}
+
+.pagenav {
+	float:right;
+	color:#BBB;
+}
+.pagenav a{
+	text-decoration:none;
+	color:black;
+}
+
+/* -----------------------------------------Admin Section---------------------------------------------------*/
+#masternav{
+	margin-bottom:10px;
+}
+
+#masternav a{
+	text-decoration:none;
+	color:black;
+	padding:5px 3px 5px 3px;
+	background-color:#AAA;
+}
+
+#masternav a:hover{
+	background-color:#CCC;
+}
+
+/*-----------------------------------------------------------------------------------------------------------*/
+
+.upload_box {
+	background-color:#DDD;
+	border:1px;
+	border-style:solid;
+	border-color:#0193cf;
+	margin:5px;
+	padding:5px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* -----------------------------------------Submission Section---------------------------------------------------*/
+#selectorbox {
+	padding:10px;
+    border-style:dashed;
+    border-width: 0px 0px 2px 0px;
+    border-color:#96BDCC;
+}
+
+#rankpanel{
+	float:right;	
+}
+
+#scoringbox{
+	padding:10px;
+    border-style:dashed;
+    border-width: 2px 0px 0px 0px;
+    border-color:#96BDCC;	
+}
+/*-----------------------------------------------------------------------------------------------------------*/
